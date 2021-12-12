@@ -92,6 +92,7 @@ gen_select_species_ui <- function(scientific_id,
   tagList(
     div(
       class = "select-vernacular-name",
+      hr(),
       selectInput(
         inputId = vernacular_id,
         label = "Select a species",
@@ -101,7 +102,6 @@ gen_select_species_ui <- function(scientific_id,
     ),
     div(
       class = "select-scientific-name",
-      hr(),
       selectInput(
         inputId = scientific_id,
         label = "or select by scientific name",
