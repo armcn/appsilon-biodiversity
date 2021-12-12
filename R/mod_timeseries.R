@@ -14,13 +14,25 @@ mod_timeseries_server <- function(id, filtered_occurences) {
   moduleServer(id, \(input, output, session) {
     output$timeseries <- plotly::renderPlotly({
       req(is_non_empty_tbl(filtered_occurences()))
-      plot_timeseries(filtered_occurences())
+      filtered_occurences() |>
+        calc_daily_occurences() |>
+        plot_timeseries()
     })
   })
 }
 
-plot_timeseries <- function(filtered_occurences) {
+calc_daily_occurences <- function(filtered_occurences) {
   filtered_occurences |>
+    dplyr::group_by(date) |>
+    dplyr::summarise(
+      count = sum(count),
+      scientific_name = dplyr::first(scientific_name),
+      vernacular_name = dplyr::first(vernacular_name)
+    )
+}
+
+plot_timeseries <- function(daily_occurences) {
+  daily_occurences |>
     plotly::plot_ly() |>
     plotly::add_trace(
       type = "bar",
