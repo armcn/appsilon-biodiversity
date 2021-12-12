@@ -1,0 +1,724 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+United States,34.20413595,-118.1290897,Setophaga auduboni,Audubon's Warbler,2015-03-03,10
+United States,34.20405108,-118.12920106,Sialia mexicana,Western Bluebird,2015-03-03,2
+United States,34.20422374,-118.12907083,Dryobates nuttallii,Nuttall's Woodpecker,2015-03-03,1
+United States,34.18101617,-118.1367588,Accipiter cooperii,Cooper's Hawk,2015-03-03,1
+United States,29.6368445688,-99.1909643635,Aphelocoma woodhouseii texana,Woodhouse's Scrub Jay ssp texana,1999-04-12,1
+United States,29.6368445688,-99.1909643635,Pyrocephalus obscurus,Vermilion Flycatcher,1999-04-12,2
+United States,41.6034090766,-83.1153769791,Haliaeetus leucocephalus,Bald Eagle,2015-02-28,1
+United States,26.912593449,-99.2706853151,Sporophila morelleti,Morelet's Seedeater,1999-04-10,1
+United States,26.2262244035,-97.3479491472,Cyanocorax luxuosus,Green Jay,1999-04-03,1
+United States,29.6725684917,-96.2751352682,Circus hudsonius,Northern Harrier,1999-04-01,5
+United States,34.32633994,-118.00486033,Sphyrapicus thyroideus,Williamson's Sapsucker,2015-02-28,1
+United States,34.3266594,-118.00593685,Leuconotopicus albolarvatus,White-headed Woodpecker,2015-02-28,2
+United States,34.32665567,-118.00593365,Sitta carolinensis,White-breasted Nuthatch,2015-02-28,2
+United States,34.32812383,-118.00874996,Leuconotopicus albolarvatus,White-headed Woodpecker,2015-02-28,1
+United States,34.33175687,-118.0136611,Poecile gambeli,Mountain Chickadee,2015-02-28,3
+United States,34.345715,-117.91534491,Leuconotopicus albolarvatus,White-headed Woodpecker,2015-02-28,2
+United States,34.25854534,-118.10380967,Baeolophus inornatus,Oak Titmouse,2015-02-28,1
+United States,26.7223904177,-81.6934481263,Trichechus manatus,West Indian Manatee,1996-03-15,1
+United States,25.3822653173,-80.6088633835,Alligator mississippiensis,American Alligator,1996-03-04,1
+United States,35.09032891,-119.73524919,Spinus lawrencei,Lawrence's Goldfinch,2015-02-24,8
+United States,35.1462083,-119.78383752,Eremophila alpestris,Horned Lark,2015-02-24,2
+United States,35.14672643,-119.79205893,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.14829947,-119.79677261,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.15642966,-119.81374845,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.15917259,-119.81836045,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.1638237,-119.84505836,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.19366511,-119.85509548,Eremophila alpestris,Horned Lark,2015-02-24,1
+United States,35.42379383,-120.54672951,Aphelocoma californica,California Scrub Jay,2015-02-24,1
+United States,35.38870737,-120.58121952,Aphelocoma californica,California Scrub Jay,2015-02-24,1
+United States,35.38493547,-120.57594094,Pica nuttalli,Yellow-billed Magpie,2015-02-24,2
+United States,35.38626103,-120.617517,Pica nuttalli,Yellow-billed Magpie,2015-02-24,2
+United States,35.37128554,-120.86599207,Numenius americanus,Long-billed Curlew,2015-02-24,1
+United States,35.37128567,-120.86599188,Podiceps nigricollis,Black-necked Grebe,2015-02-24,20
+United States,35.37128571,-120.86599192,Melanitta perspicillata,Surf Scoter,2015-02-24,30
+United States,35.34831609,-120.84335671,Ardea herodias,Great Blue Heron,2015-02-24,1
+United States,35.34527775,-120.83970287,Podilymbus podiceps,Pied-billed Grebe,2015-02-24,4
+United States,35.34498095,-120.83974198,Calypte anna,Anna's Hummingbird,2015-02-24,2
+United States,35.3,-120.85,Branta bernicla nigricans,Black Brant,2015-02-24,16
+United States,35.34441783,-120.84245235,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-24,1
+United States,35.34495439,-120.84372533,Limosa fedoa,Marbled Godwit,2015-02-24,30
+United States,35.34495464,-120.84372557,Numenius americanus,Long-billed Curlew,2015-02-24,19
+United States,35.34495477,-120.84372579,Calidris minutilla,Least Sandpiper,2015-02-24,100
+United States,35.3449546,-120.84372592,Calypte anna,Anna's Hummingbird,2015-02-24,1
+United States,35.34495456,-120.84372595,Bucephala albeola,Bufflehead,2015-02-24,10
+United States,35.34495474,-120.84372633,Haemorhous mexicanus,House Finch,2015-02-24,4
+United States,35.34496068,-120.84373139,Egretta thula,Snowy Egret,2015-02-24,3
+United States,35.34496011,-120.84373166,Tringa semipalmata,Willet,2015-02-24,1
+United States,35.34500765,-120.8437944,Ardea alba,Great Egret,2015-02-24,1
+United States,35.3449809,-120.84375963,Hydroprogne caspia,Caspian Tern,2015-02-24,5
+United States,35.34492109,-120.84225005,Toxostoma redivivum,California Thrasher,2015-02-24,2
+United States,35.34490915,-120.84224534,Toxostoma redivivum,California Thrasher,2015-02-24,2
+United States,35.34490924,-120.84224419,Aythya affinis,Lesser Scaup,2015-02-24,3
+United States,35.34490925,-120.84224409,Bucephala albeola,Bufflehead,2015-02-24,3
+United States,35.34508214,-120.83975379,Spinus tristis,American Goldfinch,2015-02-24,1
+United States,35.27476495,-120.8822111,Callipepla californica,California Quail,2015-02-24,2
+United States,35.27552192,-120.88050891,Calypte anna,Anna's Hummingbird,2015-02-24,2
+United States,35.27462566,-120.88231358,Ixoreus naevius,Varied Thrush,2015-02-24,2
+United States,35.27462588,-120.88231686,Melozone crissalis,California Towhee,2015-02-24,1
+United States,35.3147082,-120.8331935,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-24,1
+United States,35.27535427,-120.88117656,Ixoreus naevius,Varied Thrush,2015-02-25,1
+United States,35.27552394,-120.88004234,Dryobates pubescens,Downy Woodpecker,2015-02-25,1
+United States,35.27548703,-120.87996111,Callipepla californica,California Quail,2015-02-25,1
+United States,35.27548683,-120.87996123,Passerella unalaschcensis,Sooty Fox Sparrow,2015-02-25,1
+United States,35.27548699,-120.87996151,Melozone crissalis,California Towhee,2015-02-25,1
+United States,35.27548699,-120.87996151,Callipepla californica,California Quail,2015-02-25,26
+United States,35.92078969,-121.46658954,Cathartes aura,Turkey Vulture,2015-02-25,8
+United States,36.16952224,-121.68497466,Cathartes aura,Turkey Vulture,2015-02-25,1
+United States,36.16952219,-121.6849745,Chamaea fasciata,Wrentit,2015-02-25,3
+United States,35.37128614,-120.86599231,Zonotrichia leucophrys,White-crowned Sparrow,2015-02-24,1
+United States,35.37128617,-120.86599235,Pelecanus occidentalis,Brown Pelican,2015-02-24,1
+United States,35.37127129,-120.86598386,Limosa fedoa,Marbled Godwit,2015-02-24,26
+United States,35.36947885,-120.86466545,Zonotrichia leucophrys,White-crowned Sparrow,2015-02-24,1
+United States,35.36947881,-120.86466514,Bucephala albeola,Bufflehead,2015-02-24,20
+United States,35.36947887,-120.86466501,Aythya affinis,Lesser Scaup,2015-02-24,8
+United States,35.36947882,-120.86466491,Mergus serrator,Red-breasted Merganser,2015-02-24,4
+United States,35.3694788,-120.86466454,Podiceps nigricollis,Black-necked Grebe,2015-02-24,15
+United States,35.36947863,-120.86466385,Melanitta perspicillata,Surf Scoter,2015-02-24,17
+United States,35.3675004,-120.86704517,Cathartes aura,Turkey Vulture,2015-02-24,4
+United States,35.36731619,-120.86871087,Tringa semipalmata,Willet,2015-02-24,1
+United States,35.36755116,-120.86654973,Falco peregrinus,Peregrine Falcon,2015-02-24,1
+United States,33.71608579,-118.31413233,Selasphorus sasin,Allen's Hummingbird,2015-02-26,1
+United States,33.71608461,-118.31413311,Sturnella neglecta,Western Meadowlark,2015-02-26,10
+United States,33.71606974,-118.31416594,Polioptila californica,California Gnatcatcher,2015-02-26,2
+United States,33.7149113,-118.3106055,Polioptila californica,California Gnatcatcher,2015-02-26,4
+United States,33.7149113,-118.3106055,Psaltriparus minimus,American Bushtit,2015-02-26,1
+United States,33.71459288,-118.31741437,Salpinctes obsoletus,Rock Wren,2015-02-26,1
+United States,33.71458989,-118.31740227,Calidris virgata,Surfbird,2015-02-26,1
+United States,36.15948911,-121.6696521,Gymnogyps californianus,California Condor,2015-02-25,3
+United States,35.68567985,-121.28689206,Cathartes aura,Turkey Vulture,2015-02-25,1
+United States,35.66803343,-121.27304935,Cathartes aura,Turkey Vulture,2015-02-25,1
+United States,35.66232823,-121.25617351,Larus occidentalis,Western Gull,2015-02-25,4
+United States,35.65,-121.3,Charadrius vociferus,Killdeer,2015-02-25,1
+United States,35.66345709,-121.25842818,Euphagus cyanocephalus,Brewer's Blackbird,2015-02-25,3
+United States,35.64007593,-121.17260165,Cathartes aura,Turkey Vulture,2015-02-25,4
+United States,35.63904561,-121.17058204,Larus occidentalis,Western Gull,2015-02-25,2
+United States,35.63565865,-121.16508834,Euphagus cyanocephalus,Brewer's Blackbird,2015-02-25,26
+United States,34.30847884,-118.07662429,Sialia mexicana,Western Bluebird,2015-02-27,4
+United States,33.71458989,-118.31740227,Arenaria melanocephala,Black Turnstone,2015-02-26,5
+United States,33.71458989,-118.31740227,Calidris virgata,Surfbird,2015-02-26,10
+United States,33.69664999,-118.04459543,Egretta rufescens,Reddish Egret,2015-02-26,1
+United States,33.69671613,-118.04465024,Charadrius semipalmatus,Semipalmated Plover,2015-02-26,6
+United States,33.69671613,-118.04465024,Calidris minutilla,Least Sandpiper,2015-02-26,100
+United States,33.69671613,-118.04465024,Limosa fedoa,Marbled Godwit,2015-02-26,20
+United States,33.69671613,-118.04465024,Aythya affinis,Lesser Scaup,2015-02-26,30
+United States,33.69671613,-118.04465024,Anas acuta,Northern Pintail,2015-02-26,7
+United States,33.69671613,-118.04465024,Egretta thula,Snowy Egret,2015-02-26,5
+United States,33.69671613,-118.04465024,Pelecanus erythrorhynchos,American White Pelican,2015-02-26,1
+United States,33.69671613,-118.04465024,Phalacrocorax auritus,Double-crested Cormorant,2015-02-26,10
+United States,33.69671613,-118.04465024,Numenius americanus,Long-billed Curlew,2015-02-26,9
+United States,33.69796715,-118.04465916,Arenaria interpres,Ruddy Turnstone,2015-02-26,5
+United States,33.69797066,-118.04465319,Mareca americana,American Wigeon,2015-02-26,6
+United States,33.70294286,-118.05154692,Spatula discors,Blue-winged Teal,2015-02-26,1
+United States,33.70295535,-118.05138746,Mareca americana,American Wigeon,2015-02-26,35
+United States,33.70390396,-118.05250718,Selasphorus sasin,Allen's Hummingbird,2015-02-26,1
+United States,33.70515388,-118.05079442,Bubo virginianus,Great Horned Owl,2015-02-26,4
+United States,33.70514525,-118.05081786,Calypte anna,Anna's Hummingbird,2015-02-26,3
+United States,33.70514525,-118.05081786,Selasphorus sasin,Allen's Hummingbird,2015-02-26,6
+United States,33.70514525,-118.05081786,Podiceps auritus,Horned Grebe,2015-02-26,1
+United States,33.69759229,-118.04460613,Egretta rufescens,Reddish Egret,2015-02-26,1
+United States,33.69746938,-118.04464505,Pluvialis squatarola,Grey Plover,2015-02-26,22
+United States,34.77891292,-118.11542848,Circus hudsonius,Northern Harrier,2015-02-27,6
+United States,34.86074211,-119.22799507,Passerella schistacea,Slate-colored Fox Sparrow,2015-02-23,1
+United States,25.6808204749,-80.2724862099,Anolis sagrei,Cuban Brown Anole,2015-02-17,7
+United States,25.6815246901,-80.2719283104,Sciurus carolinensis,Eastern Gray Squirrel,2015-02-17,20
+United States,25.6817571486,-80.2721428871,Mniotilta varia,Black-and-white Warbler,2015-02-17,1
+United States,25.6817571486,-80.2721428871,Setophaga palmarum,Palm Warbler,2015-02-17,3
+United States,25.6817571486,-80.2721428871,Setophaga dominica,Yellow-throated Warbler,2015-02-17,1
+United States,25.6817571486,-80.2721428871,Mimus polyglottos,Northern Mockingbird,2015-02-17,1
+United States,25.6817571486,-80.2721428871,Vireo solitarius,Blue-headed Vireo,2015-02-17,1
+United States,25.6811623275,-80.271858573,Cathartes aura,Turkey Vulture,2015-02-17,13
+United States,25.6817366376,-80.2717244625,Eudocimus albus,American White Ibis,2015-02-17,5
+United States,25.6816272454,-80.2715420723,Egretta caerulea,Little Blue Heron,2015-02-17,1
+United States,25.2820609791,-80.7997977734,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-16,2
+United States,25.282575141,-80.8008170128,Elanoides forficatus,Swallow-tailed Kite,2015-02-16,2
+United States,25.1860977349,-80.8933746815,Anas carolinensis,Green-winged Teal,2015-02-16,20
+United States,25.1864278353,-80.8932352066,Egretta caerulea,Little Blue Heron,2015-02-16,1
+United States,25.1862627852,-80.8933746815,Egretta tricolor,Tricolored Heron,2015-02-16,1
+United States,25.1865152147,-80.8936536312,Podilymbus podiceps,Pied-billed Grebe,2015-02-16,4
+United States,25.1862045322,-80.8932781219,Megaceryle alcyon,Belted Kingfisher,2015-02-16,1
+United States,25.1390395712,-80.9373736382,Heliconius charitonius,Zebra Heliconian,2015-02-16,4
+United States,25.1388938822,-80.9376525879,Setophaga ruticilla,American Redstart,2015-02-16,2
+United States,25.1394863498,-80.9368908405,Himantopus mexicanus,Black-necked Stilt,2015-02-16,5
+United States,25.1425360557,-80.9221065044,Crocodylus acutus,American Crocodile,2015-02-16,2
+United States,25.1423903709,-80.9231472015,Trichechus manatus latirostris,Florida Manatee,2015-02-16,3
+United States,25.1424680695,-80.9231686592,Leucophaeus atricilla,Laughing Gull,2015-02-16,30
+United States,25.1425263434,-80.9223532677,Pandion haliaetus,Western Osprey,2015-02-16,6
+United States,25.1421184253,-80.9220314026,Egretta thula,Snowy Egret,2015-02-16,1
+United States,25.1720093803,-80.9081268311,Quiscalus major,Boat-tailed Grackle,2015-02-16,20
+United States,25.1720093803,-80.9081268311,Megaceryle alcyon,Belted Kingfisher,2015-02-16,5
+United States,25.1720093803,-80.9081268311,Buteo lineatus,Red-shouldered Hawk,2015-02-16,8
+United States,25.1720093803,-80.9081268311,Phalacrocorax auritus,Double-crested Cormorant,2015-02-16,15
+United States,25.3237883102,-80.8321130276,Setophaga virens,Black-throated Green Warbler,2015-02-16,1
+United States,25.4415985321,-80.7838708162,Corvus ossifragus,Fish Crow,2015-02-16,3
+United States,25.3883490547,-80.6863832474,Sturnella magna,Eastern Meadowlark,2015-02-16,3
+United States,25.3821552785,-80.6094038486,Alligator mississippiensis,American Alligator,2015-02-16,25
+United States,25.3821455853,-80.6079339981,Geothlypis trichas,Common Yellowthroat,2015-02-16,3
+United States,25.3820971195,-80.6066894531,Setophaga palmarum,Palm Warbler,2015-02-16,2
+United States,25.3819711081,-80.6085348129,Corvus brachyrhynchos,American Crow,2015-02-16,4
+United States,25.3821165058,-80.6071937084,Sayornis phoebe,Eastern Phoebe,2015-02-16,1
+United States,25.3820874263,-80.6066787243,Porphyrio martinica,Purple Gallinule,2015-02-16,2
+United States,25.3828531846,-80.6097042561,Coragyps atratus,Black Vulture,2015-02-16,30
+United States,25.3821455853,-80.6078803539,Eudocimus albus,American White Ibis,2015-02-16,7
+United States,25.3822909828,-80.6088781357,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-16,1
+United States,25.3822909828,-80.6088781357,Butorides virescens,Green Heron,2015-02-16,3
+United States,25.3824945389,-80.6071829796,Ardea alba,Great Egret,2015-02-16,3
+United States,25.3821165058,-80.6073868275,Ardea herodias,Great Blue Heron,2015-02-16,3
+United States,25.3823200622,-80.6088942289,Anhinga anhinga,Anhinga,2015-02-16,15
+United States,25.3820680399,-80.6088888645,Phalacrocorax auritus,Double-crested Cormorant,2015-02-16,20
+United States,25.4474017394,-80.4753148556,Acridotheres tristis,Common Myna,2015-02-16,5
+United States,25.9947726408,-81.2840652466,Agelaius phoeniceus,Red-winged Blackbird,2015-02-15,30
+United States,25.9213052407,-81.2727355957,Odocoileus virginianus,White-tailed Deer,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Sciurus niger,Eastern Fox Squirrel,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Anolis sagrei,Cuban Brown Anole,2015-02-15,5
+United States,25.7768996253,-81.0871911049,Alligator mississippiensis,American Alligator,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Setophaga dominica,Yellow-throated Warbler,2015-02-15,1
+United States,25.7768996253,-81.0871911049,Setophaga pinus,Pine Warbler,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-15,5
+United States,25.7768996253,-81.0871911049,Vireo griseus,White-eyed Vireo,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Myiarchus crinitus,Great Crested Flycatcher,2015-02-15,2
+United States,25.7768996253,-81.0871911049,Sayornis phoebe,Eastern Phoebe,2015-02-15,3
+United States,25.7768996253,-81.0871911049,Sphyrapicus varius,Yellow-bellied Sapsucker,2015-02-15,1
+United States,25.7768996253,-81.0871911049,Buteo brachyurus,Short-tailed Hawk,2015-02-15,1
+United States,25.7768996253,-81.0871911049,Buteo lineatus,Red-shouldered Hawk,2015-02-15,1
+United States,25.7768996253,-81.0871911049,Mycteria americana,Wood Stork,2015-02-15,1
+United States,25.7768996253,-81.0871911049,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-15,3
+United States,25.7768996253,-81.0871911049,Ardea herodias,Great Blue Heron,2015-02-15,2
+United States,25.7620203609,-80.7481384277,Anhinga anhinga,Anhinga,2015-02-15,25
+United States,25.7624841583,-80.7551765442,Alligator mississippiensis,American Alligator,2015-02-15,1
+United States,25.7620203609,-80.7694244385,Corvus brachyrhynchos,American Crow,2015-02-15,6
+United States,25.7623295593,-80.7380104065,Buteo lineatus,Red-shouldered Hawk,2015-02-15,5
+United States,25.7620976606,-80.7668495178,Haliaeetus leucocephalus,Bald Eagle,2015-02-15,1
+United States,25.75,-80.8,Charadrius vociferus,Killdeer,2015-02-15,5
+United States,25.7690544275,-80.8181762695,Rostrhamus sociabilis,Snail Kite,2015-02-15,4
+United States,25.7668901437,-80.7730293274,Rostrhamus sociabilis,Snail Kite,2015-02-15,2
+United States,34.11045127,-117.87583567,Pyrocephalus obscurus,Vermilion Flycatcher,2015-02-22,2
+United States,33.80698007,-118.20475179,Spatula cyanoptera,Cinnamon Teal,2015-02-20,24
+United States,33.80705575,-118.20476577,Spatula discors,Blue-winged Teal,2015-02-20,14
+United States,33.80712358,-118.20477717,Anas carolinensis,Green-winged Teal,2015-02-20,14
+United States,33.80762438,-118.2047822,Recurvirostra americana,American Avocet,2015-02-20,50
+United States,33.80935966,-118.20476668,Larus delawarensis,Ring-billed Gull,2015-02-20,60
+United States,34.03995993,-118.21855902,Selasphorus sasin,Allen's Hummingbird,2015-02-20,1
+United States,34.07311073,-116.39121383,Zenaida macroura,Mourning Dove,2015-02-21,1
+United States,34.07310374,-116.39122149,Campylorhynchus brunneicapillus,Cactus Wren,2015-02-21,3
+United States,34.07310287,-116.39122384,Dryobates scalaris,Ladder-backed Woodpecker,2015-02-21,2
+United States,34.07310487,-116.3912236,Aphelocoma californica,California Scrub Jay,2015-02-21,1
+United States,34.07310487,-116.3912236,Icterus parisorum,Scott's Oriole,2015-02-21,1
+United States,34.07398743,-116.39532737,Amphispiza bilineata,Black-throated Sparrow,2015-02-21,2
+United States,34.07398303,-116.39593899,Thryomanes bewickii,Bewick's Wren,2015-02-21,1
+United States,34.07537267,-116.39880699,Amphispiza bilineata,Black-throated Sparrow,2015-02-21,4
+United States,34.07537307,-116.39880691,Callipepla gambelii,Gambel's Quail,2015-02-21,2
+United States,34.07383855,-116.4067022,Callipepla gambelii,Gambel's Quail,2015-02-21,1
+United States,34.0738372,-116.4067057,Aphelocoma californica,California Scrub Jay,2015-02-21,1
+United States,34.06998101,-116.39999699,Thryomanes bewickii,Bewick's Wren,2015-02-21,2
+United States,34.07223907,-116.39990826,Aphelocoma californica,California Scrub Jay,2015-02-21,1
+United States,34.006322,-116.16359504,Campylorhynchus brunneicapillus,Cactus Wren,2015-02-21,1
+United States,33.92668027,-116.18120947,Buteo jamaicensis,Red-tailed Hawk,2015-02-21,1
+United States,33.92668027,-116.18120947,Salpinctes obsoletus,Rock Wren,2015-02-21,1
+United States,33.92668027,-116.18120947,Amphispiza bilineata,Black-throated Sparrow,2015-02-21,4
+United States,33.9955408,-116.07625038,Buteo jamaicensis,Red-tailed Hawk,2015-02-21,1
+United States,33.83652084,-115.77877677,Amphispiza bilineata,Black-throated Sparrow,2015-02-21,5
+United States,33.83082758,-115.77959193,Amphispiza bilineata,Black-throated Sparrow,2015-02-21,2
+United States,33.82880651,-115.78022414,Polioptila melanura,Black-tailed Gnatcatcher,2015-02-21,2
+United States,33.82712859,-115.77882048,Auriparus flaviceps,Verdin,2015-02-21,1
+United States,33.84116756,-115.79454715,Amphispiza bilineata,Black-throated Sparrow,2015-02-22,1
+United States,33.83924345,-115.80618061,Amphispiza bilineata,Black-throated Sparrow,2015-02-22,2
+United States,33.83732295,-115.80495021,Auriparus flaviceps,Verdin,2015-02-22,1
+United States,33.84572092,-115.78062172,Calypte costae,Costa's Hummingbird,2015-02-22,1
+United States,33.78190598,-115.79790866,Phainopepla nitens,Phainopepla,2015-02-22,2
+United States,33.77036256,-115.81039047,Campylorhynchus brunneicapillus,Cactus Wren,2015-02-22,1
+United States,33.73837558,-115.81233532,Phainopepla nitens,Phainopepla,2015-02-22,3
+United States,33.73633657,-115.80974205,Campylorhynchus brunneicapillus,Cactus Wren,2015-02-22,2
+United States,33.70201672,-115.80281706,Phainopepla nitens,Phainopepla,2015-02-22,2
+United States,24.6778277105,-81.2372875214,Buteo platypterus,Broad-winged Hawk,2015-02-14,1
+United States,24.6855876487,-81.2266874313,Eudocimus albus,American White Ibis,2015-02-14,45
+United States,24.6977432642,-81.3176465034,Thalasseus maximus,Royal Tern,2015-02-14,6
+United States,24.7236394448,-81.3929522038,Odocoileus virginianus clavium,Key Deer,2015-02-14,13
+United States,24.8144575983,-80.8212339878,Setophaga caerulescens,Black-throated Blue Warbler,2015-02-14,1
+United States,24.8144575983,-80.8212339878,Setophaga americana,Northern Parula,2015-02-14,2
+United States,25.0318967121,-80.5037891865,Iguana iguana,Common Green Iguana,2015-02-14,1
+United States,25.0318967121,-80.5037891865,Agelaius phoeniceus,Red-winged Blackbird,2015-02-14,12
+United States,25.0318967121,-80.5037891865,Melanerpes carolinus,Red-bellied Woodpecker,2015-02-14,1
+United States,34.5763192091,-119.954498978,Setophaga auduboni,Audubon's Warbler,2013-10-08,1
+United States,34.5764980937,-119.954710873,Melospiza melodia,Song Sparrow,2013-10-08,1
+United States,34.4442863367,-119.849828482,Pheucticus melanocephalus,Black-headed Grosbeak,2013-10-07,1
+United States,26.3780295476,-81.6109085083,Sciurus carolinensis,Eastern Gray Squirrel,2015-02-13,1
+United States,26.3758764903,-81.6082906723,Passerina ciris,Painted Bunting,2015-02-13,5
+United States,26.3758764903,-81.6082906723,Cardinalis cardinalis,Northern Cardinal,2015-02-13,2
+United States,26.3758764903,-81.6082906723,Molothrus ater,Brown-headed Cowbird,2015-02-13,2
+United States,26.3758764903,-81.6082906723,Setophaga dominica,Yellow-throated Warbler,2015-02-13,1
+United States,26.3758764903,-81.6082906723,Setophaga coronata,Myrtle Warbler,2015-02-13,3
+United States,26.3758764903,-81.6082906723,Dumetella carolinensis,Grey Catbird,2015-02-13,3
+United States,26.3758764903,-81.6082906723,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-13,3
+United States,26.3758764903,-81.6082906723,Vireo griseus,White-eyed Vireo,2015-02-13,1
+United States,26.3758764903,-81.6082906723,Myiarchus crinitus,Great Crested Flycatcher,2015-02-13,1
+United States,26.375934162,-81.6064882278,Dryocopus pileatus,Pileated Woodpecker,2015-02-13,2
+United States,26.375934162,-81.6064882278,Melanerpes carolinus,Red-bellied Woodpecker,2015-02-13,1
+United States,26.375934162,-81.6064882278,Columbina passerina,Common Ground Dove,2015-02-13,2
+United States,26.375934162,-81.6064882278,Zenaida macroura,Mourning Dove,2015-02-13,5
+United States,26.375934162,-81.6064882278,Buteo lineatus,Red-shouldered Hawk,2015-02-13,2
+United States,26.375934162,-81.6064882278,Eudocimus albus,American White Ibis,2015-02-13,6
+United States,26.375934162,-81.6064882278,Nyctanassa violacea,Yellow-crowned Night Heron,2015-02-13,3
+United States,26.375934162,-81.6064882278,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-13,3
+United States,26.375934162,-81.6064882278,Egretta caerulea,Little Blue Heron,2015-02-13,2
+United States,26.1542052942,-81.5446472168,Antigone canadensis,Sandhill Crane,2015-02-13,7
+United States,26.1542052942,-81.5446472168,Caracara cheriway,Northern Crested Caracara,2015-02-13,2
+United States,25.9941554588,-81.2950515747,Phyciodes phaon,Phaon Crescent,2015-02-13,25
+United States,25.9953126724,-81.292219162,Buteo lineatus,Red-shouldered Hawk,2015-02-13,3
+United States,25.8879133664,-81.2617492676,Anhinga anhinga,Anhinga,2015-02-13,4
+United States,26.2105195364,-81.7411887646,Cardinalis cardinalis,Northern Cardinal,2015-02-13,1
+United States,25.9942036763,-81.3109624386,Alligator mississippiensis,American Alligator,2015-02-12,1
+United States,25.9938468666,-81.3101577759,Mimus polyglottos,Northern Mockingbird,2015-02-12,3
+United States,25.9771816844,-81.3105010986,Ardea alba,Great Egret,2015-02-12,3
+United States,25.9771816844,-81.3105010986,Anhinga anhinga,Anhinga,2015-02-12,15
+United States,25.9796507493,-81.3135910034,Buteo lineatus,Red-shouldered Hawk,2015-02-12,3
+United States,25.9657615846,-81.3348770142,Coragyps atratus,Black Vulture,2015-02-12,30
+United States,25.9657615846,-81.3348770142,Cathartes aura,Turkey Vulture,2015-02-12,30
+United States,25.9657615846,-81.3348770142,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-12,1
+United States,25.9657615846,-81.3348770142,Sayornis phoebe,Eastern Phoebe,2015-02-12,6
+United States,25.9716260986,-81.3383102417,Odocoileus virginianus,White-tailed Deer,2015-02-12,3
+United States,26.0061127825,-81.4102363586,Marpesia petreus,Ruddy Daggerwing,2015-02-12,2
+United States,26.0061127825,-81.4102363586,Heliconius charitonius,Zebra Heliconian,2015-02-12,20
+United States,26.0047242525,-81.4099788666,Aramus guarauna,Limpkin,2015-02-12,1
+United States,25.9512340788,-81.7504692078,Larus delawarensis,Ring-billed Gull,2015-02-12,15
+United States,25.95,-81.8,Calidris mauri,Western Sandpiper,2015-02-12,8
+United States,25.9512533728,-81.7504477501,Charadrius wilsonia,Wilson's Plover,2015-02-12,6
+United States,25.9510411384,-81.7502117157,Charadrius semipalmatus,Semipalmated Plover,2015-02-12,17
+United States,25.9510411384,-81.7502117157,Charadrius melodus,Piping Plover,2015-02-12,5
+United States,25.9485521785,-81.7486453056,Egretta caerulea,Little Blue Heron,2015-02-12,1
+United States,25.9485521785,-81.7486453056,Egretta tricolor,Tricolored Heron,2015-02-12,1
+United States,25.9511761967,-81.7495250702,Egretta rufescens,Reddish Egret,2015-02-12,1
+United States,25.9470086111,-81.7442035675,Eudocimus albus,American White Ibis,2015-02-12,23
+United States,25.9312630675,-81.71210289,Eudocimus albus,American White Ibis,2015-02-12,7
+United States,25.9312630675,-81.71210289,Pandion haliaetus,Western Osprey,2015-02-12,5
+United States,25.9312630675,-81.71210289,Athene cunicularia,Burrowing Owl,2015-02-12,4
+United States,25.7053430521,-81.3171203714,Procyon lotor,Northern Raccoon,2009-12-12,1
+United States,27.1781871135,-82.4632501602,Mimus polyglottos,Northern Mockingbird,2015-02-11,1
+United States,27.1781966578,-82.4632072449,Turdus migratorius,American Robin,2015-02-11,100
+United States,27.1781966578,-82.4632072449,Aphelocoma coerulescens,Florida Scrub Jay,2015-02-11,2
+United States,27.2329577624,-82.5004577637,Lanius ludovicianus,Loggerhead Shrike,2015-02-11,1
+United States,28.0551283173,-82.8021526337,Podiceps auritus,Horned Grebe,2015-02-11,1
+United States,28.0551283173,-82.8021526337,Mergus serrator,Red-breasted Merganser,2015-02-11,1
+United States,28.0551283173,-82.8021526337,Pelecanus occidentalis,Brown Pelican,2015-02-11,6
+United States,28.05,-82.85,Larus smithsonianus,American Herring Gull,2015-02-11,5
+United States,28.0551283173,-82.8048992157,Calidris alba,Sanderling,2015-02-11,1
+United States,28.0551283173,-82.8048992157,Tringa semipalmata,Willet,2015-02-11,3
+United States,28.0551283173,-82.8048992157,Pluvialis squatarola,Grey Plover,2015-02-11,2
+United States,28.0678527567,-82.8306591511,Setophaga palmarum,Palm Warbler,2015-02-11,6
+United States,28.0688183892,-82.8310775757,Setophaga discolor,Prairie Warbler,2015-02-11,2
+United States,28.0688183892,-82.8310775757,Setophaga coronata,Myrtle Warbler,2015-02-11,10
+United States,28.0688183892,-82.8310775757,Dumetella carolinensis,Grey Catbird,2015-02-11,3
+United States,28.0688183892,-82.8310775757,Sayornis phoebe,Eastern Phoebe,2015-02-11,2
+United States,28.0688183892,-82.8310775757,Dryobates pubescens,Downy Woodpecker,2015-02-11,2
+United States,28.0688183892,-82.8310775757,Melanerpes carolinus,Red-bellied Woodpecker,2015-02-11,3
+United States,28.0688183892,-82.8310775757,Columbina passerina,Common Ground Dove,2015-02-11,2
+United States,28.0688183892,-82.8310775757,Pandion haliaetus,Western Osprey,2015-02-11,20
+United States,28.0688183892,-82.8310775757,Accipiter cooperii,Cooper's Hawk,2015-02-11,1
+United States,28.0688183892,-82.8310775757,Accipiter striatus,Sharp-shinned Hawk,2015-02-11,1
+United States,37.2302855421,-122.066888697,Taricha torosa,Coast Range Newt,2015-02-20,10
+United States,34.18104197,-118.13679643,Bombycilla cedrorum,Cedar Waxwing,2015-02-18,13
+United States,34.18104114,-118.13679375,Haemorhous mexicanus,House Finch,2015-02-18,10
+United States,34.18104085,-118.13679467,Selasphorus sasin,Allen's Hummingbird,2015-02-18,2
+United States,34.17333666,-118.12855122,Sialia mexicana,Western Bluebird,2015-02-19,3
+United States,34.16827675,-118.1256631,Sialia mexicana,Western Bluebird,2015-02-19,1
+United States,34.15644701,-118.12556032,Selasphorus sasin,Allen's Hummingbird,2015-02-19,1
+United States,34.13756462,-118.12129184,Setophaga auduboni,Audubon's Warbler,2015-02-19,1
+United States,34.13632908,-118.12128668,Setophaga auduboni,Audubon's Warbler,2015-02-19,4
+United States,34.13419245,-118.11986953,Bombycilla cedrorum,Cedar Waxwing,2015-02-19,9
+United States,34.13419044,-118.11863879,Setophaga auduboni,Audubon's Warbler,2015-02-19,2
+United States,34.13290107,-118.11390776,Setophaga auduboni,Audubon's Warbler,2015-02-19,1
+United States,34.12916258,-118.10974252,Haemorhous mexicanus,House Finch,2015-02-19,1
+United States,34.12639158,-118.10917245,Setophaga auduboni,Audubon's Warbler,2015-02-19,1
+United States,34.12295016,-118.10815463,Setophaga auduboni,Audubon's Warbler,2015-02-19,1
+United States,34.12225986,-118.10964704,Haemorhous mexicanus,House Finch,2015-02-19,1
+United States,34.11863575,-118.10964585,Bombycilla cedrorum,Cedar Waxwing,2015-02-19,3
+United States,34.11824606,-118.10962878,Setophaga auduboni,Audubon's Warbler,2015-02-19,1
+United States,34.11309655,-118.11139075,Setophaga auduboni,Audubon's Warbler,2015-02-19,3
+United States,28.7371270937,-80.7541894913,Trichechus manatus latirostris,Florida Manatee,2015-02-10,5
+United States,28.7354901903,-80.7534599304,Haliaeetus leucocephalus,Bald Eagle,2015-02-10,1
+United States,28.7389144876,-80.7562494278,Falco sparverius,American Kestrel,2015-02-10,1
+United States,28.6234049193,-80.7501983643,Alligator mississippiensis,American Alligator,2015-02-10,1
+United States,28.6154184597,-80.7565498352,Lanius ludovicianus,Loggerhead Shrike,2015-02-10,3
+United States,28.6154184597,-80.7565498352,Megaceryle alcyon,Belted Kingfisher,2015-02-10,3
+United States,28.6154184597,-80.7565498352,Rynchops niger,Black Skimmer,2015-02-10,3
+United States,28.6154184597,-80.7565498352,Gallinago delicata,Wilson's Snipe,2015-02-10,1
+United States,28.6154184597,-80.7565498352,Tringa semipalmata,Willet,2015-02-10,7
+United States,28.6154184597,-80.7565498352,Tringa melanoleuca,Greater Yellowlegs,2015-02-10,10
+United States,28.6154184597,-80.7565498352,Recurvirostra americana,American Avocet,2015-02-10,4
+United States,28.6154184597,-80.7565498352,Fulica americana,American Coot,2015-02-10,250
+United States,28.6154184597,-80.7565498352,Aythya affinis,Lesser Scaup,2015-02-10,15
+United States,28.6154184597,-80.7565498352,Spatula discors,Blue-winged Teal,2015-02-10,35
+United States,28.6154184597,-80.7565498352,Mycteria americana,Wood Stork,2015-02-10,9
+United States,28.6154184597,-80.7565498352,Platalea ajaja,Roseate Spoonbill,2015-02-10,100
+United States,28.6154184597,-80.7565498352,Eudocimus albus,American White Ibis,2015-02-10,2000
+United States,28.6154184597,-80.7565498352,Egretta caerulea,Little Blue Heron,2015-02-10,2
+United States,28.6154184597,-80.7565498352,Egretta tricolor,Tricolored Heron,2015-02-10,15
+United States,28.6148156834,-80.7517433167,Pelecanus erythrorhynchos,American White Pelican,2015-02-10,12
+United States,28.6148156834,-80.7517433167,Podilymbus podiceps,Pied-billed Grebe,2015-02-10,25
+United States,28.6189220286,-80.8010530472,Leucophaeus atricilla,Laughing Gull,2015-02-10,1
+United States,28.6189220286,-80.8010530472,Larus delawarensis,Ring-billed Gull,2015-02-10,23
+United States,27.4672884135,-80.3330612183,Quiscalus major,Boat-tailed Grackle,2015-02-10,35
+United States,26.4859769056,-80.1618075371,Heliconius charitonius,Zebra Heliconian,2015-02-10,4
+United States,26.4897219271,-80.1617217064,Alligator mississippiensis,American Alligator,2015-02-10,1
+United States,26.485919289,-80.1617431641,Sciurus carolinensis,Eastern Gray Squirrel,2015-02-10,1
+United States,26.4853047094,-80.1599407196,Quiscalus major,Boat-tailed Grackle,2015-02-10,20
+United States,26.4878590342,-80.1584815979,Quiscalus quiscula,Common Grackle,2015-02-10,6
+United States,26.4851702697,-80.1600909233,Agelaius phoeniceus,Red-winged Blackbird,2015-02-10,50
+United States,26.487763008,-80.1585030556,Passerina ciris,Painted Bunting,2015-02-10,12
+United States,26.4876957896,-80.1585137844,Cardinalis cardinalis,Northern Cardinal,2015-02-10,5
+United States,26.4888961123,-80.1620221138,Mniotilta varia,Black-and-white Warbler,2015-02-10,1
+United States,26.4888961123,-80.1620221138,Setophaga pinus,Pine Warbler,2015-02-10,1
+United States,26.4863802215,-80.1601982117,Setophaga palmarum,Palm Warbler,2015-02-10,8
+United States,26.4863802215,-80.1601982117,Setophaga coronata,Myrtle Warbler,2015-02-10,2
+United States,26.4879742656,-80.1622581482,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-10,1
+United States,26.4861497555,-80.1589107513,Cyanocitta cristata,Blue Jay,2015-02-10,5
+United States,26.4861497555,-80.1589107513,Zenaida asiatica,White-winged Dove,2015-02-10,2
+United States,26.4860537278,-80.161678791,Zenaida macroura,Mourning Dove,2015-02-10,2
+United States,26.4856696164,-80.1585674286,Aramus guarauna,Limpkin,2015-02-10,2
+United States,26.4894530578,-80.1597476006,Porzana carolina,Sora,2015-02-10,2
+United States,26.4884159847,-80.158932209,Fulica americana,American Coot,2015-02-10,8
+United States,26.4858616723,-80.1610350609,Gallinula galeata,Common Gallinule,2015-02-10,2
+United States,26.4846901265,-80.160176754,Porphyrio martinica,Purple Gallinule,2015-02-10,1
+United States,26.4883583693,-80.1593613625,Spatula discors,Blue-winged Teal,2015-02-10,10
+United States,26.485688822,-80.1599192619,Anas fulvigula,Mottled Duck,2015-02-10,7
+United States,26.4855159715,-80.1598119736,Mycteria americana,Wood Stork,2015-02-10,5
+United States,26.4884928053,-80.1621079445,Butorides virescens,Green Heron,2015-02-10,2
+United States,26.4860345223,-80.1604557037,Plegadis falcinellus,Glossy Ibis,2015-02-10,10
+United States,26.4860345223,-80.1604557037,Eudocimus albus,American White Ibis,2015-02-10,20
+United States,26.4860345223,-80.1604557037,Egretta caerulea,Little Blue Heron,2015-02-10,4
+United States,26.4849398012,-80.1603913307,Egretta tricolor,Tricolored Heron,2015-02-10,5
+United States,26.4893186229,-80.1621294022,Egretta rufescens,Reddish Egret,2015-02-10,1
+United States,26.4876093659,-80.1618933678,Egretta thula,Snowy Egret,2015-02-10,15
+United States,26.4876093659,-80.1618933678,Ardea alba,Great Egret,2015-02-10,3
+United States,26.4846325092,-80.1601552963,Botaurus lentiginosus,American Bittern,2015-02-10,2
+United States,26.4869563846,-80.1622581482,Anhinga anhinga,Anhinga,2015-02-10,10
+United States,26.4890305477,-80.1599192619,Podilymbus podiceps,Pied-billed Grebe,2015-02-10,4
+United States,26.0906423271,-80.1638621092,Sciurus carolinensis,Eastern Gray Squirrel,2015-02-10,3
+United States,34.1809293933,-118.136701472,Selasphorus sasin,Allen's Hummingbird,2015-02-05,1
+United States,34.3133821434,-118.414406329,Sialia mexicana,Western Bluebird,2015-02-04,10
+United States,34.3133821434,-118.414406329,Setophaga auduboni,Audubon's Warbler,2015-02-04,25
+United States,34.3133821434,-118.414406329,Spinus psaltria,Lesser Goldfinch,2015-02-04,10
+United States,34.3133821434,-118.414406329,Sphyrapicus varius,Yellow-bellied Sapsucker,2015-02-04,1
+United States,34.6173693935,-118.044877052,Buteo regalis,Ferruginous Hawk,2015-02-04,6
+United States,34.7884221214,-118.11652422,Buteo jamaicensis,Red-tailed Hawk,2015-02-04,20
+United States,34.7884221214,-118.11652422,Elanus leucurus,White-tailed Kite,2015-02-04,1
+United States,34.7884221214,-118.11652422,Circus hudsonius,Northern Harrier,2015-02-04,10
+United States,34.7884221214,-118.11652422,Oxyura jamaicensis,Ruddy Duck,2015-02-04,1000
+United States,34.7884221214,-118.11652422,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-04,10
+United States,34.3045870383,-118.148571253,Buteo jamaicensis,Red-tailed Hawk,2015-02-03,1
+United States,34.3045870383,-118.148571253,Sialia mexicana,Western Bluebird,2015-02-03,5
+United States,33.714522836,-118.319220096,Egretta thula,Snowy Egret,2015-02-03,2
+United States,33.714522836,-118.319220096,Numenius hudsonicus rufiventris,Hudsonian Whimbrel ssp rufiventris,2015-02-03,1
+United States,33.714522836,-118.319220096,Arenaria melanocephala,Black Turnstone,2015-02-03,20
+United States,33.714522836,-118.319220096,Calidris virgata,Surfbird,2015-02-03,10
+United States,33.7172709464,-118.313626349,Numenius hudsonicus rufiventris,Hudsonian Whimbrel ssp rufiventris,2015-02-03,10
+United States,33.7172709464,-118.313626349,Bubulcus ibis,Western Cattle Egret,2015-02-03,1
+United States,33.7172709464,-118.313626349,Sturnella neglecta,Western Meadowlark,2015-02-03,10
+United States,33.7172709464,-118.313626349,Psaltriparus minimus,American Bushtit,2015-02-03,15
+United States,33.7172709464,-118.313626349,Polioptila californica,California Gnatcatcher,2015-02-03,5
+United States,34.1809293933,-118.136873133,Selasphorus sasin,Allen's Hummingbird,2015-02-02,1
+United States,34.5653818926,-120.144566596,Sitta carolinensis,White-breasted Nuthatch,2015-02-02,2
+United States,35.3464943865,-120.840138495,Euphagus cyanocephalus,Brewer's Blackbird,2015-02-02,5
+United States,35.3,-120.85,Charadrius vociferus,Killdeer,2015-02-02,5
+United States,35.3464943865,-120.840138495,Pelecanus erythrorhynchos,American White Pelican,2015-02-02,5
+United States,35.3464943865,-120.840138495,Meleagris gallopavo,Wild Turkey,2015-02-02,4
+United States,35.3464943865,-120.840138495,Callipepla californica,California Quail,2015-02-02,5
+United States,35.3464943865,-120.840138495,Spinus tristis,American Goldfinch,2015-02-01,1
+United States,35.3464943865,-120.840138495,Haemorhous mexicanus,House Finch,2015-02-01,5
+United States,35.3464943865,-120.840138495,Euphagus cyanocephalus,Brewer's Blackbird,2015-02-01,10
+United States,35.3464943865,-120.840138495,Junco hyemalis oreganus,Dark-eyed Junco ssp oreganus,2015-02-01,10
+United States,35.3464943865,-120.840138495,Melospiza melodia,Song Sparrow,2015-02-01,2
+United States,35.3464943865,-120.840138495,Zonotrichia leucophrys,White-crowned Sparrow,2015-02-01,25
+United States,35.3464943865,-120.840138495,Melozone crissalis,California Towhee,2015-02-01,5
+United States,35.3464943865,-120.840138495,Bombycilla cedrorum,Cedar Waxwing,2015-02-01,100
+United States,35.3464943865,-120.840138495,Toxostoma redivivum,California Thrasher,2015-02-01,1
+United States,35.3464943865,-120.840138495,Ixoreus naevius,Varied Thrush,2015-02-01,1
+United States,35.3464943865,-120.840138495,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-01,1
+United States,35.3464943865,-120.840138495,Dryobates pubescens,Downy Woodpecker,2015-02-01,1
+United States,35.3464943865,-120.840138495,Calypte anna,Anna's Hummingbird,2015-02-01,10
+United States,35.3464943865,-120.840138495,Zenaida macroura,Mourning Dove,2015-02-01,10
+United States,35.3488746704,-120.833615363,Tringa semipalmata,Willet,2015-02-01,500
+United States,35.3488746704,-120.833615363,Hydroprogne caspia,Caspian Tern,2015-02-01,2
+United States,35.3488746704,-120.833615363,Calidris minutilla,Least Sandpiper,2015-02-01,500
+United States,35.3488746704,-120.833615363,Limosa fedoa,Marbled Godwit,2015-02-01,50
+United States,35.3488746704,-120.833615363,Numenius americanus,Long-billed Curlew,2015-02-01,50
+United States,35.3488746704,-120.833615363,Numenius hudsonicus rufiventris,Hudsonian Whimbrel ssp rufiventris,2015-02-01,20
+United States,35.3488746704,-120.833615363,Actitis macularius,Spotted Sandpiper,2015-02-01,1
+United States,35.3,-120.85,Charadrius vociferus,Killdeer,2015-02-01,5
+United States,35.3466344051,-120.837906897,Meleagris gallopavo,Wild Turkey,2015-02-01,4
+United States,35.3466344051,-120.837906897,Callipepla californica,California Quail,2015-02-01,25
+United States,35.3453042183,-120.836104453,Buteo jamaicensis,Red-tailed Hawk,2015-02-01,1
+United States,35.3453042183,-120.836104453,Accipiter striatus,Sharp-shinned Hawk,2015-02-01,1
+United States,35.3453042183,-120.836104453,Cathartes aura,Turkey Vulture,2015-02-01,50
+United States,35.3453042183,-120.836104453,Mergus serrator,Red-breasted Merganser,2015-02-01,1
+United States,35.3453042183,-120.836104453,Bucephala albeola,Bufflehead,2015-02-01,50
+United States,35.3453042183,-120.836104453,Bucephala clangula,Common Goldeneye,2015-02-01,10
+United States,35.3453042183,-120.836104453,Aythya affinis,Lesser Scaup,2015-02-01,20
+United States,35.3,-120.85,Branta bernicla nigricans,Black Brant,2015-02-01,25
+United States,35.3453042183,-120.836104453,Egretta thula,Snowy Egret,2015-02-01,10
+United States,35.3453042183,-120.836104453,Ardea alba,Great Egret,2015-02-01,5
+United States,35.3453042183,-120.836104453,Ardea herodias,Great Blue Heron,2015-02-01,10
+United States,35.3453042183,-120.836104453,Pelecanus occidentalis,Brown Pelican,2015-02-01,5
+United States,35.3453042183,-120.836104453,Pelecanus erythrorhynchos,American White Pelican,2015-02-01,5
+United States,35.3448141439,-120.84073931,Aechmophorus occidentalis,Western Grebe,2015-02-01,1
+United States,35.3448141439,-120.84073931,Podilymbus podiceps,Pied-billed Grebe,2015-02-01,5
+United States,35.3448141439,-120.84073931,Podiceps nigricollis,Black-necked Grebe,2015-02-01,2
+United States,35.3448141439,-120.84073931,Gavia immer,Common Loon,2015-02-01,1
+United States,35.3468444326,-120.83447367,Bucephala albeola,Bufflehead,2015-01-31,1
+United States,35.3470544596,-120.838936865,Melozone crissalis,California Towhee,2015-01-31,1
+United States,35.3470544596,-120.838936865,Callipepla californica,California Quail,2015-01-31,15
+United States,35.3470544596,-120.838936865,Calypte anna,Anna's Hummingbird,2015-01-31,1
+United States,35.3470544596,-120.838936865,Cathartes aura,Turkey Vulture,2015-01-31,5
+United States,35.3470544596,-120.838936865,Euphagus cyanocephalus,Brewer's Blackbird,2015-01-31,25
+United States,35.3474045033,-120.833529532,Calidris minutilla,Least Sandpiper,2015-01-31,1
+United States,35.3,-120.85,Branta bernicla nigricans,Black Brant,2015-01-31,5
+United States,35.3641348238,-120.854300559,Enhydra lutris,Sea Otter,2015-01-31,2
+United States,35.3641348238,-120.854300559,Hydroprogne caspia,Caspian Tern,2015-01-31,1
+United States,35.3641348238,-120.854300559,Numenius americanus,Long-billed Curlew,2015-01-31,1
+United States,35.3641348238,-120.854300559,Limosa fedoa,Marbled Godwit,2015-01-31,20
+United States,35.3641348238,-120.854300559,Bucephala albeola,Bufflehead,2015-01-31,20
+United States,35.3641348238,-120.854300559,Melanitta perspicillata,Surf Scoter,2015-01-31,2
+United States,35.35,-120.9,Branta bernicla nigricans,Black Brant,2015-01-31,50
+United States,35.3641348238,-120.854300559,Egretta thula,Snowy Egret,2015-01-31,1
+United States,35.3641348238,-120.854300559,Ardea herodias,Great Blue Heron,2015-01-31,3
+United States,35.3641348238,-120.854300559,Pelecanus occidentalis,Brown Pelican,2015-01-31,10
+United States,35.3641348238,-120.854300559,Podilymbus podiceps,Pied-billed Grebe,2015-01-31,2
+United States,35.3641348238,-120.854300559,Gavia immer,Common Loon,2015-01-31,2
+United States,35.6758789838,-121.287588626,Euphagus cyanocephalus,Brewer's Blackbird,2015-01-31,25
+United States,35.6758789838,-121.287588626,Zonotrichia leucophrys,White-crowned Sparrow,2015-01-31,5
+United States,35.6758789838,-121.287588626,Larus occidentalis,Western Gull,2015-01-31,20
+United States,35.6758789838,-121.287588626,Tringa incana,Wandering Tattler,2015-01-31,1
+United States,35.6758789838,-121.287588626,Circus hudsonius,Northern Harrier,2015-01-31,1
+United States,35.6758789838,-121.287588626,Cathartes aura,Turkey Vulture,2015-01-31,20
+United States,35.6599806096,-121.254415065,Mirounga angustirostris,Northern Elephant Seal,2015-01-31,3000
+United States,35.6736129617,-121.285357028,Mirounga angustirostris,Northern Elephant Seal,2015-01-31,250
+United States,40.7056279382,-112.258300781,Buteo lagopus,Rough-legged Buzzard,2013-03-15,1
+United States,42.5426068663,-108.182988166,Aphelocoma woodhouseii,Woodhouse's Scrub Jay,2002-07-04,1
+United States,35.9201955575,-121.471094638,Melospiza melodia,Song Sparrow,2015-01-30,5
+United States,35.9219680092,-121.469077617,Sayornis nigricans semiater,Black Phoebe ssp semiater,2015-01-30,1
+United States,35.9212034271,-121.471094638,Larus heermanni,Heermann's Gull,2015-01-30,50
+United States,35.9212034271,-121.471094638,Larus glaucescens,Glaucous-winged Gull,2015-01-30,1
+United States,35.9212034271,-121.471094638,Larus californicus,California Gull,2015-01-30,20
+United States,35.9212034271,-121.471094638,Larus canus brachyrhynchus,Mew Gull ssp brachyrhynchus,2015-01-30,10
+United States,35.9212034271,-121.471094638,Falco sparverius,American Kestrel,2015-01-30,1
+United States,35.9212034271,-121.471094638,Buteo lineatus,Red-shouldered Hawk,2015-01-30,1
+United States,35.9212034271,-121.471094638,Cathartes aura,Turkey Vulture,2015-01-30,10
+United States,35.9212034271,-121.471094638,Melanitta perspicillata,Surf Scoter,2015-01-30,25
+United States,35.9249915116,-121.46886304,Melospiza melodia,Song Sparrow,2015-01-29,3
+United States,35.9249915116,-121.46886304,Sayornis nigricans semiater,Black Phoebe ssp semiater,2015-01-29,1
+United States,35.9249915116,-121.46886304,Buteo jamaicensis,Red-tailed Hawk,2015-01-29,1
+United States,35.9249915116,-121.46886304,Cathartes aura,Turkey Vulture,2015-01-29,5
+United States,35.9249915116,-121.46886304,Larus canus brachyrhynchus,Mew Gull ssp brachyrhynchus,2015-01-29,4
+United States,35.9,-121.5,Larus smithsonianus,American Herring Gull,2015-01-29,1
+United States,35.9249915116,-121.46886304,Larus glaucescens,Glaucous-winged Gull,2015-01-29,1
+United States,35.9249915116,-121.46886304,Larus californicus,California Gull,2015-01-29,5
+United States,35.9249915116,-121.46886304,Larus heermanni,Heermann's Gull,2015-01-29,5
+United States,35.9249915116,-121.46886304,Melanitta perspicillata,Surf Scoter,2015-01-29,25
+United States,37.7919476209,-122.42670536,Setophaga townsendi,Townsend's Warbler,2015-02-13,1
+United States,37.7919476209,-122.42670536,Calypte anna,Anna's Hummingbird,2015-02-13,5
+United States,37.7919476209,-122.42670536,Bombycilla cedrorum,Cedar Waxwing,2015-02-13,15
+United States,37.7919476209,-122.42670536,Turdus migratorius,American Robin,2015-02-13,10
+United States,37.7919476209,-122.42670536,Piranga ludoviciana,Western Tanager,2015-02-13,1
+United States,37.7919476209,-122.42670536,Sitta pygmaea,Pygmy Nuthatch,2015-02-13,2
+United States,36.249672104,-121.781422868,Otospermophilus beecheyi,California Ground Squirrel,2015-01-28,1
+United States,36.249672104,-121.781422868,Setophaga townsendi,Townsend's Warbler,2015-01-28,1
+United States,36.249672104,-121.781422868,Catharus guttatus,Hermit Thrush,2015-01-28,10
+United States,36.249672104,-121.781422868,Turdus migratorius,American Robin,2015-01-28,5
+United States,36.249672104,-121.781422868,Ixoreus naevius,Varied Thrush,2015-01-28,10
+United States,36.249672104,-121.781422868,Chamaea fasciata,Wrentit,2015-01-28,1
+United States,36.249672104,-121.781422868,Poecile rufescens,Chestnut-backed Chickadee,2015-01-28,10
+United States,36.249672104,-121.781422868,Cyanocitta stelleri,Steller's Jay,2015-01-28,50
+United States,36.249672104,-121.781422868,Melanerpes formicivorus bairdi,Acorn Woodpecker ssp bairdi,2015-01-28,5
+United States,36.249672104,-121.781422868,Colaptes auratus,Northern Flicker,2015-01-28,2
+United States,36.249672104,-121.781422868,Sphyrapicus ruber,Red-breasted Sapsucker,2015-01-28,1
+United States,36.249672104,-121.781422868,Cathartes aura,Turkey Vulture,2015-01-28,1
+United States,36.1594964397,-121.670091748,Glaucidium californicum,Northern Pygmy Owl,2015-01-27,1
+United States,36.1594964397,-121.670091748,Zonotrichia atricapilla,Golden-crowned Sparrow,2015-01-27,4
+United States,36.1594964397,-121.670091748,Catharus guttatus,Hermit Thrush,2015-01-27,5
+United States,36.1594964397,-121.670091748,Ixoreus naevius,Varied Thrush,2015-01-27,2
+United States,36.1594964397,-121.670091748,Chamaea fasciata,Wrentit,2015-01-27,2
+United States,36.1594964397,-121.670091748,Calypte anna,Anna's Hummingbird,2015-01-27,1
+United States,36.1594964397,-121.670091748,Pelecanus occidentalis,Brown Pelican,2015-01-27,50
+United States,36.1594964397,-121.670091748,Cathartes aura,Turkey Vulture,2015-01-27,3
+United States,36.1594964397,-121.670091748,Gymnogyps californianus,California Condor,2015-01-27,4
+United States,36.1594964397,-121.670091748,Zalophus californianus,Californian Sea Lion,2015-01-27,5
+United States,36.1594964397,-121.670091748,Eschrichtius robustus,Grey Whale,2015-01-27,2
+United States,36.2518175617,-121.780685931,Otospermophilus beecheyi,California Ground Squirrel,2015-01-27,2
+United States,36.2518175617,-121.780685931,Colaptes auratus,Northern Flicker,2015-01-27,2
+United States,36.2518175617,-121.780685931,Catharus guttatus,Hermit Thrush,2015-01-27,10
+United States,36.2518175617,-121.780685931,Turdus migratorius,American Robin,2015-01-27,1
+United States,36.2518175617,-121.780685931,Ixoreus naevius,Varied Thrush,2015-01-27,25
+United States,36.2518175617,-121.780685931,Regulus calendula,Ruby-crowned Kinglet,2015-01-27,1
+United States,36.2518175617,-121.780685931,Cyanocitta stelleri,Steller's Jay,2015-01-27,40
+United States,36.2518175617,-121.780685931,Cinclus mexicanus,American Dipper,2015-01-27,1
+United States,36.2518175617,-121.780685931,Melanerpes formicivorus,Acorn Woodpecker,2015-01-27,10
+United States,36.2518175617,-121.780685931,Cathartes aura,Turkey Vulture,2015-01-27,3
+United States,36.2518175617,-121.780685931,Melanerpes formicivorus bairdi,Acorn Woodpecker ssp bairdi,2015-01-26,5
+United States,36.2518175617,-121.780685931,Cyanocitta stelleri,Steller's Jay,2015-01-26,10
+United States,36.2518175617,-121.780685931,Ixoreus naevius,Varied Thrush,2015-01-26,25
+United States,36.2518175617,-121.780685931,Catharus guttatus,Hermit Thrush,2015-01-26,2
+United States,36.6190405309,-121.901621372,Zalophus californianus,Californian Sea Lion,2015-01-26,10
+United States,36.6190405309,-121.901621372,Phoca vitulina,Harbour Seal,2015-01-26,2
+United States,36.6190405309,-121.901621372,Enhydra lutris nereis,Southern Sea Otter,2015-01-26,5
+United States,36.6190405309,-121.901621372,Euphagus cyanocephalus,Brewer's Blackbird,2015-01-26,10
+United States,36.6190405309,-121.901621372,Zonotrichia leucophrys,White-crowned Sparrow,2015-01-26,2
+United States,36.6190405309,-121.901621372,Uria aalge,Common Murre,2015-01-26,2
+United States,36.6190405309,-121.901621372,Larus heermanni,Heermann's Gull,2015-01-26,10
+United States,36.6190405309,-121.901621372,Larus occidentalis,Western Gull,2015-01-26,25
+United States,36.6190405309,-121.901621372,Tringa semipalmata,Willet,2015-01-26,1
+United States,36.6190405309,-121.901621372,Haematopus bachmani,Black Oystercatcher,2015-01-26,4
+United States,36.6190405309,-121.901621372,Mergus serrator,Red-breasted Merganser,2015-01-26,2
+United States,36.6190405309,-121.901621372,Branta canadensis,Canada Goose,2015-01-26,10
+United States,36.6190405309,-121.901621372,Ardea alba,Great Egret,2015-01-26,1
+United States,36.6190405309,-121.901621372,Phalacrocorax penicillatus,Brandt's Cormorant,2015-01-26,150
+United States,36.6190405309,-121.901621372,Phalacrocorax penicillatus,Brandt's Cormorant,2015-01-26,50
+United States,36.6190405309,-121.901621372,Pelecanus occidentalis,Brown Pelican,2015-01-26,50
+United States,36.6190405309,-121.901621372,Podiceps nigricollis,Black-necked Grebe,2015-01-26,2
+United States,36.6190405309,-121.901621372,Gavia immer,Common Loon,2015-01-26,1
+United States,36.6,-121.95,Gavia pacifica,Pacific Loon,2015-01-26,10
+United States,36.7018873557,-121.809575334,Larus occidentalis,Western Gull,2015-01-25,5
+United States,36.7018873557,-121.809575334,Larus heermanni,Heermann's Gull,2015-01-25,12
+United States,36.7018873557,-121.809575334,Larus californicus,California Gull,2015-01-25,5
+United States,36.7018873557,-121.809575334,Melanitta perspicillata,Surf Scoter,2015-01-25,200
+United States,36.7018873557,-121.809575334,Gavia immer,Common Loon,2015-01-25,3
+United States,36.7922661364,-121.669041999,Melozone crissalis,California Towhee,2015-01-26,2
+United States,36.7922661364,-121.669041999,Catharus guttatus,Hermit Thrush,2015-01-26,1
+United States,37.0575038509,-120.906713605,Bubulcus ibis,Western Cattle Egret,2015-01-25,15
+United States,36.7479453662,-118.971154466,Tamiasciurus douglasii,Douglas' Squirrel,2015-01-24,1
+United States,35.7242001968,-118.665604591,Otospermophilus beecheyi,California Ground Squirrel,2015-01-23,300
+United States,36.4906277707,-118.825760968,Otospermophilus beecheyi,California Ground Squirrel,2015-01-24,1
+United States,36.4627787342,-118.869895041,Melanerpes formicivorus bairdi,Acorn Woodpecker ssp bairdi,2015-01-24,50
+United States,36.4588448051,-118.880860582,Baeolophus inornatus,Oak Titmouse,2015-01-24,3
+United States,36.4588448051,-118.880860582,Aphelocoma californica,California Scrub Jay,2015-01-24,2
+United States,36.4588448051,-118.880860582,Melanerpes formicivorus bairdi,Acorn Woodpecker ssp bairdi,2015-01-24,20
+United States,36.4588448051,-118.880860582,Patagioenas fasciata,Band-tailed Pigeon,2015-01-24,20
+United States,35.7297744439,-118.686203957,Chondestes grammacus,Lark Sparrow,2015-01-23,3
+United States,35.6678936933,-118.441656232,Mergus merganser,Common Merganser,2015-01-23,2500
+United States,35.6678936933,-118.441656232,Pelecanus erythrorhynchos,American White Pelican,2015-01-23,40
+United States,35.6678936933,-118.441656232,Aechmophorus clarkii,Clark's Grebe,2015-01-23,1
+United States,35.6678936933,-118.441656232,Aechmophorus occidentalis,Western Grebe,2015-01-23,1
+United States,34.21474783,-118.14563778,Setophaga auduboni,Audubon's Warbler,2015-02-14,3
+United States,34.21455023,-118.14499671,Dryobates nuttallii,Nuttall's Woodpecker,2015-02-14,1
+United States,34.22007521,-118.13897474,Selasphorus sasin,Allen's Hummingbird,2015-02-14,1
+United States,34.22007788,-118.13897445,Setophaga auduboni,Audubon's Warbler,2015-02-14,1
+United States,34.22102423,-118.13757478,Accipiter cooperii,Cooper's Hawk,2015-02-14,1
+United States,34.21989344,-118.13666074,Baeolophus inornatus,Oak Titmouse,2015-02-14,1
+United States,34.21758596,-118.14201944,Sialia mexicana,Western Bluebird,2015-02-14,2
+United States,34.2172223,-118.14525239,Setophaga auduboni,Audubon's Warbler,2015-02-14,4
+United States,34.21769175,-118.15053179,Baeolophus inornatus,Oak Titmouse,2015-02-14,3
+United States,34.21769136,-118.15053193,Setophaga auduboni,Audubon's Warbler,2015-02-14,1
+United States,33.9453491928,-115.970875025,Lanius ludovicianus,Loggerhead Shrike,2015-01-22,1
+United States,33.744842837,-115.811791196,Auriparus flaviceps,Verdin,2015-01-22,1
+United States,33.744842837,-115.811791196,Calypte anna,Anna's Hummingbird,2015-01-22,1
+United States,33.744842837,-115.811791196,Pipilo maculatus,Spotted Towhee,2015-01-22,1
+United States,33.744842837,-115.811791196,Phainopepla nitens,Phainopepla,2015-01-22,1
+United States,33.744842837,-115.811791196,Campylorhynchus brunneicapillus,Cactus Wren,2015-01-22,3
+United States,33.744842837,-115.811791196,Salpinctes obsoletus,Rock Wren,2015-01-22,1
+United States,33.7449320493,-115.811855569,Polioptila melanura,Black-tailed Gnatcatcher,2015-01-21,2
+United States,33.7426124986,-115.809688345,Auriparus flaviceps,Verdin,2015-01-21,1
+United States,33.7426124986,-115.809688345,Phainopepla nitens,Phainopepla,2015-01-21,1
+United States,33.7397397372,-115.812821165,Callipepla gambelii,Gambel's Quail,2015-01-21,12
+United States,33.7458241675,-115.812070146,Salpinctes obsoletus,Rock Wren,2015-01-21,1
+United States,33.7458241675,-115.812070146,Pipilo maculatus,Spotted Towhee,2015-01-21,1
+United States,33.7458241675,-115.812070146,Campylorhynchus brunneicapillus,Cactus Wren,2015-01-21,2
+United States,33.7458241675,-115.812070146,Auriparus flaviceps,Verdin,2015-01-21,1
+United States,33.7458241675,-115.812070146,Lanius ludovicianus,Loggerhead Shrike,2015-01-21,1
+United States,33.7458241675,-115.812070146,Calypte anna,Anna's Hummingbird,2015-01-21,2
+United States,33.7458241675,-115.812070146,Phainopepla nitens,Phainopepla,2015-01-21,4
+United States,33.7458241675,-115.812198892,Auriparus flaviceps,Verdin,2015-01-20,1
+United States,33.7458241675,-115.812198892,Calypte anna,Anna's Hummingbird,2015-01-20,2
+United States,34.013359983,-116.169847995,Ammospermophilus leucurus,White-tailed Antelope Squirrel,2015-01-20,1
+United States,34.013359983,-116.169847995,Baeolophus inornatus,Oak Titmouse,2015-01-20,1
+United States,34.013359983,-116.169847995,Buteo jamaicensis,Red-tailed Hawk,2015-01-20,1
+United States,34.013359983,-116.169847995,Corvus corax,Northern Raven,2015-01-20,4
+United States,34.0266259468,-116.144140363,Ammospermophilus leucurus,White-tailed Antelope Squirrel,2015-01-20,1
+United States,34.0266259468,-116.144140363,Neotamias obscurus,California Chipmunk,2015-01-20,1
+United States,34.0266259468,-116.144140363,Baeolophus inornatus,Oak Titmouse,2015-01-20,1
+United States,34.0266259468,-116.144140363,Phainopepla nitens,Phainopepla,2015-01-20,1
+United States,34.0266259468,-116.144140363,Aphelocoma californica,California Scrub Jay,2015-01-20,1
+United States,34.0266259468,-116.144140363,Junco hyemalis oreganus,Dark-eyed Junco ssp oreganus,2015-01-20,10
+United States,34.0266259468,-116.144140363,Salpinctes obsoletus,Rock Wren,2015-01-20,1
+United States,34.0495259591,-116.20845437,Corvus corax,Northern Raven,2015-01-20,10
+United States,34.0495259591,-116.20845437,Phainopepla nitens,Phainopepla,2015-01-20,7
+United States,34.0495259591,-116.20845437,Lanius ludovicianus,Loggerhead Shrike,2015-01-20,2
+United States,34.0735634284,-116.388501674,Campylorhynchus brunneicapillus,Cactus Wren,2015-01-20,2
+United States,34.0818811565,-116.37803033,Ammospermophilus leucurus,White-tailed Antelope Squirrel,2015-01-19,10
+United States,34.0701507908,-116.383523494,Amphispiza bilineata,Black-throated Sparrow,2015-01-19,6
+United States,34.0701507908,-116.383523494,Toxostoma lecontei,LeConte's Thrasher,2015-01-19,10
+United States,34.0701507908,-116.383523494,Campylorhynchus brunneicapillus,Cactus Wren,2015-01-19,6
+United States,34.0701507908,-116.383523494,Thryomanes bewickii,Bewick's Wren,2015-01-19,10
+United States,34.0701507908,-116.383523494,Gymnorhinus cyanocephalus,Pinyon Jay,2015-01-19,40
+United States,34.0701507908,-116.383523494,Aphelocoma californica,California Scrub Jay,2015-01-19,25
+United States,34.0701507908,-116.383523494,Dryobates scalaris,Ladder-backed Woodpecker,2015-01-19,3
+United States,40.5775,-74.6542,Odocoileus virginianus,White-tailed Deer,2015-02-09,4
+United States,34.3458444351,-117.914341986,Sitta carolinensis,White-breasted Nuthatch,2015-01-17,2
+United States,34.3458444351,-117.914341986,Sphyrapicus thyroideus,Williamson's Sapsucker,2015-01-17,2
+United States,34.3458444351,-117.914341986,Melanerpes formicivorus bairdi,Acorn Woodpecker ssp bairdi,2015-01-17,5
+United States,34.3458444351,-117.914341986,Patagioenas fasciata,Band-tailed Pigeon,2015-01-17,50
+United States,34.181027025,-118.13690532,Mephitis mephitis,Striped Skunk,2015-01-17,1
+United States,33.8103869099,-118.205278516,Anthus rubescens,Buff-bellied Pipit,2015-01-16,10
+United States,33.8103869099,-118.205278516,Hydroprogne caspia,Caspian Tern,2015-01-16,2
+United States,33.8103869099,-118.205278516,Larus delawarensis,Ring-billed Gull,2015-01-16,300
+United States,33.8103869099,-118.205278516,Tringa flavipes,Lesser Yellowlegs,2015-01-16,5
+United States,33.8103869099,-118.205278516,Himantopus mexicanus,Black-necked Stilt,2015-01-16,200
+United States,33.8103869099,-118.205278516,Recurvirostra americana,American Avocet,2015-01-16,10
+United States,33.8103869099,-118.205278516,Fulica americana,American Coot,2015-01-16,250
+United States,33.8103869099,-118.205278516,Oxyura jamaicensis,Ruddy Duck,2015-01-16,10
+United States,33.8103869099,-118.205278516,Anas carolinensis,Green-winged Teal,2015-01-16,30
+United States,33.8103869099,-118.205278516,Spatula discors,Blue-winged Teal,2015-01-16,20
+United States,33.8103869099,-118.205278516,Spatula cyanoptera,Cinnamon Teal,2015-01-16,30
+United States,34.186351806,-118.147429973,Setophaga auduboni,Audubon's Warbler,2015-01-16,20
+United States,34.186351806,-118.147429973,Bombycilla cedrorum,Cedar Waxwing,2015-01-16,40
+United States,34.186351806,-118.147429973,Baeolophus inornatus,Oak Titmouse,2015-01-16,1
+United States,34.186351806,-118.147429973,Sayornis nigricans semiater,Black Phoebe ssp semiater,2015-01-16,5
+United States,34.186351806,-118.147429973,Sphyrapicus nuchalis,Red-naped Sapsucker,2015-01-16,1
+United States,34.186351806,-118.147429973,Sialia mexicana,Western Bluebird,2015-01-16,10
+United States,34.1809205177,-118.136701472,Dryobates nuttallii,Nuttall's Woodpecker,2015-01-16,1
+United States,34.1881617417,-118.175953925,Haemorhous mexicanus,House Finch,2015-01-15,1
+United States,34.1881617417,-118.175953925,Sayornis nigricans semiater,Black Phoebe ssp semiater,2015-01-15,1
+United States,34.1881617417,-118.175953925,Buteo lineatus elegans,Red-shouldered Hawk ssp elegans,2015-01-15,1
+United States,34.1881617417,-118.175953925,Accipiter cooperii,Cooper's Hawk,2015-01-15,1
+United States,34.1881617417,-118.175953925,Aythya collaris,Ring-necked Duck,2015-01-15,3
+United States,34.1809382689,-118.13680876,Setophaga auduboni,Audubon's Warbler,2015-01-15,1
+United States,34.1809382689,-118.13680876,Haemorhous mexicanus,House Finch,2015-01-15,10
+United States,34.1809382689,-118.13680876,Selasphorus sasin,Allen's Hummingbird,2015-01-15,2
+United States,33.8726603763,-118.379487991,Corvus brachyrhynchos,American Crow,2015-01-15,1
+United States,36.0542294114,-112.131900791,Baeolophus ridgwayi,Juniper Titmouse,2009-01-10,1
+United States,37.8070669608,-122.472438816,Poecile rufescens,Chestnut-backed Chickadee,2009-01-07,1
+United States,37.8070669608,-122.472438816,Calypte anna,Anna's Hummingbird,2009-01-07,1
+United States,39.4090442363,-122.169227607,Spatula cyanoptera,Cinnamon Teal,2009-02-03,44
+United States,39.4090442363,-122.169227607,Anser caerulescens,Snow Goose,2009-02-03,4000
+United States,39.4090442363,-122.169227607,Anser albifrons,Greater White-fronted Goose,2009-02-03,30
+United States,40.7760562936,-73.9699883759,Turdus migratorius,American Robin,2015-01-25,1
+United States,40.7760562936,-73.9699883759,Baeolophus bicolor,Tufted Titmouse,2015-01-25,8
+United States,40.7760562936,-73.9699883759,Poecile atricapillus,Black-capped Chickadee,2015-01-25,4
+United States,40.7760562936,-73.9699883759,Sitta carolinensis,White-breasted Nuthatch,2015-01-25,2
+United States,40.7760562936,-73.9699883759,Melanerpes carolinus,Red-bellied Woodpecker,2015-01-25,1
+United States,40.7760562936,-73.9699883759,Dryobates pubescens,Downy Woodpecker,2015-01-25,1
+United States,40.7760562936,-73.9699883759,Cyanocitta cristata,Blue Jay,2015-01-25,1
+United States,40.7760562936,-73.9699883759,Cardinalis cardinalis,Northern Cardinal,2015-01-25,1
+United States,40.7760562936,-73.9699883759,Quiscalus quiscula,Common Grackle,2015-01-25,8
+United States,40.7760562936,-73.9699883759,Junco hyemalis,Dark-eyed Junco,2015-01-25,2
+United States,40.7760562936,-73.9699883759,Spinus tristis,American Goldfinch,2015-01-25,6
+United States,40.7760562936,-73.9699883759,Zonotrichia albicollis,White-throated Sparrow,2015-01-25,6
+United States,34.17834802,-118.47258447,Mimus polyglottos,Northern Mockingbird,2015-02-06,3
+United States,34.17730952,-118.47383548,Calypte anna,Anna's Hummingbird,2015-02-06,3
+United States,34.30285583,-116.89561373,Haemorhous cassinii,Cassin's Finch,2015-02-07,10
+United States,34.30627036,-116.89677626,Haemorhous cassinii,Cassin's Finch,2015-02-07,6
+United States,34.30945671,-116.89399901,Haemorhous cassinii,Cassin's Finch,2015-02-07,1
+United States,34.30344684,-116.89491185,Haemorhous cassinii,Cassin's Finch,2015-02-08,19
+United States,34.30800175,-116.92416134,Haemorhous cassinii,Cassin's Finch,2015-02-08,20
+United States,33.96719911,-118.42845163,Lophodytes cucullatus,Hooded Merganser,2015-02-05,5
+United States,33.96719889,-118.42845138,Podilymbus podiceps,Pied-billed Grebe,2015-02-05,3
+United States,33.96719883,-118.42845129,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-05,1
+United States,33.96818601,-118.4289589,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-05,1
+United States,33.9683348,-118.42946625,Selasphorus sasin,Allen's Hummingbird,2015-02-05,2
+United States,33.96843344,-118.42959547,Podilymbus podiceps,Pied-billed Grebe,2015-02-05,10
+United States,33.96869971,-118.4301679,Lophodytes cucullatus,Hooded Merganser,2015-02-05,2
+United States,33.96949164,-118.43032212,Geothlypis trichas,Common Yellowthroat,2015-02-05,3
+United States,33.9692957,-118.43294615,Sayornis nigricans,Black Phoebe,2015-02-05,1
+United States,33.96965338,-118.43468745,Polioptila caerulea,Blue-grey Gnatcatcher,2015-02-05,2
+United States,33.97136824,-118.43123804,Butorides virescens,Green Heron,2015-02-05,1
+United States,33.97126459,-118.43054374,Phalacrocorax auritus,Double-crested Cormorant,2015-02-05,1
+United States,33.96996713,-118.42935455,Corvus brachyrhynchos,American Crow,2015-02-05,2

@@ -1,0 +1,241 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Lithuania,54.47496861,25.13807977,Cygnus cygnus,Whooper Swan,2015-03-11,40
+Lithuania,54.66182995,25.25798673,Corvus cornix,Hooded Crow,2015-03-14,1
+Lithuania,54.4749542,25.13807662,Cygnus cygnus,Whooper Swan,2015-03-14,12
+Lithuania,54.47495371,25.13807751,Bucephala clangula,Common Goldeneye,2015-03-14,30
+Lithuania,54.75026997,25.29422119,Corvus cornix,Hooded Crow,2015-03-02,2
+Lithuania,54.72608503,25.28643139,Sitta europaea,Eurasian Nuthatch,2015-03-04,4
+Lithuania,54.71524413,25.3110332,Mergus merganser,Common Merganser,2015-03-04,3
+Lithuania,54.69126121,25.2422228,Mergus merganser,Common Merganser,2015-03-10,2
+Lithuania,54.47170983,25.14449711,Lanius excubitor,Great Grey Shrike,2015-03-11,1
+Lithuania,54.46954091,25.13439919,Bucephala clangula,Common Goldeneye,2015-03-11,3
+Lithuania,54.46400195,25.12367597,Lanius excubitor,Great Grey Shrike,2015-03-11,1
+Lithuania,55.27603007,21.46170217,Motacilla alba,White Wagtail,2015-03-10,1
+Lithuania,55.40579973,21.2818335,Ardea cinerea,Grey Heron,2015-02-19,1
+Lithuania,55.40596266,21.28176782,Haliaeetus albicilla,White-tailed Eagle,2015-02-19,15
+Lithuania,55.72982726,21.08495207,Clangula hyemalis,Long-tailed Duck,2015-02-19,3
+Lithuania,54.4516417639995,24.9848159369661,Cygnus cygnus,Whooper Swan,2015-03-03,13
+Lithuania,54.58202,25.204095,Corvus cornix,Hooded Crow,2015-03-05,10
+Lithuania,56.34,24.88,Dendrocopos leucotos leucotos,White-backed Woodpecker ssp leucotos,2015-03-07,1
+Lithuania,56.35,24.83,Dendrocopos leucotos leucotos,White-backed Woodpecker ssp leucotos,2015-03-07,2
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-03-04,1
+Lithuania,54.89,23.9,Corvus frugilegus,Rook,2015-03-04,1
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-03-04,3
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-03-04,1
+Lithuania,54.92,23.87,Parus major,Great Tit,2015-03-04,1
+Lithuania,54.96,23.92,Coloeus monedula,Western Jackdaw,2015-03-04,5
+Lithuania,54.96,23.92,Corvus frugilegus,Rook,2015-03-04,6
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-03-04,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-03-04,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-03-03,20
+Lithuania,54.92,23.91,Coloeus monedula,Western Jackdaw,2015-03-03,30
+Lithuania,54.92,23.91,Corvus frugilegus,Rook,2015-03-03,20
+Lithuania,54.92,23.91,Corvus cornix,Hooded Crow,2015-03-03,20
+Lithuania,54.93,23.92,Corvus frugilegus,Rook,2015-03-03,1
+Lithuania,54.96,23.92,Corvus cornix,Hooded Crow,2015-03-03,2
+Lithuania,54.96,23.92,Corvus frugilegus,Rook,2015-03-03,7
+Lithuania,54.96,23.93,Parus major,Great Tit,2015-03-03,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-03-02,10
+Lithuania,54.94,23.91,Anas platyrhynchos,Mallard,2015-03-02,1
+Lithuania,54.94,23.91,Anas platyrhynchos,Mallard,2015-03-02,7
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-03-02,1
+Lithuania,54.93,23.88,Coloeus monedula,Western Jackdaw,2015-03-01,10
+Lithuania,54.93,23.88,Corvus frugilegus,Rook,2015-03-01,10
+Lithuania,54.89,23.88,Corvus frugilegus,Rook,2015-03-01,6
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-03-01,15
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-03-01,4
+Lithuania,54.93,23.78,Passer domesticus,House Sparrow,2015-03-01,1
+Lithuania,54.93,23.78,Parus major,Great Tit,2015-03-01,3
+Lithuania,54.96,23.94,Pica pica,Eurasian Magpie,2015-03-01,2
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-03-01,2
+Lithuania,54.9,23.89,Passer domesticus,House Sparrow,2015-02-28,1
+Lithuania,54.96,24,Cygnus olor,Mute Swan,2015-02-27,2
+Lithuania,54.9,23.9,Coloeus monedula,Western Jackdaw,2015-02-28,100
+Lithuania,54.9,23.9,Corvus frugilegus,Rook,2015-02-28,50
+Lithuania,54.65,24.28,Dryocopus martius,Black Woodpecker,2015-02-28,1
+Lithuania,54.65,24.28,Sitta europaea,Eurasian Nuthatch,2015-02-28,2
+Lithuania,54.65,24.28,Sitta europaea,Eurasian Nuthatch,2015-02-28,1
+Lithuania,54.65,24.28,Dendrocopos major,Great Spotted Woodpecker,2015-02-28,3
+Lithuania,54.65,24.28,Lophophanes cristatus,European Crested Tit,2015-02-28,1
+Lithuania,54.65,24.28,Dendrocopos major,Great Spotted Woodpecker,2015-02-28,2
+Lithuania,54.65,24.28,Poecile montanus,Willow Tit,2015-02-28,1
+Lithuania,54.65,24.29,Dendrocopos major,Great Spotted Woodpecker,2015-02-28,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-28,20
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-28,1
+Lithuania,54.96,23.95,Turdus pilaris,Fieldfare,2015-02-28,1
+Lithuania,54.96,23.95,Parus major,Great Tit,2015-02-28,1
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-28,1
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-27,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-26,3
+Lithuania,54.89,23.9,Corvus frugilegus,Rook,2015-02-26,1
+Lithuania,54.94,23.88,Corvus frugilegus,Rook,2015-02-25,8
+Lithuania,54.91,23.88,Turdus merula,Common Blackbird,2015-02-25,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-25,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-25,5
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-25,3
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-25,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-25,1
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-25,1
+Lithuania,54.9,23.88,Anas platyrhynchos,Mallard,2015-02-25,4
+Lithuania,54.92,23.88,Corvus frugilegus,Rook,2015-02-25,15
+Lithuania,54.96,23.9,Corvus cornix,Hooded Crow,2015-02-25,1
+Lithuania,54.96,23.95,Parus major,Great Tit,2015-02-25,1
+Lithuania,54.96,23.9,Parus major,Great Tit,2015-02-25,1
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-24,1
+Lithuania,54.89,23.9,Corvus frugilegus,Rook,2015-02-24,1
+Lithuania,54.89,23.9,Corvus frugilegus,Rook,2015-02-24,5
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-24,2
+Lithuania,55.26768941,21.46132439,Plectrophenax nivalis,Snow Bunting,2015-02-25,17
+Lithuania,54.94,23.91,Anas platyrhynchos,Mallard,2015-02-23,5
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-23,1
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-23,3
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-23,1
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-23,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-23,1
+Lithuania,54.93,23.88,Corvus frugilegus,Rook,2015-02-23,12
+Lithuania,54.96,23.94,Pica pica,Eurasian Magpie,2015-02-22,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-22,10
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-22,2
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-22,1
+Lithuania,54.96,23.94,Turdus merula,Common Blackbird,2015-02-22,1
+Lithuania,54.96,23.92,Coloeus monedula,Western Jackdaw,2015-02-21,10
+Lithuania,54.96,23.92,Corvus frugilegus,Rook,2015-02-21,10
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-21,2
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-21,2
+Lithuania,54.96,23.94,Pica pica,Eurasian Magpie,2015-02-21,5
+Lithuania,54.96,23.95,Buteo buteo,Common Buzzard,2015-02-21,1
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-21,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-21,10
+Lithuania,54.96,23.94,Turdus merula,Common Blackbird,2015-02-21,1
+Lithuania,54.96,23.94,Buteo buteo,Common Buzzard,2015-02-20,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-20,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-20,2
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-20,2
+Lithuania,54.92,23.87,Parus major,Great Tit,2015-02-20,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-20,1
+Lithuania,54.94,23.91,Anas platyrhynchos,Mallard,2015-02-19,2
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-19,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-19,3
+Lithuania,54.89,23.89,Turdus pilaris,Fieldfare,2015-02-19,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-19,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-18,1
+Lithuania,54.72409604,25.28143571,Corvus cornix,Hooded Crow,2015-02-15,1
+Lithuania,55.40141442,21.27392179,Ardea cinerea,Grey Heron,2015-02-18,1
+Lithuania,55.36399307,21.27247563,Anser anser,Greylag Goose,2015-02-18,32
+Lithuania,55.39833214,21.28540833,Anser anser,Greylag Goose,2015-02-18,6
+Lithuania,55.39688821,21.26465999,Haliaeetus albicilla,White-tailed Eagle,2015-02-18,16
+Lithuania,55.36400056,21.2724527,Anser anser,Greylag Goose,2015-02-18,32
+Lithuania,55.27530063,21.46176926,Haliaeetus albicilla,White-tailed Eagle,2015-02-18,2
+Lithuania,55.32151247,21.42423982,Haliaeetus albicilla,White-tailed Eagle,2015-02-18,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-17,50
+Lithuania,54.96,23.93,Parus major,Great Tit,2015-02-17,1
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-17,2
+Lithuania,54.89,23.9,Columba livia domestica,Feral Pigeon,2015-02-17,1
+Lithuania,54.9,23.88,Corvus cornix,Hooded Crow,2015-02-17,3
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-17,1
+Lithuania,54.9,23.89,Mergus merganser,Common Merganser,2015-02-17,1
+Lithuania,54.89,23.87,Corvus frugilegus,Rook,2015-02-16,1
+Lithuania,54.89,23.87,Pica pica,Eurasian Magpie,2015-02-16,1
+Lithuania,54.89,23.87,Corvus cornix,Hooded Crow,2015-02-16,4
+Lithuania,54.89,23.88,Turdus merula,Common Blackbird,2015-02-16,1
+Lithuania,54.89,23.88,Chroicocephalus ridibundus,Black-headed Gull,2015-02-16,10
+Lithuania,54.89,23.88,Anas platyrhynchos,Mallard,2015-02-16,1
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-16,1
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-16,14
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-16,5
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-16,2
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-16,1
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-16,1
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-15,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-15,10
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-15,1
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-15,2
+Lithuania,54.96,23.94,Pica pica,Eurasian Magpie,2015-02-15,1
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-15,3
+Lithuania,54.97,23.93,Buteo buteo,Common Buzzard,2015-02-15,2
+Lithuania,54.97,23.81,Corvus cornix,Hooded Crow,2015-02-15,12
+Lithuania,54.93,23.88,Coloeus monedula,Western Jackdaw,2015-02-15,1
+Lithuania,54.93,23.88,Corvus frugilegus,Rook,2015-02-15,15
+Lithuania,54.96,23.82,Corvus frugilegus,Rook,2015-02-15,10
+Lithuania,54.95,23.86,Buteo buteo,Common Buzzard,2015-02-15,1
+Lithuania,54.95,23.9,Corvus frugilegus,Rook,2015-02-15,1
+Lithuania,54.96,23.9,Corvus cornix,Hooded Crow,2015-02-15,1
+Lithuania,54.96,23.92,Coloeus monedula,Western Jackdaw,2015-02-15,15
+Lithuania,54.96,23.9,Corvus frugilegus,Rook,2015-02-15,15
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-15,12
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-15,4
+Lithuania,54.93,23.9,Corvus cornix,Hooded Crow,2015-02-14,1
+Lithuania,54.93,24,Buteo buteo,Common Buzzard,2015-02-14,1
+Lithuania,54.86,24.19,Dendrocopos major,Great Spotted Woodpecker,2015-02-14,1
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-14,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-14,30
+Lithuania,54.96,23.94,Bombycilla garrulus,Bohemian Waxwing,2015-02-14,59
+Lithuania,54.96,23.94,Bombycilla garrulus,Bohemian Waxwing,2015-02-13,54
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-13,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-13,1
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-13,1
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-13,1
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-13,1
+Lithuania,54.9,23.88,Corvus frugilegus,Rook,2015-02-13,12
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-12,100
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-12,1
+Lithuania,54.95,23.93,Buteo buteo,Common Buzzard,2015-02-11,1
+Lithuania,54.94,23.91,Anas platyrhynchos,Mallard,2015-02-11,2
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-11,3
+Lithuania,54.92,23.96,Coloeus monedula,Western Jackdaw,2015-02-11,10
+Lithuania,54.92,23.96,Corvus frugilegus,Rook,2015-02-11,5
+Lithuania,54.96,23.95,Parus major,Great Tit,2015-02-11,1
+Lithuania,54.9,23.88,Corvus cornix,Hooded Crow,2015-02-10,2
+Lithuania,54.9,23.88,Corvus frugilegus,Rook,2015-02-10,3
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-09,20
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-09,1
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-09,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-09,1
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-09,2
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-09,2
+Lithuania,54.9,23.88,Corvus cornix,Hooded Crow,2015-02-09,9
+Lithuania,54.9,23.88,Coloeus monedula,Western Jackdaw,2015-02-09,2
+Lithuania,54.9,23.88,Corvus frugilegus,Rook,2015-02-09,12
+Lithuania,54.96,23.95,Turdus pilaris,Fieldfare,2015-02-08,1
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-08,1
+Lithuania,54.96,23.94,Turdus pilaris,Fieldfare,2015-02-07,3
+Lithuania,54.96,23.94,Pica pica,Eurasian Magpie,2015-02-08,2
+Lithuania,54.96,23.94,Buteo buteo,Common Buzzard,2015-02-08,1
+Lithuania,54.93,23.96,Corvus cornix,Hooded Crow,2015-02-07,2
+Lithuania,54.93,23.98,Corvus frugilegus,Rook,2015-02-07,3
+Lithuania,54.93,23.93,Corvus frugilegus,Rook,2015-02-07,10
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-07,1
+Lithuania,54.94,23.91,Mergus merganser,Common Merganser,2015-02-07,2
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-07,1
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-07,2
+Lithuania,54.96,23.94,Corvus cornix,Hooded Crow,2015-02-07,1
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-07,25
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-07,10
+Lithuania,55.40503163,21.2811224,Ardea cinerea,Grey Heron,2015-02-10,1
+Lithuania,55.40148452,21.28686707,Anser anser,Greylag Goose,2015-02-10,3
+Lithuania,54.96,23.94,Parus major,Great Tit,2015-02-06,2
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-06,15
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-06,1
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-06,5
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-06,1
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-06,11
+Lithuania,54.96,23.94,Passer montanus,Eurasian Tree Sparrow,2015-02-05,15
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-05,1
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-05,1
+Lithuania,54.9,23.88,Corvus frugilegus,Rook,2015-02-05,2
+Lithuania,54.9,23.88,Corvus cornix,Hooded Crow,2015-02-05,7
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-05,10
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-05,3
+Lithuania,54.91,23.91,Anas platyrhynchos,Mallard,2015-02-04,1
+Lithuania,54.91,23.91,Anas platyrhynchos,Mallard,2015-02-04,3
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-04,1
+Lithuania,54.89,23.9,Passer domesticus,House Sparrow,2015-02-04,2
+Lithuania,54.89,23.9,Parus major,Great Tit,2015-02-04,2
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-04,10
+Lithuania,54.89,23.9,Coloeus monedula,Western Jackdaw,2015-02-04,10
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-04,4
+Lithuania,54.9,23.89,Anas platyrhynchos,Mallard,2015-02-03,5
+Lithuania,54.9,23.89,Cygnus olor,Mute Swan,2015-02-03,3
+Lithuania,54.9,23.89,Cygnus olor,Mute Swan,2015-02-03,2
+Lithuania,54.89,23.9,Corvus frugilegus,Rook,2015-02-03,10
+Lithuania,54.89,23.9,Corvus cornix,Hooded Crow,2015-02-03,3

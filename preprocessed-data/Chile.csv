@@ -1,0 +1,118 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Chile,-50.9574119678431,-72.7579122036696,Lama guanicoe,Guanaco,2015-02-25,35
+Chile,-18.41366365,-70.32559563,Leucophaeus modestus,Grey Gull,2015-03-05,75
+Chile,-18.40720786,-70.32833073,Anthus peruvianus,Peruvian Pipit,2015-03-05,3
+Chile,-33.61252138,-69.97593759,Phegornis mitchellii,Diademed Sandpiper-Plover,2015-03-07,1
+Chile,-33.43263762,-70.61772027,Myiopsitta monachus,Monk Parakeet,2015-03-08,7
+Chile,-18.2054309705292,-69.2761782556772,Plegadis ridgwayi,Puna Ibis,2015-03-04,4
+Chile,-18.1660505939572,-69.4350408017635,Lagidium viscacia,Southern Viscacha,2015-03-04,8
+Chile,-18.1661095284617,-69.4395620003343,Vicugna vicugna,Vicugna,2015-03-04,8
+Chile,-18.1627938741783,-69.4397111982107,Vicugna vicugna,Vicugna,2015-03-04,12
+Chile,-18.1841091064058,-69.3839923292398,Vicugna vicugna,Vicugna,2015-03-04,4
+Chile,-33.0287162575624,-71.6565385088325,Sula variegata,Peruvian Booby,2015-03-01,500
+Chile,-33.0286032574349,-71.6285801678896,Cathartes aura,Turkey Vulture,2015-03-01,2
+Chile,-18.53219656,-70.16696266,Rhodopis vesper,Oasis Hummingbird,2015-03-02,12
+Chile,-18.53219618,-70.16696248,Eulidia yarrellii,Chilean Woodstar,2015-03-02,1
+Chile,-18.2084139506382,-69.5436729490757,Phrygilus atriceps,Black-hooded Sierra Finch,2015-03-03,1
+Chile,-18.19789305,-69.55604819,Metriopelia ceciliae,Bare-faced Ground Dove,2015-03-03,6
+Chile,-18.19791714,-69.55609894,Phrygilus atriceps,Black-hooded Sierra Finch,2015-03-03,1
+Chile,-18.1994718641708,-69.5566752925515,Nothoprocta ornata,Ornate Tinamou,2015-03-03,3
+Chile,-18.17008794,-69.43142535,Lagidium viscacia,Southern Viscacha,2015-03-04,8
+Chile,-18.2195854992233,-69.3127300590277,Phoenicopterus chilensis,Chilean Flamingo,2015-03-04,85
+Chile,-18.2195854992233,-69.3127300590277,Phoenicoparrus jamesi,James's Flamingo,2015-03-04,4
+Chile,-18.2153775421051,-69.2992294952273,Phoenicoparrus jamesi,James's Flamingo,2015-03-04,3
+Chile,-18.2153775421051,-69.2992294952273,Phoenicoparrus andinus,Andean Flamingo,2015-03-04,2
+Chile,-18.2153775421051,-69.2992294952273,Chroicocephalus serranus,Andean Gull,2015-03-04,11
+Chile,-18.1999137,-69.27092564,Fulica gigantea,Giant Coot,2015-03-04,2
+Chile,-18.2014720572799,-69.2716738209128,Cinclodes albiventris albiventris,Cream-winged Cinclodes ssp albiventris,2015-03-04,3
+Chile,-18.2097388538845,-69.512823857367,Phrygilus atriceps,Black-hooded Sierra Finch,2015-03-04,1
+Chile,-18.19873711,-69.55684876,Oreotrochilus estella,Andean Hillstar,2015-03-04,2
+Chile,-18.1989769083835,-69.5563125237823,Nothoprocta ornata,Ornate Tinamou,2015-03-04,5
+Chile,-18.1983691,-69.55660949,Patagona gigas,Giant Hummingbird,2015-03-04,1
+Chile,-18.19836959,-69.55661022,Oreotrochilus estella,Andean Hillstar,2015-03-04,3
+Chile,-18.1975312,-69.55645554,Oreotrochilus estella,Andean Hillstar,2015-03-04,3
+Chile,-18.1996069097786,-69.558074735105,Cinclodes albiventris albiventris,Cream-winged Cinclodes ssp albiventris,2015-03-04,3
+Chile,-32.957615354385,-71.5512923151255,Larosterna inca,Inca Tern,2015-03-01,45
+Chile,-32.957615354385,-71.5512923151255,Pelecanus thagus,Peruvian Pelican,2015-03-01,100
+Chile,-32.957615354385,-71.5512923151255,Otaria byronia,South American Sea Lion,2015-03-01,55
+Chile,-53.1650017042,-70.9014805144,Phalacrocorax magellanicus,Rock Shag,2015-02-11,10
+Chile,-32.73573302,-71.66532105,Pterodroma externa,Juan Fernandez Petrel,2015-02-28,1
+Chile,-32.79037729,-71.65113464,Pterodroma externa,Juan Fernandez Petrel,2015-02-28,1
+Chile,-32.76625449,-71.53070607,Otaria byronia,South American Sea Lion,2015-02-28,3
+Chile,-53.1630621255,-70.8966128294,Lophonetta specularioides specularioides,Crested Duck ssp specularioides,2015-02-07,10
+Chile,-41.7993114088,-73.4788370132,Chroicocephalus maculipennis,Brown-hooded Gull,2015-02-07,100
+Chile,-53.3100018766055,-70.7409051060677,Orcinus orca,Killer Whale,2015-02-18,7
+Chile,-53.41706595,-70.0128598,Orcinus orca,Killer Whale,2015-02-22,5
+Chile,-53.1776714041211,-70.6892407312989,Macronectes giganteus,Southern Giant Petrel,2015-02-22,5
+Chile,-52.98624953,-71.2410338,Spheniscus magellanicus,Magellanic Penguin,2015-02-23,26
+Chile,-52.88254579,-70.93368438,Rhea pennata,Lesser Rhea,2015-02-23,1
+Chile,-52.84593905,-70.96691153,Rhea pennata,Lesser Rhea,2015-02-23,8
+Chile,-52.79144395,-71.00477163,Rhea pennata,Lesser Rhea,2015-02-23,3
+Chile,-52.7803636,-71.00629225,Rhea pennata,Lesser Rhea,2015-02-23,4
+Chile,-51.11947872,-73.13148644,Enicognathus ferrugineus,Austral Parakeet,2015-02-24,12
+Chile,-51.0351613678053,-72.8765248507261,Fulica armillata,Red-gartered Coot,2015-02-24,2
+Chile,-50.97315416,-72.87529075,Vultur gryphus,Andean Condor,2015-02-25,3
+Chile,-50.9415611663437,-72.9338258877397,Merganetta armata,Torrent Duck,2015-02-25,1
+Chile,-50.9415611663437,-72.9338258877397,Zonotrichia capensis,Rufous-collared Sparrow,2015-02-25,15
+Chile,-51.72439565,-72.51116889,Cygnus melancoryphus,Black-necked Swan,2015-02-26,5
+Chile,-52.64745422,-71.12170674,Rhea pennata,Lesser Rhea,2015-02-26,12
+Chile,-52.66663352,-71.10762545,Rhea pennata,Lesser Rhea,2015-02-26,2
+Chile,-53.16382944,-70.89685772,Leucophaeus scoresbii,Dolphin Gull,2015-02-26,2
+Chile,-18.4157354062,-70.3233857453,Leucophaeus pipixcan,Franklin's Gull,2015-01-28,200
+Chile,-18.4157354062,-70.3233857453,Himantopus mexicanus mexicanus,Black-necked Stilt ssp mexicanus,2015-01-28,1
+Chile,-18.4157354062,-70.3233857453,Anas bahamensis rubrirostris,White-cheeked Pintail ssp rubrirostris,2015-01-28,12
+Chile,-18.4157354062,-70.3233857453,Spatula puna,Puna Teal,2015-01-28,1
+Chile,-18.215595065,-69.3168880522,Lophonetta specularioides alticola,Crested Duck ssp alticola,2015-01-28,10
+Chile,-51.0285067468,-72.7743141229,Lycalopex griseus,South American Grey Fox,2015-02-09,4
+Chile,-51.0285067468,-72.7743141229,Lama guanicoe,Guanaco,2015-02-09,50
+Chile,-52.5372519173,-70.5519032478,Conepatus humboldtii,Humboldt's Hog-nosed Skunk,2015-02-11,1
+Chile,-32.780672315,-71.523899585,Otaria byronia,South American Sea Lion,2015-01-30,25
+Chile,-53.4536124354283,-69.3053704127669,Aptenodytes patagonicus,King Penguin,2015-02-19,50
+Chile,-53.287543624198896,-69.123349674046,Theristicus melanopis,Black-faced Ibis,2015-02-19,12
+Chile,-18.1776228432,-69.5159448963,Vicugna vicugna,Vicugna,2015-01-27,10
+Chile,-18.1822699299,-69.4182677323,Lagidium viscacia,Southern Viscacha,2015-01-28,4
+Chile,-27.1184851191,-73.3387664845,Phaethon rubricauda,Red-tailed Tropicbird,2009-01-04,1
+Chile,-27.1184851191,-73.3387664845,Milvago chimango chimango,Chimango Caracara ssp chimango,2009-01-04,1
+Chile,-29.9242314716,-71.2389772385,Cathartes aura,Turkey Vulture,2009-01-02,1
+Chile,-22.5298220702,-68.0236770445,Fulica gigantea,Giant Coot,2008-12-31,1
+Chile,-22.5298220702,-68.0236770445,Spatula puna,Puna Teal,2008-12-31,1
+Chile,-22.5298220702,-68.0236770445,Lophonetta specularioides,Crested Duck,2008-12-31,1
+Chile,-22.4156115945,-68.0394698912,Phoenicoparrus andinus,Andean Flamingo,2008-12-31,1
+Chile,-22.4297883255,-68.0344951636,Rhea pennata,Lesser Rhea,2008-12-31,1
+Chile,-23.7401408363,-67.7901643756,Chroicocephalus serranus,Andean Gull,2008-12-30,1
+Chile,-23.7401408363,-67.7901643756,Phrygilus unicolor,Plumbeous Sierra Finch,2008-12-30,1
+Chile,-23.7401408363,-67.7901643756,Fulica ardesiaca,Andean Coot,2008-12-30,1
+Chile,-23.2884051792,-68.1765745634,Phoenicoparrus jamesi,James's Flamingo,2008-12-30,1
+Chile,-23.2884051792,-68.1765745634,Phoenicoparrus andinus,Andean Flamingo,2008-12-30,1
+Chile,-23.2884051792,-68.1765745634,Phoenicopterus chilensis,Chilean Flamingo,2008-12-30,1
+Chile,-22.7791000729,-67.7978873905,Phoenicoparrus andinus,Andean Flamingo,2008-12-29,1
+Chile,-33.4386794,-70.6347841,Myiopsitta monachus,Monk Parakeet,2015-02-16,2
+Chile,-33.4336343,-70.6175822,Myiopsitta monachus,Monk Parakeet,2015-02-16,2
+Chile,-33.4277579,-70.6282165,Zonotrichia capensis,Rufous-collared Sparrow,2015-02-17,3
+Chile,-33.4288294,-70.6297293,Zenaida auriculata,Eared Dove,2015-02-17,11
+Chile,-33.4362683,-70.6371554,Myiopsitta monachus,Monk Parakeet,2015-02-17,12
+Chile,-33.4227283,-70.6382159,Zonotrichia capensis,Rufous-collared Sparrow,2015-02-17,3
+Chile,-53.16499576441834,-70.9014935439699,Leucophaeus scoresbii,Dolphin Gull,2015-02-11,15
+Chile,-53.1650017,-70.90148051,Leucocarbo atriceps atriceps,Imperial Shag ssp atriceps,2015-02-11,1000
+Chile,-53.16839120260089,-70.91219503858214,Leucophaeus scoresbii,Dolphin Gull,2015-02-11,1
+Chile,-52.73306445732077,-70.96606530167405,Lophonetta specularioides specularioides,Crested Duck ssp specularioides,2015-02-11,10
+Chile,-51.29636329057282,-72.41140277430591,Vultur gryphus,Andean Condor,2015-02-10,35
+Chile,-50.9736711635,-72.8674373495,Rollandia rolland chilensis,White-tufted Grebe ssp chilensis,2015-02-09,1
+Chile,-51.178875641155386,-72.9566817124779,Chloephaga picta,Upland Goose,2015-02-09,5
+Chile,-51.03048270115304,-72.83879901377811,Fulica armillata,Red-gartered Coot,2015-02-09,3
+Chile,-51.03047282786226,-72.83879657090219,Speculanas specularis,Bronze-winged Duck,2015-02-09,2
+Chile,-51.0285067468,-72.7743141229,Phrygilus gayi caniceps,Grey-hooded Sierra Finch ssp caniceps,2015-02-09,3
+Chile,-51.0285067468,-72.7743141229,Anas georgica spinicauda,Yellow-billed Pintail ssp spinicauda,2015-02-09,10
+Chile,-53.625472477655514,-70.9556761110183,Chloephaga poliocephala,Ashy-headed Goose,2015-02-08,20
+Chile,-53.63295464591657,-70.94828459618468,Chloephaga rubidiceps,Ruddy-headed Goose,2015-02-08,2
+Chile,-53.60107525272706,-70.95089890968565,Tachyeres pteneres,Fuegian Steamer Duck,2015-02-08,2
+Chile,-53.59705089902518,-70.94446204222778,Chloephaga hybrida,Kelp Goose,2015-02-08,2
+Chile,-53.16306212547329,-70.89661282943393,Mareca sibilatrix,Chiloe Wigeon,2015-02-07,50
+Chile,-41.84235256527401,-73.54704653626509,Enicognathus leptorhynchus,Slender-billed Parakeet,2015-02-07,4
+Chile,-41.83923778217982,-73.62998843190026,Accipiter chilensis,Chilean Hawk,2015-02-07,3
+Chile,-41.82979834183738,-73.52939253707893,Cygnus melancoryphus,Black-necked Swan,2015-02-07,100
+Chile,-41.8309476795,-73.527218282,Tachyeres pteneres,Fuegian Steamer Duck,2015-02-07,2
+Chile,-41.8294251207,-73.5197669463,Megaceryle torquata stellata,Ringed Kingfisher ssp stellata,2015-02-07,1
+Chile,-41.50405716532559,-72.79958803402826,Haematopus leucopodus,Magellanic Oystercatcher,2015-02-06,1
+Chile,-41.47434536904049,-72.9442848047895,Chroicocephalus maculipennis,Brown-hooded Gull,2015-02-05,1
+Chile,-41.1122338788,-72.6251460832,Theristicus melanopis,Black-faced Ibis,2015-02-05,10

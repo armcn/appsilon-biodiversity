@@ -1,0 +1,535 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Costa Rica,10.4280505728,-84.0189152956,Rhynchonycteris naso,Proboscis Bat,2015-02-27,9
+Costa Rica,9.40264032967,-83.6678909138,Aramides cajaneus,Grey-necked Wood Rail,2015-03-07,2
+Costa Rica,10.4353119864,-84.7029872239,Sciurus variegatoides,Variegated Squirrel,2015-03-01,2
+Costa Rica,10.4353119864,-84.7029872239,Campylopterus hemileucurus,Violet Sabrewing,2015-03-01,4
+Costa Rica,9.80842759073,-84.6113866009,Battus polydamas,Polydamas Swallowtail,2015-03-04,2
+Costa Rica,9.55115382322,-83.8061641529,Columbina talpacoti,Ruddy Ground Dove,2015-03-09,3
+Costa Rica,9.55159818761,-83.8074516132,Lampornis cinereicauda,Grey-tailed Mountaingem,2015-03-09,5
+Costa Rica,9.55159818761,-83.8074516132,Eupherusa eximia,Stripe-tailed Hummingbird,2015-03-09,3
+Costa Rica,9.55159818761,-83.8074516132,Colibri cyanotus,Lesser Violetear,2015-03-09,4
+Costa Rica,9.55159818761,-83.8074516132,Streptoprocne rutila,Chestnut-collared Swift,2015-03-09,4
+Costa Rica,9.54583198563,-83.8116680458,Empidonax atriceps,Black-capped Flycatcher,2015-03-09,1
+Costa Rica,9.54583198563,-83.8116680458,Contopus lugubris,Dark Pewee,2015-03-09,1
+Costa Rica,9.54583198563,-83.8116680458,Serpophaga cinerea,Torrent Tyrannulet,2015-03-09,3
+Costa Rica,9.54583198563,-83.8116680458,Cinclus mexicanus,American Dipper,2015-03-09,2
+Costa Rica,9.55211661199,-83.8070653751,Henicorhina leucophrys,Grey-breasted Wood Wren,2015-03-09,2
+Costa Rica,9.58372850883,-83.7979906239,Myioborus torquatus,Collared Whitestart,2015-03-09,3
+Costa Rica,9.58372850883,-83.7979906239,Pselliophorus tibialis,Yellow-thighed Finch,2015-03-09,6
+Costa Rica,9.58372850883,-83.7979906239,Pezopetes capitalis,Large-footed Finch,2015-03-09,2
+Costa Rica,9.5497466655,-83.8078271225,Chlorophonia callophrys,Golden-browed Chlorophonia,2015-03-09,1
+Costa Rica,9.55262445552,-83.8076769188,Odontophorus guttatus,Spotted Wood Quail,2015-03-09,4
+Costa Rica,9.5510163644,-83.8070511259,Turdus nigrescens,Sooty Thrush,2015-03-09,7
+Costa Rica,9.39097332364,-83.7231427431,Antirrhea philoctetes,Northern Antirrhea,2015-03-07,3
+Costa Rica,9.39097332364,-83.7231427431,Adelpha cytherea,Smooth-banded Sister,2015-03-07,1
+Costa Rica,9.39097332364,-83.7231427431,Anartia fatima,Banded Peacock,2015-03-07,17
+Costa Rica,9.39097332364,-83.7231427431,Tangara gyrola,Bay-headed Tanager,2015-03-07,2
+Costa Rica,9.39097332364,-83.7231427431,Tangara larvata,Golden-hooded Tanager,2015-03-07,12
+Costa Rica,9.39097332364,-83.7231427431,Eucometis penicillata,Grey-headed Tanager,2015-03-07,7
+Costa Rica,9.39097332364,-83.7231427431,Manacus aurantiacus,Orange-collared Manakin,2015-03-07,2
+Costa Rica,9.39097332364,-83.7231427431,Lepidothrix coronata,Blue-crowned Manakin,2015-03-07,3
+Costa Rica,9.40584747594,-83.6665605381,Melanerpes chrysauchen,Golden-naped Woodpecker,2015-03-07,1
+Costa Rica,9.41074810735,-83.6702941731,Vanellus chilensis,Southern Lapwing,2015-03-07,2
+Costa Rica,9.40316939839,-83.671009317,Tyrannus savana,Fork-tailed Flycatcher,2015-03-07,2
+Costa Rica,9.40295770484,-83.6682841927,Catharus aurantiirostris,Orange-billed Nightingale-Thrush,2015-03-07,2
+Costa Rica,9.40295770484,-83.6682841927,Crotophaga ani,Smooth-billed Ani,2015-03-07,1
+Costa Rica,9.40295770484,-83.6682841927,Progne chalybea,Grey-breasted Martin,2015-03-07,2
+Costa Rica,9.40295770484,-83.6682841927,Stelgidopteryx ruficollis,Southern Rough-winged Swallow,2015-03-07,50
+Costa Rica,9.80892439229,-84.6109234169,Rhinella marina,Cane Toad,2015-03-04,3
+Costa Rica,9.80892439229,-84.6109234169,Trachycephalus venulosus,Common milk frog,2015-03-04,6
+Costa Rica,9.78654156682,-84.5946970582,Diclidurus albus,Northern Ghost Bat,2015-03-04,1
+Costa Rica,9.79064441315,-84.5982737839,Trogon rufus,Black-throated Trogon,2015-03-04,1
+Costa Rica,9.79064441315,-84.5982737839,Gymnopithys bicolor,Bicolored Antbird,2015-03-04,2
+Costa Rica,9.79064441315,-84.5982737839,Poliocrania exsul,Chestnut-backed Antbird,2015-03-04,3
+Costa Rica,9.79064441315,-84.5982737839,Microrhopias quixensis,Dot-winged Antwren,2015-03-04,3
+Costa Rica,9.79064441315,-84.5982737839,Helmitheros vermivorum,Worm-eating Warbler,2015-03-04,1
+Costa Rica,9.79064441315,-84.5982737839,Manacus aurantiacus,Orange-collared Manakin,2015-03-04,2
+Costa Rica,9.79064441315,-84.5982737839,Ceratopipra mentalis,Red-capped Manakin,2015-03-04,8
+Costa Rica,9.78666910009,-84.634193927,Egretta thula,Snowy Egret,2015-03-05,15
+Costa Rica,9.78666910009,-84.634193927,Nyctanassa violacea,Yellow-crowned Night Heron,2015-03-05,12
+Costa Rica,9.78666910009,-84.634193927,Platalea ajaja,Roseate Spoonbill,2015-03-05,1
+Costa Rica,9.78666910009,-84.634193927,Porphyrio martinica,Purple Gallinule,2015-03-05,1
+Costa Rica,9.78666910009,-84.634193927,Pandion haliaetus,Western Osprey,2015-03-05,2
+Costa Rica,9.78666910009,-84.634193927,Elanus leucurus,White-tailed Kite,2015-03-05,1
+Costa Rica,9.79385846125,-84.6355243027,Chloroceryle aenea,American Pygmy Kingfisher,2015-03-05,1
+Costa Rica,9.78747262465,-84.635309726,Megaceryle torquata,Ringed Kingfisher,2015-03-05,2
+Costa Rica,9.78747262465,-84.635309726,Chloroceryle amazona,Amazon Kingfisher,2015-03-05,4
+Costa Rica,9.78747262465,-84.635309726,Chloroceryle americana,Green Kingfisher,2015-03-05,3
+Costa Rica,9.80897708707,-84.6110484749,Peucaea ruficauda,Stripe-headed Sparrow,2015-03-04,3
+Costa Rica,9.80897708707,-84.6110484749,Campylorhynchus capistratus,Rufous-backed Wren,2015-03-04,3
+Costa Rica,9.80897708707,-84.6110484749,Thraupis episcopus,Blue-grey Tanager,2015-03-04,4
+Costa Rica,9.80897708707,-84.6110484749,Ara macao,Scarlet Macaw,2015-03-04,14
+Costa Rica,10.4233247268,-85.1029863954,Iguana iguana,Common Green Iguana,2015-03-03,5
+Costa Rica,10.4001099292,-85.1090803742,Pulsatrix perspicillata,Spectacled Owl,2015-03-03,1
+Costa Rica,10.4207078724,-84.7059336305,Mniotilta varia,Black-and-white Warbler,2015-03-01,1
+Costa Rica,10.4343415875,-84.7024152428,Tangara larvata,Golden-hooded Tanager,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Crax rubra,Great Curassow,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Icterus prosthemelas,Black-cowled Oriole,2015-03-01,3
+Costa Rica,10.4343415875,-84.7024152428,Notiochelidon cyanoleuca,Blue-and-white Swallow,2015-03-01,5
+Costa Rica,10.4343415875,-84.7024152428,Dasyprocta punctata,Central American Agouti,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Troglodytes aedon,House Wren,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Psilorhinus morio,Brown Jay,2015-03-01,5
+Costa Rica,10.4343415875,-84.7024152428,Thraupis palmarum,Palm Tanager,2015-03-01,4
+Costa Rica,10.4343415875,-84.7024152428,Nasua narica,White-nosed Coati,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Coereba flaveola,Bananaquit,2015-03-01,2
+Costa Rica,10.4343415875,-84.7024152428,Cyanerpes cyaneus,Red-legged Honeycreeper,2015-03-01,3
+Costa Rica,10.1382139594,-85.040817149,Calocitta formosa,White-throated Magpie-Jay,2015-03-03,7
+Costa Rica,10.1382456434,-85.0397335365,Eumomota superciliosa,Turquoise-browed Motmot,2015-03-03,4
+Costa Rica,10.1368304241,-85.0416754559,Eudocimus albus,American White Ibis,2015-03-03,2
+Costa Rica,10.1396608565,-85.0379525498,Sturnella magna,Eastern Meadowlark,2015-03-03,1
+Costa Rica,10.1392806506,-85.0388752297,Parkesia noveboracensis,Northern Waterthrush,2015-03-03,6
+Costa Rica,10.1379499264,-85.0406025723,Ctenosaura similis,Black Iguana,2015-03-03,6
+Costa Rica,10.1391644765,-85.0415574387,Milvago chimachima,Yellow-headed Caracara,2015-03-03,3
+Costa Rica,10.1369782831,-85.0419436768,Butorides virescens,Green Heron,2015-03-03,1
+Costa Rica,10.1369782831,-85.0419436768,Tringa semipalmata,Willet,2015-03-03,1
+Costa Rica,10.1369782831,-85.0419436768,Arenaria interpres,Ruddy Turnstone,2015-03-03,8
+Costa Rica,10.1369782831,-85.0419436768,Actitis macularius,Spotted Sandpiper,2015-03-03,1
+Costa Rica,10.1369782831,-85.0419436768,Pluvialis squatarola,Grey Plover,2015-03-03,3
+Costa Rica,10.1369782831,-85.0419436768,Charadrius semipalmatus,Semipalmated Plover,2015-03-03,2
+Costa Rica,10.1369782831,-85.0419436768,Numenius hudsonicus hudsonicus,Hudsonian Whimbrel ssp hudsonicus,2015-03-03,7
+Costa Rica,10.1369782831,-85.0419436768,Pelecanus occidentalis,Brown Pelican,2015-03-03,9
+Costa Rica,10.1369782831,-85.0419436768,Thalasseus maximus,Royal Tern,2015-03-03,60
+Costa Rica,10.1369782831,-85.0419436768,Thalasseus acuflavidus,Cabot's Tern,2015-03-03,2
+Costa Rica,10.1369782831,-85.0419436768,Fregata magnificens,Magnificent Frigatebird,2015-03-03,100
+Costa Rica,10.1382773273,-85.0418793038,Dryocopus lineatus,Lineated Woodpecker,2015-03-03,1
+Costa Rica,10.1383935018,-85.0408600643,Melanerpes hoffmannii,Hoffmann's Woodpecker,2015-03-03,6
+Costa Rica,10.1383935018,-85.0408600643,Columbina passerina,Common Ground Dove,2015-03-03,12
+Costa Rica,10.1386364118,-85.0413535908,Mephitis macroura,Hooded Skunk,2015-03-03,1
+Costa Rica,10.1381400302,-85.040033944,Alouatta palliata,Mantled Howler Monkey,2015-03-03,19
+Costa Rica,10.4381400734,-84.7106764466,Leopardus wiedii,Margay,2015-03-01,1
+Costa Rica,9.551259459,-83.8069651276,Sceloporus malachiticus,Green Spiny Lizard,2015-03-09,6
+Costa Rica,9.551259459,-83.8069651276,Chlorophonia callophrys,Golden-browed Chlorophonia,2015-03-09,2
+Costa Rica,9.55134409986,-83.8070509583,Zonotrichia capensis,Rufous-collared Sparrow,2015-03-09,21
+Costa Rica,9.55134409986,-83.8070509583,Arremon brunneinucha,Chestnut-capped Brushfinch,2015-03-09,2
+Costa Rica,9.55134409986,-83.8070509583,Pselliophorus tibialis,Yellow-thighed Finch,2015-03-09,9
+Costa Rica,9.55134409986,-83.8070509583,Diglossa plumbea,Slaty Flowerpiercer,2015-03-09,4
+Costa Rica,9.55134409986,-83.8070509583,Tangara dowii,Spangle-cheeked Tanager,2015-03-09,2
+Costa Rica,9.55274067091,-83.8038966805,Piranga bidentata,Flame-colored Tanager,2015-03-09,7
+Costa Rica,9.55274067091,-83.8038966805,Chlorospingus pileatus,Sooty-capped Bush Tanager,2015-03-09,9
+Costa Rica,9.55274067091,-83.8038966805,Basileuterus melanogenys,Black-cheeked Warbler,2015-03-09,3
+Costa Rica,9.55274067091,-83.8038966805,Myioborus torquatus,Collared Whitestart,2015-03-09,7
+Costa Rica,9.55274067091,-83.8038966805,Cardellina pusilla,Wilson's Warbler,2015-03-09,6
+Costa Rica,9.55274067091,-83.8038966805,Setophaga virens,Black-throated Green Warbler,2015-03-09,1
+Costa Rica,9.55274067091,-83.8038966805,Oreothlypis gutturalis,Flame-throated Warbler,2015-03-09,7
+Costa Rica,9.55255022974,-83.8067505509,Ptiliogonys caudatus,Long-tailed Silky-flycatcher,2015-03-09,3
+Costa Rica,9.55255022974,-83.8067505509,Cinclus mexicanus,American Dipper,2015-03-09,2
+Costa Rica,9.55255022974,-83.8067505509,Myadestes melanops,Black-faced Solitaire,2015-03-09,4
+Costa Rica,9.55255022974,-83.8067505509,Catharus frantzii,Ruddy-capped Nightingale-Thrush,2015-03-09,1
+Costa Rica,9.55255022974,-83.8067505509,Henicorhina leucophrys,Grey-breasted Wood Wren,2015-03-09,2
+Costa Rica,9.55250790947,-83.8070938736,Contopus lugubris,Dark Pewee,2015-03-09,2
+Costa Rica,9.55250790947,-83.8070938736,Serpophaga cinerea,Torrent Tyrannulet,2015-03-09,3
+Costa Rica,9.55225398771,-83.8072869927,Melanerpes formicivorus,Acorn Woodpecker,2015-03-09,3
+Costa Rica,9.55225398771,-83.8072869927,Aulacorhynchus caeruleogularis,Blue-throated Toucanet,2015-03-09,2
+Costa Rica,9.55168266306,-83.8068578392,Colibri cyanotus cabanidis,Lesser Violetear ssp cabanidis,2015-03-09,6
+Costa Rica,9.55144990089,-83.8088104874,Pharomachrus mocinno,Resplendent Quetzal,2015-03-09,5
+Costa Rica,10.4509808875,-84.0688382462,Agalychnis callidryas,Red-eyed Treefrog,2015-02-26,7
+Costa Rica,10.4525846125,-84.0660916641,Rhinoclemmys funerea,Black Wood Turtle,2015-02-26,2
+Costa Rica,10.4502950816,-84.070747979,Dendrobates auratus,Green Poison Frog,2015-02-26,16
+Costa Rica,10.19024741,-84.23264487,Phainoptila melanoxantha,Black-and-yellow Phainoptila,2015-03-11,1
+Costa Rica,9.61104301,-83.81837832,Pachyramphus versicolor,Barred Becard,2015-03-10,1
+Costa Rica,9.61109621,-83.81832246,Leuconotopicus villosus,Hairy Woodpecker,2015-03-10,1
+Costa Rica,9.61055544,-83.81888777,Vanessa virginiensis,American Painted Lady,2015-03-10,9
+Costa Rica,9.61201973,-83.82151944,Thryorchilus browni,Timberline Wren,2015-03-10,2
+Costa Rica,9.64454274,-83.85044482,Panterpe insignis,Fiery-throated Hummingbird,2015-03-10,3
+Costa Rica,9.55489233,-83.75537411,Junco vulcani,Volcano Junco,2015-03-08,7
+Costa Rica,9.58783545,-83.79930704,Melanerpes formicivorus,Acorn Woodpecker,2015-03-08,3
+Costa Rica,9.55996458,-83.80337364,Odontophorus guttatus,Spotted Wood Quail,2015-03-08,3
+Costa Rica,9.54970018,-83.80784505,Pharomachrus mocinno,Resplendent Quetzal,2015-03-08,1
+Costa Rica,10.6071245084,-83.5309115052,Oryzoborus nuttingi,Nicaraguan Seed Finch,2013-07-10,1
+Costa Rica,10.43804484,-84.71029212,Psarocolius montezuma,Montezuma Oropendola,2015-03-01,18
+Costa Rica,10.13799581,-85.04032493,Crotophaga sulcirostris,Groove-billed Ani,2015-03-03,7
+Costa Rica,10.29707147,-85.18076743,Jabiru mycteria,Jabiru,2015-03-03,1
+Costa Rica,10.29998731,-85.19442137,Cochlearius cochlearius,Boat-billed Heron,2015-03-03,3
+Costa Rica,9.79885145,-84.60477413,Crocodylus acutus,American Crocodile,2015-03-04,20
+Costa Rica,9.79045696,-84.63504875,Procyon cancrivorus,Crab-eating Raccoon,2015-03-06,1
+Costa Rica,9.22293642,-83.84266355,Ramphocelus passerinii costaricensis,Scarlet-rumped Tanager ssp costaricensis,2015-03-06,1
+Costa Rica,9.3667239,-83.67500817,Pteroglossus frantzii,Fiery-billed Aracari,2015-03-07,2
+Costa Rica,9.40296847,-83.66804632,Momotus lessonii,Lesson's Motmot,2015-03-07,3
+Costa Rica,10.5863702477,-83.5265341401,Bothriechis schlegelii,Eyelash Viper,2015-02-07,1
+Costa Rica,10.5863702477,-83.5265341401,Bothrops asper,Terciopelo,2015-02-07,1
+Costa Rica,10.3000897062,-84.8153650761,Basileuterus melanotis,Black-eared Warbler,2002-01-28,1
+Costa Rica,10.3116300748,-84.8110909865,Aulacorhynchus caeruleogularis caeruleogularis,Blue-throated Toucanet ssp caeruleogularis,2002-01-27,1
+Costa Rica,10.3116300748,-84.8110909865,Amazilia hoffmanni,Blue-vented Hummingbird,2002-01-27,1
+Costa Rica,10.3116300748,-84.8110909865,Eugenes spectabilis,Talamanca Hummingbird,2002-01-27,1
+Costa Rica,10.3116300748,-84.8110909865,Lampornis calolaemus,Purple-throated Mountaingem,2002-01-27,1
+Costa Rica,10.3116300748,-84.8110909865,Colibri cyanotus cabanidis,Lesser Violetear ssp cabanidis,2002-01-27,1
+Costa Rica,10.3116300748,-84.8110909865,Campylopterus hemileucurus,Violet Sabrewing,2002-01-27,1
+Costa Rica,10.625265612,-85.4457304627,Ctenosaura similis,Black Iguana,2002-01-25,1
+Costa Rica,10.625265612,-85.4457304627,Campylorhynchus capistratus,Rufous-backed Wren,2002-01-25,1
+Costa Rica,10.4395659775,-84.7271312121,Nasua narica,White-nosed Coati,2002-01-23,1
+Costa Rica,10.4527661913,-85.1254317909,Campylorhynchus capistratus,Rufous-backed Wren,2002-01-24,2
+Costa Rica,10.5037340359,-84.7052691132,Sporophila morelleti,Morelet's Seedeater,2002-01-23,1
+Costa Rica,11.0261570218,-84.7188913822,Egretta thula,Snowy Egret,2002-01-22,1
+Costa Rica,11.0261570218,-84.7188913822,Cochlearius cochlearius,Boat-billed Heron,2002-01-22,1
+Costa Rica,11.0261570218,-84.7188913822,Anhinga anhinga,Anhinga,2002-01-22,1
+Costa Rica,11.0261570218,-84.7188913822,Tachycineta albilinea,Mangrove Swallow,2002-01-22,1
+Costa Rica,11.0261570218,-84.7188913822,Megaceryle torquata,Ringed Kingfisher,2002-01-22,1
+Costa Rica,11.0261570218,-84.7188913822,Chloroceryle amazona,Amazon Kingfisher,2002-01-22,1
+Costa Rica,10.2985632,-84.80223298,Pelecinus polyturator,American Pelecinid Wasp,2011-11-19,1
+Costa Rica,10.504227133,-84.7044538893,Amazona autumnalis,Red-lored Amazon,2002-01-21,1
+Costa Rica,9.97765032999,-83.8459959626,Colibri cyanotus cabanidis,Lesser Violetear ssp cabanidis,2002-01-20,1
+Costa Rica,9.93732581805,-84.0816870345,Zonotrichia capensis,Rufous-collared Sparrow,2002-01-19,1
+Costa Rica,9.91353080113,-84.0707007051,Tyto furcata,American Barn Owl,2002-01-19,1
+Costa Rica,9.79059749733,-84.5983850956,Bothrops asper,Terciopelo,2015-02-07,1
+Costa Rica,9.7905975,-84.5983851,Diclidurus albus,Northern Ghost Bat,2015-02-07,1
+Costa Rica,10.5914284374,-83.5292780399,Bothriechis schlegelii,Eyelash Viper,2015-02-20,1
+Costa Rica,9.93705474,-84.07211933,Turdus grayi,Clay-colored Thrush,2015-02-26,5
+Costa Rica,9.93698749,-84.07229597,Psittacara finschi,Finsch's Parakeet,2015-02-26,20
+Costa Rica,9.93698892,-84.07229679,Thraupis episcopus,Blue-grey Tanager,2015-02-26,1
+Costa Rica,9.93699045,-84.0722977,Zenaida asiatica,White-winged Dove,2015-02-26,3
+Costa Rica,10.00659828,-84.03206805,Coragyps atratus,Black Vulture,2015-02-26,4
+Costa Rica,10.1371326604,-83.7876846967,Bradypus variegatus,Brown-throated Three-toed Sloth,2015-02-26,1
+Costa Rica,10.16063752,-83.93662923,Setophaga pensylvanica,Chestnut-sided Warbler,2015-02-26,1
+Costa Rica,10.16064007,-83.93662835,Klais guimeti,Violet-headed Hummingbird,2015-02-26,1
+Costa Rica,10.16064028,-83.93662856,Tangara icterocephala,Silver-throated Tanager,2015-02-26,2
+Costa Rica,10.16030647,-83.93643969,Tangara guttata,Speckled Tanager,2015-02-26,1
+Costa Rica,10.15732985,-83.93713895,Trogon clathratus,Lattice-tailed Trogon,2015-02-26,1
+Costa Rica,10.21014951,-83.89973421,Tyrannus melancholicus,Tropical Kingbird,2015-02-26,1
+Costa Rica,10.21159751,-83.89771454,Cathartes aura,Turkey Vulture,2015-02-26,4
+Costa Rica,10.17430628,-83.93028711,Coereba flaveola,Bananaquit,2015-02-26,1
+Costa Rica,10.17430616,-83.93028762,Falco rufigularis,Bat Falcon,2015-02-26,1
+Costa Rica,10.17441196,-83.9303949,Discosura conversii,Green Thorntail,2015-02-26,4
+Costa Rica,10.17449482,-83.93043256,Ramphocelus passerinii,Scarlet-rumped Tanager,2015-02-26,1
+Costa Rica,10.21520877,-83.90168384,Pteroglossus torquatus,Collared Aracari,2015-02-26,3
+Costa Rica,10.21519128,-83.90165452,Patagioenas cayennensis,Pale-vented Pigeon,2015-02-26,2
+Costa Rica,10.39905999,-83.96854948,Ardea alba,Great Egret,2015-02-26,1
+Costa Rica,10.40868788,-83.9746948,Bubulcus ibis,Western Cattle Egret,2015-02-26,20
+Costa Rica,10.41147075,-83.97646558,Tigrisoma mexicanum,Bare-throated Tiger Heron,2015-02-26,2
+Costa Rica,10.41147055,-83.97646571,Egretta caerulea,Little Blue Heron,2015-02-26,1
+Costa Rica,10.44035899,-84.0064295,Icterus prosthemelas,Black-cowled Oriole,2015-02-26,1
+Costa Rica,10.44053146,-84.00639385,Amazona autumnalis,Red-lored Amazon,2015-02-26,4
+Costa Rica,10.4405314,-84.00639382,Ramphastos ambiguus swainsonii,Yellow-throated Toucan ssp swainsonii,2015-02-26,2
+Costa Rica,10.44251053,-84.0062737,Tityra semifasciata,Masked Tityra,2015-02-26,1
+Costa Rica,10.44244454,-84.00628189,Psarocolius montezuma,Montezuma Oropendola,2015-02-26,20
+Costa Rica,10.44983824,-84.06920586,Nasua narica,White-nosed Coati,2015-02-26,17
+Costa Rica,10.44983998,-84.06920659,Agalychnis callidryas,Red-eyed Treefrog,2015-02-26,4
+Costa Rica,10.43167872,-84.00295283,Stelgidopteryx serripennis,Northern Rough-winged Swallow,2015-02-27,4
+Costa Rica,10.43266918,-84.00195124,Manacus candei,White-collared Manakin,2015-02-27,1
+Costa Rica,10.43241261,-84.00208176,Dumetella carolinensis,Grey Catbird,2015-02-27,1
+Costa Rica,10.43216307,-84.00222607,Thraupis palmarum,Palm Tanager,2015-02-27,1
+Costa Rica,10.43132083,-84.00276674,Carpodectes nitidus,Snowy Cotinga,2015-02-27,1
+Costa Rica,10.43133324,-84.00279431,Cyanerpes lucidus,Shining Honeycreeper,2015-02-27,1
+Costa Rica,10.43133071,-84.00281006,Pionus senilis,White-crowned Parrot,2015-02-27,1
+Costa Rica,10.43130348,-84.00377624,Melanerpes pucherani,Black-cheeked Woodpecker,2015-02-27,1
+Costa Rica,10.43083718,-84.00351061,Bothrops asper,Terciopelo,2015-02-27,1
+Costa Rica,10.43262447,-84.00490637,Trogon rufus,Black-throated Trogon,2015-02-27,1
+Costa Rica,10.43304961,-84.004377,Rhytipterna holerythra,Rufous Mourner,2015-02-27,1
+Costa Rica,10.4368545,-84.00595407,Electron platyrhynchum,Broad-billed Motmot,2015-02-27,1
+Costa Rica,10.43650445,-84.0045021,Trogon massena,Slaty-tailed Trogon,2015-02-27,1
+Costa Rica,10.43283489,-84.00459829,Choloepus hoffmanni,Hoffmann's Two-toed Sloth,2015-02-27,1
+Costa Rica,10.43202254,-84.00467986,Malacoptila panamensis,White-whiskered Puffbird,2015-02-27,1
+Costa Rica,10.43126612,-84.00370326,Tangara larvata,Golden-hooded Tanager,2015-02-27,1
+Costa Rica,10.43128619,-84.00455302,Choloepus hoffmanni,Hoffmann's Two-toed Sloth,2015-02-27,2
+Costa Rica,10.43120784,-84.00552141,Crax rubra,Great Curassow,2015-02-27,1
+Costa Rica,10.43137377,-84.00564424,Alouatta palliata,Mantled Howler Monkey,2015-02-27,10
+Costa Rica,10.450298,-84.06802353,Arremon aurantiirostris,Orange-billed Sparrow,2015-02-28,1
+Costa Rica,10.5933728587,-83.5278216004,Thecadactylus rapicauda,Turnip-tailed Gecko,2015-02-28,1
+Costa Rica,10.5931197551,-83.5282507539,Ectophylla alba,Honduran White Bat,2015-02-27,3
+Costa Rica,10.4204559462,-84.0215492248,Tettigoniidae,Unidentified Katydid,2011-11-09,1
+Costa Rica,10.436261939,-84.7127792984,Colaptes rubiginosus,Golden-olive Woodpecker,2015-02-05,1
+Costa Rica,9.78248162196,-84.6317759156,Phalacrocorax brasilianus,Neotropic Cormorant,2015-02-08,2
+Costa Rica,9.59482456092,-83.7984457612,Chamaepetes unicolor,Black Guan,2015-02-12,1
+Costa Rica,10.4288966803,-84.0078444779,Cantorchilus nigricapillus,Bay Wren,2015-02-02,1
+Costa Rica,10.4504533446,-84.0671216324,Amazona guatemalae,Northern Mealy Amazon,2015-02-03,1
+Costa Rica,10.3287605351,-84.7532159372931,Bothriechis lateralis,Coffee Palm Viper,2006-07-25,1
+Costa Rica,11.009735527694762,-85.55477083129064,Ctenosaura similis,Black Iguana,2006-07-18,1
+Costa Rica,10.368280428,-83.9655286074,Cathartes aura,Turkey Vulture,2015-02-01,1
+Costa Rica,10.368280428,-83.9655286074,Patagioenas cayennensis,Pale-vented Pigeon,2015-02-01,1
+Costa Rica,10.368280428,-83.9655286074,Agelaius phoeniceus,Red-winged Blackbird,2015-02-01,2
+Costa Rica,10.368280428,-83.9655286074,Ramphocelus passerinii,Scarlet-rumped Tanager,2015-02-01,2
+Costa Rica,10.1746268103,-83.9303822815,Ramphastos ambiguus swainsonii,Yellow-throated Toucan ssp swainsonii,2015-02-01,10
+Costa Rica,10.1746268103,-83.9303822815,Discosura conversii,Green Thorntail,2015-02-01,1
+Costa Rica,10.1746268103,-83.9303822815,Lophornis helenae,Black-crested Coquette,2015-02-01,3
+Costa Rica,10.160962061,-83.9371273667,Pseudopipra pipra,White-crowned Manakin,2015-02-01,1
+Costa Rica,9.98093878072,-84.0789466538,Melanerpes hoffmannii,Hoffmann's Woodpecker,2015-02-01,2
+Costa Rica,10.4493560525,-84.0677546337,Sayornis nigricans,Black Phoebe,2015-02-02,1
+Costa Rica,10.4493560525,-84.0677546337,Tigrisoma fasciatum,Fasciated Tiger Heron,2015-02-02,1
+Costa Rica,10.4503689377,-84.06806577,Piranga rubra,Summer Tanager,2015-02-02,1
+Costa Rica,10.4503689377,-84.06806577,Thraupis episcopus,Blue-grey Tanager,2015-02-02,1
+Costa Rica,10.4503689377,-84.06806577,Psarocolius montezuma,Montezuma Oropendola,2015-02-02,2
+Costa Rica,10.4503689377,-84.06806577,Euphonia gouldi,Olive-backed Euphonia,2015-02-02,1
+Costa Rica,10.449112887,-84.0066428483,Coragyps atratus,Black Vulture,2015-02-02,1
+Costa Rica,10.449112887,-84.0066428483,Egretta caerulea,Little Blue Heron,2015-02-02,1
+Costa Rica,10.4305852613,-84.0080878884,Manacus candei,White-collared Manakin,2015-02-02,2
+Costa Rica,10.4305852613,-84.0080878884,Trogon rufus,Black-throated Trogon,2015-02-02,1
+Costa Rica,10.4305852613,-84.0080878884,Tinamus major,Great Tinamou,2015-02-02,2
+Costa Rica,10.4305852613,-84.0080878884,Ara ambiguus,Great Green Macaw,2015-02-02,5
+Costa Rica,10.4305852613,-84.0080878884,Cacicus microrhynchus,Scarlet-rumped Cacique,2015-02-02,1
+Costa Rica,10.4310706318,-84.0058348328,Alouatta palliata,Mantled Howler Monkey,2015-02-02,6
+Costa Rica,10.4310706318,-84.0058348328,Dasyprocta punctata,Central American Agouti,2015-02-02,2
+Costa Rica,10.4310706318,-84.0058348328,Pecari tajacu,Collared Peccary,2015-02-02,2
+Costa Rica,10.4319780617,-84.0024016052,Chlorophanes spiza,Green Honeycreeper,2015-02-02,2
+Costa Rica,10.4319780617,-84.0024016052,Dacnis cayana,Blue Dacnis,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Icterus prosthemelas,Black-cowled Oriole,2015-02-02,3
+Costa Rica,10.4319780617,-84.0024016052,Setophaga pensylvanica,Chestnut-sided Warbler,2015-02-02,7
+Costa Rica,10.4319780617,-84.0024016052,Rhytipterna holerythra,Rufous Mourner,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Campephilus guatemalensis,Pale-billed Woodpecker,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Piculus simplex,Rufous-winged Woodpecker,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Melanerpes pucherani,Black-cheeked Woodpecker,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Ramphastos ambiguus swainsonii,Yellow-throated Toucan ssp swainsonii,2015-02-02,2
+Costa Rica,10.4319780617,-84.0024016052,Ramphastos sulfuratus,Keel-billed Toucan,2015-02-02,2
+Costa Rica,10.4319780617,-84.0024016052,Pteroglossus torquatus,Collared Aracari,2015-02-02,4
+Costa Rica,10.4319780617,-84.0024016052,Galbula ruficauda,Rufous-tailed Jacamar,2015-02-02,2
+Costa Rica,10.4319780617,-84.0024016052,Trogon massena,Slaty-tailed Trogon,2015-02-02,1
+Costa Rica,10.4319780617,-84.0024016052,Pionus senilis,White-crowned Parrot,2015-02-02,4
+Costa Rica,10.471522712,-84.6453093365,Setophaga aestiva,American Yellow Warbler,2015-02-03,1
+Costa Rica,10.4776735539,-84.5931172371,Caracara cheriway,Northern Crested Caracara,2015-02-03,3
+Costa Rica,10.4776735539,-84.5931172371,Buteo plagiatus,Grey Hawk,2015-02-03,2
+Costa Rica,10.2232840999,-84.1680045426,Thraupis palmarum,Palm Tanager,2015-02-03,3
+Costa Rica,10.2232840999,-84.1680045426,Sciurus granatensis,Red-tailed Squirrel,2015-02-03,1
+Costa Rica,10.2232840999,-84.1680045426,Tangara icterocephala,Silver-throated Tanager,2015-02-03,2
+Costa Rica,10.2232840999,-84.1680045426,Semnornis frantzii,Prong-billed Barbet,2015-02-03,1
+Costa Rica,10.2232840999,-84.1680045426,Turdus grayi,Clay-colored Thrush,2015-02-03,2
+Costa Rica,10.2232840999,-84.1680045426,Chlorospingus flavopectus,Common Bush Tanager,2015-02-03,1
+Costa Rica,10.2232840999,-84.1680045426,Discosura conversii,Green Thorntail,2015-02-03,1
+Costa Rica,10.2232840999,-84.1680045426,Campylopterus hemileucurus,Violet Sabrewing,2015-02-03,4
+Costa Rica,10.351902058,-84.1646853089,Herpetotheres cachinnans,Laughing Falcon,2015-02-03,1
+Costa Rica,10.4522362713,-84.0675470978,Euphonia gouldi,Olive-backed Euphonia,2015-02-03,2
+Costa Rica,10.4522362713,-84.0675470978,Tityra semifasciata,Masked Tityra,2015-02-03,1
+Costa Rica,10.4522362713,-84.0675470978,Tangara larvata,Golden-hooded Tanager,2015-02-03,2
+Costa Rica,10.4496829655,-84.0682766587,Manacus candei,White-collared Manakin,2015-02-03,1
+Costa Rica,10.4496829655,-84.0682766587,Arremon aurantiirostris,Orange-billed Sparrow,2015-02-03,1
+Costa Rica,10.4496829655,-84.0682766587,Myiothlypis fulvicauda,Buff-rumped Warbler,2015-02-03,1
+Costa Rica,10.4496829655,-84.0682766587,Poliocrania exsul,Chestnut-backed Antbird,2015-02-03,2
+Costa Rica,10.4504426289,-84.0672252327,Megaceryle torquata,Ringed Kingfisher,2015-02-03,1
+Costa Rica,10.4504426289,-84.0672252327,Actitis macularius,Spotted Sandpiper,2015-02-03,1
+Costa Rica,10.4364098227,-84.7083090618,Campylorhynchus zonatus,Band-backed Wren,2015-02-04,1
+Costa Rica,10.4341201726,-84.7062920406,Hylophylax naevioides,Spotted Antbird,2015-02-04,2
+Costa Rica,10.4381641024,-84.710186692,Crax rubra,Great Curassow,2015-02-04,2
+Costa Rica,10.4381641024,-84.710186692,Leptotila verreauxi,White-tipped Dove,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Amazilia tzacatl,Rufous-tailed Hummingbird,2015-02-04,5
+Costa Rica,10.4381641024,-84.710186692,Notiochelidon cyanoleuca,Blue-and-white Swallow,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Coereba flaveola,Bananaquit,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Ramphocelus passerinii,Scarlet-rumped Tanager,2015-02-04,4
+Costa Rica,10.4381641024,-84.710186692,Thraupis palmarum,Palm Tanager,2015-02-04,5
+Costa Rica,10.4381641024,-84.710186692,Tangara larvata,Golden-hooded Tanager,2015-02-04,2
+Costa Rica,10.4381641024,-84.710186692,Cyanerpes cyaneus,Red-legged Honeycreeper,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Saltator maximus,Buff-throated Saltator,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Arremonops conirostris,Black-striped Sparrow,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Piranga lutea,Tooth-billed Tanager,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Icterus prosthemelas,Black-cowled Oriole,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Psarocolius montezuma,Montezuma Oropendola,2015-02-04,11
+Costa Rica,10.4381641024,-84.710186692,Tangara florida,Emerald Tanager,2015-02-04,1
+Costa Rica,10.4381641024,-84.710186692,Psilorhinus morio,Brown Jay,2015-02-04,8
+Costa Rica,10.4356489709,-84.7329702973,Penelope purpurascens,Crested Guan,2015-02-04,2
+Costa Rica,10.4198643806,-84.731182605,Gymnopithys bicolor,Bicolored Antbird,2015-02-04,1
+Costa Rica,10.4198643806,-84.731182605,Trogon rufus,Black-throated Trogon,2015-02-04,1
+Costa Rica,10.4198643806,-84.731182605,Baryphthengus martii,Rufous Motmot,2015-02-04,1
+Costa Rica,10.2607860068,-85.1561377198,Campylorhynchus capistratus,Rufous-backed Wren,2015-02-05,3
+Costa Rica,10.26078601,-85.15613772,Sciurus variegatoides dorsalis,Variegated Squirrel ssp dorsalis,2015-02-05,1
+Costa Rica,10.2607860068,-85.1561377198,Eumomota superciliosa,Turquoise-browed Motmot,2015-02-05,1
+Costa Rica,10.2503120501,-85.1332846284,Burhinus bistriatus,Double-striped Thick-knee,2015-02-05,4
+Costa Rica,10.5598756774,-84.9433118105,Volatinia jacarina,Blue-black Grassquit,2015-02-05,1
+Costa Rica,10.4719020227,-84.7594638169,Chloroceryle amazona,Amazon Kingfisher,2015-02-05,1
+Costa Rica,10.4708470071,-84.75860551,Saltator atriceps,Black-headed Saltator,2015-02-05,1
+Costa Rica,10.4708470071,-84.75860551,Ramphocelus sanguinolentus,Crimson-collared Tanager,2015-02-05,2
+Costa Rica,10.4723662284,-84.7583909333,Nyctibius grandis,Great Potoo,2015-02-05,1
+Costa Rica,10.4657828821,-84.7550864518,Pachyramphus cinnamomeus,Cinnamon Becard,2015-02-05,1
+Costa Rica,10.4657828821,-84.7550864518,Electron carinatum,Keel-billed Motmot,2015-02-05,1
+Costa Rica,10.2907661907,-85.1786032319,Vanellus chilensis,Southern Lapwing,2015-02-06,1
+Costa Rica,10.1773727581,-85.1043818146,Rynchops niger,Black Skimmer,2015-02-06,25
+Costa Rica,10.15,-85.15,Calidris himantopus,Stilt Sandpiper,2015-02-06,16
+Costa Rica,10.1773727581,-85.1043818146,Tringa semipalmata,Willet,2015-02-06,30
+Costa Rica,10.1773727581,-85.1043818146,Limosa fedoa,Marbled Godwit,2015-02-06,16
+Costa Rica,10.1773727581,-85.1043818146,Charadrius semipalmatus,Semipalmated Plover,2015-02-06,4
+Costa Rica,10.1773727581,-85.1043818146,Platalea ajaja,Roseate Spoonbill,2015-02-06,1
+Costa Rica,10.1773727581,-85.1043818146,Egretta caerulea,Little Blue Heron,2015-02-06,1
+Costa Rica,10.300647346,-85.1927800477,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-06,1
+Costa Rica,10.300647346,-85.1927800477,Cochlearius cochlearius,Boat-billed Heron,2015-02-06,1
+Costa Rica,10.300647346,-85.1927800477,Chloroceryle aenea,American Pygmy Kingfisher,2015-02-06,1
+Costa Rica,10.300647346,-85.1927800477,Trogon melanocephalus,Black-headed Trogon,2015-02-06,1
+Costa Rica,10.300647346,-85.1927800477,Butorides virescens,Green Heron,2015-02-06,1
+Costa Rica,10.2955798041,-85.1801481843,Anhinga anhinga,Anhinga,2015-02-06,9
+Costa Rica,10.2955798041,-85.1801481843,Jabiru mycteria,Jabiru,2015-02-06,3
+Costa Rica,10.2955798041,-85.1801481843,Columbina inca,Inca Dove,2015-02-06,1
+Costa Rica,10.2955798041,-85.1801481843,Rostrhamus sociabilis,Snail Kite,2015-02-06,3
+Costa Rica,10.2955798041,-85.1801481843,Aramus guarauna,Limpkin,2015-02-06,3
+Costa Rica,10.275311462,-85.1420393586,Falco peregrinus,Peregrine Falcon,2015-02-06,1
+Costa Rica,10.2743623413,-85.1435206085,Chiroxiphia linearis,Long-tailed Manakin,2015-02-06,1
+Costa Rica,10.2743623413,-85.1435206085,Pulsatrix perspicillata,Spectacled Owl,2015-02-06,2
+Costa Rica,10.2672882174,-85.13972193,Icterus pectoralis,Spot-breasted Oriole,2015-02-06,2
+Costa Rica,10.2593503823,-85.1561735943,Sporophila morelleti,Morelet's Seedeater,2015-02-06,3
+Costa Rica,9.77960579768,-84.6045675874,Tinamus major,Great Tinamou,2015-02-07,3
+Costa Rica,9.77960579768,-84.6045675874,Malacoptila panamensis,White-whiskered Puffbird,2015-02-07,2
+Costa Rica,9.77960579768,-84.6045675874,Poliocrania exsul,Chestnut-backed Antbird,2015-02-07,2
+Costa Rica,9.77960579768,-84.6045675874,Chloroceryle americana,Green Kingfisher,2015-02-07,1
+Costa Rica,9.77960579768,-84.6045675874,Gymnopithys bicolor,Bicolored Antbird,2015-02-07,1
+Costa Rica,9.76539547733,-84.6133223176,Milvago chimachima,Yellow-headed Caracara,2015-02-07,1
+Costa Rica,9.75642912971,-84.6106615663,Tigrisoma mexicanum,Bare-throated Tiger Heron,2015-02-07,1
+Costa Rica,9.79161246339,-84.5973551273,Herpetotheres cachinnans,Laughing Falcon,2015-02-07,2
+Costa Rica,9.79161246339,-84.5973551273,Pachyramphus aglaiae,Rose-throated Becard,2015-02-07,1
+Costa Rica,9.79161246339,-84.5973551273,Tachyphonus luctuosus,White-shouldered Tanager,2015-02-07,2
+Costa Rica,9.79161246339,-84.5973551273,Vireo flavifrons,Yellow-throated Vireo,2015-02-07,1
+Costa Rica,9.79161246339,-84.5973551273,Onychorhynchus mexicanus,Northern Royal Flycatcher,2015-02-07,1
+Costa Rica,9.79161246339,-84.5973551273,Manacus aurantiacus,Orange-collared Manakin,2015-02-07,1
+Costa Rica,9.79161246339,-84.5973551273,Microrhopias quixensis,Dot-winged Antwren,2015-02-07,4
+Costa Rica,9.79161246339,-84.5973551273,Galbula ruficauda,Rufous-tailed Jacamar,2015-02-07,1
+Costa Rica,8.99358986735,-83.5590291023,Rupornis magnirostris,Roadside Hawk,2015-02-08,2
+Costa Rica,9.75628208965,-84.6109197289,Pteroglossus frantzii,Fiery-billed Aracari,2015-02-08,2
+Costa Rica,9.77928960087,-84.6262834221,Quiscalus mexicanus,Great-tailed Grackle,2015-02-08,2
+Costa Rica,9.77892979033,-84.6256537735,Tringa semipalmata,Willet,2015-02-08,1
+Costa Rica,9.78641535508,-84.637798816,Arenaria interpres,Ruddy Turnstone,2015-02-08,1
+Costa Rica,9.78641535508,-84.637798816,Charadrius semipalmatus,Semipalmated Plover,2015-02-08,4
+Costa Rica,9.78641535508,-84.637798816,Pluvialis squatarola,Grey Plover,2015-02-08,3
+Costa Rica,9.78641535508,-84.637798816,Pelecanus occidentalis,Brown Pelican,2015-02-08,2
+Costa Rica,9.78641535508,-84.637798816,Ardea herodias,Great Blue Heron,2015-02-08,2
+Costa Rica,9.78641535508,-84.637798816,Pandion haliaetus,Western Osprey,2015-02-08,4
+Costa Rica,9.78641535508,-84.637798816,Megaceryle alcyon,Belted Kingfisher,2015-02-08,1
+Costa Rica,9.78641535508,-84.637798816,Cairina moschata,Muscovy Duck,2015-02-08,2
+Costa Rica,9.78641535508,-84.637798816,Setophaga petechia,Mangrove Warbler,2015-02-08,2
+Costa Rica,9.7834549824,-84.6199460328,Tachycineta albilinea,Mangrove Swallow,2015-02-08,2
+Costa Rica,9.7834549824,-84.6199460328,Himantopus mexicanus,Black-necked Stilt,2015-02-08,3
+Costa Rica,9.7834549824,-84.6199460328,Porphyrio martinica,Purple Gallinule,2015-02-08,2
+Costa Rica,9.7834549824,-84.6199460328,Caracara cheriway,Northern Crested Caracara,2015-02-08,1
+Costa Rica,9.7834549824,-84.6199460328,Eudocimus albus,American White Ibis,2015-02-08,3
+Costa Rica,9.7834549824,-84.6199460328,Nyctanassa violacea,Yellow-crowned Night Heron,2015-02-08,3
+Costa Rica,9.7834549824,-84.6199460328,Egretta thula,Snowy Egret,2015-02-08,2
+Costa Rica,9.7834549824,-84.6199460328,Egretta tricolor,Tricolored Heron,2015-02-08,4
+Costa Rica,9.46260549581,-83.7020283937,Tangara icterocephala frantzii,Silver-throated Tanager ssp frantzii,2015-01-23,1
+Costa Rica,9.46260549581,-83.7020283937,Ramphocelus passerinii costaricensis,Scarlet-rumped Tanager ssp costaricensis,2015-01-23,1
+Costa Rica,8.70219068272,-83.1983149052,Melanerpes chrysauchen,Golden-naped Woodpecker,2015-02-09,1
+Costa Rica,9.46260549581,-83.7020283937,Piranga bidentata citrea,Flame-colored Tanager ssp citrea,2015-01-23,2
+Costa Rica,8.70626310606,-83.1887018681,Bubulcus ibis,Western Cattle Egret,2015-02-09,11
+Costa Rica,8.70626310606,-83.1887018681,Eudocimus albus,American White Ibis,2015-02-09,2
+Costa Rica,8.70626310606,-83.1887018681,Cathartes aura,Turkey Vulture,2015-02-09,1
+Costa Rica,8.70626310606,-83.1887018681,Aramides cajaneus,Grey-necked Wood Rail,2015-02-09,2
+Costa Rica,9.46260549581,-83.7020283937,Tangara larvata franciscae,Golden-hooded Tanager ssp franciscae,2015-01-23,1
+Costa Rica,8.70626310606,-83.1887018681,Dryocopus lineatus,Lineated Woodpecker,2015-02-09,1
+Costa Rica,9.46260549581,-83.7020283937,Arremon brunneinucha elsae,Chestnut-capped Brushfinch ssp elsae,2015-01-23,1
+Costa Rica,8.70354816209,-83.2017481327,Cantorchilus semibadius,Riverside Wren,2015-02-09,2
+Costa Rica,8.70354816209,-83.2017481327,Cacicus microrhynchus,Scarlet-rumped Cacique,2015-02-09,1
+Costa Rica,9.46260549581,-83.7020283937,Thraupis episcopus cana,Blue-grey Tanager ssp cana,2015-01-23,2
+Costa Rica,8.70354816209,-83.2017481327,Trogon bairdii,Baird's Trogon,2015-02-09,1
+Costa Rica,8.70354816209,-83.2017481327,Crax rubra,Great Curassow,2015-02-09,4
+Costa Rica,9.07166956604,-83.6573548615,Harpagus bidentatus,Double-toothed Kite,2015-01-23,1
+Costa Rica,9.59055137959,-83.798417598,Piranga bidentata,Flame-colored Tanager,2015-02-10,1
+Costa Rica,9.59055137959,-83.798417598,Turdus nigrescens,Sooty Thrush,2015-02-10,1
+Costa Rica,9.55662369685,-83.7546228245,Junco vulcani,Volcano Junco,2015-02-10,1
+Costa Rica,9.55662369685,-83.7546228245,Selasphorus flammula,Volcano Hummingbird,2015-02-10,1
+Costa Rica,9.41654816757,-83.66296269,Euphonia luteicapilla,Yellow-crowned Euphonia,2015-02-10,2
+Costa Rica,9.41654816757,-83.66296269,Ramphocelus passerinii costaricensis,Scarlet-rumped Tanager ssp costaricensis,2015-02-10,2
+Costa Rica,9.41654816757,-83.66296269,Thraupis episcopus,Blue-grey Tanager,2015-02-10,2
+Costa Rica,9.41654816757,-83.66296269,Cotinga ridgwayi,Turquoise Cotinga,2015-02-10,1
+Costa Rica,9.41654816757,-83.66296269,Tangara guttata,Speckled Tanager,2015-02-10,1
+Costa Rica,9.36078593695,-83.7103771046,Dendrocygna autumnalis,Black-bellied Whistling Duck,2015-02-10,25
+Costa Rica,9.36078593695,-83.7103771046,Vanellus chilensis,Southern Lapwing,2015-02-10,1
+Costa Rica,9.32631582249,-83.7407822907,Tangara guttata,Speckled Tanager,2015-02-10,2
+Costa Rica,9.32631582249,-83.7407822907,Cotinga ridgwayi,Turquoise Cotinga,2015-02-10,1
+Costa Rica,9.32631582249,-83.7407822907,Thraupis palmarum,Palm Tanager,2015-02-10,2
+Costa Rica,9.22801150782,-83.8440218568,Fregata magnificens,Magnificent Frigatebird,2015-02-10,2
+Costa Rica,8.71390143158,-83.1751996279,Porphyrio martinica,Purple Gallinule,2015-02-10,2
+Costa Rica,9.07293098798,-83.6572194099,Vireo philadelphicus,Philadelphia Vireo,2015-01-23,2
+Costa Rica,9.07293098798,-83.6572194099,Polioptila plumbea superciliaris,Tropical Gnatcatcher ssp superciliaris,2015-01-23,2
+Costa Rica,9.07293098798,-83.6572194099,Dacnis cayana callaina,Blue Dacnis ssp callaina,2015-01-23,1
+Costa Rica,8.85691143963,-83.5011255741,Cantorchilus semibadius,Riverside Wren,2015-01-22,1
+Costa Rica,8.85691143963,-83.5011255741,Dryocopus lineatus lineatus,Lineated Woodpecker ssp lineatus,2015-01-22,1
+Costa Rica,8.85691143963,-83.5011255741,Tachycineta albilinea,Mangrove Swallow,2015-01-22,6
+Costa Rica,8.85724536798,-83.4793782234,Ramphocelus passerinii costaricensis,Scarlet-rumped Tanager ssp costaricensis,2015-01-22,2
+Costa Rica,9.57345580174,-83.800720945,Pezopetes capitalis,Large-footed Finch,2015-02-11,1
+Costa Rica,9.57345580174,-83.800720945,Turdus nigrescens,Sooty Thrush,2015-02-11,1
+Costa Rica,9.57345580174,-83.800720945,Ptiliogonys caudatus,Long-tailed Silky-flycatcher,2015-02-11,3
+Costa Rica,9.57345580174,-83.800720945,Piranga bidentata,Flame-colored Tanager,2015-02-11,3
+Costa Rica,9.57345580174,-83.800720945,Pselliophorus tibialis,Yellow-thighed Finch,2015-02-11,2
+Costa Rica,9.57345580174,-83.800720945,Chlorospingus pileatus,Sooty-capped Bush Tanager,2015-02-11,5
+Costa Rica,9.57345580174,-83.800720945,Catharus gracilirostris,Black-billed Nightingale-Thrush,2015-02-11,2
+Costa Rica,9.57345580174,-83.800720945,Henicorhina leucophrys,Grey-breasted Wood Wren,2015-02-11,1
+Costa Rica,9.57345580174,-83.800720945,Melanerpes formicivorus,Acorn Woodpecker,2015-02-11,1
+Costa Rica,9.55030741326,-83.807601817,Ptiliogonys caudatus,Long-tailed Silky-flycatcher,2015-02-11,4
+Costa Rica,9.55030741326,-83.807601817,Zonotrichia capensis,Rufous-collared Sparrow,2015-02-11,6
+Costa Rica,9.55030741326,-83.807601817,Tangara icterocephala,Silver-throated Tanager,2015-02-11,2
+Costa Rica,9.55030741326,-83.807601817,Colibri cyanotus cabanidis,Lesser Violetear ssp cabanidis,2015-02-11,6
+Costa Rica,9.54624445085,-83.8005063683,Basileuterus melanogenys,Black-cheeked Warbler,2015-02-11,3
+Costa Rica,9.54624445085,-83.8005063683,Cardellina pusilla,Wilson's Warbler,2015-02-11,9
+Costa Rica,9.54624445085,-83.8005063683,Setophaga virens,Black-throated Green Warbler,2015-02-11,5
+Costa Rica,9.54624445085,-83.8005063683,Elanoides forficatus,Swallow-tailed Kite,2015-02-11,2
+Costa Rica,9.54624445085,-83.8005063683,Eubucco bourcierii,Red-headed Barbet,2015-02-11,1
+Costa Rica,9.54624445085,-83.8005063683,Chlorophonia callophrys,Golden-browed Chlorophonia,2015-02-11,3
+Costa Rica,9.54624445085,-83.8005063683,Tangara dowii,Spangle-cheeked Tanager,2015-02-11,2
+Costa Rica,9.54624445085,-83.8005063683,Myioborus torquatus,Collared Whitestart,2015-02-11,4
+Costa Rica,9.54624445085,-83.8005063683,Oreothlypis gutturalis,Flame-throated Warbler,2015-02-11,2
+Costa Rica,9.54624445085,-83.8005063683,Myadestes melanops,Black-faced Solitaire,2015-02-11,4
+Costa Rica,9.54624445085,-83.8005063683,Pyrrhura hoffmanni,Sulphur-winged Parakeet,2015-02-11,12
+Costa Rica,9.54624445085,-83.8005063683,Leuconotopicus villosus,Hairy Woodpecker,2015-02-11,1
+Costa Rica,9.55987122742,-83.8024516404,Odontophorus guttatus,Spotted Wood Quail,2015-02-11,3
+Costa Rica,9.55987122742,-83.8024516404,Pharomachrus mocinno,Resplendent Quetzal,2015-02-11,2
+Costa Rica,9.82443198994,-83.8689127564,Patagioenas flavirostris,Red-billed Pigeon,2015-02-12,4
+Costa Rica,9.82443198994,-83.8689127564,Stelgidopteryx serripennis,Northern Rough-winged Swallow,2015-02-12,2
+Costa Rica,9.65219950346,-83.8491006196,Pselliophorus tibialis,Yellow-thighed Finch,2015-02-12,2
+Costa Rica,9.65219950346,-83.8491006196,Phainoptila melanoxantha,Black-and-yellow Phainoptila,2015-02-12,2
+Costa Rica,9.65219950346,-83.8491006196,Eugenes spectabilis,Talamanca Hummingbird,2015-02-12,3
+Costa Rica,9.56004050482,-83.8025374711,Pharomachrus mocinno,Resplendent Quetzal,2015-02-12,1
+Costa Rica,9.61285093482,-83.8174290955,Troglodytes ochraceus,Ochraceous Wren,2015-02-12,1
+Costa Rica,9.61285093482,-83.8174290955,Scytalopus argentifrons,Silvery-fronted Tapaculo,2015-02-12,2
+Costa Rica,9.61285093482,-83.8174290955,Empidonax atriceps,Black-capped Flycatcher,2015-02-12,1
+Costa Rica,9.61285093482,-83.8174290955,Pachyramphus versicolor,Barred Becard,2015-02-12,2
+Costa Rica,9.55047669542,-83.8075267151,Diglossa plumbea,Slaty Flowerpiercer,2015-02-12,1
+Costa Rica,9.77462706719,-83.8409577683,Psarocolius montezuma,Montezuma Oropendola,2015-02-14,2
+Costa Rica,9.79808775489,-83.8870666176,Actitis macularius,Spotted Sandpiper,2015-02-13,1
+Costa Rica,9.7985740822,-83.8870666176,Zonotrichia capensis,Rufous-collared Sparrow,2015-02-13,2
+Costa Rica,9.80032908355,-83.885800615,Psittacara finschi,Finsch's Parakeet,2015-02-13,4
+Costa Rica,9.83318606728,-83.878140226,Ardea alba,Great Egret,2015-02-13,1
+Costa Rica,9.83318606728,-83.878140226,Butorides virescens,Green Heron,2015-02-13,1
+Costa Rica,9.76683444527,-83.8616607338,Piaya cayana,Squirrel Cuckoo,2015-02-14,1
+Costa Rica,9.76531204674,-83.8466869667,Amazilia hoffmanni,Blue-vented Hummingbird,2015-02-14,1
+Costa Rica,9.8008788411,-83.8879678398,Cantorchilus modestus,Cabanis's Wren,2015-02-14,1
+Costa Rica,10.0581280809,-84.1984855011,Thraupis episcopus,Blue-grey Tanager,2015-02-15,4
+Costa Rica,10.0581280809,-84.1984855011,Campylorhynchus capistratus,Rufous-backed Wren,2015-02-15,1
+Costa Rica,10.0581280809,-84.1984855011,Patagioenas flavirostris,Red-billed Pigeon,2015-02-15,2
+Costa Rica,10.0581280809,-84.1984855011,Melanerpes hoffmannii,Hoffmann's Woodpecker,2015-02-15,1
+Costa Rica,10.0581280809,-84.1984855011,Amazilia hoffmanni,Blue-vented Hummingbird,2015-02-15,1
+Costa Rica,10.0581280809,-84.1984855011,Basileuterus rufifrons,Rufous-capped Warbler,2015-02-15,2
+Costa Rica,8.78634771584,-83.6422902346,Numenius hudsonicus hudsonicus,Hudsonian Whimbrel ssp hudsonicus,2015-01-23,1
+Costa Rica,8.793464865,-83.619453907,Thalasseus acuflavidus acuflavidus,Cabot's Tern ssp acuflavidus,2015-01-22,2
+Costa Rica,8.81246446489,-83.5686421394,Nyctanassa violacea,Yellow-crowned Night Heron,2015-01-22,1
+Costa Rica,9.4125687762039,-84.21146402742147,Cathartes aura aura,Turkey Vulture ssp aura,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Boa constrictor,Boa Constrictor,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Aramides cajaneus,Grey-necked Wood Rail,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Cochlearius cochlearius,Boat-billed Heron,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Crotophaga sulcirostris,Groove-billed Ani,2006-07-29,1
+Costa Rica,9.4153713913225,-84.2115302050762,Bradypus variegatus,Brown-throated Three-toed Sloth,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Campephilus guatemalensis,Pale-billed Woodpecker,2006-07-29,1
+Costa Rica,9.4125687762039,-84.21146402742147,Tamandua mexicana,Northern Tamandua,2006-07-29,1
+Costa Rica,9.2485142312662,-83.86545086891822,Eudocimus albus,American White Ibis,2006-07-25,1
+Costa Rica,9.24902088119935,-83.8657170921086,Cebus capucinus,White-faced Capuchin,2006-07-25,1
+Costa Rica,9.2485142312662,-83.86545086891822,Thraupis palmarum,Palm Tanager,2006-07-25,1
+Costa Rica,9.2485142312662,-83.86545086891822,Melanerpes rubricapillus,Red-crowned Woodpecker,2006-07-25,1
+Costa Rica,9.2485142312662,-83.86545086891822,Ramphocelus passerinii,Scarlet-rumped Tanager,2006-07-25,1
+Costa Rica,9.2485142312662,-83.86545086891822,Ramphastos ambiguus swainsonii,Yellow-throated Toucan ssp swainsonii,2006-07-25,1
+Costa Rica,9.8003846241,-84.606885016,Crocodylus acutus,American Crocodile,2006-07-25,20
+Costa Rica,10.602590527378588,-84.47747588074954,Aramus guarauna,Limpkin,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Cochlearius cochlearius,Boat-billed Heron,2006-07-25,1
+Costa Rica,10.6192135272378,-84.46962533951796,Alouatta palliata,Mantled Howler Monkey,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Jacana spinosa,Northern Jacana,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Psarocolius montezuma,Montezuma Oropendola,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Egretta thula,Snowy Egret,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Basiliscus plumifrons,Green Basilisk,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Ardea alba,Great Egret,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Caiman crocodilus,Spectacled Caiman,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Tachycineta albilinea,Mangrove Swallow,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Megaceryle torquata,Ringed Kingfisher,2006-07-25,1
+Costa Rica,10.6192135272378,-84.46962533951796,Anhinga anhinga,Anhinga,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Iguana iguana,Common Green Iguana,2006-07-25,20
+Costa Rica,10.602590527378588,-84.47747588074954,Agalychnis callidryas,Red-eyed Treefrog,2006-07-25,1
+Costa Rica,10.602590527378588,-84.47747588074954,Phalacrocorax brasilianus,Neotropic Cormorant,2006-07-21,2
+Costa Rica,10.30343335445,-84.75543920724583,Lampornis calolaemus,Purple-throated Mountaingem,2006-07-21,2
+Costa Rica,10.30343335445,-84.75543920724583,Colibri cyanotus cabanidis,Lesser Violetear ssp cabanidis,2006-07-21,1
+Costa Rica,10.30343335445,-84.75543920724583,Odontophorus leucolaemus,Black-breasted Wood Quail,2006-07-19,1
+Costa Rica,10.30343335445,-84.75543920724583,Myioborus miniatus,Slate-throated Whitestart,2006-07-19,1
+Costa Rica,9.85934091697,-85.3621602268,Drymobius margaritiferus,Speckled Racer,2006-07-19,3
+Costa Rica,9.82868073244,-85.4662515409,Fregata magnificens,Magnificent Frigatebird,2006-07-19,1
+Costa Rica,9.82868073244,-85.4662515409,Stenella attenuata attenuata,Offshore Pantropical Spotted Dolphin,2006-07-19,20
+Costa Rica,9.88271707263,-85.5139088631,Pelecanus occidentalis,Brown Pelican,2006-07-19,1
+Costa Rica,10.42901937700006,-84.70332922378849,Bothriechis schlegelii,Eyelash Viper,2013-08-13,1
+Costa Rica,10.3287605351,-84.7532159372931,Elvira cupreiceps,Coppery-headed Emerald,2013-08-13,10
+Costa Rica,10.3797652244,-84.6688842773,Nasua narica,White-nosed Coati,2013-08-13,3
+Costa Rica,10.428734017500062,-84.70325871899844,Butorides virescens,Green Heron,2013-08-13,1
+Costa Rica,10.428734017500062,-84.70325871899844,Agalychnis callidryas,Red-eyed Treefrog,2013-08-13,1
+Costa Rica,10.3287605351,-84.7532159372931,Dasypus novemcinctus,Nine-banded Armadillo,2013-08-13,1
+Costa Rica,10.4277155585,-84.7152328491,Cebus capucinus,White-faced Capuchin,2013-08-13,10
+Costa Rica,10.4250143272,-84.7265625,Alouatta palliata,Mantled Howler Monkey,2013-08-13,5
+Costa Rica,9.07157487644,-83.6620259285,Ortalis cinereiceps,Grey-headed Chachalaca,2015-01-23,2
+Costa Rica,10.4594321679,-83.477768898,Jacana spinosa,Northern Jacana,2015-01-11,2
+Costa Rica,10.5201974468,-83.5587930679,Chloroceryle amazona,Amazon Kingfisher,2015-01-11,1
+Costa Rica,9.07039754499,-83.6559668183,Pteroglossus frantzii,Fiery-billed Aracari,2015-01-20,6
+Costa Rica,10.3108554146,-84.7984242439,Tangara dowii,Spangle-cheeked Tanager,2015-01-19,1
+Costa Rica,10.3108554146,-84.7984242439,Catharus frantzii wetmorei,Ruddy-capped Nightingale-Thrush ssp wetmorei,2015-01-19,1

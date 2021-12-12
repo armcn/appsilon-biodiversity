@@ -1,0 +1,485 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Namibia,-23.89467739,17.32939437,Kobus leche,Southern Lechwe,2015-02-06,1
+Namibia,-22.8838931756,14.4369689841,Haematopus moquini,African Oystercatcher,2015-02-02,1
+Namibia,-22.8838931756,14.4369689841,Arctocephalus pusillus pusillus,Cape Fur Seal,2015-02-02,1
+Namibia,-23.0099755573,14.6192870289,Felis silvestris cafra,Southern African wildcat,2015-02-02,1
+Namibia,-19.2327,18.4988,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-27,10
+Namibia,-17.874,19.8315,Laniarius bicolor,Swamp Boubou,2015-02-27,1
+Namibia,-22.9344919689,14.4699279685,Charadrius marginatus marginatus,White-fronted Plover ssp marginatus,2015-02-01,1
+Namibia,-22.9344919689,14.4699279685,Chroicocephalus hartlaubii,Hartlaub's Gull,2015-01-31,1
+Namibia,-22.9344919689,14.4699279685,Sternula balaenarum,Damara Tern,2015-01-31,1
+Namibia,-17.8735,19.8324,Anastomus lamelligerus,African Openbill,2015-02-27,1
+Namibia,-17.8735,19.8325,Bubulcus ibis,Western Cattle Egret,2015-02-27,50
+Namibia,-17.8742,19.8313,Tyto alba,Western Barn Owl,2015-02-27,2
+Namibia,-17.8736,19.8324,Tyto alba,Western Barn Owl,2015-02-26,1
+Namibia,-17.8826,19.8311,Cisticola juncidis,Zitting Cisticola,2015-02-26,1
+Namibia,-17.8825,19.831,Merops pusillus,Little Bee-eater,2015-02-26,2
+Namibia,-17.8788,19.8044,Vidua paradisaea,Long-tailed Paradise Whydah,2015-02-26,1
+Namibia,-17.8896,19.8017,Calidris minuta,Little Stint,2015-02-26,5
+Namibia,-17.8935,19.8034,Calidris minuta,Little Stint,2015-02-26,4
+Namibia,-19.6723842066,15.5496092141,Muscicapa striata,Spotted Flycatcher,2015-01-28,1
+Namibia,-18.8137,16.979,Dendroperdix sephaena,Crested Francolin,2015-02-25,1
+Namibia,-18.82,16.9468,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-25,1
+Namibia,-18.8276,16.9509,Aquila rapax,Tawny Eagle,2015-02-25,1
+Namibia,-18.8277,16.9509,Tachybaptus ruficollis,Little Grebe,2015-02-25,12
+Namibia,-18.8277,16.9509,Spatula smithii,Cape Shoveler,2015-02-25,10
+Namibia,-18.8277,16.9509,Ardea cinerea,Grey Heron,2015-02-25,3
+Namibia,-18.8277,16.9509,Leptoptilos crumenifer,Marabou Stork,2015-02-25,1
+Namibia,-18.8188,16.929,Vanellus armatus,Blacksmith Lapwing,2015-02-25,4
+Namibia,-18.8191,16.929,Tachybaptus ruficollis,Little Grebe,2015-02-25,6
+Namibia,-18.819,16.9292,Anas erythrorhyncha,Red-billed Teal,2015-02-25,3
+Namibia,-18.8191,16.9292,Amaurornis flavirostra,Black Crake,2015-02-25,3
+Namibia,-18.8191,16.9292,Gallinula chloropus,Common Moorhen,2015-02-25,1
+Namibia,-18.8329,16.9158,Ardeotis kori,Kori Bustard,2015-02-25,4
+Namibia,-18.8375,16.9095,Coracias caudatus,Lilac-breasted Roller,2015-02-25,4
+Namibia,-18.8386,16.908,Ardeotis kori,Kori Bustard,2015-02-25,2
+Namibia,-18.8423,16.9082,Ardeotis kori,Kori Bustard,2015-02-25,1
+Namibia,-18.858,16.9245,Crocuta crocuta,Spotted hyena,2015-02-25,15
+Namibia,-18.8408,16.9205,Ardeotis kori,Kori Bustard,2015-02-25,2
+Namibia,-18.8407,16.9205,Crocuta crocuta,Spotted hyena,2015-02-25,4
+Namibia,-18.8103,16.9413,Corythaixoides concolor,Grey Go-away-bird,2015-02-25,1
+Namibia,-18.8047,16.9424,Pternistis adspersus,Red-billed Spurfowl,2015-02-25,1
+Namibia,-18.8047,16.9424,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-25,1
+Namibia,-18.8048,16.9423,Crocuta crocuta,Spotted hyena,2015-02-25,2
+Namibia,-18.8052,16.9422,Canis mesomelas,Black-backed Jackal,2015-02-24,1
+Namibia,-18.8052,16.9422,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-24,1
+Namibia,-18.8069,16.9412,Canis mesomelas,Black-backed Jackal,2015-02-24,1
+Namibia,-18.8289,16.9523,Mungos mungo,Banded Mongoose,2015-02-24,10
+Namibia,-18.8269,16.9505,Anas capensis,Cape Teal,2015-02-24,2
+Namibia,-18.8269,16.9505,Canis mesomelas,Black-backed Jackal,2015-02-24,4
+Namibia,-18.8269,16.9505,Phacochoerus africanus,Common Warthog,2015-02-24,1
+Namibia,-18.827,16.9503,Streptopelia capicola,Ring-necked Dove,2015-02-24,100
+Namibia,-18.827,16.9504,Ardea cinerea,Grey Heron,2015-02-24,1
+Namibia,-18.827,16.9503,Aquila rapax,Tawny Eagle,2015-02-24,2
+Namibia,-18.827,16.9505,Tachybaptus ruficollis,Little Grebe,2015-02-24,12
+Namibia,-18.827,16.9505,Creatophora cinerea,Wattled Starling,2015-02-24,20
+Namibia,-18.827,16.9505,Charadrius pecuarius,Kittlitz's Plover,2015-02-24,2
+Namibia,-18.827,16.9504,Anas erythrorhyncha,Red-billed Teal,2015-02-24,40
+Namibia,-18.827,16.9504,Spatula smithii,Cape Shoveler,2015-02-24,6
+Namibia,-18.8235,16.9486,Madoqua kirkii damarensis,Damara Dik-dik,2015-02-24,2
+Namibia,-18.8335,16.9224,Grus paradisea,Blue Crane,2015-02-24,2
+Namibia,-18.818,16.9317,Ardeotis kori,Kori Bustard,2015-02-24,1
+Namibia,-18.8052,16.9424,Tricholaema leucomelas,Acacia Pied Barbet,2015-02-24,1
+Namibia,-18.8048,16.9424,Dryoscopus cubla,Black-backed Puffback,2015-02-24,1
+Namibia,-18.8073,16.9404,Mungos mungo,Banded Mongoose,2015-02-24,10
+Namibia,-18.8073,16.9404,Lophoceros nasutus,African Grey Hornbill,2015-02-24,2
+Namibia,-18.8073,16.9404,Bubalornis niger,Red-billed Buffalo Weaver,2015-02-24,5
+Namibia,-18.8058,16.9417,Spilopelia senegalensis,Laughing Dove,2015-02-24,5
+Namibia,-18.8048,16.9423,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-24,1
+Namibia,-18.8052,16.9422,Gyps africanus,White-backed Vulture,2015-02-24,1
+Namibia,-18.8052,16.9422,Lophoceros nasutus,African Grey Hornbill,2015-02-24,5
+Namibia,-18.8052,16.9422,Corythaixoides concolor,Grey Go-away-bird,2015-02-24,2
+Namibia,-18.8052,16.9422,Pternistis adspersus,Red-billed Spurfowl,2015-02-24,10
+Namibia,-18.7914,16.9077,Oena capensis,Namaqua Dove,2015-02-24,4
+Namibia,-18.7917,16.9082,Quelea quelea,Red-billed Quelea,2015-02-24,2
+Namibia,-18.7917,16.9082,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-24,2
+Namibia,-18.7918,16.9082,Vanellus armatus,Blacksmith Lapwing,2015-02-24,2
+Namibia,-18.5491,16.8001,Terathopius ecaudatus,Bateleur,2015-02-24,1
+Namibia,-18.5491,16.8005,Torgos tracheliotos,Lappet-faced Vulture,2015-02-24,1
+Namibia,-18.5207,16.7724,Himantopus himantopus,Black-winged Stilt,2015-02-24,2
+Namibia,-18.5207,16.7724,Anas erythrorhyncha,Red-billed Teal,2015-02-24,10
+Namibia,-18.5552,16.8068,Merops hirundineus,Swallow-tailed Bee-eater,2015-02-24,1
+Namibia,-18.5589,16.808,Plocepasser mahali,White-browed Sparrow-Weaver,2015-02-24,10
+Namibia,-18.5589,16.8079,Terathopius ecaudatus,Bateleur,2015-02-24,1
+Namibia,-18.6669,16.8903,Merops hirundineus,Swallow-tailed Bee-eater,2015-02-24,1
+Namibia,-18.7152,16.9038,Gyps africanus,White-backed Vulture,2015-02-24,4
+Namibia,-18.7152,16.9037,Lophoceros nasutus,African Grey Hornbill,2015-02-24,27
+Namibia,-18.7153,16.9036,Turdoides bicolor,Southern Pied Babbler,2015-02-24,6
+Namibia,-18.7391,16.904,Coracias caudatus,Lilac-breasted Roller,2015-02-24,1
+Namibia,-18.7402,16.9041,Melaenornis mariquensis,Marico Flycatcher,2015-02-24,1
+Namibia,-18.7912,16.9224,Himantopus himantopus,Black-winged Stilt,2015-02-24,50
+Namibia,-18.788,16.927,Anas capensis,Cape Teal,2015-02-24,100
+Namibia,-18.7865,16.9319,Equus quagga burchelli,Burchell's Zebra,2015-02-24,10
+Namibia,-18.7861,16.9325,Leptoptilos crumenifer,Marabou Stork,2015-02-24,9
+Namibia,-18.782,16.9309,Merops hirundineus,Swallow-tailed Bee-eater,2015-02-24,1
+Namibia,-18.7815,16.9304,Terathopius ecaudatus,Bateleur,2015-02-24,1
+Namibia,-18.7752,16.9272,Phacochoerus africanus,Common Warthog,2015-02-24,1
+Namibia,-18.775,16.9271,Lophoceros nasutus,African Grey Hornbill,2015-02-24,4
+Namibia,-18.7749,16.9271,Coracias caudatus,Lilac-breasted Roller,2015-02-24,3
+Namibia,-18.7748,16.9269,Afrotis afraoides,Northern Black Korhaan,2015-02-24,1
+Namibia,-18.748,16.9526,Coracias caudatus,Lilac-breasted Roller,2015-02-24,1
+Namibia,-18.7436,16.9565,Connochaetes taurinus,Blue Wildebeest,2015-02-24,10
+Namibia,-18.7423,16.9579,Struthio camelus,Common Ostrich,2015-02-24,5
+Namibia,-18.7419,16.9583,Oena capensis,Namaqua Dove,2015-02-24,10
+Namibia,-18.7396,16.9612,Oryx gazella,Gemsbok,2015-02-24,1
+Namibia,-18.7372,16.9644,Elanus caeruleus,Black-winged Kite,2015-02-24,1
+Namibia,-18.7354,16.9667,Elanus caeruleus,Black-winged Kite,2015-02-24,1
+Namibia,-18.7265,16.9724,Uraeginthus granatinus,Violet-eared Waxbill,2015-02-24,1
+Namibia,-18.7208,16.9799,Elanus caeruleus,Black-winged Kite,2015-02-24,1
+Namibia,-18.7228,16.9845,Myrmecocichla formicivora,Ant-eating Chat,2015-02-24,2
+Namibia,-18.723,16.985,Melaenornis mariquensis,Marico Flycatcher,2015-02-24,1
+Namibia,-18.7233,16.9852,Elanus caeruleus,Black-winged Kite,2015-02-24,1
+Namibia,-18.7311,16.9921,Hippolais icterina,Icterine Warbler,2015-02-24,1
+Namibia,-18.7512,17.0235,Grus paradisea,Blue Crane,2015-02-24,2
+Namibia,-18.7768,17.0173,Melierax canorus,Pale Chanting Goshawk,2015-02-24,2
+Namibia,-18.7939,16.9946,Numida meleagris,Helmeted Guineafowl,2015-02-24,20
+Namibia,-18.7952,16.9933,Crocuta crocuta,Spotted hyena,2015-02-24,2
+Namibia,-18.7948,16.9939,Muscicapa striata,Spotted Flycatcher,2015-02-24,1
+Namibia,-18.7976,16.9912,Coracias caudatus,Lilac-breasted Roller,2015-02-24,4
+Namibia,-18.8015,16.9614,Melierax canorus,Pale Chanting Goshawk,2015-02-24,1
+Namibia,-18.8025,16.9562,Vanellus coronatus,Crowned Lapwing,2015-02-24,10
+Namibia,-18.8028,16.9554,Grus paradisea,Blue Crane,2015-02-24,2
+Namibia,-18.8054,16.9472,Coracias naevius,Purple Roller,2015-02-24,4
+Namibia,-18.8058,16.9454,Leptoptilos crumenifer,Marabou Stork,2015-02-24,1
+Namibia,-18.8287,16.9249,Ardeotis kori,Kori Bustard,2015-02-24,2
+Namibia,-18.8583,16.9248,Tachybaptus ruficollis,Little Grebe,2015-02-24,2
+Namibia,-18.8545,16.9237,Antidorcas marsupialis,Springbok,2015-02-24,500
+Namibia,-18.8486,16.8976,Vanellus coronatus,Crowned Lapwing,2015-02-24,1
+Namibia,-18.8562,16.8882,Lophoceros nasutus,African Grey Hornbill,2015-02-24,25
+Namibia,-18.8563,16.8843,Connochaetes taurinus,Blue Wildebeest,2015-02-24,10
+Namibia,-18.8505,16.8464,Calendulauda sabota,Sabota Lark,2015-02-24,2
+Namibia,-18.8661,16.826,Merops apiaster,European Bee-eater,2015-02-24,2
+Namibia,-18.8589,16.8144,Equus quagga burchelli,Burchell's Zebra,2015-02-24,10
+Namibia,-18.859,16.815,Oryx gazella,Gemsbok,2015-02-24,20
+Namibia,-18.8634,16.8218,Numida meleagris,Helmeted Guineafowl,2015-02-24,20
+Namibia,-18.8639,16.8225,Streptopelia capicola,Ring-necked Dove,2015-02-24,5
+Namibia,-18.8644,16.8232,Ardeotis kori,Kori Bustard,2015-02-24,7
+Namibia,-18.8663,16.8271,Ardeotis kori,Kori Bustard,2015-02-24,1
+Namibia,-18.8515,16.9228,Crocuta crocuta,Spotted hyena,2015-02-24,6
+Namibia,-18.8339,16.9222,Ardeotis kori,Kori Bustard,2015-02-24,3
+Namibia,-18.8334,16.9225,Crocuta crocuta,Spotted hyena,2015-02-24,2
+Namibia,-18.8264,16.9258,Mungos mungo,Banded Mongoose,2015-02-24,20
+Namibia,-18.8206,16.93,Coracias naevius,Purple Roller,2015-02-24,3
+Namibia,-18.815,16.934,Coracias naevius,Purple Roller,2015-02-24,2
+Namibia,-18.8148,16.934,Vidua paradisaea,Long-tailed Paradise Whydah,2015-02-24,5
+Namibia,-18.8102,16.9412,Oriolus oriolus,Eurasian Golden Oriole,2015-02-24,2
+Namibia,-18.8066,16.9412,Pternistis adspersus,Red-billed Spurfowl,2015-02-24,1
+Namibia,-18.8066,16.9417,Grus paradisea,Blue Crane,2015-02-24,1
+Namibia,-18.8052,16.9424,Crocuta crocuta,Spotted hyena,2015-02-24,1
+Namibia,-18.8051,16.9422,Micronisus gabar,Gabar Goshawk,2015-02-23,1
+Namibia,-18.8051,16.9421,Canis mesomelas,Black-backed Jackal,2015-02-23,1
+Namibia,-18.8051,16.9422,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-23,1
+Namibia,-18.805,16.9422,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-23,1
+Namibia,-18.8069,16.9412,Oriolus oriolus,Eurasian Golden Oriole,2015-02-23,2
+Namibia,-18.8069,16.9412,Equus quagga burchelli,Burchell's Zebra,2015-02-23,1
+Namibia,-18.8068,16.9412,Lophoceros nasutus,African Grey Hornbill,2015-02-23,1
+Namibia,-18.8065,16.9392,Vanellus armatus,Blacksmith Lapwing,2015-02-23,40
+Namibia,-18.8066,16.9391,Anas erythrorhyncha,Red-billed Teal,2015-02-23,10
+Namibia,-18.8066,16.9392,Corythaixoides concolor,Grey Go-away-bird,2015-02-23,1
+Namibia,-18.8064,16.9392,Streptopelia capicola,Ring-necked Dove,2015-02-23,5
+Namibia,-18.8064,16.9392,Gallinula chloropus,Common Moorhen,2015-02-23,3
+Namibia,-18.8063,16.9392,Tachybaptus ruficollis,Little Grebe,2015-02-23,2
+Namibia,-18.8063,16.9392,Actophilornis africanus,African Jacana,2015-02-23,2
+Namibia,-18.8062,16.9391,Himantopus himantopus,Black-winged Stilt,2015-02-23,3
+Namibia,-18.8065,16.9406,Hippolais icterina,Icterine Warbler,2015-02-23,1
+Namibia,-18.8065,16.9406,Pternistis adspersus,Red-billed Spurfowl,2015-02-23,4
+Namibia,-18.8064,16.9411,Corythaixoides concolor,Grey Go-away-bird,2015-02-23,4
+Namibia,-18.8058,16.9419,Sylvietta rufescens,Long-billed Crombec,2015-02-23,2
+Namibia,-18.8052,16.9422,Muscicapa striata,Spotted Flycatcher,2015-02-23,1
+Namibia,-18.8049,16.9422,Hippolais icterina,Icterine Warbler,2015-02-23,1
+Namibia,-18.8045,16.9424,Corythaixoides concolor,Grey Go-away-bird,2015-02-23,1
+Namibia,-18.8051,16.9422,Pternistis adspersus,Red-billed Spurfowl,2015-02-23,20
+Namibia,-18.8051,16.9422,Dryoscopus cubla,Black-backed Puffback,2015-02-23,2
+Namibia,-18.8051,16.9422,Sylvietta rufescens,Long-billed Crombec,2015-02-23,2
+Namibia,-18.811,16.9412,Coracias caudatus,Lilac-breasted Roller,2015-02-23,1
+Namibia,-18.8124,16.9368,Lophoceros nasutus,African Grey Hornbill,2015-02-23,2
+Namibia,-18.8151,16.9339,Ardeotis kori,Kori Bustard,2015-02-23,1
+Namibia,-18.8179,16.9318,Ardeotis kori,Kori Bustard,2015-02-23,1
+Namibia,-18.8189,16.9312,Coracias naevius,Purple Roller,2015-02-23,1
+Namibia,-18.8218,16.9286,Phacochoerus africanus,Common Warthog,2015-02-23,1
+Namibia,-18.8216,16.9287,Coracias caudatus,Lilac-breasted Roller,2015-02-23,1
+Namibia,-18.824,16.927,Torgos tracheliotos,Lappet-faced Vulture,2015-02-23,1
+Namibia,-18.8244,16.9267,Ardeotis kori,Kori Bustard,2015-02-23,1
+Namibia,-18.8467,16.8714,Ardeotis kori,Kori Bustard,2015-02-23,2
+Namibia,-18.889,16.8294,Numida meleagris,Helmeted Guineafowl,2015-02-23,10
+Namibia,-18.8967,16.8268,Anas erythrorhyncha,Red-billed Teal,2015-02-23,2
+Namibia,-18.8968,16.8268,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-23,1
+Namibia,-18.9418,16.7015,Sagittarius serpentarius,Secretarybird,2015-02-23,1
+Namibia,-18.9916,16.5566,Anas erythrorhyncha,Red-billed Teal,2015-02-23,10
+Namibia,-18.9915,16.5567,Vanellus armatus,Blacksmith Lapwing,2015-02-23,10
+Namibia,-19.0353,16.4704,Bubalornis niger,Red-billed Buffalo Weaver,2015-02-23,3
+Namibia,-19.0374,16.472,Merops apiaster,European Bee-eater,2015-02-23,3
+Namibia,-19.0374,16.472,Turdoides gymnogenys,Bare-cheeked Babbler,2015-02-23,2
+Namibia,-19.0353,16.4725,Tyto alba,Western Barn Owl,2015-02-23,1
+Namibia,-19.0352,16.4724,Otus senegalensis,African Scops Owl,2015-02-23,1
+Namibia,-19.0237,16.4581,Coracias caudatus,Lilac-breasted Roller,2015-02-23,1
+Namibia,-19.0029,16.4198,Dicrurus adsimilis,Fork-tailed Drongo,2015-02-23,1
+Namibia,-19.0029,16.4198,Merops apiaster,European Bee-eater,2015-02-23,5
+Namibia,-19.0027,16.4194,Ardeotis kori,Kori Bustard,2015-02-23,2
+Namibia,-18.998,16.4098,Lanius minor,Lesser Grey Shrike,2015-02-23,1
+Namibia,-18.9974,16.4086,Merops apiaster,European Bee-eater,2015-02-23,3
+Namibia,-18.9969,16.4076,Lanius minor,Lesser Grey Shrike,2015-02-23,1
+Namibia,-18.9969,16.4076,Merops apiaster,European Bee-eater,2015-02-23,3
+Namibia,-19.0012,16.3828,Pterocles namaqua,Namaqua Sandgrouse,2015-02-23,4
+Namibia,-19.0015,16.3823,Terathopius ecaudatus,Bateleur,2015-02-23,2
+Namibia,-19.0087,16.3644,Merops apiaster,European Bee-eater,2015-02-23,3
+Namibia,-19.0124,16.3546,Lanius minor,Lesser Grey Shrike,2015-02-23,1
+Namibia,-19.0367,16.3411,Anas erythrorhyncha,Red-billed Teal,2015-02-23,12
+Namibia,-19.0365,16.3411,Tadorna cana,South African Shelduck,2015-02-23,2
+Namibia,-19.0368,16.3412,Actophilornis africanus,African Jacana,2015-02-23,2
+Namibia,-19.0413,16.3219,Melierax canorus,Pale Chanting Goshawk,2015-02-23,1
+Namibia,-19.0411,16.3195,Merops apiaster,European Bee-eater,2015-02-23,2
+Namibia,-19.0392,16.3015,Merops apiaster,European Bee-eater,2015-02-23,2
+Namibia,-19.0357,16.2856,Ardeotis kori,Kori Bustard,2015-02-23,1
+Namibia,-19.0348,16.2782,Ardeotis kori,Kori Bustard,2015-02-23,2
+Namibia,-19.0421,16.2648,Falco rupicoloides,Greater Kestrel,2015-02-23,1
+Namibia,-19.0421,16.2648,Equus quagga burchelli,Burchell's Zebra,2015-02-23,12
+Namibia,-19.0532,16.2275,Melaenornis infuscatus,Chat Flycatcher,2015-02-23,1
+Namibia,-19.1856,16.1738,Pterocles namaqua,Namaqua Sandgrouse,2015-02-23,30
+Namibia,-19.2038,16.0414,Afrotis afraoides,Northern Black Korhaan,2015-02-23,1
+Namibia,-19.2026,16.0406,Chersomanes albofasciata,Spike-heeled Lark,2015-02-23,4
+Namibia,-19.2026,16.0406,Ardeotis kori,Kori Bustard,2015-02-23,6
+Namibia,-19.1728,16.0269,Afrotis afraoides,Northern Black Korhaan,2015-02-23,1
+Namibia,-19.1709,16.0251,Ardeotis kori,Kori Bustard,2015-02-23,4
+Namibia,-19.1614,16.0158,Ardeotis kori,Kori Bustard,2015-02-23,3
+Namibia,-19.1638,16.011,Afrotis afraoides,Northern Black Korhaan,2015-02-23,2
+Namibia,-19.1617,16.0008,Grus paradisea,Blue Crane,2015-02-23,2
+Namibia,-19.1621,15.9666,Lanius minor,Lesser Grey Shrike,2015-02-23,1
+Namibia,-19.1678,15.9487,Afrotis afraoides,Northern Black Korhaan,2015-02-23,1
+Namibia,-19.181,15.9162,Tachybaptus ruficollis,Little Grebe,2015-02-22,1
+Namibia,-19.181,15.9162,Alopochen aegyptiaca,Egyptian Goose,2015-02-22,2
+Namibia,-19.181,15.9162,Canis mesomelas,Black-backed Jackal,2015-02-22,2
+Namibia,-19.1788,15.9186,Dendropicos fuscescens,Cardinal Woodpecker,2015-02-22,1
+Namibia,-19.2133,16.0582,Corvus albus,Pied Crow,2015-02-22,2
+Namibia,-19.2133,16.0582,Corvus capensis,Cape Crow,2015-02-22,4
+Namibia,-19.2133,16.0582,Sagittarius serpentarius,Secretarybird,2015-02-22,2
+Namibia,-19.2388,16.1309,Oryx gazella,Gemsbok,2015-02-22,30
+Namibia,-19.2387,16.1308,Melierax canorus,Pale Chanting Goshawk,2015-02-22,1
+Namibia,-19.2149,16.0585,Torgos tracheliotos,Lappet-faced Vulture,2015-02-22,5
+Namibia,-19.2168,15.981,Calendulauda sabota,Sabota Lark,2015-02-22,1
+Namibia,-19.2168,15.981,Oenanthe pileata,Capped Wheatear,2015-02-22,2
+Namibia,-19.2004,15.9849,Lophotis ruficrista,Red-crested Korhaan,2015-02-22,1
+Namibia,-19.2031,15.984,Lanius minor,Lesser Grey Shrike,2015-02-22,1
+Namibia,-19.1919,15.9785,Lanius minor,Lesser Grey Shrike,2015-02-22,1
+Namibia,-19.1918,15.9784,Afrotis afraoides,Northern Black Korhaan,2015-02-22,1
+Namibia,-19.1636,15.9129,Ardeotis kori,Kori Bustard,2015-02-22,1
+Namibia,-19.1372,15.9026,Oenanthe pileata,Capped Wheatear,2015-02-22,1
+Namibia,-19.1355,15.9019,Eremopterix verticalis,Grey-backed Sparrow-Lark,2015-02-22,4
+Namibia,-19.0547,15.8726,Falco rupicoloides,Greater Kestrel,2015-02-22,1
+Namibia,-19.0139,15.8653,Rhinoptilus africanus,Double-banded Courser,2015-02-22,2
+Namibia,-18.9941,15.8603,Canis mesomelas,Black-backed Jackal,2015-02-22,4
+Namibia,-18.9942,15.8666,Connochaetes taurinus,Blue Wildebeest,2015-02-22,20
+Namibia,-18.9942,15.8666,Antidorcas marsupialis,Springbok,2015-02-22,50
+Namibia,-18.9942,15.8666,Oryx gazella,Gemsbok,2015-02-22,5
+Namibia,-18.9942,15.8666,Pterocles namaqua,Namaqua Sandgrouse,2015-02-22,2
+Namibia,-18.9942,15.8666,Mirafra fasciolata,Eastern Clapper Lark,2015-02-22,1
+Namibia,-19.0046,15.8652,Canis mesomelas,Black-backed Jackal,2015-02-22,4
+Namibia,-19.0051,15.8652,Afrotis afraoides,Northern Black Korhaan,2015-02-22,1
+Namibia,-19.0085,15.8653,Myrmecocichla formicivora,Ant-eating Chat,2015-02-22,2
+Namibia,-19.0589,15.8738,Rhinoptilus africanus,Double-banded Courser,2015-02-22,1
+Namibia,-19.0615,15.8743,Myrmecocichla formicivora,Ant-eating Chat,2015-02-22,1
+Namibia,-19.0632,15.875,Ardeotis kori,Kori Bustard,2015-02-22,2
+Namibia,-19.0712,15.878,Anthus cinnamomeus,African Pipit,2015-02-22,1
+Namibia,-19.0761,15.8795,Connochaetes taurinus,Blue Wildebeest,2015-02-22,5
+Namibia,-19.0761,15.8795,Oryx gazella,Gemsbok,2015-02-22,10
+Namibia,-19.0761,15.8795,Antidorcas marsupialis,Springbok,2015-02-22,200
+Namibia,-19.0779,15.8802,Vanellus coronatus,Crowned Lapwing,2015-02-22,1
+Namibia,-19.0788,15.8804,Ardeotis kori,Kori Bustard,2015-02-22,1
+Namibia,-19.0794,15.8806,Afrotis afraoides,Northern Black Korhaan,2015-02-22,2
+Namibia,-19.0962,15.8862,Anthus cinnamomeus,African Pipit,2015-02-22,2
+Namibia,-19.0967,15.8864,Myrmecocichla formicivora,Ant-eating Chat,2015-02-22,2
+Namibia,-19.1041,15.8875,Struthio camelus,Common Ostrich,2015-02-22,5
+Namibia,-19.1411,15.9037,Falco rupicoloides,Greater Kestrel,2015-02-22,1
+Namibia,-19.142,15.9039,Pterocles namaqua,Namaqua Sandgrouse,2015-02-22,3
+Namibia,-19.1808,15.9163,Dicrurus adsimilis,Fork-tailed Drongo,2015-02-21,2
+Namibia,-19.1808,15.9163,Tachybaptus ruficollis,Little Grebe,2015-02-21,1
+Namibia,-19.1845,15.9559,Oryx gazella,Gemsbok,2015-02-21,5
+Namibia,-19.192,15.983,Lanius minor,Lesser Grey Shrike,2015-02-21,1
+Namibia,-19.2134,16.0577,Equus quagga burchelli,Burchell's Zebra,2015-02-21,30
+Namibia,-19.18,16.0321,Chersomanes albofasciata,Spike-heeled Lark,2015-02-21,3
+Namibia,-19.1623,16.0156,Struthio camelus,Common Ostrich,2015-02-21,2
+Namibia,-19.1623,16.0154,Malcorus pectoralis,Rufous-eared Warbler,2015-02-21,2
+Namibia,-19.1505,15.9704,Oenanthe pileata,Capped Wheatear,2015-02-21,2
+Namibia,-19.1519,15.9676,Eremopterix verticalis,Grey-backed Sparrow-Lark,2015-02-21,1
+Namibia,-19.1519,15.9676,Rhinoptilus africanus,Double-banded Courser,2015-02-21,1
+Namibia,-19.1523,15.9664,Anthus cinnamomeus,African Pipit,2015-02-21,2
+Namibia,-19.1532,15.9648,Calandrella cinerea,Red-capped Lark,2015-02-21,1
+Namibia,-19.1549,15.961,Calendulauda sabota,Sabota Lark,2015-02-21,1
+Namibia,-19.1677,15.9489,Lanius collaris,Southern Fiscal,2015-02-21,1
+Namibia,-19.1738,15.9367,Canis mesomelas,Black-backed Jackal,2015-02-21,3
+Namibia,-19.1754,15.9291,Ardeotis kori,Kori Bustard,2015-02-21,2
+Namibia,-19.179,15.9189,Turdus litsitsirupa,Groundscraper Thrush,2015-02-21,1
+Namibia,-19.181,15.9163,Laniarius atrococcineus,Crimson-breasted Shrike,2015-02-21,1
+Namibia,-19.1809,15.9163,Aquila rapax,Tawny Eagle,2015-02-21,1
+Namibia,-19.1809,15.9162,Amadina erythrocephala,Red-headed Finch,2015-02-21,20
+Namibia,-19.1809,15.9162,Vidua regia,Shaft-tailed Whydah,2015-02-21,50
+Namibia,-19.1809,15.9162,Oena capensis,Namaqua Dove,2015-02-21,2
+Namibia,-19.1809,15.9162,Ptyonoprogne fuligula,Rock Martin,2015-02-21,5
+Namibia,-19.1809,15.9162,Corvus albus,Pied Crow,2015-02-21,3
+Namibia,-19.1809,15.9162,Corvus capensis,Cape Crow,2015-02-21,5
+Namibia,-19.1809,15.9162,Vanellus armatus,Blacksmith Lapwing,2015-02-21,50
+Namibia,-19.1809,15.9162,Tachybaptus ruficollis,Little Grebe,2015-02-21,1
+Namibia,-19.1815,15.9173,Philetairus socius,Sociable Weaver,2015-02-21,50
+Namibia,-19.1815,15.9173,Merops apiaster,European Bee-eater,2015-02-21,20
+Namibia,-19.1789,15.9189,Passer diffusus,Southern Grey-headed Sparrow,2015-02-21,2
+Namibia,-19.1789,15.9189,Lamprotornis nitens,Cape Starling,2015-02-21,5
+Namibia,-19.2047,15.923400000000001,Connochaetes taurinus,Blue Wildebeest,2015-02-21,10
+Namibia,-19.2077,15.923400000000001,Antidorcas marsupialis,Springbok,2015-02-21,1
+Namibia,-19.2871,15.932,Struthio camelus,Common Ostrich,2015-02-21,1
+Namibia,-20.7332,16.2124,Vidua paradisaea,Long-tailed Paradise Whydah,2015-02-21,7
+Namibia,-21.0665,16.0645,Buteo buteo vulpinus,Steppe Buzzard,2015-02-21,2
+Namibia,-21.15,16.0391,Buteo buteo vulpinus,Steppe Buzzard,2015-02-21,1
+Namibia,-21.1823,16.0297,Coracias naevius,Purple Roller,2015-02-21,1
+Namibia,-21.1942,16.0298,Coracias naevius,Purple Roller,2015-02-21,1
+Namibia,-17.5694637634,13.8577146828,Estrilda thomensis,Cinderella Waxbill,2015-01-27,1
+Namibia,-21.4588,15.8645,Tockus monteiri,Monteiro's Hornbill,2015-02-21,1
+Namibia,-21.4645,15.7846,Pternistis adspersus,Red-billed Spurfowl,2015-02-21,6
+Namibia,-21.5201,15.7481,Vidua paradisaea,Long-tailed Paradise Whydah,2015-02-20,1
+Namibia,-21.4508,15.892,Cercotrichas leucophrys,White-browed Scrub Robin,2015-02-20,1
+Namibia,-21.4515,15.9293,Tockus monteiri,Monteiro's Hornbill,2015-02-20,1
+Namibia,-21.4509,15.9322,Lamprotornis nitens,Cape Starling,2015-02-20,1
+Namibia,-21.4478,15.8874,Dicrurus adsimilis,Fork-tailed Drongo,2015-02-20,6
+Namibia,-21.4611,15.8755,Monticola brevipes,Short-toed Rock Thrush,2015-02-20,2
+Namibia,-21.461,15.8744,Cinnyricinclus leucogaster,Violet-backed Starling,2015-02-20,2
+Namibia,-21.461,15.8744,Ploceus velatus,Southern Masked Weaver,2015-02-20,10
+Namibia,-21.461,15.8745,Pytilia melba,Green-winged Pytilia,2015-02-20,2
+Namibia,-21.4589,15.8723,Onychognathus nabouroup,Pale-winged Starling,2015-02-20,4
+Namibia,-21.459,15.8722,Spilopelia senegalensis,Laughing Dove,2015-02-20,1
+Namibia,-21.459,15.8707,Cercotrichas leucophrys,White-browed Scrub Robin,2015-02-20,1
+Namibia,-21.459,15.8708,Pytilia melba,Green-winged Pytilia,2015-02-20,1
+Namibia,-21.4589,15.8708,Tockus monteiri,Monteiro's Hornbill,2015-02-20,1
+Namibia,-21.4587,15.8716,Ptyonoprogne fuligula,Rock Martin,2015-02-20,1
+Namibia,-21.459,15.8725,Pternistis hartlaubi,Hartlaub's Spurfowl,2015-02-20,1
+Namibia,-21.4598,15.8741,Pternistis adspersus,Red-billed Spurfowl,2015-02-20,1
+Namibia,-21.4598,15.8742,Agapornis roseicollis,Rosy-faced Lovebird,2015-02-20,50
+Namibia,-21.4598,15.8742,Pternistis hartlaubi,Hartlaub's Spurfowl,2015-02-20,3
+Namibia,-21.4611,15.8757,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-19,1
+Namibia,-21.4611,15.8757,Aquila verreauxii,Verreaux's Eagle,2015-02-19,2
+Namibia,-21.4598,15.873,Agapornis roseicollis,Rosy-faced Lovebird,2015-02-19,30
+Namibia,-21.4599,15.8732,Ptyonoprogne fuligula,Rock Martin,2015-02-19,10
+Namibia,-21.4595,15.8733,Batis pririt,Pririt Batis,2015-02-19,2
+Namibia,-21.4595,15.8733,Cinnyris fuscus,Dusky Sunbird,2015-02-19,2
+Namibia,-21.4596,15.8733,Pternistis adspersus,Red-billed Spurfowl,2015-02-19,1
+Namibia,-21.4612,15.8756,Procavia capensis,Common Rock Hyrax,2015-02-19,1
+Namibia,-21.4611,15.8756,Tockus monteiri,Monteiro's Hornbill,2015-02-19,2
+Namibia,-21.4616,15.874,Cinnyricinclus leucogaster,Violet-backed Starling,2015-02-19,1
+Namibia,-21.4618,15.874,Onychognathus nabouroup,Pale-winged Starling,2015-02-19,5
+Namibia,-21.8345,15.1654,Onychognathus nabouroup,Pale-winged Starling,2015-02-19,10
+Namibia,-21.8329,15.1657,Emberiza capensis,Cape Bunting,2015-02-19,1
+Namibia,-21.8328,15.1658,Tricholaema leucomelas,Acacia Pied Barbet,2015-02-19,1
+Namibia,-21.84,15.16,Namibornis herero,Herero Chat,2015-02-19,2
+Namibia,-22.0747,15.2443,Melaenornis infuscatus,Chat Flycatcher,2015-02-19,1
+Namibia,-22.9583,14.4823,Chroicocephalus hartlaubii,Hartlaub's Gull,2015-02-18,5
+Namibia,-22.9583,14.4823,Arenaria interpres,Ruddy Turnstone,2015-02-18,3
+Namibia,-22.6798,14.5861,Charadrius tricollaris,Three-banded Plover,2015-02-18,4
+Namibia,-22.6798,14.5861,Recurvirostra avosetta,Pied Avocet,2015-02-18,19
+Namibia,-22.6798,14.5861,Calidris minuta,Little Stint,2015-02-18,20
+Namibia,-22.6798,14.5861,Calidris pugnax,Ruff,2015-02-18,6
+Namibia,-22.6798,14.5861,Charadrius pecuarius,Kittlitz's Plover,2015-02-18,20
+Namibia,-22.6798,14.5861,Charadrius pallidus,Chestnut-banded Plover,2015-02-18,2
+Namibia,-22.6798,14.5861,Phoeniconaias minor,Lesser Flamingo,2015-02-18,20
+Namibia,-22.6798,14.5861,Phoenicopterus roseus,Greater Flamingo,2015-02-18,1
+Namibia,-22.6385,14.5735,Ammomanopsis grayi,Gray's Lark,2015-02-18,3
+Namibia,-22.5939,14.5356,Calandrella cinerea,Red-capped Lark,2015-02-18,5
+Namibia,-22.7264,14.5297,Charadrius marginatus,White-fronted Plover,2015-02-18,2
+Namibia,-22.7263,14.5294,Thalasseus sandvicensis,Sandwich Tern,2015-02-18,1
+Namibia,-22.7263,14.5293,Larus dominicanus,Kelp Gull,2015-02-18,10
+Namibia,-22.7263,14.5293,Numenius phaeopus,Eurasian Whimbrel,2015-02-18,5
+Namibia,-22.7263,14.5293,Pluvialis squatarola,Grey Plover,2015-02-18,5
+Namibia,-22.7262,14.5293,Microcarbo coronatus,Crowned Cormorant,2015-02-18,2
+Namibia,-22.7267,14.5294,Phalacrocorax capensis,Cape Cormorant,2015-02-18,50
+Namibia,-22.76,14.53,Ammomanopsis grayi,Gray's Lark,2015-02-18,5
+Namibia,-23.1844,14.6409,Calendulauda erythrochlamys,Dune Lark,2015-02-18,1
+Namibia,-22.9618,14.4836,Pluvialis squatarola,Grey Plover,2015-02-17,1
+Namibia,-22.9619,14.4836,Phoenicopterus roseus,Greater Flamingo,2015-02-17,10
+Namibia,-22.9625,14.4834,Haematopus moquini,African Oystercatcher,2015-02-17,2
+Namibia,-22.9627,14.4837,Ardea cinerea,Grey Heron,2015-02-17,1
+Namibia,-22.9624,14.4834,Hydroprogne caspia,Caspian Tern,2015-02-17,2
+Namibia,-22.9625,14.4833,Arenaria interpres,Ruddy Turnstone,2015-02-17,20
+Namibia,-22.9625,14.4834,Pelecanus onocrotalus,Great White Pelican,2015-02-17,10
+Namibia,-22.9653,14.4876,Phoenicopterus roseus,Greater Flamingo,2015-02-17,100
+Namibia,-22.9656,14.4877,Pluvialis squatarola,Grey Plover,2015-02-17,50
+Namibia,-22.9657,14.4877,Chroicocephalus hartlaubii,Hartlaub's Gull,2015-02-17,200
+Namibia,-22.9712,14.4875,Limosa lapponica,Bar-tailed Godwit,2015-02-17,10
+Namibia,-22.9607,14.4822,Sterna hirundo,Common Tern,2015-02-17,50
+Namibia,-22.9607,14.4822,Phalacrocorax capensis,Cape Cormorant,2015-02-17,2
+Namibia,-22.9606,14.482,Pelecanus onocrotalus,Great White Pelican,2015-02-17,4
+Namibia,-22.9672,14.4881,Chroicocephalus hartlaubii,Hartlaub's Gull,2015-02-17,50
+Namibia,-22.9672,14.4881,Sterna hirundo,Common Tern,2015-02-17,15
+Namibia,-22.9672,14.4881,Pelecanus onocrotalus,Great White Pelican,2015-02-17,1
+Namibia,-23.0127,14.4119,Sternula balaenarum,Damara Tern,2015-02-17,2
+Namibia,-23.0146,14.404,Phalacrocorax capensis,Cape Cormorant,2015-02-17,300
+Namibia,-23.0134,14.4391,Himantopus himantopus,Black-winged Stilt,2015-02-17,50
+Namibia,-23.0134,14.4391,Recurvirostra avosetta,Pied Avocet,2015-02-17,200
+Namibia,-23.0134,14.4394,Anas capensis,Cape Teal,2015-02-17,500
+Namibia,-23.0134,14.4399,Charadrius pallidus,Chestnut-banded Plover,2015-02-17,45
+Namibia,-23.0073,14.4447,Calidris pugnax,Ruff,2015-02-17,20
+Namibia,-23.0002,14.4504,Charadrius hiaticula,Common Ringed Plover,2015-02-17,100
+Namibia,-23.0179,14.4641,Ardea cinerea,Grey Heron,2015-02-17,1
+Namibia,-23.0013,14.4686,Calidris alba,Sanderling,2015-02-17,500
+Namibia,-23.0006,14.4688,Calidris ferruginea,Curlew Sandpiper,2015-02-17,5000
+Namibia,-22.9998,14.469,Egretta garzetta,Little Egret,2015-02-17,10
+Namibia,-22.9991,14.4692,Arenaria interpres,Ruddy Turnstone,2015-02-17,10
+Namibia,-22.9899,14.472,Charadrius marginatus,White-fronted Plover,2015-02-17,50
+Namibia,-22.9897,14.472,Numenius phaeopus,Eurasian Whimbrel,2015-02-17,1
+Namibia,-22.9897,14.472,Pluvialis squatarola,Grey Plover,2015-02-17,50
+Namibia,-22.9868,14.4733,Sternula balaenarum,Damara Tern,2015-02-17,4
+Namibia,-22.9864,14.4736,Hydroprogne caspia,Caspian Tern,2015-02-17,6
+Namibia,-22.9861,14.4738,Larus dominicanus,Kelp Gull,2015-02-17,10
+Namibia,-22.9812,14.477,Phoenicopterus roseus,Greater Flamingo,2015-02-17,1000
+Namibia,-22.9803,14.4779,Phoeniconaias minor,Lesser Flamingo,2015-02-17,5000
+Namibia,-22.9763,14.483,Motacilla capensis,Cape Wagtail,2015-02-17,2
+Namibia,-22.9747,14.4844,Chroicocephalus hartlaubii,Hartlaub's Gull,2015-02-17,5
+Namibia,-23.831,15.9521,Melierax canorus,Pale Chanting Goshawk,2015-02-17,1
+Namibia,-23.8942,16.0052,Pterocles namaqua,Namaqua Sandgrouse,2015-02-17,14
+Namibia,-23.8965,16.0061,Pterocles namaqua,Namaqua Sandgrouse,2015-02-17,200
+Namibia,-23.9924,15.9832,Circaetus pectoralis,Black-chested Snake Eagle,2015-02-17,1
+Namibia,-24.013,15.9575,Myrmecocichla monticola,Mountain Wheatear,2015-02-17,1
+Namibia,-24.155,15.9613,Eupodotis rueppelii,Rüppell's Korhaan,2015-02-17,2
+Namibia,-24.1652,15.963,Neotis ludwigii,Ludwig's Bustard,2015-02-17,1
+Namibia,-24.4848,15.7997,Passer melanurus,Cape Sparrow,2015-02-16,2
+Namibia,-24.4847,15.7997,Cinnyris fuscus,Dusky Sunbird,2015-02-16,3
+Namibia,-24.4845,15.7998,Onychognathus nabouroup,Pale-winged Starling,2015-02-16,14
+Namibia,-24.4864,15.7902,Cinnyris fuscus,Dusky Sunbird,2015-02-16,1
+Namibia,-24.6334,15.6489,Calendulauda erythrochlamys,Dune Lark,2015-02-16,1
+Namibia,-24.7302,15.323,Lanius collaris,Southern Fiscal,2015-02-16,3
+Namibia,-24.7304,15.323,Corvus albus,Pied Crow,2015-02-16,1
+Namibia,-24.4843,15.7998,Streptopelia capicola,Ring-necked Dove,2015-02-15,1
+Namibia,-24.4843,15.8001,Onychognathus nabouroup,Pale-winged Starling,2015-02-15,6
+Namibia,-24.4843,15.8001,Philetairus socius,Sociable Weaver,2015-02-15,200
+Namibia,-24.0762,15.9641,Oryx gazella,Gemsbok,2015-02-15,1
+Namibia,-23.9352,16.0057,Eupodotis rueppelii,Rüppell's Korhaan,2015-02-15,1
+Namibia,-23.8936,16.0055,Ploceus velatus,Southern Masked Weaver,2015-02-15,4
+Namibia,-23.8938,16.0054,Corvus albus,Pied Crow,2015-02-15,5
+Namibia,-23.8938,16.0054,Philetairus socius,Sociable Weaver,2015-02-15,100
+Namibia,-23.6553,16.1628,Myrmecocichla monticola,Mountain Wheatear,2015-02-15,1
+Namibia,-23.6625,16.1762,Cinnyris fuscus,Dusky Sunbird,2015-02-15,1
+Namibia,-23.6264,16.2724,Colius colius,White-backed Mousebird,2015-02-15,4
+Namibia,-23.6511,16.2927,Passer motitensis,Great Sparrow,2015-02-15,2
+Namibia,-23.6159,16.3602,Lanioturdus torquatus,White-tailed Shrike,2015-02-15,1
+Namibia,-23.4864,16.6547,Melierax canorus,Pale Chanting Goshawk,2015-02-15,1
+Namibia,-23.4754,16.7147,Oenanthe familiaris,Familiar Chat,2015-02-15,1
+Namibia,-22.5737,17.1314,Charadrius tricollaris,Three-banded Plover,2015-02-15,10
+Namibia,-22.578,17.1283,Lamprotornis nitens,Cape Starling,2015-02-15,4
+Namibia,-22.5796,17.0989,Onychognathus nabouroup,Pale-winged Starling,2015-02-15,2
+Namibia,-22.5756,17.1096,Cynictis penicillata,Yellow Mongoose,2015-02-15,2
+Namibia,-22.578,17.1283,Melaenornis mariquensis,Marico Flycatcher,2015-02-15,1
+Namibia,-22.578,17.1282,Batis pririt,Pririt Batis,2015-02-15,2
+Namibia,-22.5785,17.1279,Laniarius atrococcineus,Crimson-breasted Shrike,2015-02-15,2
+Namibia,-22.5785,17.1279,Prinia flavicans,Black-chested Prinia,2015-02-15,1
+Namibia,-22.5784,17.1279,Chrysococcyx caprius,Diederik Cuckoo,2015-02-15,3
+Namibia,-22.5737,17.1314,Ardea cinerea,Grey Heron,2015-02-15,1
+Namibia,-22.5737,17.1314,Microcarbo africanus,Reed Cormorant,2015-02-15,5
+Namibia,-22.5769,17.1299,Tricholaema leucomelas,Acacia Pied Barbet,2015-02-15,1
+Namibia,-22.5768,17.13,Sylvia subcoerulea,Chestnut-vented Warbler,2015-02-15,1
+Namibia,-22.5768,17.13,Vidua regia,Shaft-tailed Whydah,2015-02-15,4
+Namibia,-22.5768,17.1301,Motacilla capensis,Cape Wagtail,2015-02-15,4
+Namibia,-22.5777,17.1293,Canis mesomelas,Black-backed Jackal,2015-02-15,1
+Namibia,-22.5789,17.1161,Pycnonotus nigricans,African Red-eyed Bulbul,2015-02-15,2
+Namibia,-22.5582,17.0781,Plocepasser mahali,White-browed Sparrow-Weaver,2015-02-15,1
+Namibia,-22.5509,17.0901,Scopus umbretta,Hamerkop,2015-02-14,1
+Namibia,-22.5539,17.0929,Plocepasser mahali,White-browed Sparrow-Weaver,2015-02-14,1
+Namibia,-22.5541,17.0928,Batis pririt,Pririt Batis,2015-02-14,1
+Namibia,-22.5757,17.1305,Ardea cinerea,Grey Heron,2015-02-14,1
+Namibia,-22.5752,17.1305,Cecropis cucullata,Greater Striped Swallow,2015-02-14,1
+Namibia,-22.5752,17.1305,Haliaeetus vocifer,African Fish Eagle,2015-02-14,1
+Namibia,-22.5755,17.1303,Anthus cinnamomeus,African Pipit,2015-02-14,4
+Namibia,-22.5759,17.1301,Himantopus himantopus,Black-winged Stilt,2015-02-14,1
+Namibia,-22.5769,17.1292,Uraeginthus angolensis,Blue Waxbill,2015-02-14,1
+Namibia,-22.5766,17.1295,Prinia flavicans,Black-chested Prinia,2015-02-14,2
+Namibia,-22.5766,17.1295,Vidua macroura,Pin-tailed Whydah,2015-02-14,1
+Namibia,-22.5763,17.1299,Motacilla capensis,Cape Wagtail,2015-02-14,1
+Namibia,-22.5766,17.1296,Oenanthe familiaris,Familiar Chat,2015-02-14,2
+Namibia,-22.5766,17.1296,Spilopelia senegalensis,Laughing Dove,2015-02-14,1
+Namibia,-22.5766,17.1296,Tricholaema leucomelas,Acacia Pied Barbet,2015-02-14,1
+Namibia,-22.5766,17.1296,Euplectes afer,Yellow-crowned Bishop,2015-02-14,6
+Namibia,-22.5766,17.1296,Quelea quelea,Red-billed Quelea,2015-02-14,5
+Namibia,-22.558,17.0781,Pycnonotus nigricans,African Red-eyed Bulbul,2015-02-14,2
+Namibia,-22.5582,17.0781,Colius colius,White-backed Mousebird,2015-02-14,3
+Namibia,-22.488,17.4635,Cypsiurus parvus,African Palm Swift,2015-02-14,1
+Namibia,-22.4867,17.4631,Motacilla capensis,Cape Wagtail,2015-02-14,1
+Namibia,-22.4867,17.4631,Cypsiurus parvus,African Palm Swift,2015-02-14,3
+Namibia,-19.1757784122,15.9182524677,Lamprotornis mevesii mevesii,Meves's Starling ssp mevesii,2014-11-04,1
+Namibia,-18.8050217084,16.9420802591,Paraxerus cepapi,Smith's Bush Squirrel,2014-11-05,1
+Namibia,-21.0164207782,14.6870183936,Tockus damarensis,Damara Red-billed Hornbill,2014-11-02,1
+Namibia,-28.6864012894,17.5610268107,Corythornis cristatus cristatus,Malachite Kingfisher ssp cristatus,2014-10-25,1

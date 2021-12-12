@@ -1,0 +1,317 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Australia,-27.47427187,153.02996339,Burhinus grallarius,Bush Stone-curlew,2015-03-11,6
+Australia,-38.0251,144.5663,Calidris ferruginea,Curlew Sandpiper,2015-03-07,10
+Australia,-38.0251,144.5663,Pelecanus conspicillatus,Australian Pelican,2015-03-07,30
+Australia,-38.0251,144.5663,Haematopus fuliginosus,Sooty Oystercatcher,2015-03-07,1
+Australia,-38.0116,144.5696,Epthianura albifrons,White-fronted Chat,2015-03-07,5
+Australia,-38.0116,144.5696,Poodytes gramineus,Little Grassbird,2015-03-07,1
+Australia,-38.0116,144.5696,Calidris acuminata,Sharp-tailed Sandpiper,2015-03-07,12
+Australia,-38.0116,144.5696,Malacorhynchus membranaceus,Pink-eared Duck,2015-03-07,300
+Australia,-38.0116,144.5696,Falco berigora,Brown Falcon,2015-03-07,3
+Australia,-38.0116,144.5696,Circus approximans,Swamp Harrier,2015-03-07,10
+Australia,-38.0116,144.5696,Elanus axillaris,Black-shouldered Kite,2015-03-07,4
+Australia,-38.0116,144.5696,Poliocephalus poliocephalus,Hoary-headed Grebe,2015-03-07,40
+Australia,-38.0424,144.5122,Threskiornis spinicollis,Straw-necked Ibis,2015-03-07,20
+Australia,-38.0424,144.5122,Hirundo neoxena,Welcome Swallow,2015-03-07,50
+Australia,-38.0424,144.5122,Petrochelidon ariel,Fairy Martin,2015-03-07,6
+Australia,-38.0424,144.5122,Calidris ruficollis,Red-necked Stint,2015-03-07,25
+Australia,-38.0424,144.5122,Calidris ferruginea,Curlew Sandpiper,2015-03-07,6
+Australia,-38.0424,144.5122,Tadorna tadornoides,Australian Shelduck,2015-03-07,60
+Australia,-38.0424,144.5122,Cereopsis novaehollandiae,Cape Barren Goose,2015-03-07,12
+Australia,-38.0424,144.5122,Malacorhynchus membranaceus,Pink-eared Duck,2015-03-07,80
+Australia,-38.0426,144.5122,Calamanthus fuliginosus,Striated Fieldwren,2015-03-07,1
+Australia,-38.0426,144.5122,Cisticola exilis,Golden-headed Cisticola,2015-03-07,3
+Australia,-38.0426,144.5122,Calidris ruficollis,Red-necked Stint,2015-03-07,60
+Australia,-38.0426,144.5122,Tringa nebularia,Common Greenshank,2015-03-07,5
+Australia,-38.0426,144.5122,Tringa stagnatilis,Marsh Sandpiper,2015-03-07,10
+Australia,-37.8285,144.983,Trichoglossus moluccanus,Rainbow Lorikeet,2015-03-08,8
+Australia,-37.8285,144.983,Phalacrocorax sulcirostris,Little Black Cormorant,2015-03-08,10
+Australia,-37.8285,144.9829,Porphyrio melanotus melanotus,Australasian Swamphen ssp melanotus,2015-03-08,6
+Australia,-37.8285,144.983,Gallinula tenebrosa,Dusky Moorhen,2015-03-08,10
+Australia,-37.8285,144.983,Nycticorax caledonicus,Nankeen Night Heron,2015-03-08,3
+Australia,-37.8293,144.9825,Manorina melanophrys,Bell Miner,2015-03-08,4
+Australia,-37.8293,144.9826,Anthochaera carunculata,Red Wattlebird,2015-03-08,2
+Australia,-37.8293,144.9826,Anthochaera chrysoptera,Little Wattlebird,2015-03-08,1
+Australia,-37.8293,144.9826,Nycticorax caledonicus,Nankeen Night Heron,2015-03-08,1
+Australia,-38.025,144.5663,Porzana tabuensis,Spotless Crake,2015-03-07,2
+Australia,-38.0116,144.5696,Stictonetta naevosa,Freckled Duck,2015-03-07,4
+Australia,-38.0426,144.5122,Egretta garzetta,Little Egret,2015-03-07,3
+Australia,-38.0426,144.5122,Cladorhynchus leucocephalus,Banded Stilt,2015-03-07,1
+Australia,-38.0426,144.5122,Recurvirostra novaehollandiae,Red-necked Avocet,2015-03-07,70
+Australia,-38.0425,144.5122,Antigone rubicunda,Brolga,2015-03-07,2
+Australia,-38.484,145.2627,Colluricincla harmonica,Grey Shrikethrush,2015-03-05,2
+Australia,-38.484,145.2627,Caligavis chrysops,Yellow-faced Honeyeater,2015-03-05,2
+Australia,-38.484,145.2627,Melithreptus lunatus,White-naped Honeyeater,2015-03-05,4
+Australia,-38.503,145.1508,Cereopsis novaehollandiae,Cape Barren Goose,2015-03-05,2
+Australia,-38.5171,145.1179,Eudyptula minor,Little Penguin,2015-03-05,8
+Australia,-38.5171,145.1179,Falco cenchroides,Nankeen Kestrel,2015-03-05,1
+Australia,-38.4839,145.2627,Cereopsis novaehollandiae,Cape Barren Goose,2015-03-05,6
+Australia,-38.484,145.2627,Nesoptilotis leucotis,White-eared Honeyeater,2015-03-05,2
+Australia,-39.0291,146.3171,Zoothera lunulata,Bassian Thrush,2015-03-04,1
+Australia,-38.8188,146.1706,Larus pacificus,Pacific Gull,2015-03-04,8
+Australia,-38.8189,146.1708,Numenius madagascariensis,Far Eastern Curlew,2015-03-04,1
+Australia,-39.0291,146.3169,Chenonetta jubata,Maned Duck,2015-03-04,4
+Australia,-38.6689,143.8614,Dacelo novaeguineae,Laughing Kookaburra,2015-03-02,1
+Australia,-38.6689,143.8614,Anthochaera carunculata,Red Wattlebird,2015-03-02,1
+Australia,-38.6689,143.8614,Anthochaera chrysoptera,Little Wattlebird,2015-03-02,4
+Australia,-38.6689,143.8614,Platycercus elegans,Crimson Rosella,2015-03-02,2
+Australia,-38.468,144.1048,Hirundo neoxena,Welcome Swallow,2015-03-02,8
+Australia,-38.468,144.1048,Anthochaera chrysoptera,Little Wattlebird,2015-03-02,2
+Australia,-38.468,144.1048,Phylidonyris novaehollandiae,New Holland Honeyeater,2015-03-02,5
+Australia,-38.5872,143.9339,Zosterops lateralis,Silvereye,2015-03-02,3
+Australia,-38.669,143.8614,Alisterus scapularis,Australian King Parrot,2015-03-02,12
+Australia,-38.6639,143.104,Malurus cyaneus,Superb Fairywren,2015-03-01,12
+Australia,-38.6684,143.1122,Cacatua tenuirostris,Long-billed Corella,2015-02-28,3
+Australia,-38.6684,143.1122,Circus approximans,Swamp Harrier,2015-02-28,1
+Australia,-38.6684,143.1122,Falco cenchroides,Nankeen Kestrel,2015-02-28,1
+Australia,-38.3187,142.3624,Malurus cyaneus,Superb Fairywren,2015-02-27,5
+Australia,-38.35027254,142.05871582,Himantopus leucocephalus,Pied Stilt,2015-02-26,20
+Australia,-38.3671,141.4094,Thalasseus bergii,Greater Crested Tern,2015-02-26,100
+Australia,-34.9951,144.9221,Vanellus tricolor,Banded Lapwing,2015-02-23,2
+Australia,-34.9951,144.9221,Pedionomus torquatus,Plains-wanderer,2015-02-23,2
+Australia,-34.9953,144.9222,Coturnix pectoralis,Stubble Quail,2015-02-23,1
+Australia,-35.675,145.2538,Gerygone fusca,Western Gerygone,2015-02-23,1
+Australia,-35.6689,145.2447,Aegotheles cristatus,Australian Owlet-nightjar,2015-02-23,1
+Australia,-35.5289,144.9678,Cormobates leucophaea,White-throated Treecreeper,2015-02-22,4
+Australia,-35.529,144.9679,Philemon citreogularis,Little Friarbird,2015-02-22,6
+Australia,-34.7852,142.5289,Acanthagenys rufogularis,Spiny-cheeked Honeyeater,2015-02-22,4
+Australia,-34.0828,151.1362,Anas castanea,Chestnut Teal,2015-02-18,2
+Australia,-41.36932162,146.94750431,Podargus strigoides,Tawny Frogmouth,2015-02-17,1
+Australia,-42.12694787,148.08101638,Glossopsitta concinna,Musk Lorikeet,2015-02-19,12
+Australia,-41.8802628,148.30874477,Morus serrator,Australasian Gannet,2015-02-19,20
+Australia,-38.60912665,142.87879674,Thalasseus bergii,Greater Crested Tern,2015-02-24,30
+Australia,-36.11663886,144.77396223,Cacatua tenuirostris,Long-billed Corella,2015-02-26,300
+Australia,-36.11664394,144.77396415,Eolophus roseicapilla,Galah,2015-02-26,6
+Australia,-36.11664558,144.77396433,Manorina melanocephala,Noisy Miner,2015-02-26,3
+Australia,-36.11664231,144.77386789,Entomyzon cyanotis cyanotis,Blue-faced Honeyeater ssp cyanotis,2015-02-26,6
+Australia,-36.11663678,144.77391192,Ptilotula penicillata penicillata,White-plumed Honeyeater ssp penicillata,2015-02-26,6
+Australia,-36.1165885,144.7743079,Psephotus haematonotus,Red-rumped Parrot,2015-02-28,4
+Australia,-33.41845866,149.62658926,Anthochaera carunculata,Red Wattlebird,2015-03-01,1
+Australia,-33.41839884,149.62631548,Strepera graculina,Pied Currawong,2015-03-01,1
+Australia,-33.72567472,150.30294631,Cormobates leucophaea metastasis,White-throated Treecreeper ssp metastasis,2015-03-02,1
+Australia,-33.72554272,150.30298337,Platycercus elegans elegans,Crimson Rosella ssp elegans,2015-03-02,5
+Australia,-33.72719289,150.30210247,Menura novaehollandiae,Superb Lyrebird,2015-03-02,1
+Australia,-33.87577812,151.21070666,Threskiornis molucca,Australian White Ibis,2015-03-03,1
+Australia,-33.86195498,151.21635009,Trichoglossus moluccanus,Rainbow Lorikeet,2015-03-03,5
+Australia,-33.8627064,151.21644939,Dacelo novaeguineae,Laughing Kookaburra,2015-03-03,1
+Australia,-31.93739121,152.46797681,Trichoglossus chlorolepidotus,Scaly-breasted Lorikeet,2015-03-04,2
+Australia,-31.93738061,152.46793056,Trichoglossus moluccanus,Rainbow Lorikeet,2015-03-04,1
+Australia,-30.8132098,152.87124133,Dacelo novaeguineae,Laughing Kookaburra,2015-03-05,1
+Australia,-30.16770033,153.1877136,Alectura lathami,Australian Brushturkey,2015-03-05,1
+Australia,-30.1672763,153.19106836,Haliastur indus,Brahminy Kite,2015-03-05,1
+Australia,-30.1688758,153.18939156,Egretta garzetta,Little Egret,2015-03-07,15
+Australia,-29.62290219,153.03822914,Antigone rubicunda,Brolga,2015-03-07,8
+Australia,-29.6228949,153.03824366,Bubulcus coromandus,Eastern Cattle Egret,2015-03-07,80
+Australia,-28.23042371,153.13235509,Macropygia phasianella,Brown Cuckoo-Dove,2015-03-08,1
+Australia,-28.23036702,153.13218985,Meliphaga lewinii,Lewin's Honeyeater,2015-03-08,6
+Australia,-28.2303656,153.13218761,Alectura lathami,Australian Brushturkey,2015-03-08,5
+Australia,-28.2295356039595,153.133550137281,Orthonyx temminckii,Australian Logrunner,2015-03-08,1
+Australia,-28.23020099,153.13230686,Gerygone mouki,Brown Gerygone,2015-03-08,1
+Australia,-28.23020067,153.1323107,Acanthiza pusilla,Brown Thornbill,2015-03-08,1
+Australia,-28.23024086,153.13233116,Psophodes olivaceus,Eastern Whipbird,2015-03-08,1
+Australia,-28.230872,153.1346806,Colluricincla harmonica,Grey Shrikethrush,2015-03-08,1
+Australia,-28.23023885,153.13242327,Ptilonorhynchus violaceus violaceus,Satin Bowerbird ssp violaceus,2015-03-08,2
+Australia,-28.23000489,153.13151085,Eopsaltria australis,Eastern Yellow Robin,2015-03-08,1
+Australia,-28.23016301,153.1318642,Rhipidura albiscapa,Grey Fantail,2015-03-08,1
+Australia,-28.23015003,153.13243683,Leucosarcia melanoleuca,Wonga Pigeon,2015-03-08,1
+Australia,-28.2301998,153.13235936,Meliphaga lewinii,Lewin's Honeyeater,2015-03-08,1
+Australia,-28.23025825,153.13238549,Zoothera lunulata lunulata,Bassian Thrush ssp lunulata,2015-03-08,1
+Australia,-28.23025508,153.13237596,Neosericornis citreogularis intermedius,Yellow-throated Scrubwren ssp intermedius,2015-03-08,1
+Australia,-28.23022216,153.13546421,Menura alberti,Albert's Lyrebird,2015-03-09,1
+Australia,-28.2298277,153.13258502,Rhipidura rufifrons,Rufous Fantail,2015-03-10,2
+Australia,-24.5251358042,132.0922851,Litoria gilleni,Centralian Tree Frog,2015-02-06,7
+Australia,-38.389,142.54,Phascolarctos cinereus,Koala,2015-01-30,1
+Australia,-12.8964182824,132.5175476,Crocodylus porosus,Saltwater Crocodile,2015-02-11,1
+Australia,-25.8129344777,133.287963881,Lophognathus longirostris,Long-snouted Lashtail,2015-02-06,1
+Australia,-31.5290631323,138.60717772,Tiliqua rugosa,Shingleback Lizard,2015-02-04,1
+Australia,-12.4506741196,130.833806995,Varanus mertensi,Mertens's Water Monitor,2015-02-13,1
+Australia,-14.648,143.835,Dicaeum hirundinaceum hirundinaceum,Mistletoebird ssp hirundinaceum,2014-10-28,1
+Australia,-14.648,143.835,Taeniopygia bichenovii bichenovii,Double-barred Finch ssp bichenovii,2014-10-28,1
+Australia,-12.5970777819,143.411092982,Cinnyris jugularis frenatus,Olive-backed Sunbird ssp frenatus,2014-11-01,1
+Australia,-29.3,121.6,Vulpes vulpes,Red Fox,2015-02-12,1
+Australia,-16.9192256849,145.777444832,Trichoglossus moluccanus,Rainbow Lorikeet,2015-02-16,1
+Australia,-16.9166800844,145.777015679,Numenius madagascariensis,Far Eastern Curlew,2015-02-16,1
+Australia,-16.9166800844,145.777015679,Pelecanus conspicillatus,Australian Pelican,2015-02-16,1
+Australia,-16.9166800844,145.777015679,Calidris ruficollis,Red-necked Stint,2015-02-16,1
+Australia,-16.9166800844,145.777015679,Haematopus longirostris,Pied Oystercatcher,2015-02-16,1
+Australia,-16.9185687591,145.776243203,Vanellus miles,Masked Lapwing,2015-02-16,1
+Australia,-16.917993947,145.77718734,Geopelia placida,Peaceful Dove,2015-02-16,1
+Australia,-16.917993947,145.77718734,Charadrius ruficapillus,Red-capped Plover,2015-02-15,1
+Australia,-16.917993947,145.77718734,Limosa lapponica,Bar-tailed Godwit,2015-02-14,1
+Australia,-16.917993947,145.77718734,Platalea regia,Royal Spoonbill,2015-02-14,1
+Australia,-12.4500245751,130.834783316,Rhyothemis phyllis,Yellow-striped Flutterer,2015-02-12,1
+Australia,-12.449031395,130.835294723,Vanellus miles,Masked Lapwing,2015-02-12,1
+Australia,-12.4495342704,130.834608078,Anseranas semipalmata,Magpie Goose,2015-02-12,1
+Australia,-12.4495342704,130.834608078,Grallina cyanoleuca,Magpie-lark,2015-02-12,1
+Australia,-12.8964182824,132.5175476,Vanellus miles,Masked Lapwing,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Neochmia phaeton,Crimson Finch,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Irediparra gallinacea,Comb-crested Jacana,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Haliaeetus leucogaster,White-bellied Sea Eagle,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Ephippiorhynchus asiaticus,Black-necked Stork,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Entomyzon cyanotis,Blue-faced Honeyeater,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Dromaius novaehollandiae,Emu,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Cacatua galerita,Sulphur-crested Cockatoo,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Anseranas semipalmata,Magpie Goose,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Anhinga novaehollandiae,Australasian Darter,2015-02-11,1
+Australia,-12.8964182824,132.5175476,Nettapus pulchellus,Green Pygmy Goose,2015-02-11,1
+Australia,-38.355116153,146.38787996,Hemicordulia tau,Tau Emerald,2015-03-03,1
+Australia,-38.3639816894,146.383582056,Varanus varius,Lace Monitor,2015-03-03,2
+Australia,-38.3521293569,146.409777515,Phascolarctos cinereus,Koala,2015-02-26,1
+Australia,-38.8607749395,145.996549353,Dama dama,Fallow Deer,2015-02-19,1
+Australia,-24.4068409084,131.818188428,Manorina melanocephala,Noisy Miner,2015-02-06,1
+Australia,-30.2402643252,135.258064277,Eolophus roseicapilla,Galah,2015-02-06,1
+Australia,-29.4447001398,138.244628683,Taeniopygia guttata,Zebra Finch,2015-02-05,1
+Australia,-29.4447001398,138.244628683,Eolophus roseicapilla,Galah,2015-02-05,1
+Australia,-32.1588727697,138.211669698,Gymnorhina tibicen,Australian Magpie,2015-02-03,1
+Australia,-32.1588727697,138.211669698,Barnardius zonarius,Australian Ringneck,2015-02-03,1
+Australia,-32.1588727697,138.211669698,Dromaius novaehollandiae,Emu,2015-02-03,2
+Australia,-34.8893854501,138.560485952,Eolophus roseicapilla,Galah,2015-01-30,1
+Australia,-34.8893854501,138.560485952,Ocyphaps lophotes,Crested Pigeon,2015-01-30,1
+Australia,-34.8893854501,138.560485952,Threskiornis molucca,Australian White Ibis,2015-01-30,1
+Australia,-34.8893854501,138.560485952,Manorina melanocephala,Noisy Miner,2015-01-30,1
+Australia,-37.0619717168,139.743804988,Egretta novaehollandiae,White-faced Heron,2015-01-30,1
+Australia,-37.0619717168,139.743804988,Charadrius ruficapillus,Red-capped Plover,2015-01-30,1
+Australia,-38.3893203768,142.54028298,Malurus cyaneus,Superb Fairywren,2015-01-30,1
+Australia,-38.3893203768,142.54028298,Chenonetta jubata,Maned Duck,2015-01-30,1
+Australia,-38.3893203768,142.54028298,Alisterus scapularis,Australian King Parrot,2015-01-30,1
+Australia,-35.3018545087,149.11746025,Ocyphaps lophotes,Crested Pigeon,2015-01-27,1
+Australia,-35.3018545087,149.11746025,Gymnorhina tibicen,Australian Magpie,2015-01-27,1
+Australia,-35.293859299,149.117832183,Chenonetta jubata,Maned Duck,2015-01-26,1
+Australia,-33.864899444,151.217036247,Acridotheres tristis,Common Myna,2015-01-23,1
+Australia,-33.6958943933,150.324783311,Cacatua galerita,Sulphur-crested Cockatoo,2015-01-25,1
+Australia,-33.8636964595,151.217131019,Threskiornis molucca,Australian White Ibis,2015-01-24,1
+Australia,-33.8636964595,151.217131019,Phalacrocorax sulcirostris,Little Black Cormorant,2015-01-24,1
+Australia,-33.8627636972,151.214497089,Manorina melanocephala,Noisy Miner,2015-01-24,1
+Australia,-33.859729848,151.209515333,Gymnorhina tibicen,Australian Magpie,2015-01-24,1
+Australia,-33.8911559635,151.276473996,Chroicocephalus novaehollandiae,Silver Gull,2015-01-24,1
+Australia,-33.8601978802,151.209390163,Chroicocephalus novaehollandiae,Silver Gull,2015-01-23,6
+Australia,-35.3017330959,149.13196563,Eolophus roseicapilla,Galah,2015-01-26,2
+Australia,-17.9645478451,122.238593325,Threskiornis molucca molucca,Australian White Ibis ssp molucca,2013-05-26,1
+Australia,-33.7107574974,151.298010573,Pelecanus conspicillatus,Australian Pelican,2015-01-06,1
+Australia,-33.8270399213,151.059894785,Threskiornis molucca,Australian White Ibis,2014-12-13,1
+Australia,-28.3946219821,114.594726786,Charadrius ruficapillus,Red-capped Plover,2015-02-18,1
+Australia,-30.9512312921,115.415038839,Artamus cinereus,Black-faced Woodswallow,2015-02-19,1
+Australia,-28.3146976944,114.484862834,Calidris ruficollis,Red-necked Stint,2015-02-18,1
+Australia,-27.9995749977,114.140624776,Pelecanus conspicillatus,Australian Pelican,2015-02-17,25
+Australia,-27.3867259025,114.327392355,Calyptorhynchus banksii,Red-tailed Black Cockatoo,2015-02-17,10
+Australia,-26.3584042449,113.287353404,Chelonia mydas,Green Turtle,2015-02-16,1
+Australia,-32.0071443396,115.818328829,Tursiops truncatus,Common Bottlenose Dolphin,2015-02-20,3
+Australia,-28.4796365532,121.962889731,Varanus panoptes,Yellow-spotted Monitor,2015-02-14,1
+Australia,-30.5925284412,121.116943136,Varanus panoptes,Yellow-spotted Monitor,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Elseyornis melanops,Black-fronted Dotterel,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Epthianura aurifrons,Orange Chat,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Aquila audax,Wedge-tailed Eagle,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Poliocephalus poliocephalus,Hoary-headed Grebe,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Tachybaptus novaehollandiae,Australasian Grebe,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Malacorhynchus membranaceus,Pink-eared Duck,2015-02-12,1
+Australia,-30.5925284412,121.116943136,Eolophus roseicapilla,Galah,2015-02-12,1
+Australia,-34.5524147285,117.429198772,Parvipsitta porphyrocephala,Purple-crowned Lorikeet,2015-02-06,1
+Australia,-34.0198842907,116.242675334,Chenonetta jubata,Maned Duck,2015-02-09,1
+Australia,-34.7632763211,117.033690959,Melanodryas cucullata,Hooded Robin,2015-02-07,1
+Australia,-33.9262692048,122.200012179,Litoria cyclorhyncha,Spotted-thighed Frog,2015-02-06,1
+Australia,-30.458144351,115.041504353,Larus pacificus,Pacific Gull,2015-02-17,2
+Australia,-35.0193502126,117.893371554,Manorina flavigula,Yellow-throated Miner,2015-02-05,1
+Australia,-33.853994434,117.041015401,Tiliqua rugosa,Shingleback Lizard,2015-02-05,1
+Australia,-38.1289145983,146.440699185,Austroaeschna unicornis,Unicorn Darner,2015-02-24,1
+Australia,-34.9839526995,117.884216085,Purpureicephalus spurius,Red-capped Parrot,2015-02-09,1
+Australia,-34.9164155929,117.359618917,Stagonopleura oculata,Red-eared Firetail,2015-02-08,1
+Australia,-32.7296838459,116.80297941,Hirundo neoxena,Welcome Swallow,2015-02-04,1
+Australia,-32.683461685,116.70959428,Barnardius zonarius,Australian Ringneck,2015-02-04,1
+Australia,-31.9571325123,115.887450278,Eolophus roseicapilla,Galah,2015-02-20,1
+Australia,-28.0711720822,114.181823507,Pandion cristatus,Eastern Osprey,2015-02-07,1
+Australia,-28.07117208,114.18182351,Himantopus leucocephalus,Pied Stilt,2015-02-07,1
+Australia,-35.0472368488,117.392577901,Haematopus fuliginosus,Sooty Oystercatcher,2015-02-07,1
+Australia,-35.013501733,117.928161565,Chroicocephalus novaehollandiae,Silver Gull,2015-02-09,1
+Australia,-34.9089083224,117.428283636,Platycercus icterotis,Western Rosella,2015-02-08,4
+Australia,-34.9089083224,117.428283636,Malurus splendens,Splendid Fairywren,2015-02-08,10
+Australia,-32.006057441,115.824966417,Cygnus atratus,Black Swan,2015-02-20,1
+Australia,-34.9931037531,117.419586154,Pelecanus conspicillatus,Australian Pelican,2015-02-08,1
+Australia,-33.2855383573,115.786743052,Dromaius novaehollandiae,Emu,2015-02-10,6
+Australia,-13.438,142.942,Grallina cyanoleuca neglecta,Magpie-lark ssp neglecta,2014-10-30,1
+Australia,-12.597,143.411,Neochmia temporalis minor,Red-browed Finch ssp minor,2014-10-31,7
+Australia,-12.6728348849,143.359683752,Myiagra alecto wardelli,Shining Flycatcher ssp wardelli,2014-11-01,1
+Australia,-38.2218922454,146.37293838,Anthus australis,Australian Pipit,2014-11-20,1
+Australia,-38.3614348188,146.381035298,Artamus cyanopterus,Dusky Woodswallow,2014-11-20,1
+Australia,-38.3563949688,146.408833377,Phascolarctos cinereus,Koala,2015-02-16,1
+Australia,-38.3587029061,146.411043517,Acanthorhynchus tenuirostris,Eastern Spinebill,2015-02-16,1
+Australia,-38.8387664308,146.152589545,Larus pacificus,Pacific Gull,2015-02-19,3
+Australia,-38.8606117703,145.99963909,Apis mellifera,Western Honey Bee,2015-02-19,1
+Australia,-38.187250483,146.50624576,Crabronidae indet.,Crabronid wasp (family) unknown,2015-02-15,1
+Australia,-16.4986616903,145.460579619,Cacatua galerita,Sulphur-crested Cockatoo,2014-12-20,3
+Australia,-16.5947499024,145.337194316,Dacelo novaeguineae,Laughing Kookaburra,2014-12-20,1
+Australia,-16.593994096,145.337669905,Tanysiptera sylvia,Buff-breasted Paradise Kingfisher,2014-12-20,1
+Australia,-16.0868064654,145.462017953,Casuarius casuarius,Southern Cassowary,2014-12-21,1
+Australia,-12.717,143.317,Pachycephala simplex peninsulae,Grey Whistler ssp peninsulae,2014-11-02,1
+Australia,-16.0871363443,145.45909971,Casuarius casuarius,Southern Cassowary,2014-12-20,1
+Australia,-33.7273,150.3706,Colluricincla harmonica,Grey Shrikethrush,2015-02-16,1
+Australia,-33.7273,150.3706,Eopsaltria australis,Eastern Yellow Robin,2015-02-16,1
+Australia,-33.7273,150.3706,Sericornis frontalis,White-browed Scrubwren,2015-02-16,2
+Australia,-33.7273,150.3706,Zoothera lunulata,Bassian Thrush,2015-02-16,1
+Australia,-33.7273,150.3706,Phylidonyris novaehollandiae,New Holland Honeyeater,2015-02-16,1
+Australia,-33.7273,150.3706,Acanthorhynchus tenuirostris,Eastern Spinebill,2015-02-16,1
+Australia,-33.7273,150.3706,Menura novaehollandiae,Superb Lyrebird,2015-02-16,3
+Australia,-33.7273,150.3706,Ptilonorhynchus violaceus,Satin Bowerbird,2015-02-16,3
+Australia,-33.1244,150.3244,Rhipidura leucophrys,Willie Wagtail,2015-02-16,10
+Australia,-33.1244,150.3244,Cisticola exilis,Golden-headed Cisticola,2015-02-16,1
+Australia,-33.1244,150.3244,Falco cenchroides,Nankeen Kestrel,2015-02-16,3
+Australia,-33.1244,150.3244,Anthus australis,Australian Pipit,2015-02-16,1
+Australia,-33.1244,150.3244,Malurus cyaneus,Superb Fairywren,2015-02-16,2
+Australia,-33.1244,150.3244,Corcorax melanorhamphos,White-winged Chough,2015-02-16,8
+Australia,-33.7273,150.3706,Origma solitaria,Rockwarbler,2015-02-16,1
+Australia,-33.1243,150.3243,Falco cenchroides,Nankeen Kestrel,2015-02-15,1
+Australia,-33.1242,150.3242,Coracina novaehollandiae,Black-faced Cuckooshrike,2015-02-15,1
+Australia,-33.1243,150.3244,Taeniopygia guttata,Zebra Finch,2015-02-15,2
+Australia,-33.1244,150.3244,Neochmia temporalis,Red-browed Finch,2015-02-15,2
+Australia,-33.1244,150.3244,Microeca fascinans,Jacky Winter,2015-02-15,2
+Australia,-33.1243,150.3243,Malurus cyaneus,Superb Fairywren,2015-02-15,6
+Australia,-33.1244,150.3244,Rhipidura leucophrys,Willie Wagtail,2015-02-15,6
+Australia,-33.1244,150.3244,Dacelo novaeguineae,Laughing Kookaburra,2015-02-15,5
+Australia,-33.6758,150.2683,Calyptorhynchus funereus,Yellow-tailed Black Cockatoo,2015-02-14,4
+Australia,-33.6759,150.2683,Rhipidura albiscapa,Grey Fantail,2015-02-14,4
+Australia,-33.6757,150.2683,Eopsaltria australis,Eastern Yellow Robin,2015-02-14,1
+Australia,-33.6748,150.2676,Cormobates leucophaea,White-throated Treecreeper,2015-02-14,1
+Australia,-33.6758,150.2684,Pachycephala pectoralis,Australian Golden Whistler,2015-02-14,1
+Australia,-33.6735,150.2691,Menura novaehollandiae,Superb Lyrebird,2015-02-14,1
+Australia,-33.8702,151.225,Trichoglossus moluccanus,Rainbow Lorikeet,2015-01-17,2
+Australia,-33.8701,151.225,Hirundo neoxena,Welcome Swallow,2015-01-17,3
+Australia,-33.8702,151.2249,Phalacrocorax sulcirostris,Little Black Cormorant,2015-01-17,2
+Australia,-33.8649,151.2166,Gallinula tenebrosa,Dusky Moorhen,2015-01-16,6
+Australia,-33.8645,151.2154,Chenonetta jubata,Maned Duck,2015-01-16,4
+Australia,-33.8649,151.2156,Dacelo novaeguineae,Laughing Kookaburra,2015-01-16,1
+Australia,-33.8654,151.2147,Manorina melanocephala,Noisy Miner,2015-01-16,20
+Australia,-33.8595,151.2219,Gymnorhina tibicen,Australian Magpie,2015-01-16,2
+Australia,-33.8595,151.2218,Strepera graculina,Pied Currawong,2015-01-16,2
+Australia,-33.8595,151.2218,Cacatua galerita,Sulphur-crested Cockatoo,2015-01-16,3
+Australia,-33.8595,151.2218,Threskiornis molucca,Australian White Ibis,2015-01-16,3
+Australia,-33.8595,151.2219,Phalacrocorax varius,Australian Pied Cormorant,2015-01-16,1
+Australia,-33.8595,151.2219,Chroicocephalus novaehollandiae,Silver Gull,2015-01-16,10
+Australia,-33.8596,151.2219,Thalasseus bergii,Greater Crested Tern,2015-01-16,1
+Australia,-33.8635,151.2187,Dacelo novaeguineae,Laughing Kookaburra,2015-01-16,2
+Australia,-33.8636,151.2186,Vanellus miles,Masked Lapwing,2015-01-16,1
+Australia,-33.869,151.2227,Trichoglossus moluccanus,Rainbow Lorikeet,2015-01-16,10
+Australia,-33.8709,151.2253,Hirundo neoxena,Welcome Swallow,2015-01-16,5
+Australia,-23.5791456781,150.821629465,Recurvirostra novaehollandiae,Red-necked Avocet,2015-02-03,1
+Australia,-23.5791456781,150.821629465,Platalea regia,Royal Spoonbill,2015-02-03,4
+Australia,-23.5773093397,150.844788998,Calidris ferruginea,Curlew Sandpiper,2015-02-03,54
+Australia,-23.5773093397,150.844788998,Calidris acuminata,Sharp-tailed Sandpiper,2015-02-03,45
+Australia,-23.5798659483,150.821400135,Tringa stagnatilis,Marsh Sandpiper,2015-02-03,112
+Australia,-23.6558334703,150.703855008,Dendrocygna eytoni,Plumed Whistling Duck,2015-02-03,2
+Australia,-24.0307933999,151.427385919,Numenius madagascariensis,Far Eastern Curlew,2015-02-07,16
+Australia,-23.7698468649,151.159201562,Charadrius ruficapillus,Red-capped Plover,2015-02-08,1
+Australia,-23.7844155093,151.154077705,Artamus leucorynchus,White-breasted Woodswallow,2015-02-08,5
+Australia,-23.8671753676,151.276785582,Gallinago hardwickii,Latham's Snipe,2015-02-08,1
+Australia,-23.8373220634,151.234045252,Himantopus leucocephalus,Pied Stilt,2015-02-08,33
+Australia,-23.4907249618,150.977271851,Diplacodes bipunctata,Red Percher,2015-02-06,3
+Australia,-23.7604828352,151.314436253,Merops ornatus,Rainbow Bee-eater,2015-02-04,3
+Australia,-23.7600851475,151.313202437,Esacus magnirostris,Beach Stone-curlew,2015-02-04,1
+Australia,-23.760001682,151.313374098,Malurus melanocephalus,Red-backed Fairywren,2015-02-04,3
+Australia,-38.3622760742,146.391678303,Austroaeschna multipunctata,Multi-spotted Darner,2015-02-12,1
+Australia,-38.3591360387,146.38787359,Chrysididae indet.,Chrysidid unknown,2015-02-12,1
+Australia,-38.3591360387,146.38787359,Adversaeschna brevistyla,Lancer Dragonfly,2015-02-12,1
+Australia,-38.3556183222,146.385984644,Austroaeschna pulchra,Forest Darner,2015-02-11,1
+Australia,-38.3573188361,146.385556161,Rhipidura rufifrons,Rufous Fantail,2015-02-11,1
+Australia,-12.615,143.435,Chalcophaps longirostris rogersi,Pacific Emerald Dove ssp rogersi,2014-10-31,1
+Australia,-12.7944769736,143.360110223,Actitis hypoleucos,Common Sandpiper,2014-10-31,1
+Australia,-12.7946173362,143.360139728,Egretta garzetta nigripes,Little Egret ssp nigripes,2014-10-31,1
+Australia,-18.9664875587,146.29274726,Bubulcus coromandus,Eastern Cattle Egret,2014-11-08,1
+Australia,-16.248590191,145.316684246,Hirundo neoxena neoxena,Welcome Swallow ssp neoxena,2014-11-05,2

@@ -1,0 +1,217 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Romania,45.7860483997,24.0293975109,Ciconia ciconia,White Stork,2015-03-14,2
+Romania,46.55472545,24.57497272,Corvus frugilegus,Rook,2015-03-14,35
+Romania,46.76847314,23.55524092,Turdus merula,Common Blackbird,2015-02-17,1
+Romania,46.7648014,23.54295552,Cinclus cinclus,White-throated Dipper,2015-03-01,2
+Romania,46.76804739,23.56042481,Sturnus vulgaris,Common Starling,2015-03-04,2
+Romania,46.76761855,23.56374803,Sturnus vulgaris,Common Starling,2015-03-04,2
+Romania,46.76780472,23.56697267,Sturnus vulgaris,Common Starling,2015-03-04,1
+Romania,46.76785146,23.56731816,Coccothraustes coccothraustes,Hawfinch,2015-03-04,1
+Romania,46.76800701,23.56823171,Sturnus vulgaris,Common Starling,2015-03-04,1
+Romania,46.7682099,23.56895086,Sturnus vulgaris,Common Starling,2015-03-04,1
+Romania,46.77072806,23.57540971,Chloris chloris,European Greenfinch,2015-03-04,1
+Romania,46.77194863,23.58202629,Fringilla coelebs,Common Chaffinch,2015-03-04,1
+Romania,46.76483528,23.58157015,Dendrocoptes medius,Middle Spotted Woodpecker,2015-03-11,1
+Romania,46.7702001402108,23.5895578935742,Falco peregrinus,Peregrine Falcon,2015-03-12,1
+Romania,46.95,25.15,Picus canus,Grey-headed Woodpecker,2015-03-12,2
+Romania,46.4,24.4,Felis silvestris,Wild Cat,2015-03-10,1
+Romania,46.95,25.15,Picus canus,Grey-headed Woodpecker,2015-03-11,1
+Romania,46.7586507741362,23.5960386134684,Coccothraustes coccothraustes,Hawfinch,2015-03-11,3
+Romania,46.7594459728011,23.5969011113048,Corvus cornix,Hooded Crow,2015-03-11,1
+Romania,46.7591083422303,23.5960995499045,Turdus pilaris,Fieldfare,2015-03-11,2
+Romania,46.7593693546951,23.5960252024233,Carduelis carduelis,European Goldfinch,2015-03-11,2
+Romania,46.7608133051544,23.5943849477917,Sitta europaea,Eurasian Nuthatch,2015-03-11,1
+Romania,46.7624357063323,23.5932880919427,Spinus spinus,Eurasian Siskin,2015-03-11,4
+Romania,46.7648775251408,23.5917965322733,Dendrocopos major,Great Spotted Woodpecker,2015-03-11,1
+Romania,46.7646989040077,23.5921416990459,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-11,1
+Romania,46.7646834813058,23.5920777451247,Chloris chloris,European Greenfinch,2015-03-11,1
+Romania,46.7646734649316,23.5920699499547,Sitta europaea,Eurasian Nuthatch,2015-03-11,1
+Romania,46.9671708,25.16780571,Dendrocopos major,Great Spotted Woodpecker,2015-03-11,1
+Romania,46.8298489286118,23.5127037011475,Turdus philomelos,Song Thrush,2015-03-10,1
+Romania,45.3492801015,25.0511455536,Strix uralensis,Ural Owl,2013-05-09,1
+Romania,46.75,23.5,Picus canus,Grey-headed Woodpecker,2015-03-01,1
+Romania,46.76373777,23.54067115,Cinclus cinclus,White-throated Dipper,2015-03-01,1
+Romania,46.76281921,23.53912019,Cinclus cinclus,White-throated Dipper,2015-03-01,2
+Romania,46.76782685,23.5561971,Sturnus vulgaris,Common Starling,2015-03-05,3
+Romania,46.80540452,23.46976566,Turdus pilaris,Fieldfare,2015-03-07,60
+Romania,46.77723533,23.55956509,Corvus cornix,Hooded Crow,2015-03-07,1
+Romania,46.75,23.55,Picus canus,Grey-headed Woodpecker,2015-03-07,1
+Romania,46.63334069,23.52947757,Ardea cinerea,Grey Heron,2015-03-08,10
+Romania,46.63334023,23.52947761,Ardea alba,Great Egret,2015-03-08,1
+Romania,46.75381279,23.55422025,Turdus merula,Common Blackbird,2015-03-08,1
+Romania,46.7845332417551,23.5348391532898,Anas platyrhynchos,Mallard,2015-03-08,3
+Romania,46.77146998,23.50259161,Dendrocopos major,Great Spotted Woodpecker,2015-03-08,2
+Romania,46.77138724,23.5026018,Turdus pilaris,Fieldfare,2015-03-08,3
+Romania,46.8300377381854,23.5131872049565,Sturnus vulgaris,Common Starling,2015-03-08,300
+Romania,46.8300286703356,23.5130509811745,Strix uralensis,Ural Owl,2015-03-08,1
+Romania,46.63328953,23.5295008,Chroicocephalus ridibundus,Black-headed Gull,2015-03-07,13
+Romania,46.63328846,23.52950086,Ardea cinerea,Grey Heron,2015-03-07,14
+Romania,46.6331142,23.52995974,Saxicola rubicola,European Stonechat,2015-03-07,1
+Romania,46.63091471,23.54196495,Podiceps cristatus,Great Crested Grebe,2015-03-07,2
+Romania,46.62757864,23.55116027,Ardea alba,Great Egret,2015-03-07,1
+Romania,46.7612437997013,23.5634322557598,Corvus cornix,Hooded Crow,2015-02-27,1
+Romania,46.7618857696652,23.5647979192436,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-27,1
+Romania,46.7644143803045,23.5677700582892,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-02-27,1
+Romania,46.7645039409399,23.5679503530264,Turdus merula,Common Blackbird,2015-02-27,1
+Romania,46.7644858360291,23.5681477468461,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-27,1
+Romania,46.764514753595,23.5681961104274,Anas platyrhynchos,Mallard,2015-02-27,2
+Romania,46.7420753510669,23.5386087466031,Corvus corax,Northern Raven,2015-02-28,1
+Romania,46.7485243454576,23.537699310109,Accipiter nisus,Eurasian Sparrowhawk,2015-02-28,1
+Romania,46.7657204484567,23.5548921022564,Motacilla cinerea,Grey Wagtail,2015-03-01,1
+Romania,46.7646766081452,23.5424422938377,Anas platyrhynchos,Mallard,2015-03-01,2
+Romania,46.7627978883684,23.5389710124582,Troglodytes troglodytes,Eurasian Wren,2015-03-01,1
+Romania,46.7627978883684,23.5389710124582,Cyanistes caeruleus,Eurasian Blue Tit,2015-03-01,1
+Romania,46.7628263030201,23.5389918833971,Cinclus cinclus,White-throated Dipper,2015-03-01,1
+Romania,46.7646462656558,23.542493339628,Corvus cornix,Hooded Crow,2015-03-01,1
+Romania,46.764979781583,23.5437048599124,Cyanistes caeruleus,Eurasian Blue Tit,2015-03-01,1
+Romania,46.7782692934173,23.584900572896,Corvus frugilegus,Rook,2015-03-02,8
+Romania,46.7540415236726,23.5593236982822,Chloris chloris,European Greenfinch,2015-03-07,1
+Romania,46.8643621634692,23.3003753609955,Accipiter nisus,Eurasian Sparrowhawk,2015-03-06,1
+Romania,46.74219241,23.53871728,Corvus corax,Northern Raven,2015-02-28,1
+Romania,46.74870987,23.5378985,Accipiter nisus,Eurasian Sparrowhawk,2015-02-28,1
+Romania,46.76572373,23.55464927,Motacilla cinerea,Grey Wagtail,2015-03-01,1
+Romania,46.76279098,23.5389255,Troglodytes troglodytes,Eurasian Wren,2015-03-01,1
+Romania,46.7628836,23.53704312,Cinclus cinclus,White-throated Dipper,2015-03-01,1
+Romania,46.76471157,23.54246594,Corvus cornix,Hooded Crow,2015-03-01,1
+Romania,46.80753847,23.50451182,Fringilla coelebs,Common Chaffinch,2015-03-05,1
+Romania,46.7742423306669,23.5882214829326,Larus michahellis,Yellow-legged Gull,2015-02-20,1
+Romania,46.76617035,23.58375816,Fringilla coelebs,Common Chaffinch,2015-02-21,1
+Romania,46.76365559,23.58020544,Accipiter nisus,Eurasian Sparrowhawk,2015-02-21,1
+Romania,46.76814543,23.60284513,Larus michahellis,Yellow-legged Gull,2015-02-21,2
+Romania,46.7662958,23.62785156,Dendrocopos syriacus,Syrian Woodpecker,2015-02-22,1
+Romania,46.76107427,23.58755058,Poecile palustris,Marsh Tit,2015-02-24,3
+Romania,46.76110951,23.58754512,Turdus viscivorus,Mistle Thrush,2015-02-24,1
+Romania,46.7695557682333,23.5910833999515,Larus michahellis,Yellow-legged Gull,2015-02-26,2
+Romania,46.7641568407111,23.6164892837405,Accipiter nisus,Eurasian Sparrowhawk,2015-02-28,1
+Romania,46.7649870738419,23.6164876073599,Sturnus vulgaris,Common Starling,2015-03-04,1
+Romania,46.7701039212213,23.5895471647382,Falco peregrinus,Peregrine Falcon,2015-03-04,1
+Romania,46.76935025,23.57543572,Dendrocopos major,Great Spotted Woodpecker,2015-03-04,3
+Romania,46.76939374,23.57549908,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-04,5
+Romania,46.76997671,23.57604727,Turdus pilaris,Fieldfare,2015-03-04,6
+Romania,46.7698339,23.57607504,Turdus merula,Common Blackbird,2015-03-04,1
+Romania,46.76714247,23.56626642,Fulica atra,Eurasian Coot,2015-03-04,1
+Romania,46.76714252,23.56623424,Tachybaptus ruficollis,Little Grebe,2015-03-04,1
+Romania,46.76692251,23.56234466,Chroicocephalus ridibundus,Black-headed Gull,2015-03-04,10
+Romania,46.76960253,23.57607701,Picus viridis,European Green Woodpecker,2015-03-04,1
+Romania,46.76961274,23.5761492,Dendrocopos syriacus,Syrian Woodpecker,2015-03-04,1
+Romania,46.77135317,23.58238079,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-04,5
+Romania,46.7656927881762,23.5607616975903,Chloris chloris,European Greenfinch,2015-03-04,1
+Romania,46.766726737842,23.5626917146146,Dryobates minor,Lesser Spotted Woodpecker,2015-03-04,1
+Romania,46.7666999576613,23.562700515613,Dendrocopos major,Great Spotted Woodpecker,2015-03-04,1
+Romania,46.721432399936,23.590424079448,Aegithalos caudatus,Long-tailed Tit,2015-03-04,3
+Romania,46.75,23.55,Picus canus,Grey-headed Woodpecker,2015-03-02,1
+Romania,46.7657659202814,23.5608382243663,Fringilla coelebs,Common Chaffinch,2015-03-02,1
+Romania,46.7793901829415,23.6115401048503,Turdus merula,Common Blackbird,2015-03-01,1
+Romania,46.7787211068474,23.6096299491809,Turdus merula,Common Blackbird,2015-03-01,1
+Romania,46.7651730682701,23.5609078779817,Coccothraustes coccothraustes,Hawfinch,2015-02-25,2
+Romania,46.7660960834473,23.5617416258901,Spinus spinus,Eurasian Siskin,2015-02-27,20
+Romania,46.75,23.55,Picus canus,Grey-headed Woodpecker,2015-02-27,1
+Romania,44.2142626134,28.6431035399,Larus michahellis,Yellow-legged Gull,2015-02-25,1
+Romania,46.77282448,23.58322251,Cinclus cinclus,White-throated Dipper,2015-02-18,1
+Romania,46.77819701,23.58425826,Troglodytes troglodytes,Eurasian Wren,2015-02-18,1
+Romania,45.1792619107,28.2376098633,Polyommatus icarus,Common Blue,2009-05-09,60
+Romania,44.45,26.2,Parnassius mnemosyne,Clouded Apollo,2009-05-11,1
+Romania,46.76691259,23.56257456,Motacilla cinerea,Grey Wagtail,2015-02-17,1
+Romania,46.8183179,23.51108993,Dendrocoptes medius,Middle Spotted Woodpecker,2015-02-16,1
+Romania,46.82103196,23.51039436,Dendrocopos syriacus,Syrian Woodpecker,2015-02-16,1
+Romania,47.2370898909867,21.9149380456656,Ardea cinerea,Grey Heron,2015-02-15,1
+Romania,46.7641662569816,23.6164741963148,Accipiter nisus,Eurasian Sparrowhawk,2015-02-16,1
+Romania,47.06202808,22.28158029,Aythya fuligula,Tufted Duck,2015-02-15,3
+Romania,47.06165965,22.30573671,Podiceps cristatus,Great Crested Grebe,2015-02-15,25
+Romania,46.7641308885426,23.6168835684657,Turdus merula,Common Blackbird,2015-02-11,1
+Romania,46.76429804,23.61734493,Coccothraustes coccothraustes,Hawfinch,2015-02-11,1
+Romania,46.76550036,23.62572231,Coccothraustes coccothraustes,Hawfinch,2015-02-14,15
+Romania,46.765074920000004,23.62527328,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-14,4
+Romania,46.7651579,23.62599007,Sitta europaea,Eurasian Nuthatch,2015-02-14,3
+Romania,46.76505026,23.62596065,Fringilla coelebs,Common Chaffinch,2015-02-14,5
+Romania,46.76504513,23.62595439,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-02-14,4
+Romania,46.76503939,23.62595453,Spinus spinus,Eurasian Siskin,2015-02-14,7
+Romania,46.76498371,23.62595171,Dendrocopos major,Great Spotted Woodpecker,2015-02-14,2
+Romania,46.76541208,23.62649968,Asio otus,Long-eared Owl,2015-02-14,47
+Romania,46.76559834,23.62812394,Turdus merula,Common Blackbird,2015-02-14,1
+Romania,46.76558957,23.62833344,Turdus pilaris,Fieldfare,2015-02-14,3
+Romania,46.76558824,23.62833244,Aegithalos caudatus,Long-tailed Tit,2015-02-14,3
+Romania,46.76483846,23.62729988,Corvus frugilegus,Rook,2015-02-14,3
+Romania,46.76537554,23.6296132,Passer montanus,Eurasian Tree Sparrow,2015-02-14,22
+Romania,46.77187855,23.58298708,Sitta europaea,Eurasian Nuthatch,2015-02-15,3
+Romania,46.77167579,23.58255737,Coccothraustes coccothraustes,Hawfinch,2015-02-15,3
+Romania,46.77160183,23.58238349,Corvus frugilegus,Rook,2015-02-15,11
+Romania,46.77064217,23.57992384,Corvus cornix,Hooded Crow,2015-02-15,1
+Romania,46.77059694,23.57985869,Turdus merula,Common Blackbird,2015-02-15,1
+Romania,46.77016885,23.57895843,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-15,3
+Romania,46.75,23.55,Picus canus,Grey-headed Woodpecker,2015-02-15,1
+Romania,46.76990287,23.57718752,Dendrocopos major,Great Spotted Woodpecker,2015-02-15,2
+Romania,46.76990282,23.5771873,Dendrocoptes medius,Middle Spotted Woodpecker,2015-02-15,2
+Romania,46.76990275,23.57718641,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-02-15,4
+Romania,46.76992675,23.57715767,Turdus viscivorus,Mistle Thrush,2015-02-15,1
+Romania,46.76937799,23.57597384,Dryobates minor,Lesser Spotted Woodpecker,2015-02-15,2
+Romania,46.76935496,23.57594889,Spinus spinus,Eurasian Siskin,2015-02-15,4
+Romania,46.76967405,23.57596935,Picus viridis,European Green Woodpecker,2015-02-15,1
+Romania,46.76967963,23.57595431,Poecile palustris,Marsh Tit,2015-02-15,1
+Romania,46.7721001429943,23.5831283032894,Passer domesticus,House Sparrow,2015-02-15,3
+Romania,46.7713501619887,23.5824976488948,Turdus viscivorus,Mistle Thrush,2015-02-13,1
+Romania,46.7711209862852,23.5824067890644,Sitta europaea,Eurasian Nuthatch,2015-02-13,1
+Romania,46.7711209862852,23.5824067890644,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-13,1
+Romania,46.7711209862852,23.5824067890644,Poecile palustris,Marsh Tit,2015-02-13,1
+Romania,46.7711209862852,23.5824067890644,Corvus cornix,Hooded Crow,2015-02-13,1
+Romania,46.7711209862852,23.5824067890644,Corvus frugilegus,Rook,2015-02-13,1
+Romania,47.0616027200595,22.3058101627976,Mergus merganser,Common Merganser,2015-02-13,5
+Romania,47.078405963257,21.8146975245327,Cygnus olor,Mute Swan,2015-02-14,3
+Romania,47.06163662,22.30580721,Mergus merganser,Common Merganser,2015-02-13,6
+Romania,47.06162796,22.30576832,Mergus merganser,Common Merganser,2015-02-13,4
+Romania,46.7780879,23.5847234,Erithacus rubecula,European Robin,2015-02-12,1
+Romania,46.7780879,23.5847234,Fringilla coelebs,Common Chaffinch,2015-02-12,2
+Romania,46.7781689,23.5846361,Dendrocopos major,Great Spotted Woodpecker,2015-02-12,2
+Romania,46.77821248,23.58447381,Fringilla coelebs,Common Chaffinch,2015-02-12,1
+Romania,46.77820216,23.58444539,Turdus merula,Common Blackbird,2015-02-12,2
+Romania,46.77824284,23.58443608,Fringilla montifringilla,Brambling,2015-02-12,1
+Romania,46.73843564,23.36426986,Mareca penelope,Eurasian Wigeon,2015-02-13,7
+Romania,46.73843564,23.36426986,Mareca penelope,Eurasian Wigeon,2015-02-13,1
+Romania,46.73842815,23.36465974,Anas acuta,Northern Pintail,2015-02-13,1
+Romania,46.73711086,23.3629283,Aythya fuligula,Tufted Duck,2015-02-13,2
+Romania,46.73711071,23.36292814,Aythya fuligula,Tufted Duck,2015-02-13,1
+Romania,46.73710043,23.36296032,Mareca strepera,Gadwall,2015-02-13,5
+Romania,47.06171683,22.30574502,Mergus merganser,Common Merganser,2015-02-13,6
+Romania,47.06167548,22.30557324,Mergus merganser,Common Merganser,2015-02-13,4
+Romania,47.06164179,22.3057999,Podiceps cristatus,Great Crested Grebe,2015-02-13,4
+Romania,47.07841197,21.81460912,Cygnus olor,Mute Swan,2015-02-14,2
+Romania,46.77174819,23.579843,Tachybaptus ruficollis,Little Grebe,2015-02-06,1
+Romania,47.06161355,22.30586725,Podiceps cristatus,Great Crested Grebe,2015-02-08,7
+Romania,47.0638452,22.28002987,Mergus merganser,Common Merganser,2015-02-08,1
+Romania,46.76535723,23.5919347,Troglodytes troglodytes,Eurasian Wren,2015-01-28,1
+Romania,46.76712475,23.56168777,Alcedo atthis,Common Kingfisher,2015-02-02,1
+Romania,47.06166983,22.30569318,Podiceps cristatus,Great Crested Grebe,2015-02-08,1
+Romania,47.06242072,22.28992003,Mergus merganser,Common Merganser,2015-02-08,1
+Romania,47.0794531,22.2146632,Podiceps cristatus,Great Crested Grebe,2015-02-08,1
+Romania,46.70409628,23.54942952,Turdus viscivorus,Mistle Thrush,2015-02-06,1
+Romania,46.7050249,23.54881629,Corvus corax,Northern Raven,2015-02-06,2
+Romania,47.06167088,22.30558916,Podiceps cristatus,Great Crested Grebe,2015-02-08,7
+Romania,47.06182415,22.30579727,Mergus merganser,Common Merganser,2015-02-08,1
+Romania,46.7782809818164,23.5845212079585,Chloris chloris,European Greenfinch,2015-02-02,1
+Romania,47.0616132393479,22.30573983863,Podiceps cristatus,Great Crested Grebe,2015-02-08,1
+Romania,47.0623581390828,22.2902436275035,Mergus merganser,Common Merganser,2015-02-08,1
+Romania,47.0784415025264,22.2186935227364,Podiceps cristatus,Great Crested Grebe,2015-02-08,2
+Romania,46.76692367,23.56524371,Tachybaptus ruficollis,Little Grebe,2015-02-07,1
+Romania,46.76687842,23.56524272,Falco peregrinus,Peregrine Falcon,2015-02-07,1
+Romania,46.76685178,23.56510143,Larus michahellis,Yellow-legged Gull,2015-02-07,2
+Romania,46.76704135,23.56180916,Motacilla cinerea,Grey Wagtail,2015-02-07,1
+Romania,46.76751694,23.56131364,Chroicocephalus ridibundus,Black-headed Gull,2015-02-07,130
+Romania,46.7675322,23.5563525,Cyanistes caeruleus,Eurasian Blue Tit,2015-02-07,1
+Romania,46.76735665,23.56629334,Fulica atra,Eurasian Coot,2015-02-07,4
+Romania,45.5236644669,25.2065312862,Nucifraga caryocatactes,Spotted Nutcracker,2014-07-30,1
+Romania,45.5099540703,25.2241533995,Rupicapra rupicapra carpatica,Carpathian Chamois,2014-07-30,1
+Romania,46.77819873,23.58470052,Dendrocopos syriacus,Syrian Woodpecker,2015-01-07,1
+Romania,46.77820358,23.58468859,Turdus viscivorus,Mistle Thrush,2015-01-07,1
+Romania,46.76443711,23.58019604,Sitta europaea,Eurasian Nuthatch,2015-01-08,2
+Romania,46.76440799,23.5802108,Coccothraustes coccothraustes,Hawfinch,2015-01-08,10
+Romania,46.76437149,23.5802189,Fringilla coelebs,Common Chaffinch,2015-01-08,5
+Romania,46.76435401,23.58018287,Chloris chloris,European Greenfinch,2015-01-08,5
+Romania,46.76949626,23.58689579,Falco peregrinus,Peregrine Falcon,2015-01-09,1
+Romania,46.76705143,23.56648768,Fulica atra,Eurasian Coot,2015-01-10,4
+Romania,46.76686142,23.56283724,Chroicocephalus ridibundus,Black-headed Gull,2015-01-10,55
+Romania,46.76991434,23.57154148,Passer montanus,Eurasian Tree Sparrow,2015-01-15,3
+Romania,46.7720492,23.58133102,Tachybaptus ruficollis,Little Grebe,2015-01-15,1
+Romania,46.7684126,23.5553659,Aegithalos caudatus,Long-tailed Tit,2015-01-21,5
+Romania,46.76746449,23.56028493,Alcedo atthis,Common Kingfisher,2015-01-27,1
+Romania,46.77820196,23.58411605,Falco peregrinus,Peregrine Falcon,2015-01-27,1
+Romania,46.7651049,23.5917594,Troglodytes troglodytes,Eurasian Wren,2015-01-28,1

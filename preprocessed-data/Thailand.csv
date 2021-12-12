@@ -1,0 +1,586 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Thailand,12.8119660887,99.9862879515,Ardea alba,Great Egret,2015-01-23,1
+Thailand,12.5609253744,99.9513280392,Coracias affinis,Indochinese Roller,2015-01-07,1
+Thailand,16.092623,99.11447,Hydrornis oatesi,Rusty-naped Pitta,2014-01-11,1
+Thailand,13.1100741318,99.9392232299,Macaca fascicularis fascicularis,Common Long-tailed Macaque,2014-01-01,1
+Thailand,13.145738,100.063038,Hirundo rustica,Barn Swallow,2014-01-01,2
+Thailand,13.145742,100.063036,Egretta garzetta,Little Egret,2014-01-01,1
+Thailand,13.145768,100.063027,Hydroprogne caspia,Caspian Tern,2014-01-01,2
+Thailand,13.145772,100.06302,Phalaropus lobatus,Red-necked Phalarope,2014-01-01,1
+Thailand,13.145772,100.06302,Calidris ruficollis,Red-necked Stint,2014-01-01,9
+Thailand,13.145782,100.063009,Calidris pygmaea,Spoon-billed Sandpiper,2014-01-01,2
+Thailand,13.145768,100.063027,Tringa erythropus,Spotted Redshank,2014-01-01,2
+Thailand,13.145768,100.063027,Pluvialis squatarola,Grey Plover,2014-01-01,2
+Thailand,13.145768,100.063027,Ardea cinerea,Grey Heron,2014-01-01,1
+Thailand,13.145768,100.063027,Chlidonias hybrida,Whiskered Tern,2014-01-01,25
+Thailand,13.145842,100.063032,Ardea alba,Great Egret,2014-01-01,1
+Thailand,13.145842,100.063025,Ardea intermedia,Intermediate Egret,2014-01-01,4
+Thailand,13.145767,100.063025,Todiramphus chloris,Collared Kingfisher,2014-01-01,1
+Thailand,13.145767,100.063025,Haliastur indus,Brahminy Kite,2014-01-01,1
+Thailand,13.145808,100.06307,Calidris ferruginea,Curlew Sandpiper,2014-01-01,11
+Thailand,13.145813,100.063063,Microcarbo niger,Little Cormorant,2014-01-01,4
+Thailand,13.145804,100.063041,Tringa stagnatilis,Marsh Sandpiper,2014-01-01,3
+Thailand,13.145804,100.063041,Tringa nebularia,Common Greenshank,2014-01-01,2
+Thailand,13.145811,100.063018,Charadrius alexandrinus,Kentish Plover,2014-01-01,1
+Thailand,13.145826,100.063009,Charadrius dubius,Little Ringed Plover,2014-01-01,1
+Thailand,13.145821,100.063001,Himantopus himantopus,Black-winged Stilt,2014-01-01,2
+Thailand,13.148933,100.053796,Acridotheres grandis,Great Myna,2014-01-01,1
+Thailand,13.061615,100.064665,Gracupica contra,Pied Myna,2014-01-01,1
+Thailand,13.145854,100.063068,Mycteria leucocephala,Painted Stork,2014-01-01,2
+Thailand,13.14582,100.063038,Charadrius mongolus,Lesser Sand Plover,2014-01-01,1
+Thailand,13.14579,100.063043,Thalasseus bergii,Greater Crested Tern,2014-01-01,1
+Thailand,13.145908,100.063003,Charadrius leschenaultii,Greater Sand Plover,2014-01-01,1
+Thailand,13.145796,100.063038,Halcyon pileata,Black-capped Kingfisher,2014-01-01,1
+Thailand,13.145929,100.062836,Egretta garzetta,Little Egret,2014-01-01,1
+Thailand,13.145836,100.062956,Actitis hypoleucos,Common Sandpiper,2014-01-01,1
+Thailand,13.149484,100.058673,Phylloscopus fuscatus,Dusky Warbler,2014-01-01,1
+Thailand,13.149484,100.058673,Rhipidura javanica,Malaysian Pied Fantail,2014-01-01,1
+Thailand,13.046993,100.083976,Lanius cristatus,Brown Shrike,2014-01-01,1
+Thailand,13.047088,100.083948,Copsychus saularis,Oriental Magpie-Robin,2014-01-01,1
+Thailand,13.048618,100.087459,Vanellus indicus,Red-wattled Lapwing,2014-01-01,1
+Thailand,13.057595,100.067481,Calidris tenuirostris,Great Knot,2014-01-01,10
+Thailand,13.058794,100.067374,Recurvirostra avosetta,Pied Avocet,2014-01-01,60
+Thailand,13.058794,100.067374,Calidris tenuirostris,Great Knot,2014-01-01,200
+Thailand,13.058792,100.067356,Dendrocygna javanica,Lesser Whistling Duck,2014-01-01,250
+Thailand,13.058792,100.067356,Charadrius leschenaultii,Greater Sand Plover,2014-01-01,1
+Thailand,13.058969,100.067554,Tringa guttifer,Nordmann's Greenshank,2014-01-01,11
+Thailand,13.05,100.05,Calidris subminuta,Long-toed Stint,2014-01-01,1
+Thailand,13.059746,100.068495,Himantopus himantopus,Black-winged Stilt,2014-01-01,400
+Thailand,13.040606,100.088391,Prinia inornata,Plain Prinia,2014-01-01,1
+Thailand,13.040595,100.088332,Merops orientalis,Green Bee-eater,2014-01-01,1
+Thailand,13.047983,100.085331,Calidris pugnax,Ruff,2014-01-01,1
+Thailand,13.047961,100.085243,Pluvialis fulva,Pacific Golden Plover,2014-01-01,1
+Thailand,13.027913,100.077703,Passer flaveolus,Plain-backed Sparrow,2014-01-01,1
+Thailand,13.027913,100.077703,Lonchura punctulata,Scaly-breasted Munia,2014-01-01,1
+Thailand,13.028139,100.07766,Upupa epops,Eurasian Hoopoe,2014-01-01,1
+Thailand,13.02839,100.077551,Tringa totanus,Common Redshank,2014-01-01,1
+Thailand,13.04872,100.087947,Gerygone sulphurea,Golden-bellied Gerygone,2014-01-01,1
+Thailand,13.048757,100.087906,Anthus rufulus,Paddyfield Pipit,2014-01-01,1
+Thailand,13.050436,100.089733,Butorides striata,Striated Heron,2014-01-01,1
+Thailand,13.050787,100.089568,Gerygone sulphurea,Golden-bellied Gerygone,2014-01-01,2
+Thailand,13.05045,100.088508,Orthotomus sutorius,Common Tailorbird,2014-01-01,1
+Thailand,13.050898,100.087045,Gallinago gallinago,Common Snipe,2014-01-01,1
+Thailand,13.050889,100.08705,Tringa glareola,Wood Sandpiper,2014-01-01,1
+Thailand,13.048702,100.087442,Geopelia striata,Zebra Dove,2014-01-01,1
+Thailand,13.057734,100.104006,Charadrius alexandrinus dealbatus,Kentish Plover ssp dealbatus,2014-01-01,1
+Thailand,13.058484,100.103634,Chroicocephalus ridibundus,Black-headed Gull,2014-01-01,4
+Thailand,13.053498,100.102261,Egretta eulophotes,Chinese Egret,2014-01-01,1
+Thailand,13.055199,100.103301,Butorides striata,Striated Heron,2014-01-01,2
+Thailand,13.060037,100.100447,Thalasseus bergii,Greater Crested Tern,2014-01-01,1
+Thailand,13.054837,100.09822,Alcedo atthis,Common Kingfisher,2014-01-01,1
+Thailand,13.031274,100.075377,Calidris temminckii,Temminck's Stint,2014-01-01,1
+Thailand,13.043175,100.091573,Ardea alba,Great Egret,2014-01-01,1
+Thailand,13.046061,100.095131,Chlidonias hybrida,Whiskered Tern,2014-01-01,1
+Thailand,13.058783,100.104438,Charadrius peronii,Malaysian Plover,2014-01-01,2
+Thailand,13.058781,100.104432,Thalasseus bengalensis,Lesser Crested Tern,2014-01-01,2
+Thailand,13.057954,100.104035,Egretta sacra,Pacific Reef Heron,2014-01-01,1
+Thailand,12.7991625787,99.4543080032,Hystrix brachyura,Malayan Porcupine,2014-01-02,1
+Thailand,12.7954379894,99.4543509185,Ratufa bicolor,Black Giant Squirrel,2014-01-02,1
+Thailand,12.7988696355,99.4543938339,Trachypithecus obscurus,Dusky Langur,2014-01-02,1
+Thailand,13.157193,99.895233,Dendrocopos analis,Freckle-breasted Woodpecker,2014-01-01,1
+Thailand,13.158916,99.894557,Halcyon smyrnensis,White-throated Kingfisher,2014-01-01,3
+Thailand,12.883512,99.630968,Eudynamys scolopaceus,Asian Koel,2014-01-02,1
+Thailand,12.883408,99.630924,Pycnonotus aurigaster,Sooty-headed Bulbul,2014-01-02,1
+Thailand,13.149522,99.898214,Orthotomus sutorius,Common Tailorbird,2014-01-01,1
+Thailand,13.152544,99.897172,Saxicola stejnegeri,Stejneger's Stonechat,2014-01-01,2
+Thailand,12.863981,99.622087,Coracias affinis,Indochinese Roller,2014-01-02,1
+Thailand,12.847139,99.580034,Gallus gallus,Red Junglefowl,2014-01-02,1
+Thailand,12.847139,99.580034,Lophura leucomelanos,Kalij Pheasant,2014-01-02,1
+Thailand,12.847139,99.580034,Larvivora cyane,Siberian Blue Robin,2014-01-02,1
+Thailand,12.847139,99.580034,Cinnyris jugularis,Olive-backed Sunbird,2014-01-02,1
+Thailand,12.847139,99.580034,Hypothymis azurea,Black-naped Monarch,2014-01-02,1
+Thailand,12.847139,99.580034,Copsychus malabaricus,White-rumped Shama,2014-01-02,1
+Thailand,12.847139,99.580034,Muscicapa dauurica,Asian Brown Flycatcher,2014-01-02,1
+Thailand,12.810799,99.569837,Dicrurus leucophaeus,Ashy Drongo,2014-01-02,1
+Thailand,12.883304,99.630855,Aegithina tiphia,Common Iora,2014-01-02,1
+Thailand,12.80847,99.528163,Orthotomus atrogularis,Dark-necked Tailorbird,2014-01-02,1
+Thailand,12.80841,99.527443,Psilopogon faiostrictus,Green-eared Barbet,2014-01-02,1
+Thailand,12.808483,99.526916,Pycnonotus finlaysoni,Stripe-throated Bulbul,2014-01-02,2
+Thailand,12.808686,99.526965,Pycnonotus flaviventris,Black-crested Bulbul,2014-01-02,2
+Thailand,12.808282,99.500209,Chloropsis cochinchinensis,Blue-winged Leafbird,2014-01-02,1
+Thailand,12.806668,99.496719,Pycnonotus atriceps,Black-headed Bulbul,2014-01-02,2
+Thailand,12.798092,99.454987,Macronus gularis,Pin-striped Tit-Babbler,2014-01-02,1
+Thailand,12.798032,99.454973,Picus viridanus,Streak-breasted Woodpecker,2014-01-02,1
+Thailand,12.796248,99.455988,Dicrurus hottentottus,Hair-crested Drongo,2014-01-02,1
+Thailand,12.80847,99.528163,Buceros bicornis,Great Hornbill,2014-01-02,1
+Thailand,12.796451,99.456932,Cyornis sumatrensis,Indochinese Blue Flycatcher,2014-01-02,1
+Thailand,12.796834,99.45702,Buceros bicornis,Great Hornbill,2014-01-02,3
+Thailand,12.797481,99.455038,Anthracoceros albirostris,Oriental Pied Hornbill,2014-01-02,3
+Thailand,12.796639,99.456275,Hemicircus canente,Heart-spotted Woodpecker,2014-01-02,1
+Thailand,12.796678,99.456252,Eumyias thalassinus,Verditer Flycatcher,2014-01-02,1
+Thailand,12.799116,99.455342,Otus sagittatus,White-fronted Scops Owl,2014-01-02,1
+Thailand,12.799291,99.454144,Chrysocolaptes guttacristatus,Greater Flameback,2014-01-03,2
+Thailand,12.796377,99.455936,Phaenicophaeus tristis,Green-billed Malkoha,2014-01-02,1
+Thailand,12.804307,99.431599,Arborophila chloropus,Green-legged Partridge,2014-01-03,1
+Thailand,12.799175,99.452772,Alophoixus ochraceus,Ochraceous Bulbul,2014-01-03,1
+Thailand,12.799172,99.45213,Picus viridanus,Streak-breasted Woodpecker,2014-01-03,1
+Thailand,12.800445,99.448767,Dinopium javanense,Common Flameback,2014-01-03,1
+Thailand,12.80209,99.447082,Orthotomus atrogularis,Dark-necked Tailorbird,2014-01-03,2
+Thailand,12.802185,99.447016,Anthracoceros albirostris,Oriental Pied Hornbill,2014-01-03,2
+Thailand,12.802271,99.443538,Pellorneum ruficeps,Puff-throated Babbler,2014-01-03,1
+Thailand,12.802451,99.443287,Harpactes oreskios,Orange-breasted Trogon,2014-01-03,1
+Thailand,12.80511,99.436797,Accipiter badius,Shikra,2014-01-03,1
+Thailand,12.80635,99.435276,Polyplectron bicalcaratum,Grey Peacock-Pheasant,2014-01-03,1
+Thailand,12.806346,99.435285,Hypothymis azurea,Black-naped Monarch,2014-01-03,1
+Thailand,12.8030970088,99.44006145,Anorrhinus tickelli,Tickell's Brown Hornbill,2014-01-03,1
+Thailand,12.804429,99.432914,Pterorhinus pectoralis,Greater Necklaced Laughingthrush,2014-01-03,1
+Thailand,12.804442,99.43293,Garrulax monileger,Lesser Necklaced Laughingthrush,2014-01-03,1
+Thailand,12.824539,99.365457,Psilopogon virens,Great Barbet,2014-01-04,1
+Thailand,12.804171,99.438021,Accipiter virgatus,Besra,2014-01-03,1
+Thailand,12.803612,99.44172,Otus sagittatus,White-fronted Scops Owl,2014-01-03,1
+Thailand,12.802075,99.445917,Chalcoparia singalensis,Ruby-cheeked Sunbird,2014-01-03,1
+Thailand,12.800708,99.448233,Eurystomus orientalis,Oriental Dollarbird,2014-01-03,1
+Thailand,12.799636,99.449939,Sitta frontalis,Velvet-fronted Nuthatch,2014-01-03,2
+Thailand,12.799761,99.449851,Cyornis whitei lekhakuni,Hill Blue Flycatcher ssp lekhakuni,2014-01-03,1
+Thailand,12.805232,99.436838,Psilopogon duvaucelii,Blue-eared Barbet,2014-01-03,1
+Thailand,12.803664,99.441879,Otus sagittatus,White-fronted Scops Owl,2014-01-03,2
+Thailand,12.802206,99.445091,Glaucidium cuculoides,Asian Barred Owlet,2014-01-03,1
+Thailand,12.824515,99.365477,Ducula badia,Mountain Imperial Pigeon,2014-01-04,3
+Thailand,12.824536,99.36547,Loriculus vernalis,Vernal Hanging Parrot,2014-01-04,1
+Thailand,12.822258,99.364994,Pomatorhinus schisticeps,White-browed Scimitar Babbler,2014-01-04,1
+Thailand,12.824529,99.365456,Psilopogon incognitus,Moustached Barbet,2014-01-04,2
+Thailand,12.824529,99.365456,Arachnothera magna,Streaked Spiderhunter,2014-01-04,2
+Thailand,12.824529,99.365456,Muscicapa sibirica,Dark-sided Flycatcher,2014-01-04,1
+Thailand,12.824514,99.365459,Pycnonotus flavescens,Flavescent Bulbul,2014-01-04,3
+Thailand,12.824508,99.365452,Chloropsis hardwickii,Orange-bellied Leafbird,2014-01-04,1
+Thailand,12.824505,99.365462,Zosterops everetti,Everett's White-eye,2014-01-04,1
+Thailand,12.825338,99.363937,Chloropsis hardwickii,Orange-bellied Leafbird,2014-01-04,2
+Thailand,12.825392,99.363495,Orthotomus atrogularis,Dark-necked Tailorbird,2014-01-04,1
+Thailand,12.814331,99.370554,Psilopogon asiaticus,Blue-throated Barbet,2014-01-04,1
+Thailand,12.818129,99.370908,Meiglyptes jugularis,Black-and-buff Woodpecker,2014-01-04,2
+Thailand,12.81947,99.371335,Rhyticeros undulatus,Wreathed Hornbill,2014-01-04,1
+Thailand,12.820366,99.371259,Pernis ptilorhynchus,Crested Honey Buzzard,2014-01-04,1
+Thailand,12.818841,99.366206,Hemixos flavala,Ashy Bulbul,2014-01-04,4
+Thailand,12.814344,99.370541,Stachyridopsis chrysaea,Golden Babbler,2014-01-04,2
+Thailand,12.814285,99.370763,Pericrocotus speciosus,Scarlet Minivet,2014-01-04,2
+Thailand,12.818078,99.370911,Picumnus innominatus,Speckled Piculet,2014-01-04,1
+Thailand,12.818068,99.370949,Ixos mcclellandii,Mountain Bulbul,2014-01-04,2
+Thailand,12.818068,99.370958,Pterorhinus chinensis,Black-throated Laughingthrush,2014-01-04,1
+Thailand,12.809239,99.553197,Spilopelia chinensis,Spotted Dove,2014-01-05,1
+Thailand,13.143225,99.925255,Merops philippinus,Blue-tailed Bee-eater,2014-01-05,1
+Thailand,12.816123,99.382616,Chalcophaps indica,Common Emerald Dove,2014-01-04,1
+Thailand,12.814567,99.384635,Chalcophaps indica,Common Emerald Dove,2014-01-04,1
+Thailand,12.807961,99.408568,Buceros bicornis,Great Hornbill,2014-01-04,3
+Thailand,12.803782,99.412539,Treron curvirostra,Thick-billed Green Pigeon,2014-01-04,1
+Thailand,12.79878,99.454012,Accipiter trivirgatus,Crested Goshawk,2014-01-05,1
+Thailand,12.79878,99.454012,Pernis ptilorhynchus,Crested Honey Buzzard,2014-01-05,3
+Thailand,12.809302,99.553196,Halcyon smyrnensis,White-throated Kingfisher,2014-01-05,1
+Thailand,14.393297,101.382394,Garrulax leucolophus,White-crested Laughingthrush,2014-01-06,1
+Thailand,13.184848,99.878481,Clanga clanga,Greater Spotted Eagle,2014-01-05,1
+Thailand,13.170406,99.922582,Prinia inornata,Plain Prinia,2014-01-05,1
+Thailand,13.17176,99.925234,Anthreptes malacensis,Brown-throated Sunbird,2014-01-05,1
+Thailand,13.171829,99.925203,Treron vernans,Pink-necked Green Pigeon,2014-01-05,10
+Thailand,13.171822,99.9252,Ixobrychus sinensis,Yellow Bittern,2014-01-05,1
+Thailand,13.177765,99.936846,Merops philippinus,Blue-tailed Bee-eater,2014-01-05,4
+Thailand,13.175199,99.931805,Ixobrychus sinensis,Yellow Bittern,2014-01-05,2
+Thailand,13.182464,99.880535,Ploceus philippinus,Baya Weaver,2014-01-05,20
+Thailand,14.382887,101.387219,Lanius tephronotus,Grey-backed Shrike,2014-01-06,1
+Thailand,14.437448,101.375555,Ficedula mugimaki,Mugimaki Flycatcher,2014-01-06,1
+Thailand,14.382969,101.388458,Centropus bengalensis,Lesser Coucal,2014-01-06,1
+Thailand,14.381755,101.391389,Treron curvirostra,Thick-billed Green Pigeon,2014-01-06,18
+Thailand,14.381659,101.391353,Anthracoceros albirostris,Oriental Pied Hornbill,2014-01-06,1
+Thailand,14.372745,101.40307,Iole propinqua,Grey-eyed Bulbul,2014-01-06,1
+Thailand,14.4353971347,101.398515757,Hydrornis cyaneus,Blue Pitta,2014-01-07,1
+Thailand,14.4348360675,101.399449166,Hydrornis cyaneus,Blue Pitta,2014-01-07,1
+Thailand,14.437899,101.371205,Motacilla cinerea,Grey Wagtail,2014-01-06,1
+Thailand,14.437782,101.371262,Carpococcyx renauldi,Coral-billed Ground Cuckoo,2014-01-06,1
+Thailand,14.437782,101.371262,Gracula religiosa,Common Hill Myna,2014-01-06,4
+Thailand,14.437782,101.371262,Copsychus malabaricus,White-rumped Shama,2014-01-06,1
+Thailand,14.437782,101.371262,Gallus gallus,Red Junglefowl,2014-01-06,4
+Thailand,14.438031,101.371337,Geokichla citrina,Orange-headed Thrush,2014-01-06,1
+Thailand,14.437469,101.375548,Monticola gularis,White-throated Rock Thrush,2014-01-06,2
+Thailand,14.436536,101.369368,Malacocincla abbotti,Abbott's Babbler,2014-01-06,2
+Thailand,14.436519,101.369331,Lophura nycthemera,Silver Pheasant,2014-01-06,2
+Thailand,14.435729,101.364576,Harpactes oreskios,Orange-breasted Trogon,2014-01-06,1
+Thailand,14.435693,101.364639,Anthracoceros albirostris,Oriental Pied Hornbill,2014-01-06,1
+Thailand,14.4357919589,101.369472798,Hydrornis cyaneus,Blue Pitta,2014-01-07,1
+Thailand,14.4362231477,101.36991268,Hydrornis cyaneus,Blue Pitta,2014-01-07,1
+Thailand,14.4370803277,101.371446904,Lophura diardi,Siamese Fireback,2014-01-07,2
+Thailand,14.465218,101.369399,Hemipus picatus,Bar-winged Flycatcher-shrike,2014-01-07,1
+Thailand,14.465747,101.366363,Serilophus lunatus,Silver-breasted Broadbill,2014-01-07,5
+Thailand,14.463654,101.37138,Eurylaimus javanicus,Banded Broadbill,2014-01-07,1
+Thailand,14.452766,101.361756,Cisticola exilis,Golden-headed Cisticola,2014-01-07,1
+Thailand,14.45385,101.359505,Prinia inornata,Plain Prinia,2014-01-07,1
+Thailand,14.453741,101.359927,Lanius cristatus,Brown Shrike,2014-01-07,1
+Thailand,14.453645,101.360029,Monticola solitarius pandoo,Blue Rock Thrush ssp pandoo,2014-01-07,1
+Thailand,14.419448,101.370937,Monticola solitarius pandoo,Blue Rock Thrush ssp pandoo,2014-01-07,1
+Thailand,14.464721,101.371827,Psarisomus dalhousiae,Long-tailed Broadbill,2014-01-07,1
+Thailand,14.464607,101.369702,Psarisomus dalhousiae,Long-tailed Broadbill,2014-01-07,2
+Thailand,14.463789,101.371285,Harpactes erythrocephalus,Red-headed Trogon,2014-01-07,1
+Thailand,14.4362179526,101.369844787,Hydrornis cyaneus,Blue Pitta,2014-01-08,1
+Thailand,14.4358542995,101.366551034,Lacedo pulchella,Banded Kingfisher,2014-01-08,1
+Thailand,14.4361867824,101.369211785,Lophura diardi,Siamese Fireback,2014-01-08,5
+Thailand,14.4360517113,101.368396394,Hydrornis phayrei,Eared Pitta,2014-01-08,1
+Thailand,14.365777,101.400292,Loriculus vernalis,Vernal Hanging Parrot,2014-01-08,2
+Thailand,15.65,100.2,Porphyrio poliocephalus,Grey-headed Swamphen,2014-01-08,1
+Thailand,15.673835,100.24387,Ardea purpurea,Purple Heron,2014-01-08,1
+Thailand,15.673895,100.243857,Nettapus coromandelianus,Cotton Pygmy Goose,2014-01-08,1
+Thailand,14.453741,101.359927,Apus nipalensis,House Swift,2014-01-07,2
+Thailand,14.451088,101.367453,Phaenicophaeus tristis,Green-billed Malkoha,2014-01-07,1
+Thailand,14.451106,101.367436,Lanius collurioides,Burmese Shrike,2014-01-07,1
+Thailand,15.676191,100.247687,Ardea purpurea,Purple Heron,2014-01-09,1
+Thailand,15.67634,100.247735,Nettapus coromandelianus,Cotton Pygmy Goose,2014-01-09,6
+Thailand,15.678835,100.250276,Megalurus palustris,Striated Grassbird,2014-01-09,1
+Thailand,15.688205,100.24259,Spatula querquedula,Garganey,2014-01-09,2
+Thailand,15.678328,100.241468,Nettapus coromandelianus,Cotton Pygmy Goose,2014-01-08,4
+Thailand,16.098372,99.142152,Ixos mcclellandii,Mountain Bulbul,2014-01-09,1
+Thailand,16.106153,99.145948,Zosterops palpebrosus,Indian White-eye,2014-01-09,3
+Thailand,15.708406,100.254158,Hydrophasianus chirurgus,Pheasant-tailed Jacana,2014-01-09,4
+Thailand,16.098626,99.107217,Alcippe fratercula,Yunnan Fulvetta,2014-01-10,4
+Thailand,16.098626,99.107217,Stachyridopsis chrysaea,Golden Babbler,2014-01-10,2
+Thailand,16.098626,99.107217,Pomatorhinus schisticeps,White-browed Scimitar Babbler,2014-01-10,2
+Thailand,16.096623,99.139616,Arachnothera magna,Streaked Spiderhunter,2014-01-09,1
+Thailand,16.092624,99.114374,Brachypteryx cruralis,Himalayan Shortwing,2014-01-09,1
+Thailand,16.092673,99.114462,Myophonus caeruleus,Blue Whistling Thrush,2014-01-09,1
+Thailand,16.092623,99.11447,Pellorneum tickelli,Buff-breasted Babbler,2014-01-09,1
+Thailand,16.092616,99.114463,Napothera brevicaudata,Streaked Wren-Babbler,2014-01-09,1
+Thailand,16.098626,99.107217,Leiothrix argentauris,Silver-eared Mesia,2014-01-10,1
+Thailand,16.102081,99.111447,Cyornis whitei lekhakuni,Hill Blue Flycatcher ssp lekhakuni,2014-01-10,1
+Thailand,16.101249,99.110721,Dendrocopos atratus,Stripe-breasted Woodpecker,2014-01-10,1
+Thailand,16.101259,99.110603,Sasia ochracea,White-browed Piculet,2014-01-10,1
+Thailand,16.098618,99.107307,Rhipidura albicollis,White-throated Fantail,2014-01-10,1
+Thailand,16.098653,99.107319,Psilopogon franklinii,Golden-throated Barbet,2014-01-10,1
+Thailand,16.100033,99.107047,Garrulax strepitans,White-necked Laughingthrush,2014-01-10,2
+Thailand,16.100084,99.106998,Pterorhinus chinensis,Black-throated Laughingthrush,2014-01-10,2
+Thailand,18.529114,98.652008,Picus erythropygius,Black-headed Woodpecker,2014-01-12,3
+Thailand,18.529159,98.65229,Cacomantis sonneratii,Banded Bay Cuckoo,2014-01-12,1
+Thailand,16.100554,99.108458,Zosterops palpebrosus,Indian White-eye,2014-01-10,1
+Thailand,16.100556,99.10845,Machlolophus spilonotus,Yellow-cheeked Tit,2014-01-10,2
+Thailand,16.101382,99.106894,Coracina macei,Large Cuckooshrike,2014-01-10,1
+Thailand,18.508067,98.505542,Machlolophus spilonotus,Yellow-cheeked Tit,2014-01-12,1
+Thailand,18.50838,98.506825,Leioptila annectens,Rufous-backed Sibia,2014-01-12,1
+Thailand,18.508749,98.508019,Niltava grandis,Large Niltava,2014-01-12,2
+Thailand,18.529487,98.500116,Alcippe fratercula,Yunnan Fulvetta,2014-01-12,10
+Thailand,18.5321,98.501395,Certhia manipurensis,Hume's Treecreeper,2014-01-12,2
+Thailand,18.529254,98.499901,Niltava grandis,Large Niltava,2014-01-12,1
+Thailand,18.589234,98.485527,Aethopyga nipalensis,Green-tailed Sunbird,2014-01-13,2
+Thailand,18.589037,98.485682,Brachypteryx cruralis,Himalayan Shortwing,2014-01-13,1
+Thailand,18.585787,98.484425,Trochalopteron melanostigma,Silver-eared Laughingthrush,2014-01-13,1
+Thailand,18.585595,98.484195,Phylloscopus pulcher,Buff-barred Warbler,2014-01-13,1
+Thailand,18.585587,98.484183,Alcippe castaneceps,Rufous-winged Fulvetta,2014-01-13,1
+Thailand,18.587236,98.484748,Actinodura strigula,Bar-throated Minla,2014-01-13,2
+Thailand,18.529271,98.499924,Heterophasia melanoleuca,Dark-backed Sibia,2014-01-12,1
+Thailand,18.543237,98.525401,Porzana bicolor,Black-tailed Crake,2014-01-12,1
+Thailand,18.543228,98.525408,Lanius tephronotus,Grey-backed Shrike,2014-01-12,1
+Thailand,18.533281,98.522294,Brachypteryx leucophris,Lesser Shortwing,2014-01-13,1
+Thailand,18.533281,98.522294,Niltava macgrigoriae,Small Niltava,2014-01-13,1
+Thailand,18.526089,98.498863,Niltava grandis,Large Niltava,2014-01-13,1
+Thailand,18.526067,98.498885,Ixos mcclellandii,Mountain Bulbul,2014-01-13,2
+Thailand,20.035879,99.104129,Sitta magna,Giant Nuthatch,2014-01-15,3
+Thailand,20.036333,99.10439,Ficedula superciliaris,Ultramarine Flycatcher,2014-01-15,1
+Thailand,18.546856,98.513231,Phoenicurus leucocephalus,White-capped Redstart,2014-01-14,1
+Thailand,18.49272,98.679506,Psilopogon haemacephalus,Coppersmith Barbet,2014-01-14,2
+Thailand,18.492728,98.679501,Psittacula roseata,Blossom-headed Parakeet,2014-01-14,7
+Thailand,18.543809,98.522997,Prinia superciliaris,Hill Prinia,2014-01-14,2
+Thailand,20.086104,99.097413,Heterophasia melanoleuca,Dark-backed Sibia,2014-01-15,1
+Thailand,20.086064,99.097408,Apus cooki,Cook's Swift,2014-01-15,8
+Thailand,20.036356,99.104392,Monticola rufiventris,Chestnut-bellied Rock Thrush,2014-01-15,2
+Thailand,20.035047,99.104544,Ficedula strophiata,Rufous-gorgeted Flycatcher,2014-01-15,1
+Thailand,20.07806,99.098362,Trochalopteron melanostigma,Silver-eared Laughingthrush,2014-01-15,2
+Thailand,20.079691,99.098573,Actinodura ramsayi,Spectacled Barwing,2014-01-15,4
+Thailand,20.079556,99.09855,Paradoxornis guttaticollis,Spot-breasted Parrotbill,2014-01-15,4
+Thailand,20.070033,99.095593,Pterorhinus sannio,White-browed Laughingthrush,2014-01-16,2
+Thailand,20.055455,99.099999,Bambusicola fytchii,Mountain Bamboo Partridge,2014-01-16,3
+Thailand,20.07089,99.095617,Sitta magna,Giant Nuthatch,2014-01-17,1
+Thailand,19.906375,99.040909,Ficedula albicilla,Taiga Flycatcher,2014-01-18,1
+Thailand,20.303653,100.092566,Glareola lactea,Small Pratincole,2014-01-19,100
+Thailand,20.253273,100.047518,Aythya baeri,Baer's Pochard,2014-01-20,1
+Thailand,20.224869,100.017527,Artamus fuscus,Ashy Woodswallow,2014-01-19,8
+Thailand,13.7207186612,100.541868322,Cinnyris jugularis,Olive-backed Sunbird,2015-02-27,1
+Thailand,13.722813446,100.544371828,Eudynamys scolopaceus,Asian Koel,2015-02-27,1
+Thailand,13.722813446,100.544371828,Geopelia striata,Zebra Dove,2015-02-27,1
+Thailand,13.722813446,100.544371828,Copsychus saularis,Oriental Magpie-Robin,2015-02-27,1
+Thailand,13.722813446,100.544371828,Rhipidura javanica,Malaysian Pied Fantail,2015-02-27,1
+Thailand,12.798,99.453,Neurothemis fulvia,Russet Percher,2013-03-07,1
+Thailand,12.798,99.453,Trithemis festiva,Indigo Dropwing,2013-03-07,1
+Thailand,12.798,99.453,Trithemis aurora,Crimson Dropwing,2013-03-07,1
+Thailand,13.02987522841,100.07529973984,Merops orientalis,Green Bee-eater,2013-02-21,2
+Thailand,13.033805373623,100.07583618164,Falco peregrinus,Peregrine Falcon,2013-02-21,2
+Thailand,13.033805373623,100.07583618164,Mycteria leucocephala,Painted Stork,2013-02-21,2
+Thailand,13.05002701454,100.08699417114,Halcyon pileata,Black-capped Kingfisher,2013-02-21,1
+Thailand,13.05002701454,100.08699417114,Ardea intermedia,Intermediate Egret,2013-02-21,1
+Thailand,13.05002701454,100.08699417114,Microcarbo niger,Little Cormorant,2013-02-21,10
+Thailand,13.05002701454,100.08699417114,Phalacrocorax fuscicollis,Indian Cormorant,2013-02-21,2
+Thailand,13.05002701454,100.08699417114,Vanellus indicus,Red-wattled Lapwing,2013-02-21,2
+Thailand,13.05002701454,100.08699417114,Tringa glareola,Wood Sandpiper,2013-02-21,2
+Thailand,13.05002701454,100.08699417114,Gallinago gallinago,Common Snipe,2013-02-21,4
+Thailand,13.063593007699,100.07388353348,Prinia inornata,Plain Prinia,2013-02-21,1
+Thailand,13.063593007699,100.07388353348,Calidris ruficollis,Red-necked Stint,2013-02-21,1
+Thailand,13.063593007699,100.07388353348,Tringa stagnatilis,Marsh Sandpiper,2013-02-21,10
+Thailand,13.063593007699,100.07388353348,Calidris ferruginea,Curlew Sandpiper,2013-02-21,1
+Thailand,13.063593007699,100.07388353348,Calidris falcinellus,Broad-billed Sandpiper,2013-02-21,1
+Thailand,13.063593007699,100.07388353348,Alcedo atthis,Common Kingfisher,2013-02-21,1
+Thailand,13.063593007699,100.07388353348,Pluvialis fulva,Pacific Golden Plover,2013-02-21,10
+Thailand,13.063593007699,100.07388353348,Dendrocygna javanica,Lesser Whistling Duck,2013-02-21,100
+Thailand,13.1,100.05,Calidris subminuta,Long-toed Stint,2013-02-21,1
+Thailand,13.145035977055,100.06363749504,Limosa limosa melanuroides,Black-tailed Godwit ssp melanuroides,2013-02-21,30
+Thailand,13.145035977055,100.06363749504,Calidris ferruginea,Curlew Sandpiper,2013-02-21,100
+Thailand,13.145035977055,100.06363749504,Calidris falcinellus,Broad-billed Sandpiper,2013-02-21,15
+Thailand,13.146289699515,100.06482839584,Calidris pygmaea,Spoon-billed Sandpiper,2013-02-21,1
+Thailand,13.058430074997,100.10439634323,Actitis hypoleucos,Common Sandpiper,2013-02-21,1
+Thailand,13.060394928503,100.10473966599,Microcarbo niger,Little Cormorant,2013-02-21,1
+Thailand,13.060394928503,100.10473966599,Chroicocephalus brunnicephalus,Brown-headed Gull,2013-02-21,20
+Thailand,13.060394928503,100.10473966599,Hydroprogne caspia,Caspian Tern,2013-02-21,2
+Thailand,13.060394928503,100.10473966599,Thalasseus bergii,Greater Crested Tern,2013-02-21,1
+Thailand,13.057907504943,100.10416030884,Ardeola bacchus,Chinese Pond Heron,2013-02-21,10
+Thailand,13.057907504943,100.10416030884,Butorides striata,Striated Heron,2013-02-21,2
+Thailand,13.057907504943,100.10416030884,Egretta sacra,Pacific Reef Heron,2013-02-21,1
+Thailand,13.060332220654,100.104804039,Charadrius leschenaultii,Greater Sand Plover,2013-02-21,100
+Thailand,13.058827227498,100.10456800461,Charadrius alexandrinus,Kentish Plover,2013-02-21,50
+Thailand,13.057949310588,100.10416030884,Charadrius peronii,Malaysian Plover,2013-02-21,7
+Thailand,13.056611526442,100.10317325592,Charadrius alexandrinus dealbatus,Kentish Plover ssp dealbatus,2013-02-21,1
+Thailand,13.05805382467,100.10420322418,Egretta eulophotes,Chinese Egret,2013-02-21,1
+Thailand,13.05473025523,100.10042667389,Gerygone sulphurea,Golden-bellied Gerygone,2013-02-21,10
+Thailand,13.04916996993,100.09707927704,Todiramphus chloris,Collared Kingfisher,2013-02-21,6
+Thailand,13.04916996993,100.09707927704,Halcyon pileata,Black-capped Kingfisher,2013-02-21,2
+Thailand,13.010986665796,100.06846547127,Orthotomus sutorius,Common Tailorbird,2013-02-21,2
+Thailand,13.011206186966,100.0684762001,Geopelia striata,Zebra Dove,2013-02-21,2
+Thailand,13.010798504638,100.06895899773,Streptopelia tranquebarica,Red Turtle Dove,2013-02-21,5
+Thailand,13.010798504638,100.06895899773,Acridotheres tristis,Common Myna,2013-02-21,10
+Thailand,13.0107985046,100.068958998,Acridotheres grandis,Great Myna,2013-02-21,10
+Thailand,13.010798504638,100.06895899773,Copsychus saularis,Oriental Magpie-Robin,2013-02-21,1
+Thailand,13.010798504638,100.06895899773,Pycnonotus blanfordi,Ayeyarwady Bulbul,2013-02-21,10
+Thailand,13.010798504638,100.06895899773,Gracupica contra,Pied Myna,2013-02-21,3
+Thailand,13.010798504638,100.06895899773,Coracias affinis,Indochinese Roller,2013-02-21,1
+Thailand,13.010798504638,100.06895899773,Rhipidura javanica,Malaysian Pied Fantail,2013-02-21,5
+Thailand,13.011133013264,100.0684762001,Geopelia striata,Zebra Dove,2013-02-20,4
+Thailand,13.145516571422,100.06321907043,Ardea cinerea,Grey Heron,2013-02-20,1
+Thailand,13.145516571422,100.06321907043,Hirundo rustica,Barn Swallow,2013-02-20,1
+Thailand,13.145516571422,100.06321907043,Chlidonias hybrida,Whiskered Tern,2013-02-20,5
+Thailand,13.145516571422,100.06321907043,Hydroprogne caspia,Caspian Tern,2013-02-20,10
+Thailand,13.1,100.05,Calidris subminuta,Long-toed Stint,2013-02-20,4
+Thailand,13.145516571422,100.06321907043,Tringa erythropus,Spotted Redshank,2013-02-20,10
+Thailand,13.145516571422,100.06321907043,Tringa nebularia,Common Greenshank,2013-02-20,1
+Thailand,13.145516571422,100.06321907043,Himantopus himantopus,Black-winged Stilt,2013-02-20,200
+Thailand,13.145516571422,100.06321907043,Tringa stagnatilis,Marsh Sandpiper,2013-02-20,100
+Thailand,13.145516571422,100.06321907043,Calidris ruficollis,Red-necked Stint,2013-02-20,100
+Thailand,13.145516571422,100.06321907043,Phalaropus lobatus,Red-necked Phalarope,2013-02-20,1
+Thailand,13.145516571422,100.06321907043,Microcarbo niger,Little Cormorant,2013-02-20,15
+Thailand,13.145516571422,100.06321907043,Chroicocephalus brunnicephalus,Brown-headed Gull,2013-02-20,25
+Thailand,8.7212002479715,99.673290252686,Lacedo pulchella,Banded Kingfisher,2013-02-26,1
+Thailand,8.7212002479715,99.673290252686,Harpactes duvaucelii,Scarlet-rumped Trogon,2013-02-26,3
+Thailand,8.7235757128513,99.668076038361,Treron curvirostra,Thick-billed Green Pigeon,2013-02-26,2
+Thailand,8.7235757128513,99.668076038361,Actenoides concretus,Rufous-collared Kingfisher,2013-02-26,1
+Thailand,8.7317200491161,99.66402053833,Batrachostomus affinis,Blyth's Frogmouth,2013-02-25,1
+Thailand,8.72349087508,99.668140411377,Treron curvirostra,Thick-billed Green Pigeon,2013-02-23,2
+Thailand,13.011070292931,100.06852984428,Cinnyris jugularis,Olive-backed Sunbird,2013-02-22,2
+Thailand,13.030753244987,100.07543921471,Calidris temminckii,Temminck's Stint,2013-02-22,1
+Thailand,13.029843870617,100.07529973984,Passer flaveolus,Plain-backed Sparrow,2013-02-22,8
+Thailand,13.029843870617,100.07529973984,Pastor roseus,Rosy Starling,2013-02-22,2
+Thailand,13.029843870617,100.07529973984,Mycteria leucocephala,Painted Stork,2013-02-22,1
+Thailand,13.064962107374,100.07435560226,Egretta garzetta,Little Egret,2013-02-22,1
+Thailand,13.064962107374,100.07435560226,Ardea alba,Great Egret,2013-02-22,10
+Thailand,13.064962107374,100.07435560226,Microcarbo niger,Little Cormorant,2013-02-22,200
+Thailand,13.063195862862,100.07327198982,Todiramphus chloris,Collared Kingfisher,2013-02-22,1
+Thailand,13.065212933972,100.07419466972,Limnodromus semipalmatus,Asian Dowitcher,2013-02-22,10
+Thailand,13.065212933972,100.07419466972,Calidris tenuirostris,Great Knot,2013-02-22,600
+Thailand,13.065212933972,100.07419466972,Tringa guttifer,Nordmann's Greenshank,2013-02-22,59
+Thailand,13.02987522841,100.07529973984,Charadrius dubius,Little Ringed Plover,2013-02-21,2
+Thailand,13.02987522841,100.07529973984,Vanellus indicus,Red-wattled Lapwing,2013-02-21,1
+Thailand,13.02987522841,100.07529973984,Dicrurus macrocercus,Black Drongo,2013-02-21,2
+Thailand,7.9263370143735,99.261174201965,Hydrornis gurneyi,Gurney's Pitta,2013-02-27,1
+Thailand,7.9274846569196,99.263319969177,Cyornis sumatrensis sumatrensis,Indochinese Blue Flycatcher ssp sumatrensis,2013-02-27,1
+Thailand,8.3618669137038,98.577167987823,Chrysococcyx minutillus,Little Bronze Cuckoo,2013-02-28,1
+Thailand,8.3713139546652,98.581116199493,Cacomantis merulinus,Plaintive Cuckoo,2013-02-28,2
+Thailand,8.3652211702057,98.580965995789,Coracias affinis,Indochinese Roller,2013-02-28,1
+Thailand,8.3636275478402,98.574929236493,Macaca fascicularis,Long-tailed Macaque,2013-03-01,15
+Thailand,8.3727985702762,98.585615157863,Coracias affinis,Indochinese Roller,2013-03-01,1
+Thailand,8.9985569701452,98.458385465783,Anthus rufulus,Paddyfield Pipit,2013-03-01,2
+Thailand,8.9958145103581,98.467333316366,Hemiprocne comata,Whiskered Treeswift,2013-03-01,2
+Thailand,8.9961959974361,98.468942641775,Nyctyornis amictus,Red-bearded Bee-eater,2013-03-01,1
+Thailand,8.9952733633562,98.464465140423,Hydrornis irena,Malayan Banded Pitta,2013-03-01,1
+Thailand,8.9888953951563,98.465280531964,Geokichla citrina,Orange-headed Thrush,2013-03-02,1
+Thailand,8.9888953951563,98.465280531964,Hydrornis irena,Malayan Banded Pitta,2013-03-02,3
+Thailand,8.9900313995551,98.465666770062,Cyornis whitei coerulifrons,Hill Blue Flycatcher ssp coerulifrons,2013-03-02,1
+Thailand,8.9916506232324,98.466095923504,Enicurus ruficapillus,Chestnut-naped Forktail,2013-03-02,2
+Thailand,8.9957594058597,98.46756934945,Hemiprocne comata,Whiskered Treeswift,2013-03-02,2
+Thailand,8.9992690727943,98.458921908896,Enicurus ruficapillus,Chestnut-naped Forktail,2013-03-02,2
+Thailand,8.5896523851486,97.638187408011,Ducula bicolor,Pied Imperial Pigeon,2013-03-03,5
+Thailand,8.5709958278627,97.637926339885,Ducula aenea,Green Imperial Pigeon,2013-03-03,1
+Thailand,8.5704335496041,97.637615203639,Caloenas nicobarica,Nicobar Pigeon,2013-03-03,8
+Thailand,8.568460264607,97.636513709585,Ducula bicolor,Pied Imperial Pigeon,2013-03-03,25
+Thailand,8.5704264760529,97.637915610394,Pteropus hypomelanus,Variable Flying Fox,2013-03-03,250
+Thailand,8.5716854132709,97.633838652691,Haliaeetus leucogaster,White-bellied Sea Eagle,2013-03-04,2
+Thailand,8.6689468116562,98.244448900168,Geopelia striata,Zebra Dove,2013-03-04,1
+Thailand,8.6689468116562,98.244448900168,Copsychus saularis,Oriental Magpie-Robin,2013-03-04,1
+Thailand,8.6689574179229,98.244452476392,Geopelia striata,Zebra Dove,2013-03-05,2
+Thailand,9.8786761568398,98.60210537905,Hirundo tahitica,Pacific Swallow,2013-03-05,2
+Thailand,9.8640367106206,98.5952174663,Anastomus oscitans,Asian Openbill,2013-03-05,4
+Thailand,9.8687009693314,98.591423034231,Ploceus philippinus,Baya Weaver,2013-03-05,15
+Thailand,9.8648026993092,98.581423759024,Ploceus philippinus,Baya Weaver,2013-03-05,5
+Thailand,9.878690249802,98.602116107722,Alcedo atthis,Common Kingfisher,2013-03-06,1
+Thailand,9.8778834235558,98.604068755885,Halcyon coromanda,Ruddy Kingfisher,2013-03-06,1
+Thailand,9.8755601759855,98.589320182364,Alcedo atthis,Common Kingfisher,2013-03-06,1
+Thailand,12.842552729079,99.590899945179,Ficedula albicilla,Taiga Flycatcher,2013-03-06,1
+Thailand,12.842552729079,99.590899945179,Halcyon smyrnensis,White-throated Kingfisher,2013-03-06,1
+Thailand,12.842552729079,99.590899945179,Copsychus malabaricus,White-rumped Shama,2013-03-06,1
+Thailand,12.842552729079,99.590899945179,Anthracoceros albirostris,Oriental Pied Hornbill,2013-03-06,2
+Thailand,12.842552729079,99.590899945179,Glaucidium cuculoides,Asian Barred Owlet,2013-03-06,2
+Thailand,12.842552729079,99.590899945179,Gallus gallus,Red Junglefowl,2013-03-06,3
+Thailand,12.842552729079,99.590899945179,Orthotomus sutorius,Common Tailorbird,2013-03-06,2
+Thailand,12.842552729079,99.590899945179,Caprimulgus macrurus,Large-tailed Nightjar,2013-03-06,1
+Thailand,12.805351251949,99.494647978863,Chalcophaps indica,Common Emerald Dove,2013-03-07,1
+Thailand,12.805351251949,99.494647978863,Dicrurus leucophaeus,Ashy Drongo,2013-03-07,1
+Thailand,12.805351251949,99.494647978863,Dicrurus paradiseus,Greater Racket-tailed Drongo,2013-03-07,1
+Thailand,12.805351251949,99.494647978863,Dinopium javanense,Common Flameback,2013-03-07,2
+Thailand,12.805351251949,99.494647978863,Pycnonotus flaviventris,Black-crested Bulbul,2013-03-07,10
+Thailand,12.805351251949,99.494647978863,Eurystomus orientalis,Oriental Dollarbird,2013-03-07,3
+Thailand,12.805351251949,99.494647978863,Vanellus indicus,Red-wattled Lapwing,2013-03-07,6
+Thailand,12.805351251949,99.494647978863,Anthracoceros albirostris,Oriental Pied Hornbill,2013-03-07,5
+Thailand,12.805351251949,99.494647978863,Spilornis cheela,Crested Serpent Eagle,2013-03-07,1
+Thailand,12.805351251949,99.494647978863,Copsychus malabaricus,White-rumped Shama,2013-03-07,2
+Thailand,12.805351251949,99.494647978863,Hypothymis azurea,Black-naped Monarch,2013-03-07,1
+Thailand,12.805351251949,99.494647978863,Sitta frontalis,Velvet-fronted Nuthatch,2013-03-07,1
+Thailand,12.804168323397,99.412050245446,Harpactes oreskios,Orange-breasted Trogon,2013-03-07,5
+Thailand,12.804168323397,99.412050245446,Nyctyornis athertoni,Blue-bearded Bee-eater,2013-03-07,1
+Thailand,12.804168323397,99.412050245446,Ficedula albicilla,Taiga Flycatcher,2013-03-07,5
+Thailand,12.804168323397,99.412050245446,Otus sagittatus,White-fronted Scops Owl,2013-03-07,2
+Thailand,12.804168323397,99.412050245446,Melanochlora sultanea,Sultan Tit,2013-03-07,5
+Thailand,12.804168323397,99.412050245446,Alophoixus ochraceus,Ochraceous Bulbul,2013-03-07,10
+Thailand,12.804168323397,99.412050245446,Hemipus picatus,Bar-winged Flycatcher-shrike,2013-03-07,1
+Thailand,12.804168323397,99.412050245446,Dicrurus aeneus,Bronzed Drongo,2013-03-07,1
+Thailand,12.804168323397,99.412050245446,Chloropsis cochinchinensis,Blue-winged Leafbird,2013-03-07,4
+Thailand,12.804168323397,99.412050245446,Irena puella,Asian Fairy-bluebird,2013-03-07,1
+Thailand,12.804168323397,99.412050245446,Anorrhinus tickelli,Tickell's Brown Hornbill,2013-03-07,3
+Thailand,12.798419713965,99.453463553946,Chalcoparia singalensis,Ruby-cheeked Sunbird,2013-03-07,1
+Thailand,12.798419713965,99.453463553946,Chloropsis cochinchinensis,Blue-winged Leafbird,2013-03-07,2
+Thailand,12.804224122665,99.412050250685,Trachypithecus obscurus,Dusky Langur,2013-03-07,20
+Thailand,12.804224122665,99.412050250685,Ratufa bicolor,Black Giant Squirrel,2013-03-07,10
+Thailand,12.847480252153,99.589033126394,Artamus fuscus,Ashy Woodswallow,2013-03-07,1
+Thailand,12.857382422319,99.57030773141,Pycnonotus finlaysoni,Stripe-throated Bulbul,2013-03-08,10
+Thailand,12.857382422319,99.57030773141,Pycnonotus flaviventris,Black-crested Bulbul,2013-03-08,10
+Thailand,12.857382422319,99.57030773141,Hypothymis azurea,Black-naped Monarch,2013-03-08,2
+Thailand,12.857382422319,99.57030773141,Gallus gallus,Red Junglefowl,2013-03-08,5
+Thailand,12.857382422319,99.57030773141,Garrulax monileger,Lesser Necklaced Laughingthrush,2013-03-08,4
+Thailand,12.857382422319,99.57030773141,Pterorhinus pectoralis,Greater Necklaced Laughingthrush,2013-03-08,12
+Thailand,12.857382422319,99.57030773141,Cyornis sumatrensis,Indochinese Blue Flycatcher,2013-03-08,1
+Thailand,12.857382422319,99.57030773141,Larvivora cyane,Siberian Blue Robin,2013-03-08,1
+Thailand,12.857382422319,99.57030773141,Lophura leucomelanos lineata,Kalij Pheasant ssp lineata,2013-03-08,2
+Thailand,12.857382422319,99.57030773141,Chalcophaps indica,Common Emerald Dove,2013-03-08,2
+Thailand,12.857382422319,99.57030773141,Copsychus malabaricus,White-rumped Shama,2013-03-08,1
+Thailand,12.857382422319,99.57030773141,Crypsirina temia,Racket-tailed Treepie,2013-03-08,4
+Thailand,12.857382422319,99.57030773141,Alcippe poioicephala,Brown-cheeked Fulvetta,2013-03-08,6
+Thailand,12.857382422319,99.57030773141,Macronus gularis,Pin-striped Tit-Babbler,2013-03-08,2
+Thailand,12.857811973482,99.569292066735,Arborophila chloropus,Green-legged Partridge,2013-03-08,2
+Thailand,12.857811973482,99.569292066735,Arborophila brunneopectus,Bar-backed Partridge,2013-03-08,2
+Thailand,12.857811973482,99.569292066735,Pomatorhinus schisticeps,White-browed Scimitar Babbler,2013-03-08,1
+Thailand,12.857811973482,99.569292066735,Pycnonotus blanfordi,Ayeyarwady Bulbul,2013-03-08,5
+Thailand,12.857811973482,99.569292066735,Pellorneum ruficeps,Puff-throated Babbler,2013-03-08,4
+Thailand,12.857811973482,99.569292066735,Dicrurus paradiseus,Greater Racket-tailed Drongo,2013-03-08,2
+Thailand,12.857811973482,99.569292066735,Tragulus kanchil,Lesser Oriental Chevrotain,2013-03-08,3
+Thailand,12.852277973808,99.570665357751,Caprimulgus macrurus,Large-tailed Nightjar,2013-03-08,2
+Thailand,12.842761942129,99.590620994131,Upupa epops,Eurasian Hoopoe,2013-03-08,1
+Thailand,12.842761942129,99.590620994131,Crypsirina temia,Racket-tailed Treepie,2013-03-08,1
+Thailand,12.842761942129,99.590620994131,Pycnonotus aurigaster,Sooty-headed Bulbul,2013-03-08,2
+Thailand,12.806472753151,99.496078489465,Anthracoceros albirostris,Oriental Pied Hornbill,2013-03-09,4
+Thailand,12.806472753151,99.496078489465,Gallus gallus,Red Junglefowl,2013-03-09,1
+Thailand,12.806472753151,99.496078489465,Eurystomus orientalis,Oriental Dollarbird,2013-03-09,1
+Thailand,12.806472753151,99.496078489465,Spilornis cheela,Crested Serpent Eagle,2013-03-09,1
+Thailand,12.806472753151,99.496078489465,Phaenicophaeus curvirostris,Chestnut-breasted Malkoha,2013-03-09,2
+Thailand,12.806472753151,99.496078489465,Dicrurus paradiseus,Greater Racket-tailed Drongo,2013-03-09,1
+Thailand,12.80485463361,99.421148303663,Melanochlora sultanea,Sultan Tit,2013-03-09,2
+Thailand,12.80485463361,99.421148303663,Chrysocolaptes guttacristatus,Greater Flameback,2013-03-09,2
+Thailand,12.80485463361,99.421148303663,Eurylaimus ochromalus,Black-and-yellow Broadbill,2013-03-09,1
+Thailand,12.80485463361,99.421148303663,Harpactes oreskios,Orange-breasted Trogon,2013-03-09,2
+Thailand,12.80485463361,99.421148303663,Picus vittatus,Laced Woodpecker,2013-03-09,1
+Thailand,12.80485463361,99.421148303663,Dinopium javanense,Common Flameback,2013-03-09,2
+Thailand,12.80485463361,99.421148303663,Hemipus picatus,Bar-winged Flycatcher-shrike,2013-03-09,2
+Thailand,12.80485463361,99.421148303663,Chloropsis cochinchinensis,Blue-winged Leafbird,2013-03-09,1
+Thailand,12.80485463361,99.421148303663,Serilophus lunatus,Silver-breasted Broadbill,2013-03-09,3
+Thailand,12.798117005207,99.453055859485,Psilopogon duvaucelii,Blue-eared Barbet,2013-03-09,1
+Thailand,12.798117005207,99.453055859485,Hemicircus canente,Heart-spotted Woodpecker,2013-03-09,2
+Thailand,12.798117005207,99.453055859485,Melanochlora sultanea,Sultan Tit,2013-03-09,2
+Thailand,13.14483398773,100.0638914117,Charadrius mongolus,Lesser Sand Plover,2013-03-09,10
+Thailand,13.14483398773,100.0638914117,Charadrius leschenaultii,Greater Sand Plover,2013-03-09,120
+Thailand,13.14483398773,100.0638914117,Calidris tenuirostris,Great Knot,2013-03-09,1
+Thailand,13.14483398773,100.0638914117,Pluvialis squatarola,Grey Plover,2013-03-09,1
+Thailand,13.14483398773,100.0638914117,Calidris ferruginea,Curlew Sandpiper,2013-03-09,20
+Thailand,13.14483398773,100.0638914117,Calidris falcinellus,Broad-billed Sandpiper,2013-03-09,35
+Thailand,13.1,100.05,Calidris subminuta,Long-toed Stint,2013-03-09,5
+Thailand,13.14483398773,100.0638914117,Limosa limosa melanuroides,Black-tailed Godwit ssp melanuroides,2013-03-09,10
+Thailand,13.14483398773,100.0638914117,Hydroprogne caspia,Caspian Tern,2013-03-09,1
+Thailand,13.14483398773,100.0638914117,Chlidonias hybrida,Whiskered Tern,2013-03-09,1
+Thailand,13.14483398773,100.0638914117,Microcarbo niger,Little Cormorant,2013-03-09,10
+Thailand,13.097466411911,100.05623817618,Ardeola speciosa,Javan Pond Heron,2013-03-09,10
+Thailand,13.05,100.05,Glareola maldivarum,Oriental Pratincole,2013-03-09,5
+Thailand,13.087309059106,100.04550933751,Merops philippinus,Blue-tailed Bee-eater,2013-03-09,1
+Thailand,13.087309059106,100.04550933751,Anastomus oscitans,Asian Openbill,2013-03-09,200
+Thailand,13.087309059106,100.04550933751,Gallinago gallinago,Common Snipe,2013-03-09,1
+Thailand,13.087309059106,100.04550933751,Prinia inornata,Plain Prinia,2013-03-09,5
+Thailand,13.087309059106,100.04550933751,Falco peregrinus,Peregrine Falcon,2013-03-09,1
+Thailand,13.087309059106,100.04550933751,Tringa glareola,Wood Sandpiper,2013-03-09,1
+Thailand,13.085010012954,100.04565954187,Otus sunia,Oriental Scops Owl,2013-03-09,1
+Thailand,13.085010013,100.045659542,Acridotheres grandis,Great Myna,2013-03-09,1
+Thailand,13.087967419375,100.04648566224,Metopidius indicus,Bronze-winged Jacana,2013-03-09,4
+Thailand,13.08977528614,100.04975795659,Merops orientalis,Green Bee-eater,2013-03-09,10
+Thailand,13.08977528614,100.04975795659,Lonchura punctulata,Scaly-breasted Munia,2013-03-09,1
+Thailand,13.029899618226,100.07523894288,Pastor roseus,Rosy Starling,2013-03-09,1
+Thailand,13.029868260437,100.07523894288,Merops orientalis,Green Bee-eater,2013-03-09,2
+Thailand,13.144602048373,100.06329774851,Calidris pygmaea,Spoon-billed Sandpiper,2013-03-10,1
+Thailand,13.144602048373,100.06329774851,Calidris tenuirostris,Great Knot,2013-03-10,50
+Thailand,13.25664642346,99.932255744061,Platalea minor,Black-faced Spoonbill,2013-03-10,1
+Thailand,8.9108047828864,98.5239338754166,Copsychus saularis,Oriental Magpie-Robin,2015-02-19,1
+Thailand,8.91388351550109,98.509260385721,Trachypithecus obscurus,Dusky Langur,2015-02-20,1
+Thailand,8.91382831724299,98.5092663597571,Trachypithecus obscurus,Dusky Langur,2015-02-20,1
+Thailand,8.90941720023819,98.5035722693614,Geokichla citrina,Orange-headed Thrush,2015-02-20,1
+Thailand,8.91386748226983,98.5088279119532,Trachypithecus obscurus,Dusky Langur,2015-02-20,3
+Thailand,8.91280575998616,98.5139171315013,Macaca fascicularis,Long-tailed Macaque,2015-02-20,1
+Thailand,8.91368457870908,98.5150369994342,Macaca fascicularis,Long-tailed Macaque,2015-02-20,3
+Thailand,8.91676320225966,98.5267952453615,Pycnonotus atriceps,Black-headed Bulbul,2015-02-20,3
+Thailand,8.91344812311494,98.526499466232,Copsychus saularis,Oriental Magpie-Robin,2015-02-20,3
+Thailand,8.89976994936743,98.5242403723623,Macaca fascicularis,Long-tailed Macaque,2015-02-20,23
+Thailand,8.91111782589773,98.5059058024186,Trachypithecus obscurus,Dusky Langur,2015-02-22,3
+Thailand,8.91288506881026,98.5178061915569,Cyornis whitei coerulifrons,Hill Blue Flycatcher ssp coerulifrons,2015-02-22,1
+Thailand,8.91455826696534,98.5223494084555,Trachypithecus obscurus,Dusky Langur,2015-02-22,1
+Thailand,8.90777271875852,98.5749653554583,Coracias affinis,Indochinese Roller,2015-02-23,1
+Thailand,8.78137231743269,98.428621119097,Merops leschenaulti,Chestnut-headed Bee-eater,2015-02-23,2
+Thailand,8.78025531122717,98.4282504142759,Vanellus indicus,Red-wattled Lapwing,2015-02-23,2
+Thailand,8.77156397963842,98.4412409445473,Vanellus duvaucelii,River Lapwing,2015-02-23,3
+Thailand,8.77152419950309,98.4412052545692,Tringa glareola,Wood Sandpiper,2015-02-23,2
+Thailand,8.77154522029954,98.4411956861108,Charadrius dubius,Little Ringed Plover,2015-02-23,1
+Thailand,8.77262686042939,98.4415455529773,Halcyon smyrnensis,White-throated Kingfisher,2015-02-23,1
+Thailand,8.7726170296425,98.4421751547748,Cymbirhynchus macrorhynchos,Black-and-red Broadbill,2015-02-23,2
+Thailand,8.77203195940282,98.4436464416539,Merops leschenaulti,Chestnut-headed Bee-eater,2015-02-23,9
+Thailand,8.91197810708765,98.5119301670163,Haliaeetus leucogaster,White-bellied Sea Eagle,2015-02-23,1
+Thailand,8.83839097192597,98.4608680824693,Merops leschenaulti,Chestnut-headed Bee-eater,2015-02-24,2
+Thailand,8.99594413662413,98.4629513581491,Geokichla citrina,Orange-headed Thrush,2015-02-24,1
+Thailand,8.99551205121029,98.4629911528212,Tragulus kanchil,Lesser Oriental Chevrotain,2015-02-24,1
+Thailand,8.99185172585656,98.4655457185295,Hydrornis irena,Malayan Banded Pitta,2015-02-24,1
+Thailand,8.99693244636952,98.4699624210147,Enicurus ruficapillus,Chestnut-naped Forktail,2015-02-24,1
+Thailand,8.9959557960017,98.4668583449577,Hemiprocne comata,Whiskered Treeswift,2015-02-24,1
+Thailand,8.99609943201835,98.4631936954092,Geokichla citrina,Orange-headed Thrush,2015-02-24,1
+Thailand,8.73637196498506,98.2225123661202,Charadrius mongolus,Lesser Sand Plover,2015-02-24,50
+Thailand,8.73636427136911,98.2224860968636,Numenius phaeopus,Eurasian Whimbrel,2015-02-24,250
+Thailand,8.73635232054609,98.2224817830604,Limosa lapponica,Bar-tailed Godwit,2015-02-24,4
+Thailand,8.73637068972199,98.2224966471008,Charadrius leschenaultii,Greater Sand Plover,2015-02-24,50
+Thailand,8.73637020449,98.2224916312,Xenus cinereus,Terek Sandpiper,2015-02-24,3
+Thailand,8.7399641296152,98.2201999029423,Pluvialis fulva,Pacific Golden Plover,2015-02-24,1
+Thailand,8.73996042366081,98.2202084714061,Arenaria interpres,Ruddy Turnstone,2015-02-24,5
+Thailand,8.73584706011713,98.2224975526284,Haliastur indus,Brahminy Kite,2015-02-24,1
+Thailand,8.892669278475,98.5312705311634,Gekko gecko,Tokay Gecko,2015-02-24,2
+Thailand,13.0578656993,100.103816986,Charadrius alexandrinus dealbatus,Kentish Plover ssp dealbatus,2015-01-30,3
+Thailand,12.8810587966,99.6002823673,Microcarbo niger,Little Cormorant,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Upupa epops,Eurasian Hoopoe,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Pycnonotus blanfordi,Ayeyarwady Bulbul,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Pycnonotus flaviventris,Black-crested Bulbul,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Oriolus chinensis,Black-naped Oriole,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Gracupica contra,Pied Myna,2015-01-12,1
+Thailand,12.8810587966,99.6002823673,Copsychus saularis,Oriental Magpie-Robin,2015-01-12,1
+Thailand,13.0385925407,100.078668594,Calidris pygmaea,Spoon-billed Sandpiper,2015-01-30,2
+Thailand,13.7575398499887,100.49197057995,Dicaeum cruentatum,Scarlet-backed Flowerpecker,2015-02-18,1
+Thailand,13.7657056,100.5014488,Gracupica nigricollis,Black-collared Starling,2015-02-18,2
+Thailand,13.7658519554385,100.501043537874,Anastomus oscitans,Asian Openbill,2015-02-18,4
+Thailand,13.7658271884849,100.500963643999,Pycnonotus blanfordi,Ayeyarwady Bulbul,2015-02-16,1
+Thailand,13.7658157909647,100.50095442679,Dicaeum cruentatum,Scarlet-backed Flowerpecker,2015-02-17,1
+Thailand,13.7657965067201,100.50103420818,Acridotheres tristis,Common Myna,2015-02-17,2
+Thailand,13.7657965067201,100.50103420818,Dicaeum cruentatum,Scarlet-backed Flowerpecker,2015-02-17,4
+Thailand,13.7658313895966,100.50100404924,Oriolus chinensis,Black-naped Oriole,2015-02-17,1
+Thailand,13.7658286473915,100.500985718257,Pycnonotus blanfordi,Ayeyarwady Bulbul,2015-02-17,2
+Thailand,13.7658679,100.500951,Dicaeum cruentatum,Scarlet-backed Flowerpecker,2015-02-17,1
+Thailand,13.7657778,100.5009482,Copsychus saularis,Oriental Magpie-Robin,2015-02-17,1
+Thailand,13.7657851,100.5009377,Passer montanus,Eurasian Tree Sparrow,2015-02-17,9
+Thailand,13.7657752,100.5009353,Corvus macrorhynchos,Large-billed Crow,2015-02-17,3
+Thailand,13.7657847,100.5009305,Egretta garzetta,Little Egret,2015-02-17,3
+Thailand,12.8905860506,99.5727114379,Eudynamys scolopaceus,Asian Koel,2015-01-12,1
+Thailand,13.6801482062,100.567016546,Pelargopsis capensis,Stork-billed Kingfisher,2015-01-17,1
+Thailand,13.6801482062,100.567016546,Aviceda leuphotes,Black Baza,2015-01-17,5

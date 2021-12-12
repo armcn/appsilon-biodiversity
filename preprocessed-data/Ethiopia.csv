@@ -1,0 +1,523 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Ethiopia,7.54835723644,38.680658564,Melaniparus leucomelas,White-winged Black Tit,2015-02-24,1
+Ethiopia,6.89550716518,39.9067033455,Macronyx flavicollis,Abyssinian Longclaw,2015-02-25,2
+Ethiopia,7.54909135969,38.6810339056,Chloropicus namaquus,Bearded Woodpecker,2015-02-23,2
+Ethiopia,7.55041020253,38.6810178123,Monticola rufocinereus,Little Rock Thrush,2015-02-24,1
+Ethiopia,7.5488520531,38.6808032356,Jynx ruficollis,Red-throated Wryneck,2015-02-23,2
+Ethiopia,9.56857361338,39.8282522522,Quelea quelea,Red-billed Quelea,2015-02-20,2
+Ethiopia,9.56817687929,39.8308003508,Crithagra reichenowi,Reichenow's Seedeater,2015-02-20,2
+Ethiopia,9.56787536107,39.8306340538,Dicrurus adsimilis,Fork-tailed Drongo,2015-02-20,1
+Ethiopia,9.5690920119,39.8278713785,Laniarius aethiopicus,Ethiopian Boubou,2015-02-20,1
+Ethiopia,9.56775898554,39.8290891014,Merops variegatus,Blue-breasted Bee-eater,2015-02-20,2
+Ethiopia,9.56908143235,39.8290569149,Scopus umbretta,Hamerkop,2015-02-20,2
+Ethiopia,9.56933534154,39.8287135921,Alcedo semitorquata,Half-collared Kingfisher,2015-02-20,1
+Ethiopia,9.5681081120000009,39.8291802965,Trachyphonus margaritatus,Yellow-breasted Barbet,2015-02-20,2
+Ethiopia,7.55162268353,38.68150061,Bubo cinerascens,Greyish Eagle-Owl,2015-02-23,1
+Ethiopia,8.76546167307,38.9631702751,Streptopelia decipiens,Mourning Collared Dove,2015-02-21,4
+Ethiopia,7.12112032812,39.7195317596,Rougetius rougetii,Rouget's Rail,2015-02-24,2
+Ethiopia,7.12112032812,39.7195317596,Fulica cristata,Red-knobbed Coot,2015-02-24,10
+Ethiopia,7.12071577701,39.7176005691,Vanellus melanocephalus,Spot-breasted Lapwing,2015-02-24,4
+Ethiopia,7.52449003273,38.6998128891,Charadrius dubius,Little Ringed Plover,2015-02-24,1
+Ethiopia,8.91017115747,40.0625185668,Uraeginthus ianthinogaster,Purple Grenadier,2015-02-22,1
+Ethiopia,8.90605858086,40.056424588,Plocepasser mahali,White-browed Sparrow-Weaver,2015-02-22,2
+Ethiopia,8.87402587045,40.0350024551,Dinemellia dinemelli,White-headed Buffalo Weaver,2015-02-22,10
+Ethiopia,8.86514162489,40.0569543242,Emberiza poliopleura,Somali Bunting,2015-02-22,2
+Ethiopia,8.86514162489,40.0569543242,Cinnyris habessinicus,Shining Sunbird,2015-02-22,1
+Ethiopia,8.86514162489,40.0569543242,Hedydipna metallica,Nile Valley Sunbird,2015-02-22,4
+Ethiopia,8.86955147602,40.0657090545,Buphagus erythrorynchus,Red-billed Oxpecker,2015-02-22,7
+Ethiopia,8.86955147602,40.0657090545,Argya rubiginosa,Rufous Chatterer,2015-02-22,2
+Ethiopia,8.86395434823,40.0554093719,Oenanthe isabellina,Isabelline Wheatear,2015-02-22,1
+Ethiopia,8.87811661243,40.0730904937,Mirafra gilletti,Gillett's Lark,2015-02-22,1
+Ethiopia,8.88108468235,40.0742921233,Eurocephalus ruppelli,Northern White-crowned Shrike,2015-02-22,20
+Ethiopia,8.87692937773,40.0735196471,Lanius somalicus,Somali Fiscal,2015-02-22,5
+Ethiopia,8.8716715779,40.0655373931,Telophorus cruentus,Rosy-patched Bushshrike,2015-02-22,1
+Ethiopia,8.88914075102,40.0837334991,Batis orientalis,Grey-headed Batis,2015-02-22,3
+Ethiopia,8.88914075102,40.0837334991,Bucorvus abyssinicus,Abyssinian Ground Hornbill,2015-02-22,2
+Ethiopia,8.89134553894,40.0773820281,Upupa epops,Eurasian Hoopoe,2015-02-22,2
+Ethiopia,8.87735339057,40.0734338164,Coracias abyssinicus,Abyssinian Roller,2015-02-22,1
+Ethiopia,8.89287192281,40.0787553191,Lophotis gindiana,Buff-crested Bustard,2015-02-22,1
+Ethiopia,8.86734655707,40.0563535094,Eupodotis senegalensis,White-bellied Bustard,2015-02-22,1
+Ethiopia,8.90143651422,40.0772961974,Ardeotis kori,Kori Bustard,2015-02-22,2
+Ethiopia,8.85784829339,40.0465688109,Polihierax semitorquatus,Pygmy Falcon,2015-02-22,3
+Ethiopia,8.84094604791,40.0147516094,Lagonosticta senegala,Red-billed Firefinch,2015-02-22,3
+Ethiopia,8.84094604791,40.0147516094,Pytilia melba,Green-winged Pytilia,2015-02-22,1
+Ethiopia,8.84504320407,40.0091030449,Amblyospiza albifrons,Thick-billed Weaver,2015-02-22,2
+Ethiopia,8.8457428856899991,40.0078584999,Ploceus galbula,Rüppell's Weaver,2015-02-22,5
+Ethiopia,8.84883843082,40.003073439,Motacilla aguimp,African Pied Wagtail,2015-02-22,3
+Ethiopia,8.84883843082,40.003073439,Lamprotornis purpuroptera,Rüppell's Starling,2015-02-22,4
+Ethiopia,8.84464035648,40.0094249099,Dryoscopus gambensis,Northern Puffback,2015-02-22,1
+Ethiopia,8.84464035648,40.0094249099,Dendropicos spodocephalus,Eastern Grey Woodpecker,2015-02-22,1
+Ethiopia,8.84464035648,40.0094249099,Campethera nubica,Nubian Woodpecker,2015-02-22,1
+Ethiopia,8.84464035648,40.0094249099,Lybius guifsobalito,Black-billed Barbet,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Lophoceros nasutus,African Grey Hornbill,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Tockus erythrorhynchus,Northern Red-billed Hornbill,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Urocolius macrourus,Blue-naped Mousebird,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Colius striatus,Speckled Mousebird,2015-02-22,6
+Ethiopia,8.84464035648,40.0094249099,Crinifer zonurus,Eastern Plantain-eater,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Corythaixoides leucogaster,White-bellied Go-away-bird,2015-02-22,5
+Ethiopia,8.84464035648,40.0094249099,Streptopelia roseogrisea,African Collared Dove,2015-02-22,2
+Ethiopia,8.84464035648,40.0094249099,Scopus umbretta,Hamerkop,2015-02-22,1
+Ethiopia,8.84464035648,40.0094249099,Bostrychia hagedash,Hadada Ibis,2015-02-22,4
+Ethiopia,5.37961339,39.5271175,Lophotis gindiana,Buff-crested Bustard,2015-02-27,1
+Ethiopia,8.91131588705,39.9052767456,Vanellus spinosus,Spur-winged Lapwing,2015-02-23,1
+Ethiopia,4.85562755062,38.1574344618,Zavattariornis stresemanni,Stresemann's Bushcrow,2015-03-01,2
+Ethiopia,9.82052166804,39.7344947979,Buteo augur,Augur Buzzard,2015-02-20,2
+Ethiopia,9.82052166804,39.7344947979,Crithagra ankoberensis,Ankober Serin,2015-02-20,80
+Ethiopia,6.89915536445,39.9048650265,Scleroptila psilolaema,Moorland Francolin,2015-02-25,4
+Ethiopia,7.53812042891,38.675082922,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-24,4
+Ethiopia,7.53812042891,38.675082922,Amadina fasciata,Cut-throat Finch,2015-02-24,1
+Ethiopia,7.53812042891,38.675082922,Polyboroides typus,African Harrier-Hawk,2015-02-24,1
+Ethiopia,7.0708684303,39.6506023407,Anas platyrhynchos,Mallard,2015-02-27,2
+Ethiopia,8.74427546961,38.9873582684,Netta erythrophthalma,Southern Pochard,2015-02-21,3
+Ethiopia,4.85572675,38.16143019,Hirundo megaensis,White-tailed Swallow,2015-03-01,4
+Ethiopia,5.28553556,38.28901558,Cecropis senegalensis,Mosque Swallow,2015-03-02,2
+Ethiopia,8.76798530412,38.9681699127,Tringa stagnatilis,Marsh Sandpiper,2015-02-21,1
+Ethiopia,8.76798530412,38.9681699127,Grus grus,Common Crane,2015-02-21,40
+Ethiopia,8.76798530412,38.9681699127,Plegadis falcinellus,Glossy Ibis,2015-02-21,3
+Ethiopia,8.76798530412,38.9681699127,Gyps rueppelli,Rüppell's Vulture,2015-02-21,3
+Ethiopia,8.76798530412,38.9681699127,Anas crecca,Eurasian Teal,2015-02-21,1
+Ethiopia,8.76798530412,38.9681699127,Anas acuta,Northern Pintail,2015-02-21,1
+Ethiopia,8.76798530412,38.9681699127,Leptoptilos crumenifer,Marabou Stork,2015-02-21,50
+Ethiopia,8.76798530412,38.9681699127,Phoeniconaias minor,Lesser Flamingo,2015-02-21,500
+Ethiopia,8.76798530412,38.9681699127,Haliaeetus vocifer,African Fish Eagle,2015-02-21,1
+Ethiopia,5.29128961,39.67164487,Cursorius temminckii,Temminck's Courser,2015-02-27,2
+Ethiopia,5.27305942,39.68963438,Alaudala somalica,Somali Short-toed Lark,2015-02-27,2
+Ethiopia,5.27067362,39.68960282,Heteromirafra archeri,Archer's Lark,2015-02-27,1
+Ethiopia,6.89558437556,39.9074095487,Macronyx flavicollis,Abyssinian Longclaw,2015-02-25,1
+Ethiopia,9.56919753734,39.8268914221,Aquila rapax,Tawny Eagle,2015-02-20,1
+Ethiopia,7.02508960259,39.9794581532,Corvus crassirostris,Thick-billed Raven,2015-02-25,2
+Ethiopia,8.90535543796,39.9961852957,Corythaixoides leucogaster,White-bellied Go-away-bird,2015-02-23,2
+Ethiopia,9.56884347495,39.8094749451,Crithagra flavigula,Yellow-throated Seedeater,2015-02-20,4
+Ethiopia,9.00224782,38.79973946,Milvus aegyptius,Yellow-billed Kite,2015-02-19,30
+Ethiopia,9.65142227,39.65287467,Tringa ochropus,Green Sandpiper,2015-02-20,2
+Ethiopia,9.55447714,39.76169651,Oenanthe pleschanka,Pied Wheatear,2015-02-20,1
+Ethiopia,9.56930964,39.82679384,Corythornis cristatus,Malachite Kingfisher,2015-02-20,2
+Ethiopia,9.63431363,39.50335498,Elanus caeruleus,Black-winged Kite,2015-02-21,1
+Ethiopia,8.76751417,38.96433482,Gelochelidon nilotica,Gull-billed Tern,2015-02-21,3
+Ethiopia,8.83902775,39.72329994,Oenanthe melanura,Blackstart,2015-02-21,1
+Ethiopia,8.91354665,39.90648355,Ardea alba,Great Egret,2015-02-21,1
+Ethiopia,8.8554624,40.04829085,Oenanthe isabellina,Isabelline Wheatear,2015-02-22,1
+Ethiopia,8.85235213,40.04283703,Emberiza poliopleura,Somali Bunting,2015-02-22,2
+Ethiopia,8.85235559,40.04283662,Merops pusillus,Little Bee-eater,2015-02-22,1
+Ethiopia,8.89773404,40.07710893,Upupa epops,Eurasian Hoopoe,2015-02-22,2
+Ethiopia,8.90674876,40.07488045,Ardeotis kori,Kori Bustard,2015-02-22,1
+Ethiopia,8.89995437,40.04319177,Tockus flavirostris,Eastern Yellow-billed Hornbill,2015-02-23,1
+Ethiopia,8.90721132,39.98919171,Upupa epops,Eurasian Hoopoe,2015-02-23,1
+Ethiopia,8.91722971,39.88534925,Oenanthe dubia,Sombre Rock Chat,2015-02-23,1
+Ethiopia,7.92461721,38.72931089,Ceryle rudis,Pied Kingfisher,2015-02-23,2
+Ethiopia,7.92460495,38.72924081,Haliaeetus vocifer,African Fish Eagle,2015-02-23,1
+Ethiopia,7.55055252,38.68190176,Ptilopsis leucotis,Northern White-faced Owl,2015-02-24,1
+Ethiopia,7.55054504,38.68165667,Ptilopsis leucotis,Northern White-faced Owl,2015-02-24,1
+Ethiopia,7.55054353,38.68166844,Terpsiphone viridis,African Paradise Flycatcher,2015-02-24,1
+Ethiopia,7.23953696,38.64137527,Bycanistes brevis,Silvery-cheeked Hornbill,2015-02-24,4
+Ethiopia,7.12091919,39.71967649,Anas undulata,Yellow-billed Duck,2015-02-24,20
+Ethiopia,7.12088519,39.71965839,Melaniparus leuconotus,White-backed Black Tit,2015-02-24,1
+Ethiopia,7.09389261,39.79021618,Caprimulgus poliocephalus,Montane Nightjar,2015-02-24,1
+Ethiopia,7.09539485,39.78902732,Melaenornis chocolatinus,Abyssinian Slaty Flycatcher,2015-02-24,1
+Ethiopia,6.91282497,39.9226698,Buteo augur,Augur Buzzard,2015-02-25,1
+Ethiopia,6.89401872,39.90394669,Buteo augur,Augur Buzzard,2015-02-25,3
+Ethiopia,6.89332043,39.9087207,Cyanochen cyanoptera,Blue-winged Goose,2015-02-25,2
+Ethiopia,7.02462166,39.97996926,Crithagra striolata,Streaky Seedeater,2015-02-26,1
+Ethiopia,7.02463948,39.9799623,Zosterops poliogastrus,Heuglin's White-eye,2015-02-26,1
+Ethiopia,6.98069913,39.96719249,Lanius humeralis,Northern Fiscal,2015-02-26,1
+Ethiopia,6.93965848,39.95711061,Pinarochroa sordida,Moorland Chat,2015-02-26,1
+Ethiopia,6.93475646,39.94905586,Bostrychia carunculata,Wattled Ibis,2015-02-26,1
+Ethiopia,6.92673061,39.93994732,Rougetius rougetii,Rouget's Rail,2015-02-26,1
+Ethiopia,6.92673659,39.9399192,Turdus litsitsirupa,Groundscraper Thrush,2015-02-26,2
+Ethiopia,6.9246196,39.93477653,Serinus nigriceps,Ethiopian Siskin,2015-02-26,10
+Ethiopia,6.92508437,39.93347913,Cossypha semirufa,Rüppell's Robin-Chat,2015-02-26,1
+Ethiopia,6.92529297,39.93323788,Bradypterus cinnamomeus,Cinnamon Bracken Warbler,2015-02-26,1
+Ethiopia,6.89298337,39.90879958,Anas undulata,Yellow-billed Duck,2015-02-26,3
+Ethiopia,6.89220796,39.90884422,Cyanochen cyanoptera,Blue-winged Goose,2015-02-26,3
+Ethiopia,6.88506523,39.90639836,Buteo augur,Augur Buzzard,2015-02-26,2
+Ethiopia,6.83752653,39.87813318,Vanellus melanocephalus,Spot-breasted Lapwing,2015-02-26,10
+Ethiopia,6.77608564,39.73159118,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-26,1
+Ethiopia,6.71196017,39.71957085,Parophasma galinieri,Abyssinian Catbird,2015-02-26,1
+Ethiopia,6.71230189,39.72068083,Dendropicos abyssinicus,Abyssinian Woodpecker,2015-02-26,1
+Ethiopia,6.71188052,39.7204538,Melaenornis chocolatinus,Abyssinian Slaty Flycatcher,2015-02-26,1
+Ethiopia,6.71187776,39.72044807,Bycanistes brevis,Silvery-cheeked Hornbill,2015-02-26,1
+Ethiopia,6.33973257,39.83491051,Tockus erythrorhynchus,Northern Red-billed Hornbill,2015-02-26,2
+Ethiopia,6.22121967,39.77638702,Trachyphonus erythrocephalus,Red-and-yellow Barbet,2015-02-26,1
+Ethiopia,6.07428288,39.73587087,Lamprotornis shelleyi,Shelley's Starling,2015-02-26,1
+Ethiopia,5.93178616,39.52714715,Tauraco ruspolii,Ruspoli's Turaco,2015-02-26,1
+Ethiopia,5.71487541,39.53268176,Bucorvus abyssinicus,Abyssinian Ground Hornbill,2015-02-26,3
+Ethiopia,5.70882219,39.53530056,Halcyon leucocephala,Grey-headed Kingfisher,2015-02-26,2
+Ethiopia,5.30053577,39.65277582,Pternistis leucoscepus,Yellow-necked Spurfowl,2015-02-27,8
+Ethiopia,5.29554509,39.66623023,Coracias caudatus,Lilac-breasted Roller,2015-02-27,1
+Ethiopia,5.29336807,39.66963685,Hirundo aethiopica,Ethiopian Swallow,2015-02-27,3
+Ethiopia,5.29127263,39.67161373,Lamprotornis albicapillus,White-crowned Starling,2015-02-27,5
+Ethiopia,5.29129186,39.67164615,Vanellus coronatus,Crowned Lapwing,2015-02-27,1
+Ethiopia,5.29129224,39.67164654,Lamprotornis superbus,Superb Starling,2015-02-27,10
+Ethiopia,5.28478666,39.67951774,Amadina fasciata,Cut-throat Finch,2015-02-27,1
+Ethiopia,5.27200527,39.69106569,Anthus leucophrys,Plain-backed Pipit,2015-02-27,4
+Ethiopia,5.27249328,39.68891803,Cisticola brunnescens,Pectoral-patch Cisticola,2015-02-27,3
+Ethiopia,5.25661761,39.73034671,Neophron percnopterus,Egyptian Vulture,2015-02-27,1
+Ethiopia,5.2307031,39.8364488,Poicephalus rufiventris,Red-bellied parrot,2015-02-27,1
+Ethiopia,5.22887482,39.83665412,Pycnonotus dodsoni,Dodson's Bulbul,2015-02-27,1
+Ethiopia,5.22657569,39.83980249,Sylvietta brachyura,Northern Crombec,2015-02-27,1
+Ethiopia,5.22681863,39.84042554,Crithagra reichenowi,Reichenow's Seedeater,2015-02-27,2
+Ethiopia,5.22693581,39.84064559,Lamprotornis shelleyi,Shelley's Starling,2015-02-27,20
+Ethiopia,5.37051051,39.53296917,Melierax poliopterus,Eastern Chanting Goshawk,2015-02-27,1
+Ethiopia,5.37921523,39.52879122,Merops pusillus,Little Bee-eater,2015-02-27,1
+Ethiopia,5.37916448,39.52854857,Corythaixoides leucogaster,White-bellied Go-away-bird,2015-02-27,4
+Ethiopia,5.37961339,39.5271175,Lamprotornis regius,Golden-breasted Starling,2015-02-27,2
+Ethiopia,5.38418481,39.52639578,Calendulauda alopex,Foxy Lark,2015-02-27,1
+Ethiopia,5.38479586,39.52504064,Telophorus cruentus,Rosy-patched Bushshrike,2015-02-27,2
+Ethiopia,5.38479818,39.52503424,Cercotrichas leucophrys,White-browed Scrub Robin,2015-02-27,1
+Ethiopia,5.38848232,39.52200829,Phoeniculus somaliensis,Black-billed Wood Hoopoe,2015-02-27,4
+Ethiopia,5.38890996,39.5222561,Streptopelia capicola,Ring-necked Dove,2015-02-27,1
+Ethiopia,4.90170638,39.37431809,Lamprotornis regius,Golden-breasted Starling,2015-02-28,1
+Ethiopia,4.89165196,39.33741317,Acryllium vulturinum,Vulturine Guineafowl,2015-02-28,30
+Ethiopia,4.87022958,39.31844048,Streptopelia reichenowi,White-winged Collared Dove,2015-02-28,2
+Ethiopia,4.86636579,39.31806599,Tricholaema melanocephala,Black-throated Barbet,2015-02-28,1
+Ethiopia,4.86487943,39.31778998,Anthreptes orientalis,Eastern Violet-backed Sunbird,2015-02-28,1
+Ethiopia,4.86472826,39.3176256,Merops pusillus,Little Bee-eater,2015-02-28,1
+Ethiopia,4.86424067,39.31633677,Emberiza poliopleura,Somali Bunting,2015-02-28,2
+Ethiopia,4.86419227,39.31633123,Melaenornis microrhynchus,African Grey Flycatcher,2015-02-28,1
+Ethiopia,4.86374478,39.31605801,Batis perkeo,Pygmy Batis,2015-02-28,1
+Ethiopia,4.86314028,39.31394558,Nilaus afer,Brubru,2015-02-28,1
+Ethiopia,4.86321293,39.31362736,Trachyphonus darnaudii,D'Arnaud's Barbet,2015-02-28,2
+Ethiopia,4.86328409,39.31093359,Turtur chalcospilos,Emerald-spotted Wood Dove,2015-02-28,1
+Ethiopia,4.86759155,39.30573823,Ploceus intermedius,Lesser Masked Weaver,2015-02-28,1
+Ethiopia,4.86807395,39.30592646,Polyboroides typus,African Harrier-Hawk,2015-02-28,1
+Ethiopia,4.21000963,38.69970852,Cercotrichas leucophrys,White-browed Scrub Robin,2015-02-28,1
+Ethiopia,4.20277382,38.37952822,Spizocorys fremantlii,Short-tailed Lark,2015-02-28,7
+Ethiopia,4.20277128,38.37952331,Passer shelleyi,Shelley's Sparrow,2015-02-28,4
+Ethiopia,4.19594817,38.35026478,Lanius somalicus,Somali Fiscal,2015-02-28,1
+Ethiopia,4.19597045,38.35026936,Lamprotornis albicapillus,White-crowned Starling,2015-02-28,5
+Ethiopia,4.18292031,38.32748189,Falco naumanni,Lesser Kestrel,2015-02-28,1
+Ethiopia,4.18291968,38.32748126,Ardeotis kori,Kori Bustard,2015-02-28,3
+Ethiopia,4.18290213,38.32745225,Hirundo megaensis,White-tailed Swallow,2015-02-28,1
+Ethiopia,4.1933281,38.28175186,Clamator glandarius,Great Spotted Cuckoo,2015-02-28,1
+Ethiopia,4.19311938,38.28120169,Zavattariornis stresemanni,Stresemann's Bushcrow,2015-02-28,4
+Ethiopia,4.49681372,38.27345118,Gyps africanus,White-backed Vulture,2015-02-28,4
+Ethiopia,4.49810404,38.2733093,Dendroperdix sephaena,Crested Francolin,2015-02-28,1
+Ethiopia,4.88375954,38.1401779,Onychognathus morio,Red-winged Starling,2015-03-01,3
+Ethiopia,4.88392864,38.14029739,Passer swainsonii,Swainson's Sparrow,2015-03-01,10
+Ethiopia,4.87253623,38.16741161,Lamprotornis superbus,Superb Starling,2015-03-01,10
+Ethiopia,4.84252515,38.18685805,Pseudonigrita arnaudi,Grey-capped Social Weaver,2015-03-01,3
+Ethiopia,4.84251765,38.18685385,Amadina fasciata,Cut-throat Finch,2015-03-01,1
+Ethiopia,4.84285136,38.18760146,Dinemellia dinemelli,White-headed Buffalo Weaver,2015-03-01,2
+Ethiopia,4.84200319,38.18840985,Turdus tephronotus,Bare-eyed Thrush,2015-03-01,1
+Ethiopia,4.83984589,38.1881153,Pseudonigrita cabanisi,Black-capped Social Weaver,2015-03-01,1
+Ethiopia,4.71317149,38.19902846,Corythaixoides leucogaster,White-bellied Go-away-bird,2015-03-01,2
+Ethiopia,4.6184916,38.2406315,Lamprotornis albicapillus,White-crowned Starling,2015-03-01,2
+Ethiopia,4.52483746,38.27777928,Oenanthe isabellina,Isabelline Wheatear,2015-03-01,1
+Ethiopia,4.52280733,38.27359014,Chalcomitra hunteri,Hunter's Sunbird,2015-03-01,1
+Ethiopia,4.52276216,38.27382575,Cercotrichas leucophrys,White-browed Scrub Robin,2015-03-01,3
+Ethiopia,4.45403533,38.27390194,Rhinoptilus cinctus,Three-banded Courser,2015-03-01,1
+Ethiopia,4.45447555,38.27377841,Dendroperdix sephaena,Crested Francolin,2015-03-01,2
+Ethiopia,4.19656901,38.30611034,Passer shelleyi,Shelley's Sparrow,2015-03-01,1
+Ethiopia,4.19371099,38.33617106,Lanius somalicus,Somali Fiscal,2015-03-01,10
+Ethiopia,4.6763434,38.23385218,Emberiza poliopleura,Somali Bunting,2015-03-01,1
+Ethiopia,4.67835429,38.23409049,Argya rubiginosa,Rufous Chatterer,2015-03-01,3
+Ethiopia,4.85590391,38.16275463,Plocepasser mahali,White-browed Sparrow-Weaver,2015-03-01,1
+Ethiopia,4.97869623,38.2063444,Zavattariornis stresemanni,Stresemann's Bushcrow,2015-03-02,2
+Ethiopia,5.0026868,38.21201834,Phoeniculus somaliensis,Black-billed Wood Hoopoe,2015-03-02,7
+Ethiopia,5.83576377,38.25931478,Grus carunculata,Wattled Crane,2015-03-02,2
+Ethiopia,7.05766973,38.47041535,Halcyon senegalensis,Woodland Kingfisher,2015-03-02,1
+Ethiopia,7.05761521,38.47044683,Leptoptilos crumenifer,Marabou Stork,2015-03-02,70
+Ethiopia,7.05775689,38.47070522,Jynx torquilla,Eurasian Wryneck,2015-03-02,1
+Ethiopia,7.05673187,38.47070615,Amadina fasciata,Cut-throat Finch,2015-03-02,1
+Ethiopia,7.05722573,38.47031492,Upupa epops,Eurasian Hoopoe,2015-03-02,1
+Ethiopia,7.05825907,38.46990518,Corythornis cristatus,Malachite Kingfisher,2015-03-02,2
+Ethiopia,7.05827432,38.46989784,Haliaeetus vocifer,African Fish Eagle,2015-03-02,2
+Ethiopia,7.05555176,38.46952637,Jynx torquilla,Eurasian Wryneck,2015-03-03,2
+Ethiopia,7.05730959,38.4690409,Centropus monachus,Blue-headed Coucal,2015-03-03,1
+Ethiopia,7.0579375,38.46930049,Amaurornis flavirostra,Black Crake,2015-03-03,1
+Ethiopia,7.05793687,38.46930539,Thalassornis leuconotus,White-backed Duck,2015-03-03,20
+Ethiopia,7.05793834,38.46930277,Nettapus auritus,African Pygmy Goose,2015-03-03,4
+Ethiopia,7.0579384,38.46930224,Corythornis cristatus,Malachite Kingfisher,2015-03-03,2
+Ethiopia,7.0579385,38.46930214,Phalacrocorax lucidus,White-breasted Cormorant,2015-03-03,10
+Ethiopia,7.05793853,38.4693021,Microcarbo africanus,Reed Cormorant,2015-03-03,10
+Ethiopia,7.05794872,38.46929922,Estrilda astrild,Common Waxbill,2015-03-03,2
+Ethiopia,7.05800999,38.46932497,Ardea alba,Great Egret,2015-03-03,1
+Ethiopia,7.05812425,38.46938636,Egretta garzetta,Little Egret,2015-03-03,1
+Ethiopia,7.05820418,38.46943639,Tringa nebularia,Common Greenshank,2015-03-03,1
+Ethiopia,7.05829203,38.46948828,Gelochelidon nilotica,Gull-billed Tern,2015-03-03,5
+Ethiopia,7.05835609,38.4695389,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-03-03,2
+Ethiopia,7.05848865,38.46962416,Ardeola ralloides,Squacco Heron,2015-03-03,10
+Ethiopia,7.0584911,38.46962949,Chlidonias leucopterus,White-winged Tern,2015-03-03,5
+Ethiopia,7.05901902,38.46991811,Tringa glareola,Wood Sandpiper,2015-03-03,1
+Ethiopia,7.05731211,38.4699816,Bycanistes brevis,Silvery-cheeked Hornbill,2015-03-03,1
+Ethiopia,7.05722147,38.46993367,Milvus aegyptius,Yellow-billed Kite,2015-03-03,1
+Ethiopia,7.05722109,38.46993003,Halcyon senegalensis,Woodland Kingfisher,2015-03-03,1
+Ethiopia,7.05722109,38.46993003,Scopus umbretta,Hamerkop,2015-03-03,1
+Ethiopia,7.0570053,38.4699604,Merops nubicus,Northern Carmine Bee-eater,2015-03-03,1
+Ethiopia,7.05765654,38.47046428,Corvus crassirostris,Thick-billed Raven,2015-03-03,1
+Ethiopia,7.05758139,38.47044831,Lagonosticta senegala,Red-billed Firefinch,2015-03-03,1
+Ethiopia,7.05758525,38.47045826,Platysteira cyanea,Brown-throated Wattle-eye,2015-03-03,1
+Ethiopia,7.05756867,38.47046472,Chalcomitra senegalensis,Scarlet-chested Sunbird,2015-03-03,1
+Ethiopia,7.05363644,38.46933265,Pelecanus rufescens,Pink-backed Pelican,2015-03-03,1
+Ethiopia,7.04301764,38.45895703,Egretta ardesiaca,Black Heron,2015-03-03,1
+Ethiopia,7.04302346,38.45894853,Spatula hottentota,Hottentot Teal,2015-03-03,1
+Ethiopia,7.04302302,38.45894876,Plectropterus gambensis,Spur-winged Goose,2015-03-03,1
+Ethiopia,7.0430236,38.4589279,Bostrychia hagedash,Hadada Ibis,2015-03-03,3
+Ethiopia,7.04302425,38.45892457,Fulica cristata,Red-knobbed Coot,2015-03-03,50
+Ethiopia,7.043023,38.45890727,Calidris pugnax,Ruff,2015-03-03,5
+Ethiopia,7.04302916,38.45889033,Amaurornis flavirostra,Black Crake,2015-03-03,10
+Ethiopia,7.04304826,38.45880348,Vanellus spinosus,Spur-winged Lapwing,2015-03-03,5
+Ethiopia,7.04304847,38.45880002,Chroicocephalus ridibundus,Black-headed Gull,2015-03-03,1
+Ethiopia,7.04304903,38.45879965,Alopochen aegyptiaca,Egyptian Goose,2015-03-03,5
+Ethiopia,7.04305359,38.45877866,Ceryle rudis,Pied Kingfisher,2015-03-03,4
+Ethiopia,7.04305515,38.45874521,Merops nubicus,Northern Carmine Bee-eater,2015-03-03,3
+Ethiopia,7.04305041,38.45873916,Himantopus himantopus,Black-winged Stilt,2015-03-03,10
+Ethiopia,7.04305615,38.45870705,Actophilornis africanus,African Jacana,2015-03-03,10
+Ethiopia,7.0430716,38.45876445,Chalcomitra senegalensis,Scarlet-chested Sunbird,2015-03-03,1
+Ethiopia,7.04457653,38.4564611,Cinnyris pulchellus,Beautiful Sunbird,2015-03-03,1
+Ethiopia,7.04478576,38.45617885,Lonchura cucullata,Bronze Mannikin,2015-03-03,6
+Ethiopia,7.04570475,38.45633219,Dendrocygna viduata,White-faced Whistling Duck,2015-03-03,18
+Ethiopia,7.0451092,38.45819772,Turdoides leucopygia,White-rumped Babbler,2015-03-03,3
+Ethiopia,7.04511034,38.45823433,Haliaeetus vocifer,African Fish Eagle,2015-03-03,2
+Ethiopia,7.0781487,38.64115056,Lanius humeralis,Northern Fiscal,2015-03-03,1
+Ethiopia,7.07767294,38.64161819,Tauraco leucotis,White-cheeked Turaco,2015-03-03,1
+Ethiopia,7.0776646,38.6416156,Turtur tympanistria,Tambourine Dove,2015-03-03,1
+Ethiopia,7.07973727,38.6406193,Columba larvata,Lemon Dove,2015-03-03,1
+Ethiopia,7.08048356,38.64065907,Turtur afer,Blue-spotted Wood Dove,2015-03-03,1
+Ethiopia,7.08304503,38.63764254,Terpsiphone viridis,African Paradise Flycatcher,2015-03-03,1
+Ethiopia,7.08355843,38.63751699,Motacilla cinerea,Grey Wagtail,2015-03-03,1
+Ethiopia,7.08332701,38.6377659,Indicator minor,Lesser Honeyguide,2015-03-03,1
+Ethiopia,7.08674926,38.63832487,Cercotrichas leucophrys,White-browed Scrub Robin,2015-03-03,1
+Ethiopia,7.08847072,38.63983047,Motacilla clara,Mountain Wagtail,2015-03-03,2
+Ethiopia,7.08852792,38.6398917,Oriolus monacha,Ethiopian Oriole,2015-03-03,1
+Ethiopia,7.09083887,38.63889292,Dendropicos spodocephalus,Eastern Grey Woodpecker,2015-03-03,2
+Ethiopia,7.09085865,38.63886254,Salpornis salvadori,African Spotted Creeper,2015-03-03,1
+Ethiopia,7.09070645,38.6380857,Poicephalus flavifrons,Yellow-fronted Parrot,2015-03-03,1
+Ethiopia,7.09322502,38.63629327,Melaenornis chocolatinus,Abyssinian Slaty Flycatcher,2015-03-03,1
+Ethiopia,7.08902849,38.63878033,Columba larvata,Lemon Dove,2015-03-03,2
+Ethiopia,7.07960172,38.64186724,Tauraco leucotis,White-cheeked Turaco,2015-03-04,1
+Ethiopia,7.07965694,38.641842,Motacilla clara,Mountain Wagtail,2015-03-04,1
+Ethiopia,7.08003917,38.63766476,Anaplectes rubriceps,Red-headed Weaver,2015-03-04,1
+Ethiopia,7.08006915,38.63766559,Pogoniulus chrysoconus,Yellow-fronted Tinkerbird,2015-03-04,1
+Ethiopia,7.08014319,38.63764414,Columba larvata,Lemon Dove,2015-03-04,1
+Ethiopia,7.92524276,38.72471873,Threskiornis aethiopicus,African Sacred Ibis,2015-03-04,20
+Ethiopia,7.92526406,38.7255256,Motacilla flava feldegg,Black-headed Wagtail,2015-03-04,10
+Ethiopia,7.92526383,38.72552739,Himantopus himantopus,Black-winged Stilt,2015-03-04,10
+Ethiopia,7.925325,38.72583952,Actophilornis africanus,African Jacana,2015-03-04,10
+Ethiopia,7.92532514,38.72583938,Tringa glareola,Wood Sandpiper,2015-03-04,20
+Ethiopia,7.92531109,38.72582663,Nettapus auritus,African Pygmy Goose,2015-03-04,2
+Ethiopia,7.92531314,38.72582339,Vanellus spinosus,Spur-winged Lapwing,2015-03-04,4
+Ethiopia,7.92531717,38.72582219,Chlidonias leucopterus,White-winged Tern,2015-03-04,30
+Ethiopia,7.92530493,38.72583309,Microcarbo africanus,Reed Cormorant,2015-03-04,20
+Ethiopia,7.92530502,38.72583321,Gallinula chloropus,Common Moorhen,2015-03-04,10
+Ethiopia,7.92532223,38.725845,Spatula hottentota,Hottentot Teal,2015-03-04,2
+Ethiopia,7.92529166,38.7260876,Dendrocygna viduata,White-faced Whistling Duck,2015-03-04,20
+Ethiopia,7.92512134,38.72676546,Amaurornis flavirostra,Black Crake,2015-03-04,1
+Ethiopia,7.92514535,38.72674818,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-03-04,1
+Ethiopia,7.9251497,38.72675385,Tachybaptus ruficollis,Little Grebe,2015-03-04,10
+Ethiopia,7.92509333,38.72719649,Ispidina picta,African Pygmy Kingfisher,2015-03-04,1
+Ethiopia,7.92489875,38.72821496,Egretta garzetta,Little Egret,2015-03-04,5
+Ethiopia,7.92489664,38.72821629,Ardea alba,Great Egret,2015-03-04,1
+Ethiopia,7.92477064,38.72856741,Calidris minuta,Little Stint,2015-03-04,3
+Ethiopia,7.92483491,38.72881311,Anhinga rufa,African Darter,2015-03-04,1
+Ethiopia,7.92486124,38.72895893,Haliaeetus vocifer,African Fish Eagle,2015-03-04,1
+Ethiopia,7.92486256,38.72896853,Acrocephalus schoenobaenus,Sedge Warbler,2015-03-04,1
+Ethiopia,7.92498111,38.72698281,Calidris pugnax,Ruff,2015-03-04,1
+Ethiopia,7.92516672,38.72680024,Halcyon senegalensis,Woodland Kingfisher,2015-03-04,1
+Ethiopia,7.92533489,38.72496692,Upupa epops,Eurasian Hoopoe,2015-03-04,1
+Ethiopia,8.3648013,39.00031048,Balearica pavonina,Black Crowned Crane,2015-03-04,3
+Ethiopia,8.5879342,39.1238146,Muscicapa adusta,African Dusky Flycatcher,2015-03-04,2
+Ethiopia,9.01430361,38.75982067,Crithagra tristriata,Brown-rumped Seedeater,2015-03-04,3
+Ethiopia,9.01511495,38.7599035,Terpsiphone viridis,African Paradise Flycatcher,2015-03-04,1
+Ethiopia,7.55073982952,38.682940118,Lamprotornis superbus,Superb Starling,2015-01-11,1
+Ethiopia,8.55487773898,37.9875200987,Lanius humeralis,Northern Fiscal,2014-11-14,8
+Ethiopia,8.2329821071,37.5732673332,Motacilla aguimp,African Pied Wagtail,2014-11-14,1
+Ethiopia,8.23132565441,37.5793720409,Vidua chalybeata,Village Indigobird,2014-11-14,10
+Ethiopia,8.23195752623,37.5790644251,Sylvietta whytii,Red-faced Crombec,2014-11-14,1
+Ethiopia,8.23017895837,37.577728685,Hirundo smithii,Wire-tailed Swallow,2014-11-14,20
+Ethiopia,8.23349161755,37.5727774948,Vanellus senegallus,African Wattled Lapwing,2014-11-14,3
+Ethiopia,8.23349161755,37.5727774948,Burhinus senegalensis,Senegal Thick-knee,2014-11-14,1
+Ethiopia,8.23334312792,37.5745440647,Milvus aegyptius,Yellow-billed Kite,2014-11-14,50
+Ethiopia,9.4183683255,40.3152041137,Numida meleagris,Helmeted Guineafowl,2014-11-24,20
+Ethiopia,9.49138964139,40.3061503172,Numida meleagris,Helmeted Guineafowl,2014-11-25,35
+Ethiopia,4.73137195,38.19553183,Turdus tephronotus,Bare-eyed Thrush,2015-01-18,3
+Ethiopia,5.30709933,39.63351329,Tauraco ruspolii,Ruspoli's Turaco,2015-01-16,2
+Ethiopia,4.88395971905,38.1408315896,Ploceus spekei,Speke's Weaver,2015-01-18,3
+Ethiopia,4.20842859,38.69155831,Malaconotus blanchoti approximans,Grey-headed Bushshrike ssp approximans,2015-01-17,1
+Ethiopia,4.19375818,38.34651736,Eupodotis senegalensis,White-bellied Bustard,2015-01-17,3
+Ethiopia,4.86218354288,39.3177151676,Laniarius ruficeps rufinuchalis,Red-naped Bushshrike ssp rufinuchalis,2015-01-17,2
+Ethiopia,4.86293207,39.31688988,Lavia frons,Yellow-winged Bat,2015-01-17,1
+Ethiopia,7.5494325874,38.6832565069,Halcyon chelicuti chelicuti,Striped Kingfisher ssp chelicuti,2015-01-11,3
+Ethiopia,7.55066368381,38.6810436844,Lophoceros hemprichii,Hemprich's Hornbill,2015-01-13,1
+Ethiopia,7.54980014403,38.6817491052,Merops variegatus,Blue-breasted Bee-eater,2015-01-12,1
+Ethiopia,7.0245,39.98,Corvus crassirostris,Thick-billed Raven,2015-01-13,2
+Ethiopia,7.1209,39.7359,Rougetius rougetii,Rouget's Rail,2015-01-13,4
+Ethiopia,7.09639113,39.79308441,Asio abyssinicus,Abyssinian Owl,2015-01-12,1
+Ethiopia,7.09623698,39.79000178,Strix woodfordii,African Wood Owl,2015-01-12,1
+Ethiopia,7.09586262,39.79010961,Phacochoerus africanus,Common Warthog,2015-01-12,10
+Ethiopia,7.12093072,39.73592746,Redunca redunca,Bohor Reedbuck,2015-01-13,50
+Ethiopia,7.12052528,39.73586947,Leptailurus serval,Serval,2015-01-13,1
+Ethiopia,7.65,38.6,Charadrius asiaticus,Caspian Plover,2015-01-11,4
+Ethiopia,8.9065,40.0778,Lissotis hartlaubii,Hartlaub's Bustard,2015-01-09,3
+Ethiopia,8.9076,40.0776,Chelictinia riocourii,Scissor-tailed Kite,2015-01-09,9
+Ethiopia,8.84174229242,40.0125145908,Crocodylus niloticus,Nile Crocodile,2015-01-09,4
+Ethiopia,8.8763,38.7849,Melaenornis chocolatinus,Abyssinian Slaty Flycatcher,2015-01-07,7
+Ethiopia,8.8763,38.7849,Anas sparsa leucostigma,African Black Duck ssp leucostigma,2015-01-07,4
+Ethiopia,9.953,38.8976,Orthetrum chrysostigma,Epaulet Skimmer,2015-01-04,7
+Ethiopia,7.5508,38.6814,Agapornis taranta,Black-winged Lovebird,2015-01-11,25
+Ethiopia,7.1028,38.6357,Protogoniomorpha parhassus,Forest mother-of-pearl,2015-01-21,3
+Ethiopia,7.1028,38.6357,Papilio dardanus,Mocker Swallowtail,2015-01-21,4
+Ethiopia,6.899,40.852,Junonia hierta,Yellow Pansy,2015-01-14,3
+Ethiopia,6.899,40.852,Belenois aurota,African Caper White,2015-01-14,350
+Ethiopia,5.3259012628,39.577331536,Trithemis kirbyi,Orange-winged Dropwing,2015-01-16,1
+Ethiopia,5.3259012628,39.577331536,Zygonoides fuelleborni,Fuelleborn's Bottle-tail,2015-01-16,1
+Ethiopia,6.5144,39.7432,Pseudagrion spernatum,Powder Sprite,2015-01-15,2
+Ethiopia,6.5144,39.7432,Platycypha caligata,Dancing Jewel,2015-01-15,12
+Ethiopia,9.4698,40.3133,Trithemis annulata,Violet Dropwing,2015-01-09,4
+Ethiopia,6.899329777,40.8520039916,Platycypha caligata,Dancing Jewel,2015-01-14,7
+Ethiopia,9.47370602,40.30955035,Caprimulgus clarus,Slender-tailed Nightjar,2015-01-08,4
+Ethiopia,6.899,40.852,Trithemis kirbyi,Orange-winged Dropwing,2015-01-14,2
+Ethiopia,8.231,37.575,Mesocnemis singularis,Common Riverjack,2015-01-23,1
+Ethiopia,8.231,37.575,Trithemis annulata,Violet Dropwing,2015-01-23,1
+Ethiopia,7.05749998,38.47047389,Lybius undatus,Banded Barbet,2015-02-20,2
+Ethiopia,7.05749942,38.47046859,Salpornis salvadori,African Spotted Creeper,2015-02-20,2
+Ethiopia,7.50893584,38.06076067,Grus carunculata,Wattled Crane,2015-02-20,30
+Ethiopia,8.21644642,37.80155894,Lissotis melanogaster,Black-bellied Bustard,2015-02-20,1
+Ethiopia,8.25212742,37.61522758,Gymnoris dentata,Sahel Bush Sparrow,2015-02-21,8
+Ethiopia,9.83507939,38.88433124,Pternistis harwoodi,Harwood's Spurfowl,2015-02-22,4
+Ethiopia,9.83505816,38.88430446,Pternistis erckelii,Erckel's Spurfowl,2015-02-22,3
+Ethiopia,9.83505428,38.88424746,Agapornis taranta,Black-winged Lovebird,2015-02-22,6
+Ethiopia,9.83505451,38.88424723,Emberiza tahapisi,Cinnamon-breasted Bunting,2015-02-22,6
+Ethiopia,9.83505451,38.88424723,Oenanthe lugubris,Abyssinian Wheatear,2015-02-22,2
+Ethiopia,4.4788215,38.27375175,Cisticola nana,Tiny Cisticola,2015-02-18,2
+Ethiopia,4.48872397,38.2732752,Crithagra donaldsoni,Northern Grosbeak-Canary,2015-02-18,3
+Ethiopia,4.48873136,38.27319553,Apalis flavida,Yellow-breasted Apalis,2015-02-18,6
+Ethiopia,4.48872842,38.27318997,Cisticola nana,Tiny Cisticola,2015-02-18,2
+Ethiopia,4.50325117,38.27301605,Cisticola nana,Tiny Cisticola,2015-02-18,1
+Ethiopia,5.10852087,39.5347008,Bubo lacteus,Verreaux's Eagle-Owl,2015-02-17,1
+Ethiopia,5.10854411,39.53466398,Oriolus larvatus,Black-headed Oriole,2015-02-17,2
+Ethiopia,5.10847059,39.53465293,Phoeniculus somaliensis,Black-billed Wood Hoopoe,2015-02-17,5
+Ethiopia,5.10848704,39.53469238,Dryoscopus gambensis,Northern Puffback,2015-02-17,1
+Ethiopia,5.10849476,39.53468915,Malaconotus blanchoti,Grey-headed Bushshrike,2015-02-17,2
+Ethiopia,5.1085708,39.53465763,Dendropicos fuscescens,Cardinal Woodpecker,2015-02-17,2
+Ethiopia,5.10856973,39.53466698,Melaniparus thruppi,Acacia Tit,2015-02-17,3
+Ethiopia,5.10864925,39.53464515,Campethera nubica,Nubian Woodpecker,2015-02-17,1
+Ethiopia,4.86350654,39.31374582,Trachyphonus darnaudii,D'Arnaud's Barbet,2015-02-17,4
+Ethiopia,4.51655937,39.00973515,Laniarius ruficeps,Red-naped Bushshrike,2015-02-17,1
+Ethiopia,4.51655966,39.00973587,Argya aylmeri,Scaly Chatterer,2015-02-17,4
+Ethiopia,4.51602185,39.00969014,Dryoscopus pringlii,Pringle's Puffback,2015-02-17,1
+Ethiopia,4.51602115,39.00969171,Acryllium vulturinum,Vulturine Guineafowl,2015-02-17,50
+Ethiopia,4.19354214,38.34595449,Hirundo megaensis,White-tailed Swallow,2015-02-17,4
+Ethiopia,4.19354235,38.34595411,Hirundo rustica,Barn Swallow,2015-02-17,20
+Ethiopia,4.19334822,38.34573383,Nanger granti,Grant's Gazelle,2015-02-17,4
+Ethiopia,4.18413073,38.32959841,Nanger granti,Grant's Gazelle,2015-02-17,4
+Ethiopia,4.18413083,38.32959874,Litocranius walleri,Gerenuk,2015-02-17,9
+Ethiopia,4.18413621,38.3296097,Struthio molybdophanes,Somali Ostrich,2015-02-17,1
+Ethiopia,4.2290046,38.2815754,Litocranius walleri,Gerenuk,2015-02-17,5
+Ethiopia,4.46586468,38.27450807,Struthio molybdophanes,Somali Ostrich,2015-02-17,1
+Ethiopia,5.50825194,39.71899142,Ploceus dichrocephalus,Juba Weaver,2015-02-16,30
+Ethiopia,8.55420445695067,39.1015061451196,Leptoptilos crumenifer,Marabou Stork,2015-02-10,25
+Ethiopia,7.52811250451562,38.6656913662395,Lamprotornis purpuroptera,Rüppell's Starling,2015-02-10,1
+Ethiopia,7.52812973105992,38.6656737874776,Tockus erythrorhynchus,Northern Red-billed Hornbill,2015-02-10,1
+Ethiopia,7.52812973105992,38.6656737874776,Lamprotornis superbus,Superb Starling,2015-02-10,1
+Ethiopia,9.11263088135309,38.7013002387298,Bostrychia carunculata,Wattled Ibis,2015-02-14,2
+Ethiopia,9.11293439054605,38.7014860083497,Oenanthe pleschanka,Pied Wheatear,2015-02-14,1
+Ethiopia,9.11431964374725,38.7029939125875,Buteo augur,Augur Buzzard,2015-02-14,1
+Ethiopia,9.11698434835196,38.7029817275749,Corvus capensis,Cape Crow,2015-02-14,2
+Ethiopia,9.1176286078964,38.7029283296418,Cyanochen cyanoptera,Blue-winged Goose,2015-02-14,2
+Ethiopia,9.12004201805191,38.7026287550588,Turdus litsitsirupa,Groundscraper Thrush,2015-02-14,5
+Ethiopia,9.12007888758799,38.7028521399878,Columba albitorques,White-collared Pigeon,2015-02-14,8
+Ethiopia,9.12037866250047,38.7033608028705,Macronyx flavicollis,Abyssinian Longclaw,2015-02-14,2
+Ethiopia,9.12420275668871,38.704139639285,Cisticola lugubris,Ethiopian Cisticola,2015-02-14,1
+Ethiopia,9.12582055913206,38.7042641388561,Alopochen aegyptiaca,Egyptian Goose,2015-02-14,1
+Ethiopia,9.13100068208491,38.7032693295642,Crithagra tristriata,Brown-rumped Seedeater,2015-02-14,8
+Ethiopia,9.12753420935528,38.7040850653706,Tringa ochropus,Green Sandpiper,2015-02-14,1
+Ethiopia,9.11737412441619,38.7028973688749,Buphagus erythrorynchus,Red-billed Oxpecker,2015-02-14,1
+Ethiopia,9.11625609708342,38.7032382003186,Crithagra striolata,Streaky Seedeater,2015-02-14,2
+Ethiopia,9.11188858329696,38.7008203941937,Pinarochroa sordida,Moorland Chat,2015-02-14,1
+Ethiopia,9.07477905759421,38.722293261622,Cossypha semirufa,Rüppell's Robin-Chat,2015-02-14,1
+Ethiopia,9.07635797797266,38.7226071936928,Prinia subflava,Tawny-flanked Prinia,2015-02-14,1
+Ethiopia,9.07714754568661,38.722941553097,Zosterops poliogastrus,Heuglin's White-eye,2015-02-14,1
+Ethiopia,9.07834823086443,38.7233430728783,Buteo augur,Augur Buzzard,2015-02-14,1
+Ethiopia,9.07834823086443,38.7233430728783,Melaenornis chocolatinus,Abyssinian Slaty Flycatcher,2015-02-14,3
+Ethiopia,9.07650470845812,38.6690516975983,Milvus aegyptius,Yellow-billed Kite,2015-02-14,30
+Ethiopia,7.08332403,38.6377394,Strix woodfordii,African Wood Owl,2015-02-12,2
+Ethiopia,6.90173113,39.90562824,Scleroptila psilolaema,Moorland Francolin,2015-02-14,2
+Ethiopia,6.91401643,39.91736667,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-14,3
+Ethiopia,6.89979006,39.90448575,Oreotragus oreotragus,Klipspringer,2015-02-14,1
+Ethiopia,6.89481046,39.9079918,Scleroptila psilolaema,Moorland Francolin,2015-02-14,3
+Ethiopia,6.893351,39.90728743,Macronyx flavicollis,Abyssinian Longclaw,2015-02-14,2
+Ethiopia,6.8933717,39.90732297,Cyanochen cyanoptera,Blue-winged Goose,2015-02-14,8
+Ethiopia,6.73399292,39.71697421,Cryptospiza salvadorii,Abyssinian Crimsonwing,2015-02-14,2
+Ethiopia,6.92520301,39.93138246,Sylvia lugens griseiventris,Brown Parisoma ssp griseiventris,2015-02-15,3
+Ethiopia,6.92520019,39.93138345,Rougetius rougetii,Rouget's Rail,2015-02-15,2
+Ethiopia,6.92519623,39.93140486,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,1
+Ethiopia,6.92503097,39.93120233,Dendropicos abyssinicus,Abyssinian Woodpecker,2015-02-15,1
+Ethiopia,6.91325441,39.91877736,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,3
+Ethiopia,6.90773398,39.90769293,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,4
+Ethiopia,6.9031132,39.90529673,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,1
+Ethiopia,6.90145628,39.90558085,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,3
+Ethiopia,6.89359066,39.90849777,Tadorna ferruginea,Ruddy Shelduck,2015-02-15,2
+Ethiopia,6.82101632,39.86596738,Macronyx flavicollis,Abyssinian Longclaw,2015-02-15,2
+Ethiopia,6.77478966,39.7559582,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,1
+Ethiopia,6.77712725,39.75410587,Pternistis castaneicollis,Chestnut-naped Spurfowl,2015-02-15,1
+Ethiopia,6.26739074,39.79984253,Prionops plumatus,White-crested Helmetshrike,2015-02-15,9
+Ethiopia,5.93967492,39.67646144,Tauraco ruspolii,Ruspoli's Turaco,2015-02-15,1
+Ethiopia,5.91764012,39.5545995,Tauraco ruspolii,Ruspoli's Turaco,2015-02-15,2
+Ethiopia,5.88605447,39.52414891,Tauraco ruspolii,Ruspoli's Turaco,2015-02-15,6
+Ethiopia,5.7770333,39.54094167,Tauraco ruspolii,Ruspoli's Turaco,2015-02-15,2
+Ethiopia,5.29141537,39.67152803,Lamprotornis albicapillus,White-crowned Starling,2015-02-16,6
+Ethiopia,7.53996919,38.79759234,Bubo lacteus,Verreaux's Eagle-Owl,2015-02-11,1
+Ethiopia,8.83316436,39.71154537,Oenanthe dubia,Sombre Rock Chat,2015-02-11,2
+Ethiopia,8.83571066,39.70922908,Oenanthe dubia,Sombre Rock Chat,2015-02-11,2
+Ethiopia,7.54072077,38.80045667,Poicephalus flavifrons,Yellow-fronted Parrot,2015-02-12,30
+Ethiopia,7.54076795,38.80047901,Cossypha natalensis,Red-capped Robin-Chat,2015-02-12,2
+Ethiopia,7.54069376,38.80043289,Apaloderma narina,Narina Trogon,2015-02-12,1
+Ethiopia,7.54074971,38.80041546,Tauraco leucotis,White-cheeked Turaco,2015-02-12,12
+Ethiopia,7.53997869,38.79757401,Corythaixoides personatus,Bare-faced Go-away-bird,2015-02-12,4
+Ethiopia,6.90433678761,40.851938948,Catopsilia florella,African Migrant,2015-01-14,1
+Ethiopia,6.90433678761,40.851938948,Junonia hierta,Yellow Pansy,2015-01-14,1
+Ethiopia,6.90433678761,40.851938948,Danaus dorippus,Dorippus Tiger,2015-01-14,1
+Ethiopia,9.56479095,39.79272537,Crithagra flavigula,Yellow-throated Seedeater,2015-02-08,3
+Ethiopia,9.56478997,39.79272428,Corythaixoides personatus personatus,Bare-faced Go-away-bird ssp personatus,2015-02-08,1
+Ethiopia,9.5647843,39.79325091,Oenanthe lugubris,Abyssinian Wheatear,2015-02-08,2
+Ethiopia,9.56476632,39.79324389,Turdoides leucopygia,White-rumped Babbler,2015-02-08,8
+Ethiopia,9.572747,39.81708161,Plocepasser superciliosus,Chestnut-crowned Sparrow-Weaver,2015-02-08,7
+Ethiopia,9.57260543,39.81687179,Crithagra flavigula,Yellow-throated Seedeater,2015-02-08,10
+Ethiopia,9.572674,39.8169262,Trachyphonus margaritatus,Yellow-breasted Barbet,2015-02-08,12
+Ethiopia,9.57181329,39.81967365,Plocepasser superciliosus,Chestnut-crowned Sparrow-Weaver,2015-02-08,5
+Ethiopia,9.57165534,39.81995971,Crithagra flavigula,Yellow-throated Seedeater,2015-02-08,4
+Ethiopia,9.56843098,39.82953849,Crithagra flavigula,Yellow-throated Seedeater,2015-02-08,6
+Ethiopia,6.90890432,40.82380201,Crithagra xantholaema,Salvadori's Seedeater,2015-01-14,2
+Ethiopia,6.90909659,40.82311639,Crithagra xantholaema,Salvadori's Seedeater,2015-01-14,3
+Ethiopia,7.01442324,40.40683704,Ciconia abdimii,Abdim's Stork,2015-01-14,16
+Ethiopia,7.09180445,40.07627491,Leptailurus serval,Serval,2015-01-14,1
+Ethiopia,6.90887881,39.90643439,Scleroptila psilolaema,Moorland Francolin,2015-01-15,4
+Ethiopia,5.93280753,39.54177781,Tauraco ruspolii,Ruspoli's Turaco,2015-01-15,1
+Ethiopia,5.9225946,39.52449151,Tauraco ruspolii,Ruspoli's Turaco,2015-01-15,1
+Ethiopia,5.79814088,39.53749666,Tauraco ruspolii,Ruspoli's Turaco,2015-01-15,1
+Ethiopia,5.789737,39.53957037,Tauraco ruspolii,Ruspoli's Turaco,2015-01-15,1
+Ethiopia,5.50824937,39.7189725,Ploceus dichrocephalus,Juba Weaver,2015-01-16,8
+Ethiopia,5.47569523,39.67900833,Speculipastor bicolor,Magpie Starling,2015-01-16,3
+Ethiopia,5.47570202,39.67903114,Lamprotornis shelleyi,Shelley's Starling,2015-01-16,20
+Ethiopia,5.47571924,39.67904485,Trachyphonus erythrocephalus,Red-and-yellow Barbet,2015-01-16,2
+Ethiopia,5.45706813,39.66519558,Speculipastor bicolor,Magpie Starling,2015-01-16,2
+Ethiopia,4.8703218,39.31848449,Streptopelia reichenowi,White-winged Collared Dove,2015-01-17,2
+Ethiopia,4.86239667,39.31816834,Laniarius ruficeps,Red-naped Bushshrike,2015-01-17,2
+Ethiopia,4.52126182,39.0191354,Acryllium vulturinum,Vulturine Guineafowl,2015-01-17,35
+Ethiopia,4.73117701,38.19539414,Turdus tephronotus,Bare-eyed Thrush,2015-01-18,1
+Ethiopia,7.09721557,38.63869954,Poicephalus flavifrons,Yellow-fronted Parrot,2015-01-21,15
+Ethiopia,7.09753564,38.63914055,Pternistis squamatus,Scaly Spurfowl,2015-01-21,2
+Ethiopia,7.51384627,38.06494815,Grus carunculata,Wattled Crane,2015-01-22,50
+Ethiopia,8.90928137,40.06305202,Trachyphonus margaritatus,Yellow-breasted Barbet,2015-01-25,2
+Ethiopia,8.9092812,40.06305022,Eurocephalus ruppelli,Northern White-crowned Shrike,2015-01-25,5
+Ethiopia,8.90928017,40.06304866,Lophoceros nasutus,African Grey Hornbill,2015-01-25,2
+Ethiopia,8.90859173,40.06650609,Lanius somalicus,Somali Fiscal,2015-01-25,2
+Ethiopia,9.41239367,40.38125521,Ardeotis arabs,Arabian Bustard,2015-01-26,1
+Ethiopia,9.41240854,40.38124932,Merops nubicus,Northern Carmine Bee-eater,2015-01-26,1
+Ethiopia,9.41229843,40.38101322,Struthio molybdophanes,Somali Ostrich,2015-01-26,15
+Ethiopia,9.41127704,40.38236737,Pterocles exustus,Chestnut-bellied Sandgrouse,2015-01-26,60
+Ethiopia,9.41128084,40.38236736,Pterocles exustus,Chestnut-bellied Sandgrouse,2015-01-26,30
+Ethiopia,9.41415325,40.37458556,Ardeotis arabs,Arabian Bustard,2015-01-26,1
+Ethiopia,9.41559054,40.36961775,Canis lupaster,African Golden Wolf,2015-01-26,2
+Ethiopia,7.12045039,39.71974746,Vanellus melanocephalus,Spot-breasted Lapwing,2015-01-28,60
+Ethiopia,7.1204516,39.71975274,Macronyx flavicollis,Abyssinian Longclaw,2015-01-28,1
+Ethiopia,7.12045211,39.71975238,Serinus nigriceps,Ethiopian Siskin,2015-01-28,12
+Ethiopia,6.26735077,39.79962556,Anaplectes rubriceps,Red-headed Weaver,2015-01-30,8
+Ethiopia,5.88643659,39.52450645,Tauraco ruspolii,Ruspoli's Turaco,2015-01-30,1
+Ethiopia,5.88592268,39.5247823,Tauraco ruspolii,Ruspoli's Turaco,2015-01-30,4
+Ethiopia,5.27013122,39.69063227,Heteromirafra archeri,Archer's Lark,2015-01-31,2
+Ethiopia,5.3066223,39.63317445,Tauraco ruspolii,Ruspoli's Turaco,2015-01-31,2
+Ethiopia,4.86323703,39.31081512,Batis perkeo,Pygmy Batis,2015-02-01,2
+Ethiopia,4.19686377,38.30007851,Zavattariornis stresemanni,Stresemann's Bushcrow,2015-02-01,8
+Ethiopia,4.19682813,38.30003839,Spizocorys fremantlii,Short-tailed Lark,2015-02-01,50

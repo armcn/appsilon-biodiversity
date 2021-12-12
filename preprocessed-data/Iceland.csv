@@ -1,0 +1,101 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Iceland,66.0727231305,-23.1316852587,Tringa totanus,Common Redshank,2015-03-13,4
+Iceland,66.0695597794,-23.1134605443,Calidris maritima,Purple Sandpiper,2015-03-09,30
+Iceland,66.0592755922,-23.166160587,Phoca vitulina,Harbour Seal,2015-03-09,28
+Iceland,66.0719967313,-23.1115722691,Fulmarus glacialis,Northern Fulmar,2015-03-09,50
+Iceland,66.0685153,-23.1508827244,Tringa totanus,Common Redshank,2015-03-09,1
+Iceland,66.071880692,-23.1119155919,Fulmarus glacialis,Northern Fulmar,2015-03-08,2
+Iceland,66.077380407,-23.1148338353,Fulmarus glacialis,Northern Fulmar,2015-03-08,7
+Iceland,66.062786148,-23.1762886056,Tringa totanus,Common Redshank,2015-03-06,4
+Iceland,64.908912,-23.794389,Mergus serrator,Red-breasted Merganser,2013-06-11,2
+Iceland,64.910751,-23.797737,Histrionicus histrionicus,Harlequin Duck,2013-06-11,2
+Iceland,64.867904,-24.039758,Uria lomvia,Thick-billed Murre,2013-06-11,12
+Iceland,64.867912,-24.039823,Fratercula arctica,Atlantic Puffin,2013-06-11,1
+Iceland,64.867912,-24.039823,Fulmarus glacialis,Northern Fulmar,2013-06-11,1
+Iceland,64.867935,-24.039844,Uria aalge,Common Murre,2013-06-11,1
+Iceland,64.867935,-24.039844,Alca torda,Razorbill,2013-06-11,1
+Iceland,64.867927,-24.039823,Uria aalge,Common Murre,2013-06-11,1
+Iceland,64.867828,-24.039802,Sterna paradisaea,Arctic Tern,2013-06-11,1
+Iceland,64.862129,-24.038965,Plectrophenax nivalis,Snow Bunting,2013-06-11,2
+Iceland,64.895828,-23.705211,Somateria mollissima borealis,Common Eider ssp borealis,2013-06-11,2
+Iceland,64.895843,-23.705341,Haematopus ostralegus,Eurasian Oystercatcher,2013-06-11,1
+Iceland,64.729858,-23.809989,Larus hyperboreus,Glaucous Gull,2013-06-11,1
+Iceland,64.76564,-23.627105,Gallinago gallinago,Common Snipe,2013-06-11,1
+Iceland,64.764328,-23.62556,Histrionicus histrionicus,Harlequin Duck,2013-06-11,5
+Iceland,64.903327,-23.580371,Lagopus muta,Rock Ptarmigan,2013-06-13,2
+Iceland,64.929458,-23.509174,Numenius phaeopus,Eurasian Whimbrel,2013-06-13,1
+Iceland,65.456726,-19.235601,Anser brachyrhynchus,Pink-footed Goose,2013-06-13,7
+Iceland,65.674636,-18.094009,Acanthis flammea flammea,Common Redpoll ssp flammea,2013-06-13,1
+Iceland,65.675315,-18.093774,Turdus merula,Common Blackbird,2013-06-13,1
+Iceland,65.676193,-18.092615,Acanthis flammea flammea,Common Redpoll ssp flammea,2013-06-14,5
+Iceland,66.046638,-17.359106,Larus glaucoides,Iceland Gull,2013-06-14,1
+Iceland,64.889633,-23.634723,Stercorarius parasiticus,Parasitic Jaeger,2013-06-12,3
+Iceland,64.9094575703,-23.7944841387,Aythya fuligula,Tufted Duck,2013-06-11,7
+Iceland,65.5284458545,-13.8152503969,Limosa limosa islandica,Icelandic Black-tailed Godwit,2013-06-16,4
+Iceland,65.5284151886,-13.8152575494,Calidris maritima,Purple Sandpiper,2013-06-16,2
+Iceland,65.64548947,-16.9135522847,Turdus iliacus coburni,Icelandic Redwing,2013-06-16,1
+Iceland,64.546928,-21.910234,Tadorna tadorna,Common Shelduck,2013-06-17,1
+Iceland,65.644401,-16.919673,Plectrophenax nivalis insulae,Snow Bunting ssp insulae,2013-06-16,1
+Iceland,65.540603,-13.754174,Stercorarius skua,Great Skua,2013-06-16,1
+Iceland,65.542221,-13.755097,Fratercula arctica,Atlantic Puffin,2013-06-16,700
+Iceland,65.587455,-17.153156,Bucephala islandica,Barrow's Goldeneye,2013-06-14,1
+Iceland,65.587005,-17.126483,Clangula hyemalis,Long-tailed Duck,2013-06-14,2
+Iceland,65.587623,-17.125947,Bucephala islandica,Barrow's Goldeneye,2013-06-14,1
+Iceland,65.587623,-17.125947,Histrionicus histrionicus,Harlequin Duck,2013-06-14,9
+Iceland,65.587608,-17.125947,Phalaropus lobatus,Red-necked Phalarope,2013-06-14,2
+Iceland,65.602615,-17.104425,Melanitta nigra,Common Scoter,2013-06-15,1
+Iceland,65.602615,-17.104446,Mareca strepera,Gadwall,2013-06-15,1
+Iceland,65.563522,-17.015354,Falco rusticolus,Gyrfalcon,2013-06-15,1
+Iceland,65.572576201272,-13.877048495924,Somateria spectabilis,King Eider,2013-06-16,1
+Iceland,65.615343,-17.057744,Mareca americana,American Wigeon,2013-06-15,1
+Iceland,66.0717832178,-23.1235313433,Phoca vitulina,Harbour Seal,2015-02-28,1
+Iceland,66.0726535085,-23.1253337878,Calidris maritima,Purple Sandpiper,2015-02-21,35
+Iceland,66.0923141336,-23.0128955859,Histrionicus histrionicus,Harlequin Duck,2015-02-21,6
+Iceland,66.0072989818,-22.9925537389,Cepphus grylle,Black Guillemot,2015-02-21,30
+Iceland,66.1513366798,-23.2399749791,Larus glaucoides,Iceland Gull,2015-02-03,1
+Iceland,66.0570882145,-23.158550259,Phoca vitulina,Harbour Seal,2015-02-01,5
+Iceland,66.1029094818,-23.097524644700002,Fulmarus glacialis,Northern Fulmar,2015-02-01,5
+Iceland,64.0502896722,-16.1810445788,Phoca vitulina,Harbour Seal,2014-05-05,15
+Iceland,64.045218885,-16.1788988116,Stercorarius skua,Great Skua,2014-05-05,10
+Iceland,64.045218885,-16.1788988116,Sterna paradisaea,Arctic Tern,2014-05-05,300
+Iceland,64.045218885,-16.1788988116,Calidris maritima,Purple Sandpiper,2014-05-05,2
+Iceland,64.0445204837,-16.1798286442,Histrionicus histrionicus,Harlequin Duck,2014-05-05,2
+Iceland,64.0415526321,-16.1773395543,Somateria mollissima,Common Eider,2014-05-05,60
+Iceland,64.0494912422,-16.1873817448,Larus hyperboreus,Glaucous Gull,2014-05-05,80
+Iceland,64.0481599,-16.18049383,Plectrophenax nivalis insulae,Snow Bunting ssp insulae,2014-05-05,1
+Iceland,64.1307623554,-15.9786987863,Branta leucopsis,Barnacle Goose,2014-05-05,20
+Iceland,64.1307623554,-15.9786987863,Anser anser,Greylag Goose,2014-05-05,80
+Iceland,64.1307623554,-15.9786987863,Stercorarius skua,Great Skua,2014-05-05,4
+Iceland,64.1049277253,-16.097602956,Motacilla alba,White Wagtail,2014-05-04,1
+Iceland,63.4079250933,-19.0473461221,Numenius phaeopus,Eurasian Whimbrel,2014-05-04,1
+Iceland,63.4079250933,-19.0473461221,Haematopus ostralegus,Eurasian Oystercatcher,2014-05-04,2
+Iceland,63.4079250933,-19.0473461221,Gallinago gallinago,Common Snipe,2014-05-04,6
+Iceland,63.4079250933,-19.0473461221,Limosa limosa islandica,Icelandic Black-tailed Godwit,2014-05-04,2
+Iceland,63.4079250933,-19.0473461221,Anthus pratensis,Meadow Pipit,2014-05-04,15
+Iceland,63.4061576795,-19.0469169687,Haematopus ostralegus,Eurasian Oystercatcher,2014-05-04,1
+Iceland,63.4022696256,-19.0466308733,Larus argentatus,European Herring Gull,2014-05-04,20
+Iceland,63.3999894513,-19.0356445452,Fratercula arctica,Atlantic Puffin,2014-05-04,1
+Iceland,63.3987339922,-19.0497207781,Somateria mollissima,Common Eider,2014-05-04,400
+Iceland,63.3976066003,-19.0461158892,Fulmarus glacialis,Northern Fulmar,2014-05-04,500
+Iceland,63.491176652,-19.318542704,Anthus pratensis,Meadow Pipit,2014-05-04,4
+Iceland,63.5313453467,-19.5102453267,Fulmarus glacialis,Northern Fulmar,2014-05-04,30
+Iceland,63.6158381001,-19.9898797274,Fulmarus glacialis,Northern Fulmar,2014-05-04,180
+Iceland,63.5274714008,-20.1180839556,Stercorarius parasiticus,Parasitic Jaeger,2014-05-04,1
+Iceland,63.5259791971,-20.1224613207,Fulmarus glacialis,Northern Fulmar,2014-05-04,150
+Iceland,63.5266749315,-20.1191711461,Gavia stellata,Red-throated Diver,2014-05-04,1
+Iceland,63.5234097447,-20.1217460667,Morus bassanus,Northern Gannet,2014-05-04,15
+Iceland,63.5864535123,-20.0505065953,Stercorarius skua,Great Skua,2014-05-04,4
+Iceland,63.5879807321,-20.064926151,Tringa totanus,Common Redshank,2014-05-04,6
+Iceland,63.5879807321,-20.064926151,Numenius phaeopus,Eurasian Whimbrel,2014-05-04,1
+Iceland,63.6800729553,-20.1535034215,Tringa totanus,Common Redshank,2014-05-04,1
+Iceland,63.7998169187,-20.308685191,Cygnus cygnus,Whooper Swan,2014-05-04,18
+Iceland,63.7910239085,-20.2990721539,Anthus pratensis,Meadow Pipit,2014-05-04,5
+Iceland,63.8897570736,-20.5412293598,Gallinago gallinago,Common Snipe,2014-05-04,6
+Iceland,65.5849796381465,-16.992911660211355,Podiceps auritus auritus,Horned Grebe ssp auritus,2010-07-12,1
+Iceland,65.3672821154,-20.8702471387,Phalaropus lobatus,Red-necked Phalarope,2010-07-12,2
+Iceland,65.8894236568,-22.639131546,Charadrius hiaticula psammodromus,Common Ringed Plover ssp psammodromus,2010-07-12,1
+Iceland,65.8894236568,-22.639131546,Cygnus cygnus,Whooper Swan,2010-07-12,1
+Iceland,64.82340965650008,-23.86282582155011,Sterna paradisaea,Arctic Tern,2010-07-08,1
+Iceland,64.82340965650008,-23.86282582155011,Halichoerus grypus macrorynchus,Northeast Atlantic Grey Seal,2010-07-08,3
+Iceland,64.82285502450006,-23.861850742658795,Motacilla alba,White Wagtail,2010-07-08,1
+Iceland,64.82340965650008,-23.86282582155011,Gallinago gallinago faeroeensis,Common Snipe ssp faeroeensis,2010-07-08,1

@@ -1,0 +1,77 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Luxembourg,49.99718124,5.83488035,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-14,1
+Luxembourg,49.6515235981932,6.22259728833291,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-10,1
+Luxembourg,49.6514631450537,6.22261653197199,Buteo buteo,Common Buzzard,2015-03-10,1
+Luxembourg,49.5712891840115,6.10833939049009,Sitta europaea,Eurasian Nuthatch,2015-03-06,1
+Luxembourg,49.5824452548863,6.10911214555423,Corvus frugilegus,Rook,2015-03-06,5
+Luxembourg,49.579438063593,6.09758952896538,Buteo buteo,Common Buzzard,2015-03-06,1
+Luxembourg,49.5662558260086,6.10023918334389,Dendrocopos major,Great Spotted Woodpecker,2015-03-06,1
+Luxembourg,49.5648166204585,6.10173826760953,Phalacrocorax carbo,Great Cormorant,2015-03-06,4
+Luxembourg,49.5647242924794,6.10160830572452,Poecile palustris,Marsh Tit,2015-03-06,1
+Luxembourg,49.5676803788247,6.10567883386429,Erithacus rubecula,European Robin,2015-03-06,1
+Luxembourg,49.5677159934084,6.10693233666076,Sturnus vulgaris,Common Starling,2015-03-06,6
+Luxembourg,50.1240996128,5.9862332046,Anthocharis cardamines,Orange-tip,2005-05-28,1
+Luxembourg,49.5715724,6.11023842,Sitta europaea,Eurasian Nuthatch,2015-03-06,1
+Luxembourg,49.58246757,6.10903911,Corvus frugilegus,Rook,2015-03-06,5
+Luxembourg,49.56635229,6.09996209,Dendrocopos major,Great Spotted Woodpecker,2015-03-06,1
+Luxembourg,49.56449515,6.10196487,Phalacrocorax carbo,Great Cormorant,2015-03-06,4
+Luxembourg,49.56453603,6.10198041,Poecile palustris,Marsh Tit,2015-03-06,1
+Luxembourg,49.5674278,6.10607642,Erithacus rubecula,European Robin,2015-03-06,1
+Luxembourg,49.56745866,6.10604741,Sturnus vulgaris,Common Starling,2015-03-06,6
+Luxembourg,49.99777733,5.99381553,Pyrrhula pyrrhula,Eurasian Bullfinch,2015-03-08,1
+Luxembourg,49.99776683,5.99381147,Parus major,Great Tit,2015-03-08,2
+Luxembourg,49.99776959,5.99381158,Cyanistes caeruleus,Eurasian Blue Tit,2015-03-08,3
+Luxembourg,49.9977682,5.99381065,Periparus ater,Coal Tit,2015-03-08,1
+Luxembourg,50.1239620417,5.98610445857,Callophrys rubi,Green Hairstreak,2005-05-27,1
+Luxembourg,50.1,6,Pyrgus malvae,Grizzled Skipper,2005-05-28,1
+Luxembourg,49.7824815842,6.19136989117,Celastrina argiolus,Holly Blue,2006-06-08,1
+Luxembourg,50.1243747538,5.98653361201,Polyommatus icarus,Common Blue,2005-05-28,2
+Luxembourg,49.79062314,6.30686915,Fringilla coelebs,Common Chaffinch,2015-02-19,1
+Luxembourg,49.7906247,6.30686791,Turdus merula,Common Blackbird,2015-02-19,1
+Luxembourg,49.79064475,6.30683345,Parus major,Great Tit,2015-02-19,2
+Luxembourg,49.79066175,6.30682374,Passer domesticus,House Sparrow,2015-02-19,1
+Luxembourg,49.79019734,6.30558066,Fringilla coelebs,Common Chaffinch,2015-02-19,1
+Luxembourg,49.78993662,6.30529367,Passer domesticus,House Sparrow,2015-02-19,2
+Luxembourg,49.78923125,6.30453225,Anas platyrhynchos forma domestica,Domestic Duck,2015-02-19,1
+Luxembourg,49.78919071,6.30439131,Anas platyrhynchos,Mallard,2015-02-19,2
+Luxembourg,49.78918743,6.30285127,Parus major,Great Tit,2015-02-19,10
+Luxembourg,49.78782412,6.30149722,Sitta europaea,Eurasian Nuthatch,2015-02-19,1
+Luxembourg,49.78636113,6.30005744,Parus major,Great Tit,2015-02-19,1
+Luxembourg,49.78622117,6.29978896,Buteo buteo,Common Buzzard,2015-02-19,1
+Luxembourg,49.78551058,6.29944011,Asplenium trichomanes,Maidenhair Spleenwort,2015-02-19,1
+Luxembourg,49.78497257,6.30010974,Sitta europaea,Eurasian Nuthatch,2015-02-19,1
+Luxembourg,49.78495902,6.30010877,Parus major,Great Tit,2015-02-19,1
+Luxembourg,49.78495674,6.30010405,Asplenium trichomanes,Maidenhair Spleenwort,2015-02-19,1
+Luxembourg,49.78306731,6.30156783,Parus major,Great Tit,2015-02-19,1
+Luxembourg,49.78354576,6.30228115,Parus major,Great Tit,2015-02-19,1
+Luxembourg,49.78406393,6.30243634,Sitta europaea,Eurasian Nuthatch,2015-02-19,1
+Luxembourg,49.78469148,6.30103634,Galium odoratum,Woodruff,2015-02-19,1
+Luxembourg,49.78823551,6.30159361,Sambucus nigra,Elder,2015-02-19,1
+Luxembourg,49.78823452,6.30159285,Fagus sylvatica,European Beech,2015-02-19,1
+Luxembourg,49.78957374,6.30137021,Dendrocopos major,Great Spotted Woodpecker,2015-02-19,1
+Luxembourg,49.78909482,6.3033566,Motacilla cinerea,Grey Wagtail,2015-02-19,1
+Luxembourg,49.78945252,6.30489385,Corvus corone,Carrion Crow,2015-02-19,3
+Luxembourg,49.7900049,6.3053395,Chloris chloris,European Greenfinch,2015-02-19,1
+Luxembourg,49.79079838,6.30662496,Parus major,Great Tit,2015-02-19,1
+Luxembourg,49.79263336,6.31165609,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.79783371,6.31326393,Fagus sylvatica,European Beech,2015-02-19,1
+Luxembourg,49.80276299,6.31598022,Cytisus scoparius,Broom,2015-02-19,1
+Luxembourg,49.80586988,6.31834862,Cytisus scoparius,Broom,2015-02-19,1
+Luxembourg,49.80759582,6.32076034,Sambucus nigra,Elder,2015-02-19,1
+Luxembourg,49.81214065,6.32506921,Fagus sylvatica,European Beech,2015-02-19,1
+Luxembourg,49.81805803,6.32557999,Turdus merula,Common Blackbird,2015-02-19,1
+Luxembourg,49.82507399,6.32593064,Fagus sylvatica,European Beech,2015-02-19,1
+Luxembourg,49.83209348,6.3298121,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.83585955,6.32990638,Asplenium scolopendrium,Hart's-tongue Fern,2015-02-19,1
+Luxembourg,49.83612643,6.33122924,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.85015342,6.35812351,Asplenium trichomanes,Maidenhair Spleenwort,2015-02-19,1
+Luxembourg,49.82476945,6.39623022,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.82274965,6.3984885,Alopochen aegyptiaca,Egyptian Goose,2015-02-19,2
+Luxembourg,49.82079827,6.40238655,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.81789865,6.41335118,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.81265202,6.4258536,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.80990865,6.43014993,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.81007174,6.43140718,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.81173632,6.43534572,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.81146815,6.43759257,Viscum album,Mistletoe,2015-02-19,1
+Luxembourg,49.8994,5.8406,Emberiza citrinella,Yellowhammer,2015-02-17,1

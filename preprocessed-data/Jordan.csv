@@ -1,0 +1,73 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Jordan,29.5671863639,35.0515365601,Merops orientalis,Green Bee-eater,1995-03-18,2
+Jordan,29.5922668635,35.4285049438,Lanius excubitor elegans,Desert Grey Shrike,1995-03-17,1
+Jordan,29.4850340192,35.4006958008,Emberiza striolata,Striolated Bunting,1995-03-16,1
+Jordan,29.5389913583,34.986884594,Anthus cervinus,Red-throated Pipit,1995-03-16,1
+Jordan,29.5389913583,34.986884594,Sylvia curruca,Lesser Whitethroat,1995-03-16,3
+Jordan,29.5389913583,34.986884594,Passer hispaniolensis,Spanish Sparrow,1995-03-16,1
+Jordan,29.5389913583,34.986884594,Luscinia svecica,Bluethroat,1995-03-16,1
+Jordan,29.53,34.98,Corvus splendens,House Crow,1995-03-16,50
+Jordan,29.5389913583,34.986884594,Merops orientalis,Green Bee-eater,1995-03-16,2
+Jordan,29.5389913583,34.986884594,Pycnonotus xanthopygos,White-spectacled Bulbul,1995-03-16,1
+Jordan,29.5389913583,34.986884594,Spilopelia senegalensis,Laughing Dove,1995-03-16,1
+Jordan,31.866314356,36.8384885788,Lanius excubitor,Great Grey Shrike,1995-03-12,3
+Jordan,29.52129372,35.0011331,Psittacula krameri,Rose-ringed Parakeet,2015-02-27,10
+Jordan,29.52,35,Corvus splendens,House Crow,2015-02-27,200
+Jordan,29.51850856,35.00146224,Chroicocephalus genei,Slender-billed Gull,2015-02-28,1
+Jordan,29.51995717,35.00245089,Upupa epops,Eurasian Hoopoe,2015-02-28,1
+Jordan,29.51996586,35.00245796,Sylvia curruca,Lesser Whitethroat,2015-02-28,20
+Jordan,29.52000235,35.00244975,Motacilla alba,White Wagtail,2015-02-28,50
+Jordan,29.52000225,35.00246261,Halcyon smyrnensis,White-throated Kingfisher,2015-02-28,1
+Jordan,29.52021247,35.00246409,Lanius nubicus,Masked Shrike,2015-02-28,1
+Jordan,29.52490222,35.00141092,Luscinia svecica svecica,Red-spotted Bluethroat,2015-02-28,3
+Jordan,29.5314886,35.00274567,Onychognathus tristramii,Tristram's Starling,2015-02-28,2
+Jordan,32.03989499,35.83721448,Corvus cornix,Hooded Crow,2015-02-23,1
+Jordan,32.26751733,35.88979538,Phoenicurus ochruros,Black Redstart,2015-02-23,1
+Jordan,32.27635493,35.89100846,Prinia gracilis,Graceful Prinia,2015-02-23,1
+Jordan,32.27704861,35.89065472,Galerida cristata,Crested Lark,2015-02-23,1
+Jordan,32.28038021,35.89215343,Parus major,Great Tit,2015-02-23,1
+Jordan,31.78516853,35.59221601,Merops orientalis,Green Bee-eater,2015-02-23,4
+Jordan,31.46661012,35.79777702,Lanius excubitor,Great Grey Shrike,2015-02-24,1
+Jordan,30.32197632,35.46379593,Oenanthe melanura,Blackstart,2015-02-25,1
+Jordan,30.32117349,35.46170733,Ammomanes deserti,Desert Lark,2015-02-25,1
+Jordan,30.3212627,35.46164778,Monticola solitarius,Blue Rock Thrush,2015-02-25,1
+Jordan,30.32281407,35.45654204,Onychognathus tristramii,Tristram's Starling,2015-02-25,2
+Jordan,30.32231182,35.45159779,Corvus rhipidurus,Fan-tailed Raven,2015-02-25,4
+Jordan,30.3262599,35.44733107,Carpodacus synoicus,Sinai Rosefinch,2015-02-25,1
+Jordan,30.32626139,35.44733821,Oenanthe melanura,Blackstart,2015-02-25,4
+Jordan,30.33799938,35.42998191,Carpodacus synoicus,Sinai Rosefinch,2015-02-25,2
+Jordan,30.33793958,35.43040767,Ammomanes deserti,Desert Lark,2015-02-25,1
+Jordan,29.64022712,35.43430289,Onychognathus tristramii,Tristram's Starling,2015-02-26,1
+Jordan,29.57817973,35.41954716,Onychognathus tristramii,Tristram's Starling,2015-02-26,50
+Jordan,29.57762873,35.41997015,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-26,1
+Jordan,29.56859058,35.41970036,Corvus ruficollis,Brown-necked Raven,2015-02-26,10
+Jordan,29.5579592,35.41115586,Oenanthe leucopyga,White-crowned Wheatear,2015-02-26,2
+Jordan,29.52830854,35.42159119,Carpodacus synoicus,Sinai Rosefinch,2015-02-26,1
+Jordan,29.536486150000002,35.39873267,Onychognathus tristramii,Tristram's Starling,2015-02-27,2
+Jordan,29.5364867,35.39873203,Corvus ruficollis,Brown-necked Raven,2015-02-27,6
+Jordan,29.56130325,35.41687018,Carpodacus synoicus,Sinai Rosefinch,2015-02-27,10
+Jordan,29.56955791,35.41838492,Carpodacus synoicus,Sinai Rosefinch,2015-02-27,3
+Jordan,29.52,35,Corvus splendens,House Crow,2015-02-27,10
+Jordan,29.52015978,34.99893003,Chroicocephalus ridibundus,Black-headed Gull,2015-02-27,50
+Jordan,29.47299961,34.97151622,Sterna hirundo,Common Tern,2015-02-27,1
+Jordan,29.52037587,34.99929216,Hydroprogne caspia,Caspian Tern,2015-02-27,2
+Jordan,30.7634822326,35.2972984349,Ammoperdix heyi,Sand Partridge,2015-02-19,6
+Jordan,30.7621546674,35.2932643925,Merops orientalis,Green Bee-eater,2015-02-19,2
+Jordan,32.6849611462789,35.6290089834624,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-15,1
+Jordan,32.6849549371615,35.6290129716605,Clamator glandarius,Great Spotted Cuckoo,2015-02-15,2
+Jordan,32.684947438568514,35.629051197353405,Clamator glandarius,Great Spotted Cuckoo,2015-02-15,2
+Jordan,32.68495779021893,35.629064440760416,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-15,1
+Jordan,32.4368,35.7646,Garrulus glandarius atricapillus,Eurasian Jay ssp atricapillus,2000-04-14,1
+Jordan,29.51,35,Cercotrichas galactotes,Rufous-tailed Scrub Robin,2000-04-22,1
+Jordan,29.51,35,Motacilla flava feldegg,Black-headed Wagtail,2000-04-22,1
+Jordan,29.51,35,Halcyon smyrnensis,White-throated Kingfisher,2000-04-22,1
+Jordan,29.57,34.98,Hydroprogne caspia,Caspian Tern,2000-04-22,1
+Jordan,29.57,34.98,Chroicocephalus genei,Slender-billed Gull,2000-04-22,1
+Jordan,29.57,34.98,Calidris pugnax,Ruff,2000-04-22,10
+Jordan,29.57,34.98,Tringa nebularia,Common Greenshank,2000-04-22,1
+Jordan,29.57,34.98,Tringa stagnatilis,Marsh Sandpiper,2000-04-22,1
+Jordan,29.57,34.98,Vanellus spinosus,Spur-winged Lapwing,2000-04-22,20
+Jordan,29.57,34.98,Glareola pratincola,Collared Pratincole,2000-04-22,2
+Jordan,29.5709936266,34.9850177765,Ardea purpurea,Purple Heron,2000-04-22,1
+Jordan,29.5709936266,34.9850177765,Ardeola ralloides,Squacco Heron,2000-04-22,1
+Jordan,29.5709936266,34.9850177765,Ceryle rudis,Pied Kingfisher,2000-04-22,1

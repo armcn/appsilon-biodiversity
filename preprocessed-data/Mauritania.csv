@@ -1,0 +1,82 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Mauritania,19.8790394609,-16.3064716011,Chroicocephalus genei,Slender-billed Gull,2015-01-17,110
+Mauritania,19.8790394609,-16.3064716011,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-01-17,7
+Mauritania,19.8944343935,-16.2956133485,Canis lupaster,African Golden Wolf,2015-01-16,10
+Mauritania,19.9087960566,-16.3255655766,Tursiops truncatus,Common Bottlenose Dolphin,2015-01-16,5
+Mauritania,16.540985296743,-15.8075031607532,Ardeola ralloides,Squacco Heron,2015-02-12,10
+Mauritania,16.54190982574,-15.8073003593998,Centropus senegalensis,Senegal Coucal,2015-02-12,1
+Mauritania,16.5436858993468,-15.807139709761,Sylvietta brachyura,Northern Crombec,2015-02-12,1
+Mauritania,16.505142082024,-15.9850773790094,Elanus caeruleus,Black-winged Kite,2015-02-13,2
+Mauritania,16.5077090186,-16.0265898453,Phacochoerus africanus,Common Warthog,2015-02-13,5
+Mauritania,16.5097951314102,-16.0266955823768,Tyto alba,Western Barn Owl,2015-02-13,2
+Mauritania,16.506508757,-16.2923946358,Canis adustus,Side-striped Jackal,2015-02-13,1
+Mauritania,16.4252455601362,-16.32578447454,Spatula querquedula,Garganey,2015-02-13,51
+Mauritania,16.4252113982006,-16.3258070312857,Glareola pratincola,Collared Pratincole,2015-02-13,8
+Mauritania,16.425205365942,-16.3257995046475,Phalacrocorax carbo,Great Cormorant,2015-02-13,4
+Mauritania,16.4252122579135,-16.3258040641019,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-13,2
+Mauritania,16.4252281586985,-16.3258042330842,Ardea alba,Great Egret,2015-02-13,1
+Mauritania,16.4252298130111,-16.3258449889043,Threskiornis aethiopicus,African Sacred Ibis,2015-02-13,2
+Mauritania,16.425178287944,-16.3258321166153,Ardea purpurea,Purple Heron,2015-02-13,4
+Mauritania,16.4219843316356,-16.3274678850919,Haliaeetus vocifer,African Fish Eagle,2015-02-13,2
+Mauritania,16.4190168944604,-16.3291457963281,Porphyrio madagascariensis,African Swamphen,2015-02-13,8
+Mauritania,16.4181419623645,-16.3295602843965,Sarkidiornis melanotos,Knob-billed Duck,2015-02-13,3
+Mauritania,16.4158293346201,-16.3320859837701,Amaurornis flavirostra,Black Crake,2015-02-13,1
+Mauritania,16.4159926191903,-16.3323210739395,Mycteria ibis,Yellow-billed Stork,2015-02-13,41
+Mauritania,16.4159963730839,-16.3323206155973,Vanellus spinosus,Spur-winged Lapwing,2015-02-13,2
+Mauritania,16.4160126552604,-16.3323510367199,Merops persicus,Blue-cheeked Bee-eater,2015-02-13,2
+Mauritania,16.416015198468,-16.3323286797482,Platalea leucorodia,Eurasian Spoonbill,2015-02-13,3
+Mauritania,16.4159626559846,-16.3323195182974,Saxicola torquatus moptanus,African Stonechat ssp moptanus,2015-02-13,1
+Mauritania,16.4088486335881,-16.3345513548798,Burhinus senegalensis,Senegal Thick-knee,2015-02-13,12
+Mauritania,16.4088883633919,-16.3345059932723,Actophilornis africanus,African Jacana,2015-02-13,1
+Mauritania,16.4089064332545,-16.3344992958776,Limosa limosa,Black-tailed Godwit,2015-02-13,1
+Mauritania,16.38571564,-16.34044929,Dendrocygna viduata,White-faced Whistling Duck,2015-02-13,501
+Mauritania,16.3830252089076,-16.3406464401967,Microcarbo africanus,Reed Cormorant,2015-02-13,4
+Mauritania,18.0933053918186,-15.9776081914952,Spilopelia senegalensis,Laughing Dove,2015-02-12,2
+Mauritania,18.0897359651648,-15.9799567434755,Apus affinis,Little Swift,2015-02-12,5
+Mauritania,16.5408571,-15.80571624,Quelea quelea,Red-billed Quelea,2015-02-12,1001
+Mauritania,20.7746197997411,-17.0469463164797,Gyps fulvus,Griffon Vulture,2015-02-10,12
+Mauritania,20.7722347019047,-17.046699509324,Hydroprogne caspia,Caspian Tern,2015-02-10,601
+Mauritania,20.7723268718196,-17.0467056378662,Larus fuscus,Lesser Black-backed Gull,2015-02-10,301
+Mauritania,20.7723335324003,-17.0466800718893,Gyps fulvus,Griffon Vulture,2015-02-10,1
+Mauritania,20.2943052722835,-16.1086864412275,Cursorius cursor,Cream-colored Courser,2015-02-10,2
+Mauritania,20.1918953715347,-16.1563220674096,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-10,1
+Mauritania,20.1169529164298,-16.2570612922192,Hydroprogne caspia,Caspian Tern,2015-02-11,91
+Mauritania,20.1265256436331,-16.2546836906578,Egretta gularis,Western Reef Heron,2015-02-11,1
+Mauritania,20.0514601602766,-15.9209485516716,Passer simplex,Desert Sparrow,2015-02-11,11
+Mauritania,20.0487617541352,-15.92070185725,Corvus ruficollis,Brown-necked Raven,2015-02-11,8
+Mauritania,20.0426343315213,-15.9188631938013,Lanius excubitor elegans,Desert Grey Shrike,2015-02-11,1
+Mauritania,20.0426775445963,-15.9188935261389,Oenanthe deserti,Desert Wheatear,2015-02-11,1
+Mauritania,18.1751245414528,-16.0111635210481,Galerida cristata,Crested Lark,2015-02-11,1
+Mauritania,18.0932835786865,-15.9775399071781,Spilopelia senegalensis,Laughing Dove,2015-02-11,1
+Mauritania,18.0933074502818,-15.977429792344,Apus affinis,Little Swift,2015-02-11,3
+Mauritania,19.8821268278,-16.2931893021,Alaemon alaudipes,Greater Hoopoe-Lark,2015-01-15,1
+Mauritania,19.8898147152,-16.2962362915,Canis lupaster,African Golden Wolf,2015-01-15,20
+Mauritania,19.8821421983,-16.2931894697,Anax ephippiger,Vagrant Emperor,2015-01-15,25
+Mauritania,19.884240766,-16.2950562872,Hyles livornica,Striped Hawk-moth,2015-01-13,2
+Mauritania,19.2333228612,-16.129732132,Lanius excubitor,Great Grey Shrike,2015-01-13,1
+Mauritania,19.8842104984,-16.2950401939,Hyles livornica,Striped Hawk-moth,2015-01-14,1
+Mauritania,19.8663863669,-16.2942548096,Pelecanus onocrotalus,Great White Pelican,2015-01-14,28
+Mauritania,19.8686062257,-16.2954993546,Asio flammeus,Short-eared Owl,2015-01-14,1
+Mauritania,18.0933312388467,-15.9773606878942,Passer luteus,Sudan Golden Sparrow,2015-02-12,1
+Mauritania,18.097657340302305,-15.9832651383746,Columba guinea,Speckled Pigeon,2015-02-12,2
+Mauritania,18.0982334659881,-15.9841967728916,Oena capensis,Namaqua Dove,2015-02-12,2
+Mauritania,17.1699881335644,-16.0451107831813,Lanius senator,Woodchat Shrike,2015-02-12,1
+Mauritania,16.6027265534065,-15.9285312310589,Oenanthe oenanthe,Northern Wheatear,2015-02-12,3
+Mauritania,16.5412590583,-15.8058495545,Falco tinnunculus,Common Kestrel,2015-02-12,1
+Mauritania,16.6091871237,-15.9253731736,Vulpes zerda,Fennec Fox,2015-02-13,1
+Mauritania,16.6091191389183,-15.925415156609,Lamprotornis pulcher,Chestnut-bellied Starling,2015-02-13,8
+Mauritania,16.6085216898,-15.9255252748,Upupa epops senegalensis,Eurasian Hoopoe ssp senegalensis,2015-02-13,1
+Mauritania,16.6055381001229,-15.9271054486779,Tchagra senegalus,Black-crowned Tchagra,2015-02-13,2
+Mauritania,16.6043290469115,-15.9274927599565,Cercotrichas podobe,Black Scrub Robin,2015-02-13,1
+Mauritania,16.6031129312367,-15.9281755749698,Nilaus afer,Brubru,2015-02-13,4
+Mauritania,16.6030707752251,-15.9278644997512,Tockus kempi,Western Red-billed Hornbill,2015-02-13,2
+Mauritania,16.5907133246532,-15.8830925691403,Oena capensis,Namaqua Dove,2015-02-13,2
+Mauritania,16.5169795992,-15.8726684443,Vidua chalybeata,Village Indigobird,2015-02-13,1
+Mauritania,16.4190168945,-16.3291457963,Porphyrio madagascariensis,African Swamphen,2015-02-13,8
+Mauritania,16.41597029,-16.33229884,Cisticola marginatus,Winding Cisticola,2015-02-13,1
+Mauritania,16.4066405453,-16.3356300196,Calidris minuta,Little Stint,2015-02-13,1
+Mauritania,16.3857156401968,-16.3404492890611,Dendrocygna viduata,White-faced Whistling Duck,2015-02-13,5001
+Mauritania,20.916021680051202,-17.0502732510825,Spilopelia senegalensis,Laughing Dove,2015-02-10,1
+Mauritania,20.7746197997,-17.0469463165,Gyps fulvus,Griffon Vulture,2015-02-10,12
+Mauritania,20.9681105889155,-17.0391596069093,Motacilla alba,White Wagtail,2015-02-10,1
+Mauritania,20.1261258740255,-16.2560235196261,Corvus ruficollis,Brown-necked Raven,2015-02-11,1

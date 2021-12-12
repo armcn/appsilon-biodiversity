@@ -1,0 +1,445 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Oman,24.3801303806,56.7377188057,Ichthyaetus hemprichii,Sooty Gull,2015-03-13,3
+Oman,24.3574402801935,56.688188196001,Motacilla citreola,Citrine Wagtail,2015-03-13,1
+Oman,24.3555828612449,56.6874398540775,Upupa epops,Eurasian Hoopoe,2015-03-13,1
+Oman,24.3566346550016,56.6877200224319,Vanellus leucurus,White-tailed Lapwing,2015-03-13,3
+Oman,24.3555828612449,56.6874398540775,Himantopus himantopus,Black-winged Stilt,2015-03-13,50
+Oman,24.3800958728118,56.7375994473696,Thalasseus sandvicensis,Sandwich Tern,2015-03-13,1
+Oman,24.3573016638655,56.6880809664822,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-03-13,2
+Oman,23.7979094474,57.5867566466,Ichthyaetus hemprichii,Sooty Gull,2015-03-07,6
+Oman,23.8041783522,57.5672454201,Cinnyris asiaticus,Purple Sunbird,2015-03-04,2
+Oman,23.804551364799998,57.5669289194,Acridotheres tristis,Common Myna,2015-03-06,1
+Oman,17.79030045,53.10177792,Aquila chrysaetos homeyeri,Golden Eagle ssp homeyeri,2015-02-10,1
+Oman,20.6282002832,58.8668632472,Bubulcus coromandus,Eastern Cattle Egret,2014-03-15,1
+Oman,17.0120517008181,54.1766403615475,Threskiornis aethiopicus,African Sacred Ibis,2015-02-26,1
+Oman,17.0426377239,54.4261550895,Rhyothemis semihyalina,Phantom Flutterer,2014-11-25,25
+Oman,19.4539459799,54.6201324323,Orthetrum sabina,Slender Skimmer,2014-11-25,1
+Oman,23.2532069534,57.5157165388,Trithemis arteriosa,Red-veined Dropwing,2014-11-21,5
+Oman,17.0991914834,54.4523262973,Chamaeleo arabicus,Arabian Chameleon,2014-11-27,1
+Oman,17.040861084,54.1200327869,Anthus campestris,Tawny Pipit,2015-02-24,5
+Oman,16.9852994276,53.9513978362,Ciconia abdimii,Abdim's Stork,2015-01-26,200
+Oman,17.0315906262,54.4371137023,Limosa limosa,Black-tailed Godwit,2015-01-24,2
+Oman,17.0866423682286,54.2808116599917,Tchagra senegalus,Black-crowned Tchagra,2015-02-26,1
+Oman,17.0883607609567,54.2801313847303,Oenanthe melanura,Blackstart,2015-02-26,3
+Oman,17.0894250540653,54.2808824032545,Cinnyris osea,Palestine Sunbird,2015-02-26,2
+Oman,17.0900336308622,54.2808582633734,Sylvia leucomelaena,Arabian Warbler,2015-02-26,1
+Oman,17.0910392684176,54.2805293574929,Cinnyris habessinicus,Shining Sunbird,2015-02-26,3
+Oman,17.0912232181,54.2805407569,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-26,30
+Oman,17.0913449965413,54.2805571854115,Terpsiphone viridis,African Paradise Flycatcher,2015-02-26,1
+Oman,17.0929367615924,54.2802396789193,Terpsiphone viridis,African Paradise Flycatcher,2015-02-26,1
+Oman,17.0927627481,54.2801518366,Treron waalia,Bruce's Green Pigeon,2015-02-26,4
+Oman,17.0919952279584,54.2801655828953,Upupa epops,Eurasian Hoopoe,2015-02-26,1
+Oman,17.09170338,54.28018014,Euodice cantans,African Silverbill,2015-02-26,1
+Oman,17.0966913119797,54.2818188294768,Circaetus gallicus,Short-toed Snake Eagle,2015-02-26,1
+Oman,17.11396455,54.55798113,Aquila heliaca,Eastern Imperial Eagle,2015-02-25,2
+Oman,17.0406559279,54.364650249,Milvus aegyptius,Yellow-billed Kite,2015-02-25,1
+Oman,17.0547603,54.35899175,Aquila fasciata,Bonelli's Eagle,2015-02-25,1
+Oman,17.05476037,54.35899154,Aquila nipalensis,Steppe Eagle,2015-02-25,2
+Oman,17.03242383,54.1887861,Pandion haliaetus,Western Osprey,2015-02-25,2
+Oman,17.03242468,54.18878462,Clanga clanga,Greater Spotted Eagle,2015-02-25,1
+Oman,17.0120247699517,54.176766090095,Pluvialis fulva,Pacific Golden Plover,2015-02-25,451
+Oman,17.0120382353854,54.1769712790847,Calidris minuta,Little Stint,2015-02-25,75
+Oman,17.0120382353854,54.1769712790847,Tringa nebularia,Common Greenshank,2015-02-25,5
+Oman,17.0120382353854,54.1769712790847,Numenius arquata,Eurasian Curlew,2015-02-25,22
+Oman,17,54.15,Charadrius asiaticus,Caspian Plover,2015-02-25,3
+Oman,17.0122177744,54.1769615561,Threskiornis aethiopicus,African Sacred Ibis,2015-02-25,1
+Oman,17.0120154723898,54.1769048944116,Gelochelidon nilotica,Gull-billed Tern,2015-02-25,10
+Oman,17.0120154723898,54.1769048944116,Hydroprogne caspia,Caspian Tern,2015-02-25,2
+Oman,17.012243102221,54.1769685968757,Spatula querquedula,Garganey,2015-02-25,5
+Oman,17.012243102221,54.1769685968757,Phoenicopterus roseus,Greater Flamingo,2015-02-25,22
+Oman,17.0119167258418,54.1764298081398,Ardeola ralloides,Squacco Heron,2015-02-25,4
+Oman,17.0126281486716,54.17858697474,Pandion haliaetus,Western Osprey,2015-02-25,1
+Oman,17.0120513802126,54.1769836843014,Limosa limosa,Black-tailed Godwit,2015-02-25,6
+Oman,17.0121257606806,54.1769981011748,Platalea leucorodia,Eurasian Spoonbill,2015-02-25,1
+Oman,17.0407465811919,54.1187324747443,Anthus richardi,Richard's Pipit,2015-02-25,1
+Oman,17.0411495201044,54.1203733161092,Bubulcus ibis,Western Cattle Egret,2015-02-25,22
+Oman,17.0417540871218,54.122228063643,Chlidonias leucopterus,White-winged Tern,2015-02-25,3
+Oman,17.0430452767279,54.1214421764016,Pterocles exustus,Chestnut-bellied Sandgrouse,2015-02-25,100
+Oman,17.0464292,54.12478703,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-25,1
+Oman,17.04642125,54.1247963,Euodice cantans,African Silverbill,2015-02-25,14
+Oman,17.04641179,54.12480465,Acridotheres tristis,Common Myna,2015-02-25,6
+Oman,17.04654437,54.1248779,Prinia gracilis,Graceful Prinia,2015-02-25,2
+Oman,17.04663679,54.12500621,Spilopelia senegalensis,Laughing Dove,2015-02-25,8
+Oman,17.04665866,54.12500664,Ploceus galbula,Rüppell's Weaver,2015-02-25,2
+Oman,17.0482461673661,54.1254202276468,Ardeola ralloides,Squacco Heron,2015-02-25,1
+Oman,17.0482461673661,54.1254202276468,Ardea cinerea,Grey Heron,2015-02-25,1
+Oman,17.0456154483557,54.1247661039233,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-25,1
+Oman,17.0488401335245,54.1255446150899,Circus pygargus,Montagu's Harrier,2015-02-25,1
+Oman,17.099606516267,54.4486639648676,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.1019509521717,54.4502213224769,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.0962631765635,54.4527999311686,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.09781264,54.28081934,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.1020913097545,54.2850123345852,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.1039800382608,54.2858421429992,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.1028155275644,54.285746589303,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,17.1034535418942,54.2844929918647,Otus pamelae,Arabian Scops Owl,2015-02-24,1
+Oman,16.8838635266852,53.781086280942,Ardeola ralloides,Squacco Heron,2015-02-24,1
+Oman,16.8788284447132,53.7823640182614,Phalacrocorax nigrogularis,Socotra Cormorant,2015-02-24,7
+Oman,16.8925721,53.77366678,Sylvia leucomelaena,Arabian Warbler,2015-02-24,1
+Oman,16.89225485,53.77353156,Ammomanes deserti,Desert Lark,2015-02-24,2
+Oman,16.89498102,53.77421071,Emberiza striolata,Striolated Bunting,2015-02-24,12
+Oman,16.8959784216998,53.7734838947654,Emberiza striolata,Striolated Bunting,2015-02-24,19
+Oman,16.8954766842132,53.7737725675106,Porzana pusilla,Baillon's Crake,2015-02-24,1
+Oman,16.8953634402097,53.7738168239594,Motacilla citreola,Citrine Wagtail,2015-02-24,1
+Oman,16.895582870455,53.7745634838939,Aquila fasciata,Bonelli's Eagle,2015-02-24,1
+Oman,17.040309021246,54.1188545152545,Anthus richardi,Richard's Pipit,2015-02-24,4
+Oman,17.0401689377355,54.1190211474896,Oenanthe isabellina,Isabelline Wheatear,2015-02-24,1
+Oman,17.03962203,54.12233393,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-24,1
+Oman,17.042036495541,54.1231929883361,Clanga clanga,Greater Spotted Eagle,2015-02-24,1
+Oman,17.045312850788,54.1242413967848,Circus pygargus,Montagu's Harrier,2015-02-24,5
+Oman,17.0427974895432,54.1232701018453,Circus macrourus,Pallid Harrier,2015-02-24,1
+Oman,17.0427782563716,54.121419377625,Vanellus gregarius,Sociable Lapwing,2015-02-24,2
+Oman,17.04140883,54.11781678,Motacilla flava,Western Yellow Wagtail,2015-02-24,2
+Oman,17.0196922158844,54.1785319894552,Circus aeruginosus,Western Marsh Harrier,2015-02-23,38
+Oman,17.02606558,54.1541517,Hieraaetus pennatus,Booted Eagle,2015-02-23,1
+Oman,16.9701253383,53.9773929118,Clanga clanga,Greater Spotted Eagle,2015-02-23,2
+Oman,16.96878534,53.97737764,Aquila heliaca,Eastern Imperial Eagle,2015-02-23,1
+Oman,16.96878473,53.97737693,Tringa stagnatilis,Marsh Sandpiper,2015-02-23,1
+Oman,16.9688175,53.97737959,Bubulcus ibis,Western Cattle Egret,2015-02-23,18
+Oman,16.96845247,53.97821604,Calidris temminckii,Temminck's Stint,2015-02-23,3
+Oman,16.96841998,53.97825307,Calidris pugnax,Ruff,2015-02-23,3
+Oman,16.96843542,53.97833595,Ciconia ciconia,White Stork,2015-02-23,3
+Oman,16.96809768,53.97892687,Euodice cantans,African Silverbill,2015-02-23,35
+Oman,16.96505185,53.97997354,Emberiza tahapisi,Cinnamon-breasted Bunting,2015-02-23,1
+Oman,16.96069694,53.98025486,Milvus migrans,Black Kite,2015-02-23,3
+Oman,16.96072306,53.98035294,Pandion haliaetus,Western Osprey,2015-02-23,2
+Oman,16.9691379063509,53.9822201058269,Limosa limosa,Black-tailed Godwit,2015-02-23,1
+Oman,16.9598095,53.98257562,Calidris temminckii,Temminck's Stint,2015-02-23,1
+Oman,16.96,53.97,Corvus splendens,House Crow,2015-02-23,20
+Oman,16.9740714865438,53.9652135595679,Ciconia ciconia,White Stork,2015-02-23,150
+Oman,16.99106906,53.93781095,Vanellus indicus,Red-wattled Lapwing,2015-02-23,4
+Oman,16.99107699,53.93780758,Vanellus spinosus,Spur-winged Lapwing,2015-02-23,1
+Oman,18.0266761755956,53.8868692517281,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-23,1
+Oman,17.99842565,53.92396779,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-23,1
+Oman,17.9782215712281,53.9541011676192,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-23,1
+Oman,18.24169658,53.65775932,Motacilla flava feldegg,Black-headed Wagtail,2015-02-22,15
+Oman,18.27117576,53.66251878,Ficedula parva,Red-breasted Flycatcher,2015-02-22,1
+Oman,18.27137069,53.66255116,Phylloscopus collybita,Common Chiffchaff,2015-02-22,10
+Oman,16.9775016673,54.0106920898,Lanius excubitor pallidirostris,Steppe Grey Shrike,2015-01-23,1
+Oman,17.9644401527514,53.9850340783596,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-22,1
+Oman,17.96319752,53.9848909,Ammomanes cinctura,Bar-tailed Lark,2015-02-22,2
+Oman,17.96613886,53.98184613,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-22,1
+Oman,17.0933517655467,54.4528130069375,Alectoris melanocephala,Arabian Partridge,2015-02-22,1
+Oman,17.0900015836871,54.4516311585903,Aquila fasciata,Bonelli's Eagle,2015-02-22,1
+Oman,17.0888953118234,54.4446476921439,Treron waalia,Bruce's Green Pigeon,2015-02-22,4
+Oman,17.1015318015002,54.4532649591565,Treron waalia,Bruce's Green Pigeon,2015-02-22,1
+Oman,17.1017247134708,54.451952688396,Treron waalia,Bruce's Green Pigeon,2015-02-22,1
+Oman,17.1031010480596,54.4522789120674,Treron waalia,Bruce's Green Pigeon,2015-02-22,1
+Oman,17.10337852,54.45237103,Terpsiphone viridis,African Paradise Flycatcher,2015-02-22,8
+Oman,17.1014215659988,54.4530135020614,Ardeola grayii,Indian Pond Heron,2015-02-22,2
+Oman,17.1017743834641,54.4506467878819,Treron waalia,Bruce's Green Pigeon,2015-02-22,1
+Oman,17.1007027904751,54.4515527039766,Treron waalia,Bruce's Green Pigeon,2015-02-22,1
+Oman,17.10039547,54.45167064,Anthus trivialis,Tree Pipit,2015-02-22,1
+Oman,17.10026657,54.45117642,Upupa epops,Eurasian Hoopoe,2015-02-22,1
+Oman,17.1001557757678,54.4491551443934,Clanga clanga,Greater Spotted Eagle,2015-02-22,1
+Oman,17.0988140287,54.4508234784,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-22,2
+Oman,17.0986419434454,54.4503329694271,Onychognathus tristramii,Tristram's Starling,2015-02-22,2
+Oman,17.09,54.44,Bubo africanus milesi,Spotted Eagle-Owl ssp milesi,2015-02-21,1
+Oman,17.0908956978049,54.4518544524908,Otus pamelae,Arabian Scops Owl,2015-02-21,1
+Oman,17.0945285130452,54.4526681676507,Otus pamelae,Arabian Scops Owl,2015-02-21,1
+Oman,17.0953684472775,54.4476732239127,Otus pamelae,Arabian Scops Owl,2015-02-21,1
+Oman,17.0907495633176,54.450766146183,Otus pamelae,Arabian Scops Owl,2015-02-22,1
+Oman,17.094872050129,54.4530946388841,Otus pamelae,Arabian Scops Owl,2015-02-22,2
+Oman,17.0886754667485,54.4495802745223,Otus pamelae,Arabian Scops Owl,2015-02-22,1
+Oman,17.0343866347975,54.3745967745781,Pluvialis fulva,Pacific Golden Plover,2015-02-21,7
+Oman,17.0343866347975,54.3745967745781,Tringa erythropus,Spotted Redshank,2015-02-21,3
+Oman,17.0343866347975,54.3745967745781,Tringa nebularia,Common Greenshank,2015-02-21,4
+Oman,17.0343866347975,54.3745967745781,Calidris minuta,Little Stint,2015-02-21,2
+Oman,17.0343866347975,54.3745967745781,Calidris alpina,Dunlin,2015-02-21,3
+Oman,17.0343866347975,54.3745967745781,Himantopus himantopus,Black-winged Stilt,2015-02-21,4
+Oman,17.0343776589138,54.3701282143593,Pluvialis fulva,Pacific Golden Plover,2015-02-21,36
+Oman,17.0366068705019,54.3724040687084,Phoenicopterus roseus,Greater Flamingo,2015-02-21,4
+Oman,17.0410289127,54.3620865425,Milvus aegyptius,Yellow-billed Kite,2015-02-21,1
+Oman,17.0437700443433,54.1197389736772,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-21,40
+Oman,17.0427667164676,54.1210408508778,Mirafra cantillans,Singing Bush Lark,2015-02-21,15
+Oman,17.0427878729577,54.1210311278701,Pterocles exustus,Chestnut-bellied Sandgrouse,2015-02-21,60
+Oman,17.0406308603095,54.1201087832451,Circus macrourus,Pallid Harrier,2015-02-21,1
+Oman,17.0429529576082,54.1206747293472,Pluvialis fulva,Pacific Golden Plover,2015-02-21,8
+Oman,17.0426705506,54.1277503967,Circus pygargus,Montagu's Harrier,2015-02-21,2
+Oman,17.04000391,54.12308432,Euodice cantans,African Silverbill,2015-02-21,2
+Oman,17.04045494,54.1235964,Prinia gracilis,Graceful Prinia,2015-02-21,1
+Oman,17.0417826164821,54.1219407320023,Circus aeruginosus,Western Marsh Harrier,2015-02-21,1
+Oman,17.04456192,54.12413317,Oenanthe isabellina,Isabelline Wheatear,2015-02-21,1
+Oman,17.0481862257223,54.1257065534592,Pandion haliaetus,Western Osprey,2015-02-21,2
+Oman,17.03985202,54.11851104,Oenanthe deserti,Desert Wheatear,2015-02-21,1
+Oman,17.1007606002,54.3267524242,Terpsiphone viridis,African Paradise Flycatcher,2015-02-21,1
+Oman,17.10011899,54.32687068,Oenanthe melanura,Blackstart,2015-02-21,1
+Oman,17.1005811463,54.3267899751,Rhynchostruthus percivali,Arabian Golden-winged Grosbeak,2015-02-21,3
+Oman,17.11816011,54.36653638,Terpsiphone viridis,African Paradise Flycatcher,2015-02-21,1
+Oman,17.1181546,54.36653959,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-21,100
+Oman,17.11826762,54.36639446,Motacilla cinerea,Grey Wagtail,2015-02-21,1
+Oman,17.11843181,54.3661958,Cinnyris habessinicus,Shining Sunbird,2015-02-21,1
+Oman,17.0235097917858,54.4044044986367,Phalacrocorax nigrogularis,Socotra Cormorant,2015-02-21,5
+Oman,17.0331771306,54.4013266638,Rynchops flavirostris,African Skimmer,2015-02-21,2
+Oman,17.0965567186166,54.2802561074495,Treron waalia,Bruce's Green Pigeon,2015-02-21,4
+Oman,17.0982304763099,54.2802919819951,Euodice cantans,African Silverbill,2015-02-21,2
+Oman,17.0968842289639,54.2810413241386,Upupa epops,Eurasian Hoopoe,2015-02-21,1
+Oman,17.0980478153743,54.2821936681867,Lanius nubicus,Masked Shrike,2015-02-21,1
+Oman,17.0986134227776,54.2827079817653,Sylvia leucomelaena,Arabian Warbler,2015-02-21,1
+Oman,17.1002041643626,54.2840916663408,Rhynchostruthus percivali,Arabian Golden-winged Grosbeak,2015-02-21,2
+Oman,17.100333627826,54.2842096835375,Anthus similis,Long-billed Pipit,2015-02-21,1
+Oman,17.08598028,54.28094322,Oena capensis,Namaqua Dove,2015-02-21,1
+Oman,17.08667501,54.2806892,Aquila heliaca,Eastern Imperial Eagle,2015-02-21,2
+Oman,17.087417922298,54.2810326069593,Cinnyris habessinicus,Shining Sunbird,2015-02-21,1
+Oman,17.08829489,54.28083378,Upupa epops,Eurasian Hoopoe,2015-02-21,2
+Oman,17.08867926,54.28095394,Anthus similis,Long-billed Pipit,2015-02-21,2
+Oman,17.0888988,54.28092095,Actitis hypoleucos,Common Sandpiper,2015-02-21,1
+Oman,17.0856206829837,54.2804606258869,Oena capensis,Namaqua Dove,2015-02-21,2
+Oman,17.9656435,53.98297924,Ammomanes cinctura,Bar-tailed Lark,2015-02-20,2
+Oman,17.9896416,53.9399258,Eremopterix nigriceps,Black-crowned Sparrow-Lark,2015-02-20,3
+Oman,18.2479551045661,53.6601585522294,Motacilla flava feldegg,Black-headed Wagtail,2015-02-20,50
+Oman,20.6268394314,58.8682799041,Plegadis falcinellus,Glossy Ibis,2015-01-17,9
+Oman,19.6666653873303,57.684708237648,Hydroprogne caspia,Caspian Tern,2015-02-19,43
+Oman,19.4536432013,54.6185021102,Diplacodes lefebvrii,Black Percher,2015-01-28,1
+Oman,20.6475922594622,58.8699898123741,Larus fuscus heuglini,Heuglin's Gull,2015-02-18,75
+Oman,20.6269225839545,58.8682698458433,Plegadis falcinellus,Glossy Ibis,2015-02-18,9
+Oman,20.6269225839545,58.8682698458433,Ardea cinerea,Grey Heron,2015-02-18,9
+Oman,20.6266088006799,58.869627378881,Eudynamys scolopaceus,Asian Koel,2015-02-18,1
+Oman,20.628422459071,58.8674132153392,Eudynamys scolopaceus,Asian Koel,2015-02-18,1
+Oman,23.570221351,58.3294995710481,Actitis hypoleucos,Common Sandpiper,2015-02-15,3
+Oman,23.570221351,58.3294995710481,Tringa ochropus,Green Sandpiper,2015-02-15,2
+Oman,23.570221351,58.3294995710481,Francolinus pondicerianus,Grey Francolin,2015-02-15,7
+Oman,23.570221351,58.3294995710481,Acridotheres tristis,Common Myna,2015-02-15,50
+Oman,23.570221351,58.3294995710481,Calidris pugnax,Ruff,2015-02-15,3
+Oman,23.570221351,58.3294995710481,Phalacrocorax carbo,Great Cormorant,2015-02-15,94
+Oman,23.570221351,58.3294995710481,Gallinago gallinago,Common Snipe,2015-02-15,7
+Oman,23.570221351,58.3294995710481,Cinnyris asiaticus,Purple Sunbird,2015-02-15,10
+Oman,23.570221351,58.3294995710481,Ardea cinerea,Grey Heron,2015-02-15,7
+Oman,23.570221351,58.3294995710481,Prinia gracilis,Graceful Prinia,2015-02-15,2
+Oman,23.570221351,58.3294995710481,Egretta garzetta,Little Egret,2015-02-15,6
+Oman,23.570221351,58.3294995710481,Euodice malabarica,Indian Silverbill,2015-02-15,5
+Oman,23.570221351,58.3294995710481,Anas acuta,Northern Pintail,2015-02-15,3
+Oman,23.570221351,58.3294995710481,Anas crecca,Eurasian Teal,2015-02-15,45
+Oman,23.570221351,58.3294995710481,Spatula querquedula,Garganey,2015-02-15,2
+Oman,23.570221351,58.3294995710481,Himantopus himantopus,Black-winged Stilt,2015-02-15,22
+Oman,16.990963241,53.9387118814,Galerida cristata,Crested Lark,2015-02-09,1
+Oman,16.9905220377,53.9393877981,Acridotheres tristis,Common Myna,2015-02-09,2
+Oman,16.9905220377,53.9393877981,Calidris pugnax,Ruff,2015-02-09,1
+Oman,16.9905220377,53.9393877981,Tringa stagnatilis,Marsh Sandpiper,2015-02-09,2
+Oman,16.99,53.93,Corvus splendens,House Crow,2015-02-09,40
+Oman,16.9932591311,53.9378069331,Oenanthe deserti,Desert Wheatear,2015-02-09,1
+Oman,16.9932591311,53.9378069331,Tringa totanus,Common Redshank,2015-02-09,2
+Oman,16.9932591311,53.9378069331,Motacilla citreola,Citrine Wagtail,2015-02-09,11
+Oman,16.9932591311,53.9378069331,Motacilla alba,White Wagtail,2015-02-09,21
+Oman,16.9932591311,53.9378069331,Phoenicopterus roseus,Greater Flamingo,2015-02-09,17
+Oman,16.9932591311,53.9378069331,Bubulcus ibis,Western Cattle Egret,2015-02-09,8
+Oman,16.9932591311,53.9378069331,Charadrius dubius,Little Ringed Plover,2015-02-09,11
+Oman,16.9932591311,53.9378069331,Calidris temminckii,Temminck's Stint,2015-02-09,8
+Oman,17.0121815033,54.1771262883,Platalea leucorodia,Eurasian Spoonbill,2015-02-05,1
+Oman,20.8429979629649,58.7312431633472,Calidris tenuirostris,Great Knot,2015-02-17,12
+Oman,20.7349745328719,58.7157772108913,Dromas ardeola,Crab-plover,2015-02-17,52
+Oman,17.0123660008,54.1712951659,Upupa epops,Eurasian Hoopoe,2015-02-05,1
+Oman,17.0122687079,54.1723036765,Motacilla flava,Western Yellow Wagtail,2015-02-05,5
+Oman,23.2768114964898,58.9186467602849,Platalea leucorodia,Eurasian Spoonbill,2015-02-16,1
+Oman,23.2545221679357,58.9265130087733,Numenius phaeopus,Eurasian Whimbrel,2015-02-16,1
+Oman,23.2306843414144,58.9570747688413,Pandion haliaetus,Western Osprey,2015-02-16,1
+Oman,23.2297095304693,58.956381753087,Neophron percnopterus,Egyptian Vulture,2015-02-16,2
+Oman,23.229697145,58.9559268947,Apus pallidus,Pallid Swift,2015-02-16,284
+Oman,23.2277429417167,58.9601680263877,Thalasseus sandvicensis,Sandwich Tern,2015-02-16,6
+Oman,23.2277429417167,58.9601680263877,Phoenicopterus roseus,Greater Flamingo,2015-02-16,21
+Oman,23.2277429417167,58.9601680263877,Egretta gularis,Western Reef Heron,2015-02-16,1
+Oman,23.2277429417167,58.9601680263877,Chroicocephalus genei,Slender-billed Gull,2015-02-16,13
+Oman,23.2277429417167,58.9601680263877,Calidris minuta,Little Stint,2015-02-16,4
+Oman,23.2282759539068,58.9605083316565,Thalasseus bengalensis,Lesser Crested Tern,2015-02-16,1
+Oman,23.2164829470957,58.9741373062134,Vanellus indicus,Red-wattled Lapwing,2015-02-16,1
+Oman,23.21551703,58.97389602,Vanellus indicus,Red-wattled Lapwing,2015-02-16,1
+Oman,23.20903044,58.97232942,Coracias benghalensis,Indian Roller,2015-02-16,1
+Oman,23.1943641312342,58.9921312406659,Limosa lapponica,Bar-tailed Godwit,2015-02-16,1
+Oman,23.1939379215882,58.9941459149122,Arenaria interpres,Ruddy Turnstone,2015-02-16,1
+Oman,23.19152482,58.99379232,Neophron percnopterus,Egyptian Vulture,2015-02-16,3
+Oman,23.18876296,58.98497138,Coracias benghalensis,Indian Roller,2015-02-16,2
+Oman,22.8254483543543,59.2645689100027,Thalasseus bergii,Greater Crested Tern,2015-02-16,9
+Oman,22.58191478,59.46016262,Coracias benghalensis,Indian Roller,2015-02-16,1
+Oman,22.58350705,59.46219889,Circus aeruginosus,Western Marsh Harrier,2015-02-16,1
+Oman,22.55867908,59.54058533,Oenanthe albonigra,Hume's Wheatear,2015-02-16,2
+Oman,22.5041008488817,59.7210986539722,Dromas ardeola,Crab-plover,2015-02-16,2
+Oman,22.07411866,59.67908291,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-16,1000
+Oman,22.0763842932782,59.6771178022027,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-16,500
+Oman,23.2714297806,58.922063224,Vanellus indicus,Red-wattled Lapwing,2014-12-31,6
+Oman,23.6206979451,58.5639242828,Passer domesticus,House Sparrow,2014-12-17,10
+Oman,23.6216416172,58.5630230606,Actitis hypoleucos,Common Sandpiper,2014-12-17,1
+Oman,23.6223886861,58.5707907379,Psittacula krameri,Rose-ringed Parakeet,2014-12-17,3
+Oman,23.6210518229,58.5635380447,Acridotheres tristis,Common Myna,2014-12-17,20
+Oman,23.6223103547,58.4751465172,Alcedo atthis,Common Kingfisher,2014-12-19,1
+Oman,23.6223103547,58.4751465172,Ardeola grayii,Indian Pond Heron,2014-12-19,1
+Oman,23.6213863472,58.5631015152,Ardea cinerea,Grey Heron,2014-12-17,1
+Oman,23.622349674,58.4756615013,Francolinus pondicerianus,Grey Francolin,2014-12-19,7
+Oman,23.6212390522,58.5631943867,Egretta garzetta,Little Egret,2014-12-17,1
+Oman,23.62,58.56,Corvus splendens,House Crow,2014-12-17,15
+Oman,23.6212390522,58.5631943867,Phalacrocorax carbo,Great Cormorant,2014-12-17,1
+Oman,23.5650774912196,58.3345581963658,Motacilla citreola,Citrine Wagtail,2015-02-15,6
+Oman,23.5650774912196,58.3345581963658,Vanellus indicus,Red-wattled Lapwing,2015-02-15,2
+Oman,23.56581249,58.33369077,Clanga clanga,Greater Spotted Eagle,2015-02-15,1
+Oman,23.5652603442926,58.3333371207118,Vanellus leucurus,White-tailed Lapwing,2015-02-15,1
+Oman,23.23088257,58.8971833,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.23338928,58.89897127,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.23427745,58.89958937,Coracias benghalensis,Indian Roller,2015-02-15,2
+Oman,23.23437466,58.89964893,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.24541488,58.90446975,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.24757783,58.90526772,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.25491287,58.9096738,Coracias benghalensis,Indian Roller,2015-02-15,1
+Oman,23.2786643321447,58.9046701043844,Vanellus indicus,Red-wattled Lapwing,2015-02-15,2
+Oman,23.5405793327,58.6749603599,Thalasseus bergii,Greater Crested Tern,2014-12-18,20
+Oman,23.539438357,58.6741664261,Charadrius mongolus,Lesser Sand Plover,2014-12-18,10
+Oman,23.539438357,58.6741664261,Pandion haliaetus,Western Osprey,2014-12-18,1
+Oman,23.77966896,57.78748812,Larus fuscus barabensis,Lesser Black-backed Gull ssp barabensis,2015-02-15,250
+Oman,23.77966898,57.78748809,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-15,100
+Oman,23.7708667814308,57.794262394309,Haematopus ostralegus,Eurasian Oystercatcher,2015-02-15,13
+Oman,23.7708667814308,57.794262394309,Chroicocephalus genei,Slender-billed Gull,2015-02-15,3000
+Oman,23.7708667814308,57.794262394309,Ichthyaetus hemprichii,Sooty Gull,2015-02-15,1500
+Oman,23.7707995850106,57.7930610999465,Egretta gularis,Western Reef Heron,2015-02-15,2
+Oman,24.7183070824193,56.4797814935446,Alcedo atthis,Common Kingfisher,2015-02-14,1
+Oman,24.7187477746378,56.480073183775,Numenius arquata,Eurasian Curlew,2015-02-14,2
+Oman,24.20598311,56.84076465,Merops orientalis,Green Bee-eater,2015-02-14,2
+Oman,24.20197036,56.83826995,Merops orientalis,Green Bee-eater,2015-02-14,4
+Oman,23.7666118601697,57.7673628553748,Larus fuscus heuglini,Heuglin's Gull,2015-02-15,20
+Oman,23.735279,57.70413285,Coracias benghalensis,Indian Roller,2015-02-13,2
+Oman,23.79762683,57.49553333,Apus pallidus,Pallid Swift,2015-02-13,12
+Oman,24.3079030282053,56.7660311982036,Vanellus indicus,Red-wattled Lapwing,2015-02-13,2
+Oman,24.3034965758029,56.7641774564981,Merops orientalis,Green Bee-eater,2015-02-13,1
+Oman,24.30600911,56.72502364,Merops orientalis,Green Bee-eater,2015-02-13,2
+Oman,24.3139448839227,56.7337759584188,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-13,1
+Oman,24.3186549728982,56.7518067732453,Francolinus pondicerianus,Grey Francolin,2015-02-13,4
+Oman,24.3179406491753,56.7476151511073,Circus macrourus,Pallid Harrier,2015-02-13,1
+Oman,24.31786258,56.75127155,Cinnyris asiaticus,Purple Sunbird,2015-02-13,3
+Oman,24.3172562633904,56.751877181232,Vanellus indicus,Red-wattled Lapwing,2015-02-13,1
+Oman,24.3182715361563,56.7518302425742,Lanius isabellinus,Isabelline Shrike,2015-02-13,1
+Oman,24.3848065551322,56.7012317106128,Vanellus indicus,Red-wattled Lapwing,2015-02-13,2
+Oman,17.945,53.113,Aegypius monachus,Cinereous Vulture,2015-02-10,1
+Oman,23.35921103,57.6872364,Neophron percnopterus,Egyptian Vulture,2015-02-12,1
+Oman,23.7794909543735,57.7925246581435,Haematopus ostralegus,Eurasian Oystercatcher,2015-02-13,5
+Oman,23.7794909543735,57.7925246581435,Chroicocephalus genei,Slender-billed Gull,2015-02-13,1500
+Oman,23.7794909543735,57.7925246581435,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-13,300
+Oman,23.7815088448202,57.792660780251,Phalacrocorax carbo,Great Cormorant,2015-02-13,12
+Oman,23.7815536387488,57.7927570044994,Charadrius leschenaultii,Greater Sand Plover,2015-02-13,21
+Oman,23.7768084646304,57.7905968204141,Larus fuscus heuglini,Heuglin's Gull,2015-02-13,2
+Oman,22.95342902,57.67434431,Sylvia curruca,Lesser Whitethroat,2015-02-12,2
+Oman,22.95968861,57.66584853,Ammomanes deserti,Desert Lark,2015-02-12,2
+Oman,22.96135046,57.66641261,Anthus similis,Long-billed Pipit,2015-02-12,1
+Oman,22.95967177,57.66751422,Sylvia curruca,Lesser Whitethroat,2015-02-12,1
+Oman,23.10469282,57.66538125,Oenanthe albonigra,Hume's Wheatear,2015-02-12,1
+Oman,23.00254239,57.69912767,Ammomanes deserti,Desert Lark,2015-02-12,1
+Oman,19.17491089,54.50366002,Acridotheres tristis,Common Myna,2015-02-11,2
+Oman,19.1750385,54.50284525,Upupa epops,Eurasian Hoopoe,2015-02-11,1
+Oman,17.94333004,53.11440693,Ammomanes deserti,Desert Lark,2015-02-10,1
+Oman,18.15829691,53.30479899,Ammomanes deserti,Desert Lark,2015-02-10,1
+Oman,18.27116004,53.66244577,Phylloscopus collybita,Common Chiffchaff,2015-02-10,2
+Oman,18.2714745449,53.6628704317,Phylloscopus collybita,Common Chiffchaff,2015-02-11,15
+Oman,18.27085438,53.66255563,Ficedula parva,Red-breasted Flycatcher,2015-02-11,1
+Oman,18.35860707,54.01172858,Lanius excubitor aucheri,Levant Grey Shrike,2015-02-11,1
+Oman,18.35209365,54.01629445,Anthus campestris,Tawny Pipit,2015-02-11,20
+Oman,18.36319006,54.011062,Eremopterix nigriceps,Black-crowned Sparrow-Lark,2015-02-11,1
+Oman,18.36319006,54.011062,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-11,1
+Oman,17.4917183132866,53.3401750400662,Aquila heliaca,Eastern Imperial Eagle,2015-02-10,1
+Oman,17.79030045,53.10177792,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-10,1
+Oman,17.7906634,53.10113844,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-10,2
+Oman,17.48818493,53.34772193,Torgos tracheliotos,Lappet-faced Vulture,2015-02-10,1
+Oman,17.4882005629,53.3477077822,Aquila heliaca,Eastern Imperial Eagle,2015-02-10,1
+Oman,17.4769822523108,53.3527988567948,Oenanthe melanura,Blackstart,2015-02-10,1
+Oman,17.477153024898,53.3523187413812,Hypocolius ampelinus,Grey Hypocolius,2015-02-10,2
+Oman,17.4773580157506,53.3529359847307,Hypocolius ampelinus,Grey Hypocolius,2015-02-10,1
+Oman,17.4774539552279,53.3527341485024,Phylloscopus collybita,Common Chiffchaff,2015-02-10,2
+Oman,17.47759339,53.35247752,Hedydipna metallica,Nile Valley Sunbird,2015-02-10,7
+Oman,17.47787198,53.35268016,Sylvia nana,Asian Desert Warbler,2015-02-10,1
+Oman,17.4774021479164,53.3520954474807,Sylvia curruca,Lesser Whitethroat,2015-02-10,1
+Oman,16.73758333,53.34304654,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-08,1
+Oman,16.7365724646,53.3422288298,Procavia capensis,Common Rock Hyrax,2015-02-08,2
+Oman,16.8427770088,53.5182058809,Aquila nipalensis,Steppe Eagle,2015-02-08,8
+Oman,16.7986435613,53.5520768165,Falco pelegrinoides,Barbary Falcon,2015-02-09,1
+Oman,16.878865661308,53.7412360310555,Aquila heliaca,Eastern Imperial Eagle,2015-02-09,1
+Oman,16.8809626120756,53.7842459231615,Larus fuscus fuscus,Baltic Gull,2015-02-09,1
+Oman,16.88146278401,53.7891828641295,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-09,1
+Oman,16.8866832294267,53.8204929605126,Phoenicopterus roseus,Greater Flamingo,2015-02-09,17
+Oman,16.9427342357771,53.9950045198202,Numenius phaeopus,Eurasian Whimbrel,2015-02-09,4
+Oman,16.9944682272268,53.9374020695686,Bubulcus ibis,Western Cattle Egret,2015-02-09,12
+Oman,16.9937314052,53.9372639358,Ciconia abdimii,Abdim's Stork,2015-02-09,185
+Oman,16.9932914908183,53.9385627955198,Vanellus spinosus,Spur-winged Lapwing,2015-02-09,1
+Oman,16.9932914908183,53.9385627955198,Vanellus indicus,Red-wattled Lapwing,2015-02-09,1
+Oman,16.982526158,53.9575338347,Aquila nipalensis,Steppe Eagle,2015-02-09,650
+Oman,16.96862328,54.00243637,Prinia gracilis,Graceful Prinia,2015-02-09,1
+Oman,16.97044851,54.00510145,Galerida cristata,Crested Lark,2015-02-09,3
+Oman,16.9849239445415,54.0196560323238,Nettapus coromandelianus,Cotton Pygmy Goose,2015-02-09,6
+Oman,16.9979214410184,54.0714776515961,Prinia gracilis,Graceful Prinia,2015-02-09,1
+Oman,17.0008431885,54.0920376777,Upupa epops,Eurasian Hoopoe,2015-02-09,1
+Oman,17.0095269152599,54.1519784554839,Acridotheres tristis,Common Myna,2015-02-09,2
+Oman,17.035687,54.19430396,Hieraaetus pennatus,Booted Eagle,2015-02-09,1
+Oman,17.0375230386256,54.1899243369699,Pluvialis fulva,Pacific Golden Plover,2015-02-09,344
+Oman,17.0413053100955,54.1850262880325,Motacilla alba,White Wagtail,2015-02-09,45
+Oman,17.0413053100955,54.1850262880325,Motacilla flava feldegg,Black-headed Wagtail,2015-02-09,1
+Oman,17.0413053100955,54.1850262880325,Charadrius dubius,Little Ringed Plover,2015-02-09,2
+Oman,17.0412591501,54.1851872205,Vanellus gregarius,Sociable Lapwing,2015-02-09,17
+Oman,16.73097244,53.30492476,Mirafra cantillans,Singing Bush Lark,2015-02-08,2
+Oman,16.73198115,53.30593924,Mirafra cantillans,Singing Bush Lark,2015-02-08,2
+Oman,16.73367162,53.30845194,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-08,8
+Oman,16.73383823,53.30900149,Mirafra cantillans,Singing Bush Lark,2015-02-08,1
+Oman,16.73420167,53.30956829,Terpsiphone viridis,African Paradise Flycatcher,2015-02-08,1
+Oman,16.73329871,53.30767265,Terpsiphone viridis,African Paradise Flycatcher,2015-02-08,1
+Oman,16.7470872014943,53.4219465404749,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-08,1
+Oman,16.7449704693,53.4168785065,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-08,67
+Oman,16.8846970260895,53.781276717782,Ardea purpurea,Purple Heron,2015-02-07,1
+Oman,16.8840059725716,53.7810155376792,Porzana pusilla,Baillon's Crake,2015-02-07,1
+Oman,16.885141365107,53.7817186117172,Porzana pusilla,Baillon's Crake,2015-02-07,1
+Oman,16.8816594516367,53.7838073819876,Onychognathus tristramii,Tristram's Starling,2015-02-07,30
+Oman,16.888498416846,53.7805635854602,Oenanthe isabellina,Isabelline Wheatear,2015-02-07,1
+Oman,16.88975952,53.77684225,Anthus campestris,Tawny Pipit,2015-02-07,4
+Oman,16.895061241998,53.7740776687861,Emberiza striolata,Striolated Bunting,2015-02-07,7
+Oman,16.8955854368891,53.7736947834492,Porzana pusilla,Baillon's Crake,2015-02-07,1
+Oman,16.8974996662028,53.772713765502,Oenanthe melanura,Blackstart,2015-02-07,1
+Oman,16.8976655202498,53.7727774679661,Oenanthe melanura,Blackstart,2015-02-07,2
+Oman,16.89793605,53.77220584,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-07,1
+Oman,16.89689785,53.77260153,Anthus campestris,Tawny Pipit,2015-02-07,2
+Oman,16.90274483,53.76389588,Onychognathus tristramii,Tristram's Starling,2015-02-07,30
+Oman,16.8849293016342,53.7805997952819,Lanius excubitor pallidirostris,Steppe Grey Shrike,2015-02-07,1
+Oman,16.8793716137701,53.775306455791,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-07,2
+Oman,16.875642548677,53.7798571586609,Phalacrocorax nigrogularis,Socotra Cormorant,2015-02-07,50
+Oman,16.8808708549,53.7839525566,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-07,2
+Oman,16.88085975,53.78364401,Thalasseus bergii,Greater Crested Tern,2015-02-07,9
+Oman,16.8816427685833,53.7901363894343,Thalasseus bergii,Greater Crested Tern,2015-02-07,124
+Oman,16.8816427685833,53.7901363894343,Thalasseus bengalensis,Lesser Crested Tern,2015-02-07,50
+Oman,16.8816427685833,53.7901363894343,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-07,9
+Oman,17.041600861944,54.4290077313781,Ardea intermedia,Intermediate Egret,2015-02-06,1
+Oman,17.0419605241921,54.4288950785995,Ardea purpurea,Purple Heron,2015-02-06,1
+Oman,17.0408760859172,54.4296276569366,Hydrophasianus chirurgus,Pheasant-tailed Jacana,2015-02-06,1
+Oman,17.0393476679949,54.4310069829226,Nettapus coromandelianus,Cotton Pygmy Goose,2015-02-06,4
+Oman,17.0364892236751,54.4360076263547,Acrocephalus stentoreus,Clamorous Reed Warbler,2015-02-06,1
+Oman,17.0365216006021,54.4361836463213,Motacilla citreola,Citrine Wagtail,2015-02-06,5
+Oman,17.0364193407838,54.4365417212248,Thalasseus sandvicensis,Sandwich Tern,2015-02-06,2
+Oman,17.0364193407838,54.4365417212248,Chlidonias hybrida,Whiskered Tern,2015-02-06,3
+Oman,17.0326116454216,54.4343929365277,Anser albifrons,Greater White-fronted Goose,2015-02-06,24
+Oman,17.0380949201612,54.4379790499806,Hydrophasianus chirurgus,Pheasant-tailed Jacana,2015-02-06,2
+Oman,17.0358250145885,54.4370305538178,Hydrophasianus chirurgus,Pheasant-tailed Jacana,2015-02-06,1
+Oman,17.0364273549,54.4365423918,Limnodromus scolopaceus,Long-billed Dowitcher,2015-02-06,1
+Oman,17.0364273548781,54.436542391777,Gelochelidon nilotica,Gull-billed Tern,2015-02-06,2
+Oman,17.0364273548781,54.436542391777,Hydroprogne caspia,Caspian Tern,2015-02-06,1
+Oman,17.095020104162,54.4487876817584,Falco tinnunculus,Common Kestrel,2015-02-06,2
+Oman,17.11568016,54.51118053,Gyps fulvus,Griffon Vulture,2015-02-06,1
+Oman,17.11966063,54.59722615,Aquila heliaca,Eastern Imperial Eagle,2015-02-06,2
+Oman,17.1015090494,54.698581472,Aquila verreauxii,Verreaux's Eagle,2015-02-06,2
+Oman,17.1031759,54.69843546,Falco pelegrinoides,Barbary Falcon,2015-02-06,2
+Oman,17.1020012630069,54.4499132037163,Aquila heliaca,Eastern Imperial Eagle,2015-02-06,2
+Oman,17.10145189,54.45208078,Treron waalia,Bruce's Green Pigeon,2015-02-06,2
+Oman,17.10124493,54.45171653,Terpsiphone viridis,African Paradise Flycatcher,2015-02-06,2
+Oman,17.0996686845765,54.4511366263032,Upupa epops,Eurasian Hoopoe,2015-02-06,2
+Oman,17.09975166,54.45135929,Treron waalia,Bruce's Green Pigeon,2015-02-06,1
+Oman,17.09959021,54.45132945,Terpsiphone viridis,African Paradise Flycatcher,2015-02-06,2
+Oman,17.09863959,54.45076546,Terpsiphone viridis,African Paradise Flycatcher,2015-02-06,2
+Oman,17.09902944,54.45088033,Gyps fulvus,Griffon Vulture,2015-02-06,6
+Oman,17.09685003,54.44988277,Anthus trivialis,Tree Pipit,2015-02-06,2
+Oman,17.09536451,54.44902978,Motacilla cinerea,Grey Wagtail,2015-02-06,1
+Oman,17.09537941,54.44912452,Oenanthe melanura,Blackstart,2015-02-06,1
+Oman,17.0373252518354,54.3720674514771,Hydroprogne caspia,Caspian Tern,2015-02-05,1
+Oman,17.0361170488936,54.3733344599605,Circus aeruginosus,Western Marsh Harrier,2015-02-05,4
+Oman,17.09,54.45,Bubo africanus milesi,Spotted Eagle-Owl ssp milesi,2015-02-05,1
+Oman,17.0968672445862,54.4548984244466,Otus pamelae,Arabian Scops Owl,2015-02-05,1
+Oman,17.0886591225707,54.4443992525339,Treron waalia,Bruce's Green Pigeon,2015-02-06,12
+Oman,17.09762528,54.44939927,Terpsiphone viridis,African Paradise Flycatcher,2015-02-06,1
+Oman,17.0985326676047,54.4498039036989,Oenanthe lugentoides,Arabian Wheatear,2015-02-06,1
+Oman,17.09946008,54.45072342,Upupa epops,Eurasian Hoopoe,2015-02-06,1
+Oman,17.1004746275353,54.4507520645857,Treron waalia,Bruce's Green Pigeon,2015-02-06,1
+Oman,17.10455859,54.45265787,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-06,3
+Oman,17.1047632,54.45307366,Cinnyris habessinicus,Shining Sunbird,2015-02-06,1
+Oman,17.1039967015421,54.4532810524106,Motacilla cinerea,Grey Wagtail,2015-02-06,1
+Oman,17.10321272,54.4524228,Treron waalia,Bruce's Green Pigeon,2015-02-06,2
+Oman,17.10260881,54.45207627,Oenanthe melanura,Blackstart,2015-02-06,1
+Oman,17.10255947,54.45209197,Terpsiphone viridis,African Paradise Flycatcher,2015-02-06,1
+Oman,17.10188874,54.45200239,Anthus trivialis,Tree Pipit,2015-02-06,2

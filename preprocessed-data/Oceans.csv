@@ -1,0 +1,7 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Oceans,65.4748,-3.5042,Orcinus orca,Killer Whale,2014-06-09,8
+Oceans,75.5633,-6.0442,Ursus maritimus,Polar Bear,2014-06-12,1
+Oceans,75.4107,-5.8638,Cystophora cristata,Hooded Seal,2014-06-12,1
+Oceans,11.2043097,-85.8358897194,Lepidochelys olivacea,Olive Ridley Sea Turtle,2015-01-08,40
+Oceans,11.2043097,-85.8358897194,Pelecanus occidentalis,Brown Pelican,2015-01-08,20
+Oceans,11.2043097,-85.8358897194,Egretta thula,Snowy Egret,2015-01-08,1

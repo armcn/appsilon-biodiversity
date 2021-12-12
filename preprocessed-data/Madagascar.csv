@@ -1,0 +1,78 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Madagascar,-23.4098448141,43.7903523441,Treron australis,Madagascan Green Pigeon,2014-11-30,1
+Madagascar,-22.88233373,44.69325219,Coua coquereli,Coquerel's Coua,2014-11-30,1
+Madagascar,-22.88650262,44.69296875,Eurystomus glaucurus,Broad-billed Roller,2014-11-30,1
+Madagascar,-22.8851992,44.69304874,Leptosomus discolor,Cuckoo Roller,2014-11-30,2
+Madagascar,-22.41389936,46.02118266,Corvus albus,Pied Crow,2014-11-29,1
+Madagascar,-21.26290906,47.42350088,Atelornis pittoides,Pitta-like Ground Roller,2014-11-29,1
+Madagascar,-21.26290906,47.42350088,Philepitta castanea,Velvet Asity,2014-11-29,1
+Madagascar,-21.2793311766,47.5073379278,Acridotheres tristis,Common Myna,2014-11-28,1
+Madagascar,-21.2630060691,47.4232614038,Copsychus albospecularis,Madagascan Magpie-Robin,2014-11-28,2
+Madagascar,-21.20012328,47.36998237,Cuculus rochii,Madagascan Cuckoo,2014-11-27,1
+Madagascar,-21.19418371,47.37236888,Riparia paludicola,Brown-throated Martin,2014-11-27,1
+Madagascar,-21.2547094328,47.4327385424,Copsychus albospecularis,Madagascan Magpie-Robin,2014-11-27,1
+Madagascar,-16.3117582163,46.8179442734,Bubulcus ibis,Western Cattle Egret,2014-12-08,1
+Madagascar,-16.3157,46.8117,Bernieria madagascariensis,Long-billed Bernieria,2014-12-07,1
+Madagascar,-23.1166,43.6275,Ploceus sakalava,Sakalava Weaver,2014-12-02,3
+Madagascar,-21.2789825127,47.5074166618,Dicrurus forficatus,Crested Drongo,2014-11-27,1
+Madagascar,-16.3059715524,46.8171362579,Crocodylus niloticus,Nile Crocodile,2014-12-08,1
+Madagascar,-16.3141882874,46.8149616569,Furcifer oustaleti,Malagasy Giant Chameleon,2014-12-08,4
+Madagascar,-16.312479325,46.8200974166,Crocodylus niloticus,Nile Crocodile,2014-12-08,6
+Madagascar,-16.3383162072,46.8380497963,Cheirogaleus medius,Western Fat-tailed Dwarf Lemur,2014-12-07,2
+Madagascar,-16.3383162072,46.8380497963,Phelsuma madagascariensis,Madagascar Day Gecko,2014-12-07,1
+Madagascar,-16.3381,46.8382,Furcifer oustaleti,Malagasy Giant Chameleon,2014-12-07,1
+Madagascar,-16.3072067394,46.815215461,Plegadis falcinellus,Glossy Ibis,2014-12-07,1
+Madagascar,-16.3026912782,46.8191779219,Crocodylus niloticus,Nile Crocodile,2014-12-07,2
+Madagascar,-16.3018623315,46.8207657896,Furcifer oustaleti,Malagasy Giant Chameleon,2014-12-07,1
+Madagascar,-16.3157,46.8117,Schetba rufa,Rufous Vanga,2014-12-07,1
+Madagascar,-16.3134982365,46.8156231567,Terpsiphone mutata,Malagasy Paradise Flycatcher,2014-12-07,2
+Madagascar,-16.3133851317,46.8203475326,Crocodylus niloticus,Nile Crocodile,2014-12-06,4
+Madagascar,-16.3134364552,46.815998666,Terpsiphone mutata,Malagasy Paradise Flycatcher,2014-12-06,2
+Madagascar,-16.3123,46.8166,Dicrurus forficatus,Crested Drongo,2014-12-06,1
+Madagascar,-15.8674,46.3741,Egretta dimorpha,Dimorphic Egret,2014-12-06,1
+Madagascar,-15.8674,46.3741,Xenus cinereus,Terek Sandpiper,2014-12-06,1
+Madagascar,-15.6539493569,46.3729406521,Dendrocygna viduata,White-faced Whistling Duck,2014-12-05,1
+Madagascar,-15.6539,46.3719,Ardea purpurea,Purple Heron,2014-12-05,1
+Madagascar,-15.6539,46.3719,Cypsiurus gracilis gracilis,Malagasy Palm Swift ssp gracilis,2014-12-05,1
+Madagascar,-15.6770762117,46.337878732,Papilio demodocus,Christmas Butterfly,2014-12-05,1
+Madagascar,-15.6705038602,46.367381271,Furcifer oustaleti,Malagasy Giant Chameleon,2014-12-05,2
+Madagascar,-23.1186045114,43.6099621933,Microcebus murinus,Grey Mouse Lemur,2014-12-03,2
+Madagascar,-23.1749,43.6208,Calidris ferruginea,Curlew Sandpiper,2014-12-03,1
+Madagascar,-23.1179634087,43.623604998,Cinnyris notatus,Malagasy Green Sunbird,2014-12-02,1
+Madagascar,-23.6462152462,43.6004595459,Thalasseus bergii,Greater Crested Tern,2014-12-02,3
+Madagascar,-23.6472373582,43.6043219268,Numenius phaeopus,Eurasian Whimbrel,2014-12-02,1
+Madagascar,-23.4147969069,43.8079433228,Calicalicus rufocarpalis,Red-shouldered Vanga,2014-11-30,1
+Madagascar,-22.881,44.6937,Coua gigas,Giant Coua,2014-11-30,1
+Madagascar,-21.2596,47.4227,Atelornis pittoides,Pitta-like Ground Roller,2014-11-29,1
+Madagascar,-21.2322,47.3964,Philepitta castanea,Velvet Asity,2014-11-28,1
+Madagascar,-21.2634631655,47.4187678099,Copsychus albospecularis,Madagascan Magpie-Robin,2014-11-28,2
+Madagascar,-21.2371,47.3848,Riparia paludicola,Brown-throated Martin,2014-11-27,1
+Madagascar,-21.1943,47.3724,Zosterops maderaspatanus,Malagasy White-eye,2014-11-27,2
+Madagascar,-21.2055184387,47.3646927997,Papilio demodocus,Christmas Butterfly,2014-11-26,1
+Madagascar,-21.2056,47.3655,Milvus aegyptius,Yellow-billed Kite,2014-11-26,1
+Madagascar,-18.9468258477,48.4184870403,Ploceus nelicourvi,Nelicourvi Weaver,2014-11-25,1
+Madagascar,-18.9356,48.4185,Nesoenas picturatus,Malagasy Turtle Dove,2014-11-24,1
+Madagascar,-18.9373014813,48.4185536442,Copsychus albospecularis,Madagascan Magpie-Robin,2014-11-24,1
+Madagascar,-18.9371879328,48.4199542087,Terpsiphone mutata,Malagasy Paradise Flycatcher,2014-11-24,1
+Madagascar,-18.8373346844,48.4314545989,Buteo brachypterus,Madagascan Buzzard,2014-11-23,1
+Madagascar,-18.9471049447,48.4194106422,Leptopterus chabert,Chabert Vanga,2014-11-23,1
+Madagascar,-18.9308,48.4135,Asio madagascariensis,Madagascan Owl,2014-11-22,2
+Madagascar,-18.9304,48.4142,Coua caerulea,Blue Coua,2014-11-22,1
+Madagascar,-18.947099871,48.4192121588,Calumma parsonii,Parsons Chameleon,2014-11-22,1
+Madagascar,-18.9469932822,48.4189805668,Phelsuma lineata,Striped Day Gecko,2014-11-21,6
+Madagascar,-18.7985,48.4274,Terpsiphone mutata,Malagasy Paradise Flycatcher,2014-11-22,1
+Madagascar,-18.8769259018,48.1067463558,Junonia oenone,Dark Blue Pansy,2014-11-21,2
+Madagascar,-18.93002481,48.41546208,Dryolimnas cuvieri,White-throated Rail,2014-11-24,1
+Madagascar,-18.9352667122,48.418875176,Nesoenas picturatus,Malagasy Turtle Dove,2014-11-24,1
+Madagascar,-18.936062540000002,48.41871349,Alectroenas madagascariensis,Madagascan Blue Pigeon,2014-11-24,2
+Madagascar,-18.93825883,48.41932332,Coua caerulea,Blue Coua,2014-11-24,1
+Madagascar,-18.79239647,48.42696805,Copsychus albospecularis,Madagascan Magpie-Robin,2014-11-23,1
+Madagascar,-18.79137899,48.42483491,Cuculus rochii,Madagascan Cuckoo,2014-11-23,1
+Madagascar,-18.79137899,48.42483491,Terpsiphone mutata,Malagasy Paradise Flycatcher,2014-11-23,1
+Madagascar,-18.93079236,48.41353868,Asio madagascariensis,Madagascan Owl,2014-11-22,1
+Madagascar,-18.9333442901,48.4135179064,Coua caerulea,Blue Coua,2014-11-22,1
+Madagascar,-18.79811582,48.42720148,Artamella viridis,White-headed Vanga,2014-11-22,1
+Madagascar,-18.79846927,48.42737235,Alectroenas madagascariensis,Madagascan Blue Pigeon,2014-11-22,1
+Madagascar,-18.79452207,48.4269033,Bernieria madagascariensis,Long-billed Bernieria,2014-11-22,2
+Madagascar,-18.8685446508,47.5175679848,Dendrocygna viduata,White-faced Whistling Duck,2014-11-21,1
+Madagascar,-18.86843853,47.51969563,Foudia madagascariensis,Red Fody,2014-11-21,1

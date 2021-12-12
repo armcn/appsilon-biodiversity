@@ -1,0 +1,54 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Italy,41.8912482483,12.494087331,Psittacula krameri,Rose-ringed Parakeet,2015-03-12,5
+Italy,41.8902019832,12.4925423786,Corvus cornix,Hooded Crow,2015-03-12,10
+Italy,41.8914718753,12.486952655,Larus michahellis,Yellow-legged Gull,2015-03-08,40
+Italy,41.8914718753,12.486952655,Turdus merula,Common Blackbird,2015-03-08,6
+Italy,41.8914718753,12.486952655,Sturnus vulgaris,Common Starling,2015-03-08,30
+Italy,41.8914718753,12.486952655,Corvus cornix,Hooded Crow,2015-03-08,15
+Italy,41.8914718753,12.486952655,Phoenicurus ochruros,Black Redstart,2015-03-08,5
+Italy,44.68,6.97,Soldanella alpina,Alpine snowbell,2014-07-02,1
+Italy,44.68,6.97,Gentiana verna,Spring Gentian,2014-07-02,1
+Italy,45.5249250163,7.20056648192,Erebia euryale,Large Ringlet,2014-07-19,2
+Italy,38.7221485256,16.2484359741,Coenagrion mercuriale castellani,Mercury Bluet (ssp. castellani),2010-04-26,5
+Italy,46.2271471535,10.8010482718,Aglais urticae,Small Tortoiseshell,2015-02-20,1
+Italy,45.55,7.1,Melitaea diamina,False Heath Fritillary,2014-07-21,1
+Italy,45.5462876772,7.10640935882,Aricia agestis,Brown Argus,2014-07-17,1
+Italy,45.6792137925,7.22082166787,Polyommatus dorylas,Turqouise Blue,2014-07-15,1
+Italy,45.5179386451,7.19816236611,Polyommatus icarus,Common Blue,2014-07-14,2
+Italy,45.65,7.2,Polyommatus thersites,Chapman's Blue,2014-07-13,1
+Italy,41.878651055,12.4925279617,Sturnus vulgaris,Common Starling,2015-03-02,1
+Italy,41.878651055,12.4925279617,Psittacula krameri,Rose-ringed Parakeet,2015-03-02,1
+Italy,41.878651055,12.4925279617,Myiopsitta monachus,Monk Parakeet,2015-03-02,1
+Italy,41.878651055,12.4925279617,Larus michahellis,Yellow-legged Gull,2015-03-02,1
+Italy,41.878651055,12.4925279617,Corvus cornix,Hooded Crow,2015-03-02,1
+Italy,41.878651055,12.4925279617,Serinus serinus,European Serin,2015-03-02,12
+Italy,41.891335162,12.462015152,Erithacus rubecula,European Robin,2015-03-01,1
+Italy,41.8919102004,12.4689674377,Passer italiae,Italian Sparrow,2015-03-01,20
+Italy,41.9150990991,12.4880647659,Regulus ignicapilla,Common Firecrest,2015-03-01,1
+Italy,41.9143752391,12.4863052368,Passer montanus,Eurasian Tree Sparrow,2015-03-01,10
+Italy,41.8954130303,12.4848461151,Larus michahellis,Yellow-legged Gull,2015-03-01,15
+Italy,41.8954130303,12.4848461151,Serinus serinus,European Serin,2015-03-01,4
+Italy,41.9155387341,12.4705553055,Chroicocephalus ridibundus,Black-headed Gull,2015-03-01,20
+Italy,41.9154652849,12.485704422,Falco tinnunculus,Common Kestrel,2015-03-01,1
+Italy,41.9154652849,12.485704422,Turdus merula,Common Blackbird,2015-03-01,1
+Italy,41.8912158938,12.4732804298,Phalacrocorax carbo,Great Cormorant,2015-02-28,1
+Italy,41.8912158938,12.4732804298,Motacilla alba,White Wagtail,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Serinus serinus,European Serin,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Sylvia atricapilla,Eurasian Blackcap,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Passer italiae,Italian Sparrow,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Monticola solitarius,Blue Rock Thrush,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Phoenicurus ochruros,Black Redstart,2015-02-28,4
+Italy,41.8899529187,12.4869060516,Larus michahellis,Yellow-legged Gull,2015-02-28,1
+Italy,41.8899529187,12.4869060516,Corvus cornix,Hooded Crow,2015-02-28,1
+Italy,45.554481958,7.11058266159,Thymelicus lineola,Essex Skipper,2014-07-21,5
+Italy,42.3646303437,10.8945482969,Podarcis siculus,Italian Wall Lizard,2014-09-25,30
+Italy,45.5,7.1,Brenthis ino,Lesser Marbled Fritillary,2014-07-21,1
+Italy,46.1,8.25,Cyaniris semiargus,Mazarine Blue,2014-07-11,1
+Italy,37.9085029285,12.4897676491,Egretta garzetta,Little Egret,2015-02-23,1
+Italy,45.6770318615,7.2212702395,Pieris napi,Green-veined White,2014-07-13,1
+Italy,43.8774194444,10.7912055556,Tarentola mauritanica,Moorish Gecko,2014-05-06,1
+Italy,44.9289188059,9.82693791389,Pelophylax lessonae bergeri,Italian Pool Frog,2014-08-02,4
+Italy,44.1758022528,9.72193479538,Calopteryx virgo,Beautiful Demoiselle,2007-07-23,10
+Italy,45.5170380357,7.19814777374,Erebia epiphron,Mountain Ringlet,2014-07-14,1
+Italy,45.6784656904,7.22091436386,Polyommatus escheri,Escher's Blue,2014-07-15,10
+Italy,37.1470794779,15.0526428223,Calopteryx haemorrhoidalis,Copper Demoiselle,2010-05-05,5

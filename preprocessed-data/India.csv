@@ -1,0 +1,633 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+India,17.515436854,78.5211273562,Apus affinis affinis,Little Swift ssp affinis,2015-03-11,1
+India,9.86028989426,76.3405609131,Sousa chinensis,Indo-Pacific Humpback Dolphin,2015-03-13,1
+India,9.9685124691,76.2746429443,Dinopium benghalense,Black-rumped Flameback,2015-03-10,1
+India,9.68706000345,76.3845062256,Loriculus vernalis,Vernal Hanging Parrot,2015-03-13,1
+India,21.1484833472,70.8760093676,Axis axis,Chital,2015-01-31,25
+India,21.1920456684,70.6540778159,Canis aureus,Golden Jackal,2015-02-01,3
+India,21.1920456684,70.6540778159,Semnopithecus dussumieri,Southern Plains Grey Langur,2015-02-01,15
+India,21.1920456684,70.6540778159,Acridotheres tristis,Common Myna,2015-02-01,4
+India,21.1920456684,70.6540778159,Corvus culminatus,Indian Jungle Crow,2015-02-01,20
+India,21.1920456684,70.6540778159,Rhipidura aureola,White-browed Fantail,2015-02-01,1
+India,21.1920456684,70.6540778159,Copsychus fulicatus,Indian Robin,2015-02-01,5
+India,21.1920456684,70.6540778159,Copsychus saularis,Oriental Magpie-Robin,2015-02-01,5
+India,21.1920456684,70.6540778159,Ficedula parva,Red-breasted Flycatcher,2015-02-01,5
+India,21.1920456684,70.6540778159,Orthotomus sutorius,Common Tailorbird,2015-02-01,2
+India,21.1920456684,70.6540778159,Anthus trivialis,Tree Pipit,2015-02-01,5
+India,21.1920456684,70.6540778159,Motacilla cinerea,Grey Wagtail,2015-02-01,2
+India,21.1920456684,70.6540778159,Ptyonoprogne concolor,Dusky Crag Martin,2015-02-01,10
+India,21.1920456684,70.6540778159,Merops orientalis orientalis,Green Bee-eater ssp orientalis,2015-02-01,15
+India,21.1933929056,70.6621029852,Alcedo atthis,Common Kingfisher,2015-02-01,1
+India,21.1933929056,70.6621029852,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-01,4
+India,21.192232529,70.6479409229,Nisaetus cirrhatus,Changeable Hawk-Eagle,2015-02-01,2
+India,21.192232529,70.6479409229,Butastur teesa,White-eyed Buzzard,2015-02-01,3
+India,21.192232529,70.6479409229,Accipiter badius,Shikra,2015-02-01,3
+India,21.192232529,70.6479409229,Circaetus gallicus,Short-toed Snake Eagle,2015-02-01,1
+India,21.192232529,70.6479409229,Elanus caeruleus,Black-winged Kite,2015-02-01,1
+India,21.192232529,70.6479409229,Pseudibis papillosa,Red-naped Ibis,2015-02-01,3
+India,21.192232529,70.6479409229,Ciconia nigra,Black Stork,2015-02-01,2
+India,21.2004749978,70.6615450857,Butorides striata,Striated Heron,2015-02-01,1
+India,21.2004749978,70.6615450857,Bubulcus coromandus,Eastern Cattle Egret,2015-02-01,10
+India,21.2004749978,70.6615450857,Ardeola grayii,Indian Pond Heron,2015-02-01,1
+India,21.2004749978,70.6615450857,Ardea intermedia,Intermediate Egret,2015-02-01,1
+India,21.2004749978,70.6615450857,Anhinga melanogaster,Oriental Darter,2015-02-01,1
+India,21.2004749978,70.6615450857,Microcarbo niger,Little Cormorant,2015-02-01,1
+India,21.2004749978,70.6615450857,Ictinaetus malaiensis,Black Eagle,2015-02-01,1
+India,21.2004749978,70.6615450857,Sterna aurantia,River Tern,2015-02-01,4
+India,21.2004749978,70.6615450857,Pterocles indicus,Painted Sandgrouse,2015-02-01,2
+India,9.49503246262,76.3348960876,Haliastur indus,Brahminy Kite,2015-03-08,1
+India,9.49503246262,76.3348960876,Calidris alba,Sanderling,2015-03-08,1
+India,9.49503246262,76.3348960876,Tringa nebularia,Common Greenshank,2015-03-08,1
+India,9.49503246262,76.3348960876,Leptocoma zeylonica,Purple-rumped Sunbird,2015-03-08,1
+India,9.49503246262,76.3348960876,Milvus migrans,Black Kite,2015-03-08,1
+India,9.49503246262,76.3348960876,Acridotheres fuscus,Jungle Myna,2015-03-08,1
+India,9.49503246262,76.3348960876,Bubulcus coromandus,Eastern Cattle Egret,2015-03-08,1
+India,9.503159227,76.450252533,Anhinga melanogaster,Oriental Darter,2015-03-07,1
+India,9.503159227,76.450252533,Pelargopsis capensis,Stork-billed Kingfisher,2015-03-07,1
+India,9.503159227,76.450252533,Haliastur indus,Brahminy Kite,2015-03-07,1
+India,9.503159227,76.450252533,Chlidonias hybrida,Whiskered Tern,2015-03-07,1
+India,9.503159227,76.450252533,Ardea alba,Great Egret,2015-03-07,1
+India,9.5,76.45,Porphyrio poliocephalus,Grey-headed Swamphen,2015-03-07,1
+India,9.503159227,76.450252533,Chlidonias hybrida,Whiskered Tern,2015-03-06,1
+India,9.503159227,76.450252533,Oriolus xanthornus,Black-hooded Oriole,2015-03-06,1
+India,9.503159227,76.450252533,Anhinga melanogaster,Oriental Darter,2015-03-06,1
+India,9.503159227,76.450252533,Psilopogon viridis,White-cheeked Barbet,2015-03-06,1
+India,9.49774140551,76.4172935486,Ardeola grayii,Indian Pond Heron,2015-03-06,1
+India,9.49774140551,76.4172935486,Haliastur indus,Brahminy Kite,2015-03-06,1
+India,9.41379657861,76.3861370087,Haliastur indus,Brahminy Kite,2015-03-05,1
+India,9.41379657861,76.3861370087,Anhinga melanogaster,Oriental Darter,2015-03-05,1
+India,9.41379657861,76.3861370087,Ardeola grayii,Indian Pond Heron,2015-03-05,1
+India,9.4,76.35,Porphyrio poliocephalus,Grey-headed Swamphen,2015-03-05,1
+India,9.41379657861,76.3861370087,Cinnyris lotenius,Loten's Sunbird,2015-03-05,1
+India,10.0607269661,77.070980072,Turdus simillimus,Indian Blackbird,2015-03-04,1
+India,10.0607269661,77.070980072,Phylloscopus trochiloides,Greenish Warbler,2015-03-04,1
+India,10.0607269661,77.070980072,Myophonus horsfieldii,Malabar Whistling Thrush,2015-03-04,1
+India,10.0607269661,77.070980072,Carpodacus erythrinus,Common Rosefinch,2015-03-04,1
+India,10.0607269661,77.070980072,Pycnonotus jocosus,Red-whiskered Bulbul,2015-03-04,1
+India,10.0607269661,77.070980072,Corvus culminatus,Indian Jungle Crow,2015-03-04,1
+India,10.0607269661,77.070980072,Spilopelia chinensis,Spotted Dove,2015-03-04,1
+India,10.0607269661,77.070980072,Lanius schach,Long-tailed Shrike,2015-03-04,1
+India,10.0607269661,77.070980072,Motacilla flava lutea,Yellow-headed Wagtail,2015-03-04,1
+India,10.0607269661,77.070980072,Upupa epops,Eurasian Hoopoe,2015-03-03,1
+India,10.0607269661,77.070980072,Myophonus horsfieldii,Malabar Whistling Thrush,2015-03-03,1
+India,10.0607269661,77.070980072,Sturnia malabarica,Chestnut-tailed Starling,2015-03-03,1
+India,10.0607269661,77.070980072,Phylloscopus nitidus,Green Warbler,2015-03-03,1
+India,10.0607269661,77.070980072,Zosterops palpebrosus,Indian White-eye,2015-03-03,1
+India,10.0607269661,77.070980072,Pycnonotus cafer,Red-vented Bulbul,2015-03-03,1
+India,10.0607269661,77.070980072,Pomatorhinus horsfieldii,Indian Scimitar Babbler,2015-03-03,1
+India,10.0607269661,77.070980072,Acridotheres fuscus,Jungle Myna,2015-03-03,1
+India,10.0607269661,77.070980072,Carpodacus erythrinus,Common Rosefinch,2015-03-03,1
+India,10.0607269661,77.070980072,Spilopelia chinensis,Spotted Dove,2015-03-03,1
+India,10.0607269661,77.070980072,Corvus culminatus,Indian Jungle Crow,2015-03-03,1
+India,10.0607269661,77.070980072,Lanius schach,Long-tailed Shrike,2015-03-03,1
+India,10.0607269661,77.070980072,Pycnonotus jocosus,Red-whiskered Bulbul,2015-03-03,1
+India,33.6558,77.7308,Linaria flavirostris rufostrigata,Twite ssp rufostrigata,2014-10-13,1
+India,34.058701753,77.4225333985,Tetraogallus himalayensis,Himalayan Snowcock,2014-10-11,4
+India,34.3315480732,77.1367720688,Martes foina,Beech Marten,2014-10-16,1
+India,34.0641066857,77.4278077483,Pseudois nayaur,Blue Sheep,2014-10-10,15
+India,27.175548092,77.5193059444,Funambulus pennantii,Northern Palm Squirrel,2001-01-11,1
+India,21.6329203295,71.484374553,Elanus caeruleus,Black-winged Kite,2015-02-26,1
+India,28.4667903204,76.8953284502,Orthetrum sabina,Slender Skimmer,2014-10-17,5
+India,28.4667903204,76.8953284502,Crocothemis servilia,Oriental Scarlet,2014-10-17,5
+India,28.4677288494,76.8933036441,Ardeola grayii,Indian Pond Heron,2014-10-17,1
+India,34.0705637142,77.6340579982,Motacilla citreola calcarata,Black-backed Citrine Wagtail,2014-10-06,25
+India,34.0705637142,77.6340579982,Motacilla flava,Western Yellow Wagtail,2014-10-06,1
+India,27.175705576,78.0418109894,Macaca mulatta,Rhesus Macaque,2009-09-28,5
+India,10.0959238285,77.0782756805,Pomatorhinus horsfieldii,Indian Scimitar Babbler,2015-03-02,1
+India,10.0959238285,77.0782756805,Phylloscopus trochiloides,Greenish Warbler,2015-03-02,1
+India,10.0959238285,77.0782756805,Myophonus horsfieldii,Malabar Whistling Thrush,2015-03-02,1
+India,10.0959238285,77.0782756805,Psilopogon viridis,White-cheeked Barbet,2015-03-02,1
+India,10.0959238285,77.0782756805,Corvus culminatus,Indian Jungle Crow,2015-03-02,1
+India,10.0959238285,77.0782756805,Carpodacus erythrinus,Common Rosefinch,2015-03-02,1
+India,10.0959238285,77.0782756805,Motacilla flava lutea,Yellow-headed Wagtail,2015-03-02,1
+India,10.0959238285,77.0782756805,Lanius schach,Long-tailed Shrike,2015-03-02,1
+India,10.0959238285,77.0782756805,Acridotheres fuscus,Jungle Myna,2015-03-02,1
+India,10.0959238285,77.0782756805,Pycnonotus jocosus,Red-whiskered Bulbul,2015-03-02,1
+India,10.0959238285,77.0782756805,Spilopelia chinensis,Spotted Dove,2015-03-02,1
+India,10.0959238285,77.0782756805,Turdus simillimus,Indian Blackbird,2015-03-02,1
+India,10.0824032796,76.7569255829,Nettapus coromandelianus,Cotton Pygmy Goose,2015-03-01,1
+India,10.0824032796,76.7569255829,Ocyceros griseus,Malabar Grey Hornbill,2015-03-01,1
+India,10.0824032796,76.7569255829,Hemicircus canente,Heart-spotted Woodpecker,2015-03-01,1
+India,10.0824032796,76.7569255829,Sturnia malabarica,Chestnut-tailed Starling,2015-03-01,1
+India,10.0824032796,76.7569255829,Ducula aenea,Green Imperial Pigeon,2015-03-01,1
+India,10.0824032796,76.7569255829,Microcarbo niger,Little Cormorant,2015-03-01,1
+India,10.0824032796,76.7569255829,Chrysocolaptes guttacristatus,Greater Flameback,2015-03-01,1
+India,10.0824032796,76.7569255829,Dendrocitta vagabunda,Rufous Treepie,2015-03-01,1
+India,10.0824032796,76.7569255829,Oriolus kundoo,Indian Golden Oriole,2015-03-01,1
+India,10.0824032796,76.7569255829,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-03-01,1
+India,10.0824032796,76.7569255829,Ardea intermedia,Intermediate Egret,2015-03-01,1
+India,10.0824032796,76.7569255829,Corvus culminatus,Indian Jungle Crow,2015-03-01,1
+India,10.0824032796,76.7569255829,Pycnonotus gularis,Flame-throated Bulbul,2015-03-01,1
+India,10.0824032796,76.7569255829,Anastomus oscitans,Asian Openbill,2015-03-01,1
+India,10.0824032796,76.7569255829,Motacilla maderaspatensis,White-browed Wagtail,2015-03-01,1
+India,10.0824032796,76.7569255829,Dendrocygna javanica,Lesser Whistling Duck,2015-03-01,1
+India,10.0824032796,76.7569255829,Copsychus saularis,Oriental Magpie-Robin,2015-03-01,1
+India,10.0824032796,76.7569255829,Gallus sonneratii,Grey Junglefowl,2015-03-01,1
+India,10.0824032796,76.7569255829,Macaca radiata,Bonnet Macaque,2015-02-28,1
+India,10.0824032796,76.7569255829,Ocyceros griseus,Malabar Grey Hornbill,2015-02-28,1
+India,10.0824032796,76.7569255829,Eurystomus orientalis,Oriental Dollarbird,2015-02-28,1
+India,10.0824032796,76.7569255829,Gracula indica,Southern Hill Myna,2015-02-28,1
+India,10.0824032796,76.7569255829,Argya striata,Jungle Babbler,2015-02-28,1
+India,10.0824032796,76.7569255829,Geokichla citrina,Orange-headed Thrush,2015-02-28,1
+India,10.0824032796,76.7569255829,Gallus sonneratii,Grey Junglefowl,2015-02-28,1
+India,10.0824032796,76.7569255829,Ducula aenea,Green Imperial Pigeon,2015-02-28,1
+India,10.0824032796,76.7569255829,Dendrocitta leucogastra,White-bellied Treepie,2015-02-28,1
+India,10.0824032796,76.7569255829,Oriolus kundoo,Indian Golden Oriole,2015-02-28,1
+India,10.0824032796,76.7569255829,Bubulcus coromandus,Eastern Cattle Egret,2015-02-28,1
+India,10.0824032796,76.7569255829,Dendrocitta vagabunda,Rufous Treepie,2015-02-28,1
+India,10.0824032796,76.7569255829,Dinopium benghalense,Black-rumped Flameback,2015-02-28,1
+India,10.0824032796,76.7569255829,Psilopogon viridis,White-cheeked Barbet,2015-02-28,1
+India,10.0824032796,76.7569255829,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-02-28,1
+India,10.0824032796,76.7569255829,Corvus culminatus,Indian Jungle Crow,2015-02-28,1
+India,10.0824032796,76.7569255829,Merops orientalis,Green Bee-eater,2015-02-28,1
+India,10.0824032796,76.7569255829,Chlidonias hybrida,Whiskered Tern,2015-02-28,1
+India,10.0824032796,76.7569255829,Ardea purpurea,Purple Heron,2015-02-28,1
+India,10.0824032796,76.7569255829,Acridotheres tristis,Common Myna,2015-02-28,1
+India,10.0824032796,76.7569255829,Leptocoma zeylonica,Purple-rumped Sunbird,2015-02-28,1
+India,10.0824032796,76.7569255829,Halcyon smyrnensis,White-throated Kingfisher,2015-02-28,1
+India,10.0824032796,76.7569255829,Microcarbo niger,Little Cormorant,2015-02-28,1
+India,10.0824032796,76.7569255829,Axis axis,Chital,2015-02-28,1
+India,10.0824032796,76.7569255829,Ratufa macroura,Grizzled Giant Squirrel,2015-02-28,1
+India,10.0824032796,76.7569255829,Anhinga melanogaster,Oriental Darter,2015-02-28,1
+India,10.0824032796,76.7569255829,Ardea intermedia,Intermediate Egret,2015-02-28,1
+India,10.0824032796,76.7569255829,Nettapus coromandelianus,Cotton Pygmy Goose,2015-02-28,1
+India,10.0824032796,76.7569255829,Copsychus saularis,Oriental Magpie-Robin,2015-02-28,1
+India,10.0824032796,76.7569255829,Merops leschenaulti,Chestnut-headed Bee-eater,2015-02-27,1
+India,10.0824032796,76.7569255829,Dendrocitta vagabunda,Rufous Treepie,2015-02-27,1
+India,10.0824032796,76.7569255829,Dinopium benghalense,Black-rumped Flameback,2015-02-27,1
+India,10.0824032796,76.7569255829,Dicrurus aeneus,Bronzed Drongo,2015-02-27,1
+India,10.0824032796,76.7569255829,Macaca radiata,Bonnet Macaque,2015-02-27,1
+India,10.0824032796,76.7569255829,Vanellus indicus,Red-wattled Lapwing,2015-02-27,1
+India,10.0824032796,76.7569255829,Chlidonias hybrida,Whiskered Tern,2015-02-27,1
+India,10.0824032796,76.7569255829,Acridotheres tristis,Common Myna,2015-02-27,1
+India,10.0824032796,76.7569255829,Ocyceros griseus,Malabar Grey Hornbill,2015-02-27,1
+India,10.0824032796,76.7569255829,Axis axis,Chital,2015-02-27,1
+India,10.0824032796,76.7569255829,Copsychus saularis,Oriental Magpie-Robin,2015-02-27,1
+India,10.0824032796,76.7569255829,Nettapus coromandelianus,Cotton Pygmy Goose,2015-02-27,1
+India,10.0824032796,76.7569255829,Halcyon smyrnensis,White-throated Kingfisher,2015-02-27,1
+India,10.0824032796,76.7569255829,Microcarbo niger,Little Cormorant,2015-02-27,1
+India,10.0824032796,76.7569255829,Anhinga melanogaster,Oriental Darter,2015-02-27,1
+India,10.0824032796,76.7569255829,Dendrocygna javanica,Lesser Whistling Duck,2015-02-27,1
+India,10.0824032796,76.7569255829,Ardea intermedia,Intermediate Egret,2015-02-27,1
+India,10.0824032796,76.7569255829,Psilopogon malabaricus,Malabar Barbet,2015-02-27,1
+India,10.0824032796,76.7569255829,Sturnia malabarica,Chestnut-tailed Starling,2015-02-27,1
+India,10.0824032796,76.7569255829,Corvus culminatus,Indian Jungle Crow,2015-02-27,1
+India,10.0824032796,76.7569255829,Loriculus vernalis,Vernal Hanging Parrot,2015-02-27,1
+India,10.0824032796,76.7569255829,Batrachostomus moniliger,Sri Lanka Frogmouth,2015-02-27,1
+India,10.0824032796,76.7569255829,Harpactes fasciatus,Malabar Trogon,2015-02-27,1
+India,10.0824032796,76.7569255829,Oriolus chinensis,Black-naped Oriole,2015-02-27,1
+India,10.0824032796,76.7569255829,Geokichla citrina,Orange-headed Thrush,2015-02-27,1
+India,10.0824032796,76.7569255829,Ducula aenea,Green Imperial Pigeon,2015-02-27,1
+India,10.0824032796,76.7569255829,Oriolus kundoo,Indian Golden Oriole,2015-02-27,1
+India,10.0824032796,76.7569255829,Treron affinis,Grey-fronted Green Pigeon,2015-02-27,1
+India,10.0824032796,76.7569255829,Ratufa macroura,Grizzled Giant Squirrel,2015-02-27,1
+India,10.0824032796,76.7569255829,Eurystomus orientalis,Oriental Dollarbird,2015-02-27,1
+India,10.0824032796,76.7569255829,Acridotheres tristis,Common Myna,2015-02-26,1
+India,10.0824032796,76.7569255829,Chloropsis aurifrons,Golden-fronted Leafbird,2015-02-26,1
+India,10.0824032796,76.7569255829,Artamus fuscus,Ashy Woodswallow,2015-02-26,1
+India,10.0824032796,76.7569255829,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-02-26,1
+India,10.0824032796,76.7569255829,Corvus culminatus,Indian Jungle Crow,2015-02-26,1
+India,10.0824032796,76.7569255829,Dendrocitta vagabunda,Rufous Treepie,2015-02-26,1
+India,10.0824032796,76.7569255829,Ratufa macroura,Grizzled Giant Squirrel,2015-02-26,1
+India,10.0824032796,76.7569255829,Oriolus kundoo,Indian Golden Oriole,2015-02-26,1
+India,10.0824032796,76.7569255829,Gracula indica,Southern Hill Myna,2015-02-26,1
+India,10.0824032796,76.7569255829,Halcyon smyrnensis,White-throated Kingfisher,2015-02-26,1
+India,10.0824032796,76.7569255829,Dendrocygna javanica,Lesser Whistling Duck,2015-02-26,1
+India,10.0824032796,76.7569255829,Anastomus oscitans,Asian Openbill,2015-02-26,1
+India,10.0824032796,76.7569255829,Ardea intermedia,Intermediate Egret,2015-02-26,1
+India,10.0824032796,76.7569255829,Chlidonias hybrida,Whiskered Tern,2015-02-26,1
+India,10.0824032796,76.7569255829,Microcarbo niger,Little Cormorant,2015-02-26,1
+India,26.9825089399,75.848466754,Riparia chinensis,Grey-throated Martin,2001-01-17,1
+India,27.164401952,77.5177019835,Burhinus indicus,Indian Stone-curlew,2001-01-14,1
+India,27.164401952,77.5177019835,Sarcogyps calvus,Red-headed Vulture,2001-01-14,1
+India,27.1795222429,77.5114068363,Geokichla citrina,Orange-headed Thrush,2001-01-12,1
+India,27.1795222429,77.5114068363,Apus affinis affinis,Little Swift ssp affinis,2001-01-12,1
+India,27.1795222429,77.5114068363,Leucogeranus leucogeranus,Siberian Crane,2001-01-12,2
+India,27.1795222429,77.5114068363,Sarcogyps calvus,Red-headed Vulture,2001-01-12,1
+India,27.1795222429,77.5114068363,Python molurus,Indian Python,2001-01-12,1
+India,27.1741932968,77.5139254332,Sturnia pagodarum,Brahminy Starling,2001-01-12,1
+India,27.1741932968,77.5139254332,Lanius excubitor lahtora,Asian Grey Shrike,2001-01-11,1
+India,27.1741932968,77.5139254332,Halcyon smyrnensis,White-throated Kingfisher,2001-01-11,1
+India,27.1741932968,77.5139254332,Metopidius indicus,Bronze-winged Jacana,2001-01-11,1
+India,27.1741932968,77.5139254332,Antigone antigone,Sarus Crane,2001-01-11,1
+India,27.1741932968,77.5139254332,Clanga clanga,Greater Spotted Eagle,2001-01-11,1
+India,27.1741932968,77.5139254332,Threskiornis melanocephalus,Black-headed Ibis,2001-01-11,1
+India,27.1812868374,77.5168141696,Canis aureus,Golden Jackal,2001-01-11,5
+India,27.1812868374,77.5168141696,Argya striata,Jungle Babbler,2001-01-11,1
+India,27.1724938119,77.5175893307,Macaca mulatta,Rhesus Macaque,2001-01-11,20
+India,27.1953771423,77.5106343614,Herpestes edwardsii,Indian Grey Mongoose,2001-01-11,1
+India,27.2044191034,77.5083169315,Ardeola grayii,Indian Pond Heron,2001-01-11,1
+India,27.2055434654,77.5122503926,Psittacula krameri,Rose-ringed Parakeet,2001-01-11,1
+India,10.1003390097,76.6998052597,Microcarbo niger,Little Cormorant,2015-02-26,1
+India,10.1003390097,76.6998052597,Nettapus coromandelianus,Cotton Pygmy Goose,2015-02-26,1
+India,18.6,72.9,Tyto javanica stertens,Eastern Barn Owl ssp stertens,2015-02-28,1
+India,27.1577350549,77.5244522025,Python molurus,Indian Python,2015-02-09,1
+India,26.4233569799,73.7109366059,Semnopithecus dussumieri,Southern Plains Grey Langur,2015-02-09,1
+India,27.1622559535,77.5196456839,Prinia socialis,Ashy Prinia,2015-02-18,1
+India,27.1622559535,77.5196456839,Bubo coromandus,Dusky Eagle-Owl,2015-02-18,1
+India,27.1622559535,77.5196456839,Otus bakkamoena,Indian Scops Owl,2015-02-18,1
+India,27.1622559535,77.5196456839,Treron phoenicopterus,Yellow-footed Green Pigeon,2015-02-18,1
+India,27.1622559535,77.5196456839,Metopidius indicus,Bronze-winged Jacana,2015-02-18,1
+India,27.15,77.5,Porphyrio poliocephalus,Grey-headed Swamphen,2015-02-18,1
+India,27.1622559535,77.5196456839,Clanga clanga,Greater Spotted Eagle,2015-02-18,1
+India,27.1622559535,77.5196456839,Ardea alba,Great Egret,2015-02-18,1
+India,27.1622559535,77.5196456839,Ardea purpurea,Purple Heron,2015-02-18,1
+India,27.1622559535,77.5196456839,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-18,1
+India,27.1622559535,77.5196456839,Ixobrychus flavicollis,Black Bittern,2015-02-18,1
+India,27.1622559535,77.5196456839,Threskiornis melanocephalus,Black-headed Ibis,2015-02-18,1
+India,27.1622559535,77.5196456839,Ephippiorhynchus asiaticus,Black-necked Stork,2015-02-18,1
+India,27.1622559535,77.5196456839,Mycteria leucocephala,Painted Stork,2015-02-18,1
+India,27.1622559535,77.5196456839,Spatula clypeata,Northern Shoveler,2015-02-18,1
+India,27.1622559535,77.5196456839,Anas acuta,Northern Pintail,2015-02-18,1
+India,27.1622559535,77.5196456839,Tadorna ferruginea,Ruddy Shelduck,2015-02-18,1
+India,27.1622559535,77.5196456839,Dendrocygna javanica,Lesser Whistling Duck,2015-02-18,1
+India,26.034409467,76.5270995814,Galloperdix lunulata,Painted Spurfowl,2015-02-16,1
+India,24.593250791,72.7825927176,Emberiza stewarti,White-capped Bunting,2015-02-13,1
+India,24.593250791,72.7825927176,Amandava formosa,Green Avadavat,2015-02-13,1
+India,27.8092799431,74.4465636928,Anthus campestris,Tawny Pipit,2015-02-08,1
+India,27.8092799431,74.4465636928,Oenanthe deserti,Desert Wheatear,2015-02-08,1
+India,27.8092799431,74.4465636928,Lanius excubitor lahtora,Asian Grey Shrike,2015-02-08,1
+India,27.8092799431,74.4465636928,Grus virgo,Demoiselle Crane,2015-02-08,1
+India,27.8092799431,74.4465636928,Aquila heliaca,Eastern Imperial Eagle,2015-02-08,1
+India,28.467770781,76.9165134412,Passer pyrrhonotus,Sind Sparrow,2015-02-07,1
+India,28.467770781,76.9165134412,Luscinia svecica,Bluethroat,2015-02-07,1
+India,28.467770781,76.9165134412,Argya striata,Jungle Babbler,2015-02-07,1
+India,28.467770781,76.9165134412,Phylloscopus subviridis,Brooks's Leaf Warbler,2015-02-07,1
+India,28.467770781,76.9165134412,Dendrocitta vagabunda,Rufous Treepie,2015-02-07,1
+India,28.467770781,76.9165134412,Dicrurus macrocercus,Black Drongo,2015-02-07,1
+India,28.467770781,76.9165134412,Ocyceros birostris,Indian Grey Hornbill,2015-02-07,1
+India,28.467770781,76.9165134412,Upupa epops,Eurasian Hoopoe,2015-02-07,1
+India,28.467770781,76.9165134412,Halcyon smyrnensis,White-throated Kingfisher,2015-02-07,1
+India,28.467770781,76.9165134412,Coracias benghalensis,Indian Roller,2015-02-07,1
+India,28.467770781,76.9165134412,Antigone antigone,Sarus Crane,2015-02-07,1
+India,28.467770781,76.9165134412,Accipiter badius,Shikra,2015-02-07,1
+India,28.467770781,76.9165134412,Microcarbo niger,Little Cormorant,2015-02-07,1
+India,28.467770781,76.9165134412,Ardeola grayii,Indian Pond Heron,2015-02-07,1
+India,10.1202171369,77.0599937439,Upupa epops,Eurasian Hoopoe,2015-02-25,1
+India,10.1202171369,77.0599937439,Ficedula albicilla,Taiga Flycatcher,2015-02-25,1
+India,10.1202171369,77.0599937439,Corvus culminatus,Indian Jungle Crow,2015-02-25,1
+India,10.1202171369,77.0599937439,Montecincla fairbanki,Palani Laughingthrush,2015-02-25,1
+India,10.1202171369,77.0599937439,Saxicola caprata,Pied Bush Chat,2015-02-25,1
+India,10.1202171369,77.0599937439,Carpodacus erythrinus,Common Rosefinch,2015-02-25,1
+India,10.1202171369,77.0599937439,Spilopelia chinensis,Spotted Dove,2015-02-25,1
+India,10.1202171369,77.0599937439,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,1
+India,10.1202171369,77.0599937439,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-25,1
+India,10.1202171369,77.0599937439,Acridotheres fuscus,Jungle Myna,2015-02-25,1
+India,10.1202171369,77.0599937439,Lanius schach,Long-tailed Shrike,2015-02-25,1
+India,10.2067286001,77.4994468689,Psilopogon viridis,White-cheeked Barbet,2015-02-24,1
+India,10.2067286001,77.4994468689,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+India,23.4244,71.9571,Vanellus gregarius,Sociable Lapwing,2015-02-17,2
+India,23.4239,71.9551,Vanellus gregarius,Sociable Lapwing,2015-02-17,8
+India,10.2351839667,77.5039744377,Machlolophus aplonotus,Indian Black-lored Tit,2015-02-23,1
+India,10.2351839667,77.5039744377,Alcedo atthis,Common Kingfisher,2015-02-23,1
+India,10.2351839667,77.5039744377,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-23,1
+India,10.2351839667,77.5039744377,Tachybaptus ruficollis,Little Grebe,2015-02-23,1
+India,10.2351839667,77.5039744377,Butorides striata,Striated Heron,2015-02-23,1
+India,10.2351839667,77.5039744377,Psilopogon viridis,White-cheeked Barbet,2015-02-23,1
+India,10.2351839667,77.5039744377,Hemipus picatus,Bar-winged Flycatcher-shrike,2015-02-23,1
+India,10.2351839667,77.5039744377,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+India,28.4652053648,76.9186592085,Microcarbo niger,Little Cormorant,2015-02-07,1
+India,28.4652053648,76.9186592085,Ardeola grayii,Indian Pond Heron,2015-02-07,1
+India,28.4652053648,76.9186592085,Pseudibis papillosa,Red-naped Ibis,2015-02-07,1
+India,28.4652053648,76.9186592085,Pavo cristatus,Indian Peafowl,2015-02-07,1
+India,28.4652053648,76.9186592085,Sarkidiornis melanotos,Knob-billed Duck,2015-02-07,1
+India,10.2385625422,77.4936747551,Culicicapa ceylonensis,Grey-headed Canary-flycatcher,2015-02-22,1
+India,10.2385625422,77.4936747551,Eumyias albicaudatus,Nilgiri Flycatcher,2015-02-22,1
+India,10.2385625422,77.4936747551,Phoenicurus ochruros,Black Redstart,2015-02-22,1
+India,10.2385625422,77.4936747551,Tachybaptus ruficollis,Little Grebe,2015-02-22,1
+India,10.2385625422,77.4936747551,Machlolophus aplonotus,Indian Black-lored Tit,2015-02-22,1
+India,10.2385625422,77.4936747551,Montecincla fairbanki,Palani Laughingthrush,2015-02-22,1
+India,10.2385625422,77.4936747551,Spilopelia chinensis,Spotted Dove,2015-02-22,1
+India,10.2385625422,77.4936747551,Phylloscopus affinis,Tickell's Leaf Warbler,2015-02-22,1
+India,10.2385625422,77.4936747551,Iduna caligata,Booted Warbler,2015-02-22,1
+India,23.4211,71.9642,Antigone antigone,Sarus Crane,2015-02-17,1
+India,23.3934,69.3086,Emberiza buchanani,Grey-necked Bunting,2015-02-14,1
+India,23.3966,69.3099,Cinnyris asiaticus,Purple Sunbird,2015-02-14,1
+India,23.2733,69.2208,Machlolophus nuchalis,White-naped Tit,2015-02-13,1
+India,21.1799,70.5862,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-09,2
+India,18.8438319708,72.8357505798,Chroicocephalus brunnicephalus,Brown-headed Gull,2015-02-22,10
+India,26.093759343314535,76.52282454870195,Galloperdix lunulata,Painted Spurfowl,2015-02-18,1
+India,27.810063086815312,74.45957204406066,Grus virgo,Demoiselle Crane,2015-02-08,1
+India,28.4666,76.8949,Upupa epops,Eurasian Hoopoe,2014-10-17,1
+India,28.4676273653,76.8921552955,Ardea purpurea,Purple Heron,2014-10-17,1
+India,12.8114665411,80.1198577881,Circaetus gallicus,Short-toed Snake Eagle,2015-02-18,1
+India,12.8114665411,80.1198577881,Cypsiurus balasiensis,Asian Palm Swift,2015-02-18,1
+India,12.8114665411,80.1857757568,Anhinga melanogaster,Oriental Darter,2015-02-18,1
+India,12.8114665411,80.1857757568,Dendrocygna bicolor,Fulvous Whistling Duck,2015-02-18,1
+India,12.7900399837,80.1418304443,Phaenicophaeus viridirostris,Blue-faced Malkoha,2015-02-18,1
+India,12.7900399837,80.1418304443,Acrocephalus dumetorum,Blyth's Reed Warbler,2015-02-18,1
+India,12.7900399837,80.1418304443,Athene brama,Spotted Owlet,2015-02-18,1
+India,12.7900399837,80.1418304443,Anas poecilorhyncha,Indian Spot-billed Duck,2015-02-18,1
+India,18.8568689394,72.8183269501,Chroicocephalus brunnicephalus,Brown-headed Gull,2015-02-19,1
+India,23.2056,71.7466,Vanellus leucurus,White-tailed Lapwing,2015-02-19,1
+India,23.2115,71.7523,Tadorna ferruginea,Ruddy Shelduck,2015-02-19,50
+India,23.2174,71.7333,Vanellus leucurus,White-tailed Lapwing,2015-02-18,1
+India,23.4159,71.9681,Vanellus gregarius,Sociable Lapwing,2015-02-17,25
+India,23.4211,71.9642,Cursorius coromandelicus,Indian Courser,2015-02-17,15
+India,23.4235,71.9597,Vanellus gregarius,Sociable Lapwing,2015-02-17,6
+India,23.4239911661,71.9550752454,Vanellus gregarius,Sociable Lapwing,2015-02-17,22
+India,23.2758,69.223,Machlolophus nuchalis,White-naped Tit,2015-02-13,2
+India,23.5648,69.2782,Hypocolius ampelinus,Grey Hypocolius,2015-02-13,1
+India,22.8017,69.4292,Ephippiorhynchus asiaticus,Black-necked Stork,2015-02-15,1
+India,22.7796,69.4434,Ichthyaetus ichthyaetus,Pallas's Gull,2015-02-15,3
+India,13.0257986821,80.2808761597,Dinopium benghalense,Black-rumped Flameback,2015-02-14,1
+India,13.0257986821,80.2808761597,Herpestes edwardsii,Indian Grey Mongoose,2015-02-14,1
+India,13.0257986821,80.2808761597,Funambulus palmarum,Indian Palm Squirrel,2015-02-14,1
+India,13.0257986821,80.2808761597,Axis axis,Chital,2015-02-14,1
+India,13.0257986821,80.2808761597,Canis aureus,Golden Jackal,2015-02-14,1
+India,13.0257986821,80.2808761597,Antilope cervicapra,Blackbuck,2015-02-14,1
+India,13.0257986821,80.2808761597,Argya affinis,Yellow-billed Babbler,2015-02-14,1
+India,13.0257986821,80.2808761597,Cinnyris asiaticus,Purple Sunbird,2015-02-14,1
+India,13.0257986821,80.2808761597,Psilopogon haemacephalus,Coppersmith Barbet,2015-02-14,1
+India,13.0257986821,80.2808761597,Pteropus giganteus,Indian Flying Fox,2015-02-14,1
+India,13.0257986821,80.2808761597,Merops orientalis,Green Bee-eater,2015-02-14,1
+India,13.0257986821,80.2808761597,Lalage melanoptera,Black-headed Cuckooshrike,2015-02-14,1
+India,13.0257986821,80.2808761597,Corvus culminatus,Indian Jungle Crow,2015-02-14,1
+India,13.0257986821,80.2808761597,Psittacula krameri,Rose-ringed Parakeet,2015-02-14,1
+India,28.4661485192,76.8953376103,Argya striata,Jungle Babbler,2014-10-17,3
+India,34.3248719687098,77.1130691972133,Pyrrhocorax graculus,Alpine Chough,2014-10-16,1
+India,34.3314672429263,77.1367661390118,Alectoris chukar,Chukar Partridge,2014-10-16,8
+India,34.3248719687098,77.1130691972133,Tetraogallus himalayensis,Himalayan Snowcock,2014-10-16,1
+India,34.2994314677447,77.1609888728194,Aquila chrysaetos,Golden Eagle,2014-10-16,1
+India,34.3314034292655,77.1367087017297,Pyrrhocorax pyrrhocorax,Red-billed Chough,2014-10-15,5
+India,33.32291814,77.9540815349,Montifringilla adamsi,Black-winged Snowfinch,2014-10-14,20
+India,33.3229442082823,77.9540341979289,Pyrgilauda blanfordi,Blanford's Snowfinch,2014-10-14,3
+India,33.360444082,78.0191230772,Tadorna ferruginea,Ruddy Shelduck,2014-10-14,60
+India,33.2296385155405,77.9895410286321,Anser indicus,Bar-headed Goose,2014-10-14,30
+India,33.5654889399671,77.750557998798,Eremophila alpestris,Horned Lark,2014-10-13,40
+India,33.6558,77.7308,Emberiza pusilla,Little Bunting,2014-10-13,1
+India,33.5731792887279,77.7503458335794,Leucosticte brandti,Brandt's Mountain Finch,2014-10-13,20
+India,33.5736283905997,77.7500873117472,Montifringilla adamsi,Black-winged Snowfinch,2014-10-13,40
+India,33.5654889399671,77.750557998798,Eremophila alpestris,Horned Lark,2014-10-13,50
+India,34.0632610340342,77.4209452853504,Parus cinereus caschmirensis,Cinereous Tit ssp caschmirensis,2014-10-12,1
+India,34.0589615522,77.4222582579,Pseudois nayaur,Blue Sheep,2014-10-11,60
+India,34.053171428,77.4296951224,Carpodacus rubicilloides,Streaked Rosefinch,2014-10-10,9
+India,34.073803846920804,77.420844400738,Prunella collaris,Alpine Accentor,2014-10-09,2
+India,34.0739189598933,77.4210282211548,Falco peregrinus babylonicus,Peregrine Falcon ssp babylonicus,2014-10-09,1
+India,34.05,77.4,Vulpes vulpes,Red Fox,2014-10-08,1
+India,34.0578427026,77.4227911793,Tetraogallus himalayensis,Himalayan Snowcock,2014-10-08,10
+India,34.0653271584,77.4201671869,Columba rupestris,Hill Pigeon,2014-10-07,25
+India,34.0668093944,77.4185159057,Pseudois nayaur,Blue Sheep,2014-10-07,30
+India,34.0653271583703,77.420167186863,Alectoris chukar,Chukar Partridge,2014-10-07,25
+India,34.056359022,77.6670203079,Alectoris chukar,Chukar Partridge,2014-10-06,5
+India,34.0827400145,77.6115026046,Gallinago gallinago,Common Snipe,2014-10-06,1
+India,34.1064729542,77.5733268075,Phylloscopus sindianus,Mountain Chiffchaff,2014-10-05,10
+India,23.48859976,69.25099911,Emberiza buchanani,Grey-necked Bunting,2015-01-29,8
+India,23.48859976,69.25099911,Gymnoris xanthocollis,Yellow-throated Sparrow,2015-01-29,1
+India,23.48859976,69.25099911,Passer domesticus bactrianus,House Sparrow ssp bactrianus,2015-01-29,4
+India,23.48563253,69.25168313,Ammomanes phoenicura,Rufous-tailed Lark,2015-01-29,2
+India,23.43411255,69.26251591,Emberiza buchanani,Grey-necked Bunting,2015-01-29,2
+India,23.43526836,69.26481131,Saxicola maurus,Siberian Stonechat,2015-01-29,1
+India,23.56451141,69.27876571,Hypocolius ampelinus,Grey Hypocolius,2015-01-30,1
+India,23.56438089,69.27882597,Oenanthe picata,Variable Wheatear,2015-01-30,2
+India,23.56384476,69.27948732,Hypocolius ampelinus,Grey Hypocolius,2015-01-30,1
+India,23.58107035,69.2527015,Calandrella brachydactyla longipennis,Greater Short-toed Lark ssp longipennis,2015-01-30,11
+India,23.58107817,69.25272271,Oenanthe chrysopygia,Red-tailed Wheatear,2015-01-30,1
+India,23.58107814,69.25272094,Ammomanes phoenicura,Rufous-tailed Lark,2015-01-30,1
+India,23.58105887,69.25276285,Sus scrofa davidi,Wild Boar ssp davidi,2015-01-30,6
+India,23.581386,69.25332595,Gymnoris xanthocollis,Yellow-throated Sparrow,2015-01-30,1
+India,23.59840298,69.27199423,Lanius excubitor lahtora,Asian Grey Shrike,2015-01-30,2
+India,23.60569509,69.27698016,Aquila nipalensis,Steppe Eagle,2015-01-30,12
+India,23.60737067,69.29513856,Sylvia nana,Asian Desert Warbler,2015-01-30,6
+India,23.60718043,69.29232885,Oenanthe picata,Variable Wheatear,2015-01-30,1
+India,23.59207801,69.26764729,Pterocles exustus,Chestnut-bellied Sandgrouse,2015-01-30,3
+India,23.27627937,69.23096272,Prinia buchanani,Rufous-fronted Prinia,2015-01-30,1
+India,23.27665304,69.23389113,Emberiza buchanani,Grey-necked Bunting,2015-01-30,5
+India,23.27625081,69.23686116,Pericrocotus cinnamomeus,Small Minivet,2015-01-30,1
+India,23.27197185,69.2380022,Aegithina nigrolutea,Marshall's Iora,2015-01-30,1
+India,23.27066083,69.23729133,Tephrodornis pondicerianus,Common Woodshrike,2015-01-30,2
+India,23.27026452,69.23840395,Pericrocotus cinnamomeus,Small Minivet,2015-01-30,1
+India,23.27569745,69.2391925,Prinia buchanani,Rufous-fronted Prinia,2015-01-30,2
+India,23.27569887,69.239185,Aegithina nigrolutea,Marshall's Iora,2015-01-30,1
+India,23.27634848,69.23604147,Machlolophus nuchalis,White-naped Tit,2015-01-30,1
+India,23.27681957,69.23407349,Pericrocotus cinnamomeus,Small Minivet,2015-01-30,2
+India,23.35522742,69.263742679999993,Dicrurus macrocercus,Black Drongo,2015-01-31,1
+India,23.34461871,69.27221303,Cinnyris asiaticus,Purple Sunbird,2015-01-31,1
+India,23.19321909,70.71884491,Egretta gularis,Western Reef Heron,2015-01-31,11
+India,23.16060569,70.73479304,Ardea alba,Great Egret,2015-01-31,50
+India,21.20013854,70.91746729,Pavo cristatus,Indian Peafowl,2015-01-31,1
+India,21.18010744,70.58552539,Spilopelia chinensis,Spotted Dove,2015-02-01,1
+India,21.18098922,70.58546657,Acridotheres tristis,Common Myna,2015-02-01,1
+India,21.18151359,70.58494024,Corvus culminatus,Indian Jungle Crow,2015-02-01,4
+India,21.18014719,70.58552182,Psilopogon haemacephalus,Coppersmith Barbet,2015-02-01,1
+India,21.18012877,70.58556571,Parus cinereus,Cinereous Tit,2015-02-01,1
+India,21.18014022,70.58556974,Cyornis tickelliae,Tickell's Blue Flycatcher,2015-02-01,1
+India,21.18014039,70.58557064,Zosterops palpebrosus,Indian White-eye,2015-02-01,3
+India,21.18014092,70.58557081,Rhipidura aureola,White-browed Fantail,2015-02-01,1
+India,21.18014172,70.58557083,Aegithina tiphia,Common Iora,2015-02-01,1
+India,21.18011144,70.58557145,Ficedula parva,Red-breasted Flycatcher,2015-02-01,1
+India,21.17999492,70.58555304,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-01,1
+India,21.18014738,70.58556138,Accipiter badius,Shikra,2015-02-01,1
+India,21.18001584,70.58570713,Copsychus saularis,Oriental Magpie-Robin,2015-02-01,1
+India,21.1800128,70.5857042,Cyornis tickelliae,Tickell's Blue Flycatcher,2015-02-01,1
+India,21.17702599,70.58542763,Motacilla cinerea,Grey Wagtail,2015-02-01,1
+India,21.19489004,70.66294208,Butorides striata,Striated Heron,2015-02-01,1
+India,21.18161625,70.58478723,Hemiprocne coronata,Crested Treeswift,2015-02-01,10
+India,21.18086869,70.58507145,Ficedula parva,Red-breasted Flycatcher,2015-02-01,1
+India,21.18016329,70.58577416,Corvus culminatus,Indian Jungle Crow,2015-02-02,3
+India,21.17999912,70.58568143,Copsychus saularis,Oriental Magpie-Robin,2015-02-02,2
+India,21.17873028,70.58391604,Bubulcus coromandus,Eastern Cattle Egret,2015-02-02,2
+India,21.17833689,70.58353948,Ardeola grayii,Indian Pond Heron,2015-02-02,1
+India,21.2145835,70.5201253,Copsychus fulicatus,Indian Robin,2015-02-02,1
+India,21.96146799,72.08447866,Grus grus,Common Crane,2015-02-02,11
+India,22.01903963,72.1014538,Platalea leucorodia,Eurasian Spoonbill,2015-02-02,1
+India,22.04551892,72.09617447,Gelochelidon nilotica,Gull-billed Tern,2015-02-02,1
+India,22.04442626,72.09325163,Lanius isabellinus,Isabelline Shrike,2015-02-02,2
+India,22.04495632,72.09194008,Saxicola maurus,Siberian Stonechat,2015-02-02,1
+India,22.05198642,72.06030376,Grus grus,Common Crane,2015-02-02,27
+India,22.04956519,72.04867523,Antilope cervicapra,Blackbuck,2015-02-02,3
+India,22.04362063,72.01951804,Lanius vittatus,Bay-backed Shrike,2015-02-02,1
+India,22.04402326,72.02058103,Ammomanes phoenicura,Rufous-tailed Lark,2015-02-02,5
+India,22.04402321,72.02058097,Boselaphus tragocamelus,Nilgai,2015-02-02,6
+India,22.04402348,72.02059175,Copsychus fulicatus,Indian Robin,2015-02-02,1
+India,22.04402337,72.0205921,Herpestes auropunctatus,Small Indian Mongoose,2015-02-02,1
+India,22.04402337,72.02058398,Falco tinnunculus,Common Kestrel,2015-02-02,1
+India,22.044053859999998,72.02051504,Boselaphus tragocamelus,Nilgai,2015-02-02,25
+India,22.03896552,72.04018922,Grus grus,Common Crane,2015-02-02,601
+India,22.03896461,72.04018062,Grus virgo,Demoiselle Crane,2015-02-02,42
+India,22.03897508,72.04019712,Pelecanus crispus,Dalmatian Pelican,2015-02-02,8
+India,22.03898066,72.04020587,Pelecanus onocrotalus,Great White Pelican,2015-02-02,15
+India,22.03898276,72.04020742,Phoenicopterus roseus,Greater Flamingo,2015-02-02,30
+India,22.03898384,72.04020784,Platalea leucorodia,Eurasian Spoonbill,2015-02-02,180
+India,22.03898409,72.04020797,Mycteria leucocephala,Painted Stork,2015-02-02,7
+India,22.03898601,72.04021092,Ardea purpurea,Purple Heron,2015-02-02,2
+India,22,72,Porphyrio poliocephalus,Grey-headed Swamphen,2015-02-02,1
+India,22.03810306,72.03723227,Circaetus gallicus,Short-toed Snake Eagle,2015-02-02,2
+India,22.03561336,72.03108912,Saxicola macrorhynchus,White-browed Bush Chat,2015-02-02,1
+India,22.03708306,72.03385803,Circus macrourus,Pallid Harrier,2015-02-02,1
+India,22.03543799,72.03045111,Sus scrofa cristatus,Indian Wild Boar,2015-02-02,15
+India,22.03830476,72.02525694,Calidris temminckii,Temminck's Stint,2015-02-02,3
+India,22.03890071,72.02448131,Tringa erythropus,Spotted Redshank,2015-02-02,2
+India,22.04461715,72.02234618,Anthus similis,Long-billed Pipit,2015-02-02,1
+India,22.04461715,72.02234618,Upupa epops,Eurasian Hoopoe,2015-02-02,1
+India,22.04461715,72.02234618,Antilope cervicapra,Blackbuck,2015-02-02,501
+India,22.04604985,72.03103463,Circus macrourus,Pallid Harrier,2015-02-02,40
+India,22.05435356,72.08056744,Boselaphus tragocamelus,Nilgai,2015-02-03,2
+India,22.06461488,72.04026373,Hyaena hyaena,Striped hyena,2015-02-03,1
+India,22.06453852,72.04030845,Falco jugger,Laggar Falcon,2015-02-03,1
+India,22.06450887,72.04029337,Boselaphus tragocamelus,Nilgai,2015-02-03,35
+India,22.06450887,72.04029337,Sus scrofa cristatus,Indian Wild Boar,2015-02-03,20
+India,22.06450887,72.04029337,Circus macrourus,Pallid Harrier,2015-02-03,15
+India,22.06450887,72.04029337,Antilope cervicapra,Blackbuck,2015-02-03,150
+India,22.06751462,72.0334654,Vulpes bengalensis,Bengal Fox,2015-02-03,3
+India,22.06901625,72.03213162,Upupa epops,Eurasian Hoopoe,2015-02-03,1
+India,22.03739153,72.03532054,Francolinus pictus,Painted Francolin,2015-02-03,3
+India,22.03749029,72.03546842,Burhinus indicus,Indian Stone-curlew,2015-02-03,2
+India,22.03749029,72.03546842,Ammomanes phoenicura,Rufous-tailed Lark,2015-02-03,11
+India,22.03749029,72.03546842,Lanius vittatus,Bay-backed Shrike,2015-02-03,4
+India,22.03749029,72.03546842,Saxicola maurus,Siberian Stonechat,2015-02-03,4
+India,22.03749029,72.03546842,Argya caudata,Common Babbler,2015-02-03,4
+India,22.85,72.4,Porphyrio poliocephalus,Grey-headed Swamphen,2015-02-03,10
+India,21.13781739,78.7275362,Semnopithecus dussumieri,Southern Plains Grey Langur,2015-02-04,4
+India,21.43913847,77.29545825,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-04,11
+India,21.44057594,77.29607434,Dendrocitta vagabunda,Rufous Treepie,2015-02-04,1
+India,21.49460725,77.31618628,Dicrurus caerulescens,White-bellied Drongo,2015-02-04,1
+India,21.49460423,77.31619745,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-02-04,1
+India,21.49442936,77.31474506,Chrysocolaptes festivus,White-naped Woodpecker,2015-02-04,1
+India,21.49784617,77.31004391,Macaca mulatta,Rhesus Macaque,2015-02-04,15
+India,21.59605652,77.13685799,Psittacula eupatria,Alexandrine Parakeet,2015-02-04,2
+India,21.59642784,77.13693442,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-04,10
+India,21.59676483,77.13677848,Saxicola maurus,Siberian Stonechat,2015-02-04,1
+India,21.59491024,77.14054181,Coracias benghalensis,Indian Roller,2015-02-04,3
+India,21.59536222,77.14076702,Psittacula eupatria,Alexandrine Parakeet,2015-02-04,1
+India,21.59672777,77.13779812,Coracias benghalensis,Indian Roller,2015-02-05,3
+India,21.59452387,77.13744158,Bubulcus coromandus,Eastern Cattle Egret,2015-02-05,25
+India,21.59502312,77.1389546,Psittacula cyanocephala,Plum-headed Parakeet,2015-02-05,15
+India,21.59479881,77.14036446,Psittacula eupatria,Alexandrine Parakeet,2015-02-05,1
+India,21.49756471,77.31522699,Aquila fasciata,Bonelli's Eagle,2015-02-05,1
+India,21.49438462,77.31763879,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-02-05,1
+India,21.49822627,77.31490337,Macaca mulatta,Rhesus Macaque,2015-02-05,3
+India,21.49811072,77.31479877,Riparia chinensis chinensis,Grey-throated Martin ssp chinensis,2015-02-05,1
+India,21.51551061,77.23530771,Streptopelia orientalis,Oriental Turtle Dove,2015-02-05,1
+India,21.53662016,77.25649864,Glaucidium radiatum,Jungle Owlet,2015-02-05,1
+India,21.53672771,77.2573677,Dicrurus paradiseus,Greater Racket-tailed Drongo,2015-02-05,1
+India,21.39510109,77.32874171,Dendrocitta vagabunda,Rufous Treepie,2015-02-06,1
+India,21.3838757,77.33523809,Phylloscopus griseolus,Sulphur-bellied Warbler,2015-02-06,10
+India,21.3838757,77.33523809,Phylloscopus griseolus,Sulphur-bellied Warbler,2015-02-06,1
+India,21.37990764,77.33550551,Gymnoris xanthocollis,Yellow-throated Sparrow,2015-02-06,6
+India,26.73407605,70.59286219,Cursorius cursor,Cream-colored Courser,2015-01-23,7
+India,31.1392562154,74.9530220032,Egretta garzetta,Little Egret,2015-01-19,3
+India,31.1272441562,74.9505758286,Egretta garzetta,Little Egret,2015-01-19,1
+India,31.1391643859,74.9542880058,Anhinga melanogaster,Oriental Darter,2015-01-19,10
+India,31.1393664108,74.9537944794,Phalacrocorax fuscicollis,Indian Cormorant,2015-01-19,201
+India,29.6925862035,79.0512083843,Naemorhedus goral,Himalayan Goral,2014-12-12,1
+India,20.3425667353,79.3256378034,Tetracerus quadricornis,Four-horned Antelope,2014-11-29,1
+India,22.4993624736,78.0889892019,Ratufa indica,Indian Giant Squirrel,2014-12-04,1
+India,23.6216265076,80.969696017,Muntiacus muntjak s.l.,Red Muntjac group unknown,2014-12-06,1
+India,22.0454861004,72.057723992,Vulpes bengalensis,Bengal Fox,2014-11-23,1
+India,21.3289079277,70.7789611677,Semnopithecus dussumieri,Southern Plains Grey Langur,2014-11-26,1
+India,23.25,71.5,Vulpes vulpes,Red Fox,2014-11-27,1
+India,23.3382209771,71.4404292405,Boselaphus tragocamelus,Nilgai,2014-11-27,2
+India,23.3785646531,71.4624018967,Felis chaus,Jungle Cat,2014-11-28,1
+India,21.3301871534,70.7899474958,Axis axis,Chital,2014-11-25,1
+India,21.3237909131,70.7810211042,Canis aureus,Golden Jackal,2014-12-25,1
+India,21.3212323389,70.7789611677,Herpestes edwardsii,Indian Grey Mongoose,2014-11-25,1
+India,22.0372121096,72.0422744681,Sus scrofa,Wild Boar,2014-11-24,5
+India,22.0384850627,72.0436477591,Boselaphus tragocamelus,Nilgai,2014-11-23,2
+India,22.0375303489,72.0429611136,Felis chaus,Jungle Cat,2014-11-22,1
+India,22.0426220814,72.0467376639,Antilope cervicapra,Blackbuck,2014-11-21,1
+India,21.167744485,70.5821371078,Elanus caeruleus,Black-winged Kite,2015-02-09,1
+India,21.167744485,70.5821371078,Phoenicurus ochruros,Black Redstart,2015-02-09,1
+India,21.167744485,70.5821371078,Aegithina tiphia,Common Iora,2015-02-09,1
+India,21.167744485,70.5821371078,Dicrurus leucophaeus,Ashy Drongo,2015-02-09,1
+India,21.167744485,70.5821371078,Spilopelia chinensis,Spotted Dove,2015-02-09,1
+India,21.167744485,70.5821371078,Bubulcus coromandus,Eastern Cattle Egret,2015-02-09,1
+India,21.167744485,70.5821371078,Motacilla maderaspatensis,White-browed Wagtail,2015-02-09,1
+India,21.167744485,70.5821371078,Cyornis rubeculoides,Blue-throated Blue Flycatcher,2015-02-09,1
+India,21.167744485,70.5821371078,Zosterops palpebrosus,Indian White-eye,2015-02-09,1
+India,21.167744485,70.5821371078,Copsychus saularis,Oriental Magpie-Robin,2015-02-09,1
+India,21.167744485,70.5821371078,Parus cinereus,Cinereous Tit,2015-02-09,1
+India,21.167744485,70.5821371078,Anhinga melanogaster,Oriental Darter,2015-02-09,1
+India,21.167744485,70.5821371078,Psilopogon haemacephalus,Coppersmith Barbet,2015-02-09,1
+India,21.167744485,70.5821371078,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-09,1
+India,21.167744485,70.5821371078,Sterna aurantia,River Tern,2015-02-09,1
+India,21.167744485,70.5821371078,Pseudibis papillosa,Red-naped Ibis,2015-02-09,1
+India,21.167744485,70.5821371078,Ardea intermedia,Intermediate Egret,2015-02-09,1
+India,21.167744485,70.5821371078,Tringa nebularia,Common Greenshank,2015-02-09,1
+India,21.167744485,70.5821371078,Himantopus himantopus,Black-winged Stilt,2015-02-09,1
+India,21.167744485,70.5821371078,Corvus culminatus,Indian Jungle Crow,2015-02-09,1
+India,24.58175333,72.72359403,Semnopithecus dussumieri,Southern Plains Grey Langur,2015-01-26,50
+India,31.1263587976,74.9506799292,Phylloscopus collybita tristis,Siberian Chiffchaff,2015-01-19,15
+India,21.1690251107,70.6013631821,Tringa nebularia,Common Greenshank,2015-02-08,1
+India,21.1690251107,70.6013631821,Bubulcus coromandus,Eastern Cattle Egret,2015-02-08,1
+India,21.1690251107,70.6013631821,Prinia socialis,Ashy Prinia,2015-02-08,1
+India,21.1690251107,70.6013631821,Alcedo atthis,Common Kingfisher,2015-02-08,1
+India,21.15,70.6,Porphyrio poliocephalus,Grey-headed Swamphen,2015-02-08,1
+India,21.1690251107,70.6013631821,Anhinga melanogaster,Oriental Darter,2015-02-08,1
+India,21.1690251107,70.6013631821,Dicrurus leucophaeus,Ashy Drongo,2015-02-08,1
+India,21.1690251107,70.6013631821,Motacilla maderaspatensis,White-browed Wagtail,2015-02-08,1
+India,21.1690251107,70.6013631821,Ardeola grayii,Indian Pond Heron,2015-02-08,1
+India,21.1690251107,70.6013631821,Himantopus himantopus,Black-winged Stilt,2015-02-08,1
+India,21.1690251107,70.6013631821,Plegadis falcinellus,Glossy Ibis,2015-02-08,1
+India,21.1690251107,70.6013631821,Zosterops palpebrosus,Indian White-eye,2015-02-08,1
+India,21.1690251107,70.6013631821,Carpodacus erythrinus,Common Rosefinch,2015-02-08,1
+India,21.1690251107,70.6013631821,Ardea intermedia,Intermediate Egret,2015-02-08,1
+India,21.1690251107,70.6013631821,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-08,1
+India,21.1690251107,70.6013631821,Microcarbo niger,Little Cormorant,2015-02-08,1
+India,21.1690251107,70.6013631821,Pseudibis papillosa,Red-naped Ibis,2015-02-08,1
+India,21.1690251107,70.6013631821,Copsychus fulicatus,Indian Robin,2015-02-08,1
+India,21.1690251107,70.6013631821,Aegithina tiphia,Common Iora,2015-02-08,1
+India,21.1690251107,70.6013631821,Copsychus saularis,Oriental Magpie-Robin,2015-02-08,1
+India,21.1690251107,70.6013631821,Anthus trivialis,Tree Pipit,2015-02-08,1
+India,21.1690251107,70.6013631821,Acridotheres tristis,Common Myna,2015-02-08,1
+India,21.1690251107,70.6013631821,Corvus culminatus,Indian Jungle Crow,2015-02-08,1
+India,21.167744485,70.597243309,Corvus culminatus,Indian Jungle Crow,2015-02-07,1
+India,20.7557928342,70.8913421631,Pandion haliaetus,Western Osprey,2015-02-06,1
+India,20.7557928342,70.8913421631,Elanus caeruleus,Black-winged Kite,2015-02-06,1
+India,20.7557928342,70.8913421631,Anas crecca,Eurasian Teal,2015-02-06,1
+India,20.7557928342,70.8913421631,Spatula clypeata,Northern Shoveler,2015-02-06,1
+India,20.7557928342,70.8913421631,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-06,1
+India,20.7557928342,70.8913421631,Dicrurus macrocercus,Black Drongo,2015-02-06,1
+India,20.7557928342,70.8913421631,Plegadis falcinellus,Glossy Ibis,2015-02-06,1
+India,20.75,70.85,Porphyrio poliocephalus,Grey-headed Swamphen,2015-02-06,1
+India,20.7557928342,70.8913421631,Alcedo atthis,Common Kingfisher,2015-02-06,1
+India,20.7557928342,70.8913421631,Tachybaptus ruficollis,Little Grebe,2015-02-06,1
+India,20.7557928342,70.8913421631,Acrocephalus agricola,Paddyfield Warbler,2015-02-06,1
+India,20.7557928342,70.8913421631,Corvus culminatus,Indian Jungle Crow,2015-02-06,1
+India,23.24090406,70.67593451,Tachybaptus ruficollis albescens,Little Grebe ssp albescens,2015-01-31,4
+India,23.16060569,70.73479304,Egretta gularis,Western Reef Heron,2015-01-31,101
+India,21.20013854,70.91746729,Pavo cristatus,Indian Peafowl,2015-01-31,10
+India,22.06901625,72.03213162,Athene brama indica,Spotted Owlet ssp indica,2015-02-03,1
+India,22.75033481,72.30275614,Grus virgo,Demoiselle Crane,2015-02-03,1200
+India,21.59,77.14,Athene blewitti,Forest Owlet,2015-02-04,1
+India,21.59,77.13,Athene blewitti,Forest Owlet,2015-02-05,1
+India,21.4973517,77.31481315,Phylloscopus griseolus,Sulphur-bellied Warbler,2015-02-05,1
+India,21.50298993,77.3200295,Pteropus giganteus,Indian Flying Fox,2015-02-05,101
+India,20.8174201103,70.9352874756,Charadrius dubius,Little Ringed Plover,2015-02-05,1
+India,20.8174201103,70.9352874756,Anthus rufulus,Paddyfield Pipit,2015-02-05,1
+India,20.8174201103,70.9352874756,Motacilla flava lutea,Yellow-headed Wagtail,2015-02-05,1
+India,20.8174201103,70.9352874756,Platalea leucorodia,Eurasian Spoonbill,2015-02-05,1
+India,20.8174201103,70.9352874756,Anas crecca,Eurasian Teal,2015-02-05,1
+India,20.8174201103,70.9352874756,Spatula clypeata,Northern Shoveler,2015-02-05,1
+India,20.8174201103,70.9352874756,Circus aeruginosus,Western Marsh Harrier,2015-02-05,1
+India,20.8174201103,70.9352874756,Tachybaptus ruficollis,Little Grebe,2015-02-05,1
+India,20.8174201103,70.9352874756,Pandion haliaetus,Western Osprey,2015-02-05,1
+India,20.8174201103,70.9352874756,Ardea alba,Great Egret,2015-02-05,1
+India,20.8174201103,70.9352874756,Argya caudata,Common Babbler,2015-02-05,1
+India,20.8174201103,70.9352874756,Corvus culminatus,Indian Jungle Crow,2015-02-05,1
+India,20.8174201103,70.9352874756,Threskiornis melanocephalus,Black-headed Ibis,2015-02-05,1
+India,20.8174201103,70.9352874756,Accipiter badius,Shikra,2015-02-05,1
+India,20.8174201103,70.9352874756,Alcedo atthis,Common Kingfisher,2015-02-05,1
+India,20.8174201103,70.9352874756,Buteo rufinus,Long-legged Buzzard,2015-02-05,1
+India,20.776338055,70.9133148193,Anas acuta,Northern Pintail,2015-02-05,1
+India,20.6941404266,70.9792327881,Anas platyrhynchos forma domestica,Domestic Duck,2015-02-04,1
+India,20.7508968813,70.9845542908,Athene brama,Spotted Owlet,2015-02-04,1
+India,20.7508968813,70.9845542908,Hirundo smithii,Wire-tailed Swallow,2015-02-04,1
+India,20.7508968813,70.9845542908,Motacilla alba,White Wagtail,2015-02-04,1
+India,20.7508968813,70.9845542908,Anas crecca,Eurasian Teal,2015-02-04,1
+India,20.7508968813,70.9845542908,Iduna rama,Sykes's Warbler,2015-02-04,1
+India,20.7508968813,70.9845542908,Plegadis falcinellus,Glossy Ibis,2015-02-04,1
+India,20.7508968813,70.9845542908,Tachybaptus ruficollis,Little Grebe,2015-02-04,1
+India,20.7508968813,70.9845542908,Dicrurus macrocercus,Black Drongo,2015-02-04,1
+India,20.7508968813,70.9845542908,Spatula clypeata,Northern Shoveler,2015-02-04,1
+India,20.7508968813,70.9845542908,Alcedo atthis,Common Kingfisher,2015-02-04,1
+India,20.7508968813,70.9845542908,Anthus rufulus,Paddyfield Pipit,2015-02-04,1
+India,20.7508968813,70.9845542908,Ardea alba,Great Egret,2015-02-04,1
+India,20.7508968813,70.9845542908,Accipiter badius,Shikra,2015-02-04,1
+India,20.7508968813,70.9845542908,Corvus culminatus,Indian Jungle Crow,2015-02-04,1
+India,20.7508968813,70.9845542908,Threskiornis melanocephalus,Black-headed Ibis,2015-02-04,1
+India,20.7508968813,70.9845542908,Platalea leucorodia,Eurasian Spoonbill,2015-02-04,1
+India,20.7508968813,70.9845542908,Athene brama,Spotted Owlet,2015-02-03,1
+India,20.7508968813,70.9845542908,Corvus culminatus,Indian Jungle Crow,2015-02-03,1
+India,20.6943813051,70.9900474548,Gelochelidon nilotica,Gull-billed Tern,2015-02-03,1
+India,20.6943813051,70.9900474548,Motacilla alba,White Wagtail,2015-02-05,1

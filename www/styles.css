@@ -1,0 +1,115 @@
+.grid-container {
+  width: 100%;
+  height: 100vh;
+  grid-area: app;
+  display: grid;
+  grid-template-areas:
+    "grid-sidebar main";
+  grid-template-rows:
+    1fr;
+  grid-template-columns:
+    1fr 3fr;
+}
+
+@media (max-width: 600px) {
+
+  .grid-container {
+    grid-area: app;
+    display: grid;
+    grid-template-areas:
+      "grid-sidebar"
+      "main";
+    grid-template-columns:
+      1fr;
+    grid-template-rows:
+      min-content 1000px;
+    overflow: scroll;
+  }
+}
+
+.grid-sidebar {
+  grid-area: grid-sidebar;
+  display: grid;
+  grid-template-areas:
+    "sidebar-title"
+    "select-country"
+    "select-species"
+    "select-date-range";
+  grid-template-rows:
+    repeat(2, min-content) repeat(2, 1fr);
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  background: #343A40;
+  box-shadow: 10px 0px 50px rgba(0, 0, 0, 0.3);
+  z-index: 100;
+}
+
+.sidebar-title {
+  grid-area: sidebar-title;
+  padding-bottom: 40px;
+}
+
+.select-country {
+  grid-area: select-country;
+}
+
+.select-species {
+  grid-area: select-species;
+}
+
+.select-date-range {
+  grid-area: select-date-range;
+}
+
+.main {
+  grid-area: main;
+  display: grid;
+  grid-template-areas:
+    "grid-map"
+    "plot";
+  grid-template-rows:
+    2fr 1fr;
+  grid-template-cols:
+    1fr;
+  grid-row-gap: 20px;
+  padding: 20px;
+  background: #454D55;
+}
+
+.box {
+  background: #343A40;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.grid-map {
+  grid-area: grid-map;
+  display: grid;
+  grid-template-areas:
+    "map-title"
+    "map";
+  grid-template-rows:
+    min-content 1fr;
+  grid-template-cols:
+    1fr;
+  background: #343A40;
+}
+
+.map-title {
+  grid-area: map-title;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
+.map {
+  grid-area: map;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+.plot {
+  grid-area: plot;
+  padding: 20px;
+}

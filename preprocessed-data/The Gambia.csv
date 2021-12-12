@@ -1,0 +1,616 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+The Gambia,13.0858000514,-16.766674519,Rhyothemis semihyalina,Phantom Flutterer,2014-12-03,1
+The Gambia,13.4608349461,-16.7078107597,Actitis hypoleucos,Common Sandpiper,2014-12-01,1
+The Gambia,13.091118465,-16.763062478,Diplacodes lefebvrii,Black Percher,2014-12-03,51
+The Gambia,13.0860188097,-16.7666244516,Orthetrum trinacria,Long Skimmer,2014-12-03,1
+The Gambia,13.2354950682,-16.5350961687,Pycnonotus barbatus inornatus,Common Bulbul ssp inornatus,2014-12-04,15
+The Gambia,13.2354950682,-16.5350961687,Ploceus luteolus,Little Weaver,2014-12-04,1
+The Gambia,13.0908857778,-16.7632412915,Acraea serena,Small Orange Acraea,2014-12-03,25
+The Gambia,13.0908857778,-16.7632412915,Ceriagrion glabrum,Common Orange,2014-12-03,15
+The Gambia,13.17690304,-16.66410408,Indicator indicator,Greater Honeyguide,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Lophoceros nasutus,African Grey Hornbill,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Tockus kempi,Western Red-billed Hornbill,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Streptopelia semitorquata,Red-eyed Dove,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Turtur abyssinicus,Black-billed Wood Dove,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Laniarius barbarus,Yellow-crowned Gonolek,2015-03-05,1
+The Gambia,13.17696063,-16.66408986,Pycnonotus barbatus,Common Bulbul,2015-03-05,1
+The Gambia,13.17613127,-16.66478884,Sylvietta brachyura,Northern Crombec,2015-03-05,1
+The Gambia,13.17614716,-16.66470616,Camaroptera brevicaudata,Grey-backed Camaroptera,2015-03-05,1
+The Gambia,13.17615324,-16.66470147,Eremomela pusilla,Senegal Eremomela,2015-03-05,2
+The Gambia,13.23120696,-16.05473718,Halcyon chelicuti,Striped Kingfisher,2015-03-06,1
+The Gambia,13.22983231,-16.05439091,Terathopius ecaudatus,Bateleur,2015-03-06,4
+The Gambia,13.2298337,-16.05444652,Polyboroides typus,African Harrier-Hawk,2015-03-06,1
+The Gambia,13.22635834,-16.05481588,Indicator indicator,Greater Honeyguide,2015-03-06,1
+The Gambia,13.22707932,-16.05529227,Hedydipna platura,Pygmy Sunbird,2015-03-06,1
+The Gambia,13.26496474,-16.529422,Threskiornis aethiopicus,African Sacred Ibis,2015-03-07,2
+The Gambia,13.26491588,-16.52916861,Vanellus spinosus,Spur-winged Lapwing,2015-03-07,44
+The Gambia,13.26891605,-16.52121417,Indicator indicator,Greater Honeyguide,2015-03-07,1
+The Gambia,13.26891454,-16.52121267,Falco ardosiaceus,Grey Kestrel,2015-03-07,1
+The Gambia,13.26891838,-16.52121514,Elanus caeruleus,Black-winged Kite,2015-03-07,1
+The Gambia,13.26891838,-16.52121511,Melierax metabates,Dark Chanting Goshawk,2015-03-07,1
+The Gambia,13.26891854,-16.52121494,Coracias cyanogaster,Blue-bellied Roller,2015-03-07,2
+The Gambia,13.27508153,-16.55313799,Treron calvus,African Green Pigeon,2015-03-07,4
+The Gambia,13.3405022,-16.60393005,Lanius senator,Woodchat Shrike,2015-03-08,1
+The Gambia,13.3405022,-16.60393005,Chalcomitra senegalensis,Scarlet-chested Sunbird,2015-03-08,1
+The Gambia,13.4295428301,-16.7295438051,Turdoides plebejus,Brown Babbler,2003-12-19,1
+The Gambia,13.4380051533,-15.8074942231,Melaniparus guineensis,White-shouldered Black Tit,2003-12-18,1
+The Gambia,13.3890351077,-16.6534280777,Ardea melanocephala,Black-headed Heron,2003-12-10,1
+The Gambia,13.3438879492,-16.8381464272,Thalasseus sandvicensis,Sandwich Tern,2003-12-09,1
+The Gambia,13.3438879492,-16.8381464272,Egretta gularis,Western Reef Heron,2003-12-09,1
+The Gambia,13.3438879492,-16.8381464272,Hydroprogne caspia,Caspian Tern,2003-12-09,100
+The Gambia,13.3438879492,-16.8381464272,Chroicocephalus cirrocephalus,Grey-headed Gull,2003-12-09,1000
+The Gambia,13.7020889843,-15.3469777107,Pluvianus aegyptius,Egyptian Plover,2003-12-13,6
+The Gambia,13.4389843318,-15.8079025868,Haliaeetus vocifer,African Fish Eagle,2003-12-13,1
+The Gambia,13.42763066,-15.8263488114,Prionops plumatus,White-crested Helmetshrike,2003-12-12,1
+The Gambia,13.4859707453,-15.8050882816,Pelecanus rufescens,Pink-backed Pelican,2003-12-12,1
+The Gambia,13.4859707453,-15.8050882816,Egretta gularis,Western Reef Heron,2003-12-12,1
+The Gambia,13.4859707453,-15.8050882816,Butorides striata,Striated Heron,2003-12-12,1
+The Gambia,13.4859707453,-15.8050882816,Ardea goliath,Goliath Heron,2003-12-12,1
+The Gambia,13.4859707453,-15.8050882816,Eremomela pusilla,Senegal Eremomela,2003-12-12,1
+The Gambia,13.274,-16.539,Lophaetus occipitalis,Long-crested Eagle,2003-12-11,1
+The Gambia,13.3892061612,-16.6534991562,Tragelaphus scriptus,Bushbuck,2003-12-10,1
+The Gambia,13.3892061612,-16.6534991562,Estrilda caerulescens,Lavender Waxbill,2003-12-10,1
+The Gambia,13.3892061612,-16.6534991562,Cinnyris pulchellus,Beautiful Sunbird,2003-12-10,1
+The Gambia,13.3892061612,-16.6534991562,Platysteira cyanea,Brown-throated Wattle-eye,2003-12-10,1
+The Gambia,13.3892061612,-16.6534991562,Musophaga violacea,Violet Turaco,2003-12-10,1
+The Gambia,13.3892061612,-16.6534991562,Merops pusillus,Little Bee-eater,2003-12-10,1
+The Gambia,13.3752562671,-16.7590990663,Camaroptera brevicaudata,Grey-backed Camaroptera,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Ploceus cucullatus,Village Weaver,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Lamprotornis caudatus,Long-tailed Glossy Starling,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Dicrurus divaricatus,Glossy-backed Drongo,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Dendropicos goertae,African Grey Woodpecker,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Lophoceros fasciatus,African Pied Hornbill,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Centropus senegalensis,Senegal Coucal,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Spilopelia senegalensis,Laughing Dove,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Turtur abyssinicus,Black-billed Wood Dove,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2003-12-09,1
+The Gambia,13.3752562671,-16.7590990663,Kaupifalco monogrammicus,Lizard Buzzard,2003-12-09,1
+The Gambia,13.4616945331,-16.7000962166,Cisticola juncidis,Zitting Cisticola,2015-02-28,5
+The Gambia,13.2653431498,-16.6114997864,Corvus albus,Pied Crow,2015-02-06,3
+The Gambia,13.2653431498,-16.6114997864,Cinnyris pulchellus,Beautiful Sunbird,2015-02-06,9
+The Gambia,13.2653431498,-16.6114997864,Cinnyris venustus,Variable Sunbird,2015-02-06,7
+The Gambia,13.2653431498,-16.6114997864,Turdoides reinwardtii,Blackcap Babbler,2015-02-06,2
+The Gambia,13.2653431498,-16.6114997864,Turdoides plebejus,Brown Babbler,2015-02-06,5
+The Gambia,13.2653431498,-16.6114997864,Platysteira cyanea,Brown-throated Wattle-eye,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Camaroptera brevicaudata,Grey-backed Camaroptera,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Turdus pelios,African Thrush,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Cossypha albicapillus,White-crowned Robin-Chat,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Atimastillas flavicollis,Yellow-throated Leaflove,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Bleda canicapillus,Grey-headed Bristlebill,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Eurillas virens,Little Greenbul,2015-02-06,2
+The Gambia,13.2653431498,-16.6114997864,Hirundo smithii,Wire-tailed Swallow,2015-02-06,5
+The Gambia,13.2653431498,-16.6114997864,Dendropicos goertae,African Grey Woodpecker,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Lophoceros fasciatus,African Pied Hornbill,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Lophoceros nasutus,African Grey Hornbill,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Tockus kempi,Western Red-billed Hornbill,2015-02-06,1
+The Gambia,13.2653431498,-16.6114997864,Phoeniculus purpureus,Green Wood Hoopoe,2015-02-06,1
+The Gambia,13.195158981,-16.6535568237,Eurystomus glaucurus,Broad-billed Roller,2015-02-06,1
+The Gambia,13.195158981,-16.6535568237,Coracias cyanogaster,Blue-bellied Roller,2015-02-06,1
+The Gambia,13.195158981,-16.6535568237,Centropus senegalensis,Senegal Coucal,2015-02-06,1
+The Gambia,13.195158981,-16.6535568237,Tauraco persa,Guinea Turaco,2015-02-06,1
+The Gambia,13.195158981,-16.6535568237,Poicephalus senegalus,Senegal Parrot,2015-02-06,2
+The Gambia,13.195158981,-16.6535568237,Psittacula krameri,Rose-ringed Parakeet,2015-02-06,2
+The Gambia,13.4700978192,-16.6672897339,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-07,101
+The Gambia,13.4700978192,-16.6672897339,Tringa glareola,Wood Sandpiper,2015-02-07,1
+The Gambia,13.4700978192,-16.6672897339,Tringa ochropus,Green Sandpiper,2015-02-07,1
+The Gambia,13.4700978192,-16.6672897339,Tringa totanus,Common Redshank,2015-02-07,1
+The Gambia,13.4700978192,-16.6672897339,Tringa nebularia,Common Greenshank,2015-02-07,1
+The Gambia,13.4196768587,-16.7376708984,Numenius phaeopus,Eurasian Whimbrel,2015-02-04,1
+The Gambia,13.4196768587,-16.7376708984,Pluvialis squatarola,Grey Plover,2015-02-04,1
+The Gambia,13.2208955226,-16.6408538818,Vanellus senegallus,African Wattled Lapwing,2015-02-04,5
+The Gambia,13.2208955226,-16.6408538818,Burhinus senegalensis,Senegal Thick-knee,2015-02-04,10
+The Gambia,13.2208955226,-16.6408538818,Amaurornis flavirostra,Black Crake,2015-02-04,1
+The Gambia,13.2208955226,-16.6408538818,Accipiter badius,Shikra,2015-02-04,1
+The Gambia,13.2208955226,-16.6408538818,Melierax metabates,Dark Chanting Goshawk,2015-02-04,1
+The Gambia,13.2208955226,-16.6408538818,Polyboroides typus,African Harrier-Hawk,2015-02-04,1
+The Gambia,13.3966332901,-16.642742157,Gypohierax angolensis,Palm-nut Vulture,2015-02-05,1
+The Gambia,13.3966332901,-16.642742157,Pandion haliaetus,Western Osprey,2015-02-05,1
+The Gambia,13.4610829299,-16.7007637024,Dendrocygna viduata,White-faced Whistling Duck,2015-02-05,20
+The Gambia,13.3999730746,-16.6420555115,Ardea purpurea,Purple Heron,2015-02-05,1
+The Gambia,13.3999730746,-16.6420555115,Ardea melanocephala,Black-headed Heron,2015-02-05,1
+The Gambia,13.3999730746,-16.6420555115,Ardea intermedia,Intermediate Egret,2015-02-05,1
+The Gambia,13.3999730746,-16.6420555115,Egretta ardesiaca,Black Heron,2015-02-05,1
+The Gambia,13.3999730746,-16.6420555115,Ardeola ralloides,Squacco Heron,2015-02-05,1
+The Gambia,13.3919575139,-16.6496086121,Anhinga rufa,African Darter,2015-02-05,1
+The Gambia,13.4722799670811,-16.6973108991181,Corvus albus,Pied Crow,2015-02-21,2
+The Gambia,13.4466644836,-16.572458659,Stercorarius parasiticus,Parasitic Jaeger,2015-02-22,2
+The Gambia,13.4466498825982,-16.5724541474077,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-22,501
+The Gambia,13.4466271245144,-16.5725028574238,Corvus albus,Pied Crow,2015-02-22,11
+The Gambia,13.4466948093616,-16.572460400858,Hirundo lucida,Red-chested Swallow,2015-02-22,21
+The Gambia,13.4466919965989,-16.5724138870752,Passer domesticus,House Sparrow,2015-02-22,31
+The Gambia,13.4465733574972,-16.5720841100407,Pelecanus rufescens,Pink-backed Pelican,2015-02-22,1
+The Gambia,13.4467368374514,-16.5723638647975,Gelochelidon nilotica,Gull-billed Tern,2015-02-22,1
+The Gambia,13.4465560975272,-16.5722420413589,Ardea alba,Great Egret,2015-02-22,1
+The Gambia,13.4466305504985,-16.5725327230716,Columba guinea,Speckled Pigeon,2015-02-22,5
+The Gambia,13.44671725212,-16.5723191467929,Thalasseus albididorsalis,West African Crested Tern,2015-02-22,5
+The Gambia,13.4467235177,-16.5723410144,Stercorarius parasiticus,Parasitic Jaeger,2015-02-22,3
+The Gambia,13.4475047505214,-16.570196688971,Ardea cinerea,Grey Heron,2015-02-22,1
+The Gambia,13.4615739779821,-16.7049254432756,Actitis hypoleucos,Common Sandpiper,2015-02-17,1
+The Gambia,13.4615955837793,-16.7048821451698,Burhinus senegalensis,Senegal Thick-knee,2015-02-17,3
+The Gambia,13.4616255270584,-16.7048915115782,Numenius phaeopus,Eurasian Whimbrel,2015-02-17,1
+The Gambia,13.4611766499348,-16.7048240978426,Coracias cyanogaster,Blue-bellied Roller,2015-02-17,1
+The Gambia,13.4611109103048,-16.7048546340002,Cinnyris pulchellus,Beautiful Sunbird,2015-02-17,1
+The Gambia,13.4608331761445,-16.7042429512281,Bubulcus ibis,Western Cattle Egret,2015-02-17,8
+The Gambia,13.4608836586928,-16.7044814486938,Turdoides plebejus,Brown Babbler,2015-02-17,3
+The Gambia,13.460709839522,-16.7038109430733,Actophilornis africanus,African Jacana,2015-02-17,8
+The Gambia,13.4607120618153,-16.703342542612,Ardeola ralloides,Squacco Heron,2015-02-17,1
+The Gambia,13.4607234009945,-16.7030039215358,Merops pusillus,Little Bee-eater,2015-02-17,2
+The Gambia,13.4594914849375,-16.7030086625939,Cinnyris venustus,Variable Sunbird,2015-02-17,4
+The Gambia,13.4598612438897,-16.7030421041995,Cinnyris coccinigastrus,Splendid Sunbird,2015-02-17,5
+The Gambia,13.4598655019143,-16.7030371492531,Dicrurus divaricatus,Glossy-backed Drongo,2015-02-17,1
+The Gambia,13.4598655019143,-16.7030371492531,Phoeniculus purpureus,Green Wood Hoopoe,2015-02-17,4
+The Gambia,13.4599470940601,-16.7030547728984,Bubalornis albirostris,White-billed Buffalo Weaver,2015-02-17,2
+The Gambia,13.4592325232967,-16.7030292694902,Tachybaptus ruficollis,Little Grebe,2015-02-17,1
+The Gambia,13.4592155526588,-16.7030327473831,Tringa nebularia,Common Greenshank,2015-02-17,2
+The Gambia,13.4592080119575,-16.703015474335,Himantopus himantopus,Black-winged Stilt,2015-02-17,2
+The Gambia,13.4592243814702,-16.7029499887013,Tringa glareola,Wood Sandpiper,2015-02-17,2
+The Gambia,13.4591203822456,-16.7030824447943,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-17,101
+The Gambia,13.4602044887808,-16.7014785761352,Lonchura cucullata,Bronze Mannikin,2015-02-17,2
+The Gambia,13.4603422726537,-16.7014733659459,Prinia subflava,Tawny-flanked Prinia,2015-02-17,1
+The Gambia,13.461818973154701,-16.7013393627084,Numenius phaeopus,Eurasian Whimbrel,2015-02-17,5
+The Gambia,13.4620349321731,-16.7016848471572,Ardea cinerea,Grey Heron,2015-02-17,1
+The Gambia,13.4660361555203,-16.699216382472,Tockus kempi,Western Red-billed Hornbill,2015-02-17,2
+The Gambia,13.4335638429281,-16.7233282192137,Kaupifalco monogrammicus,Lizard Buzzard,2015-02-17,1
+The Gambia,13.3750391246706,-16.7547653506321,Ptilopsis leucotis,Northern White-faced Owl,2015-02-17,2
+The Gambia,13.3749926761841,-16.7546949161161,Pogoniulus chrysoconus,Yellow-fronted Tinkerbird,2015-02-17,1
+The Gambia,13.3750421819676,-16.754658513156,Crithagra mozambica,Yellow-fronted Canary,2015-02-17,1
+The Gambia,13.3748697152697,-16.7547202817752,Cinnyris coccinigastrus,Splendid Sunbird,2015-02-17,1
+The Gambia,13.3748524226841,-16.7547429894076,Cinnyris pulchellus,Beautiful Sunbird,2015-02-17,1
+The Gambia,13.3748539931841,-16.7547352334875,Cinnyris cupreus,Copper Sunbird,2015-02-17,1
+The Gambia,13.3758783058155,-16.7547432722969,Terpsiphone viridis,African Paradise Flycatcher,2015-02-17,1
+The Gambia,13.3760355619588,-16.7544853297463,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-17,1
+The Gambia,13.3761861925004,-16.7549473076327,Lamprotornis caudatus,Long-tailed Glossy Starling,2015-02-17,4
+The Gambia,13.3763450197306,-16.7548877260749,Phylloscopus trochilus,Willow Warbler,2015-02-17,4
+The Gambia,13.3766573718898,-16.7554082036532,Poicephalus senegalus,Senegal Parrot,2015-02-17,1
+The Gambia,13.377228031496,-16.7556965807673,Lonchura cucullata,Bronze Mannikin,2015-02-17,14
+The Gambia,13.3772365094633,-16.7557230382663,Passer griseus,Northern Grey-headed Sparrow,2015-02-17,3
+The Gambia,13.3772549782266,-16.7557032484898,Vidua chalybeata,Village Indigobird,2015-02-17,1
+The Gambia,13.3772721124427,-16.7557292236587,Euplectes franciscanus,Northern Red Bishop,2015-02-17,4
+The Gambia,13.3772867583748,-16.7558035795716,Terpsiphone rufiventer rufiventer,Red-bellied Paradise Flycatcher ssp rufiventer,2015-02-17,1
+The Gambia,13.3773462121754,-16.7561798689026,Turtur afer,Blue-spotted Wood Dove,2015-02-17,1
+The Gambia,13.3711143576027,-16.7591687681906,Estrilda caerulescens,Lavender Waxbill,2015-02-17,3
+The Gambia,13.3710890637125,-16.759154025596,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-17,4
+The Gambia,13.3710971885256,-16.7590914372077,Ploceus nigricollis,Black-necked Weaver,2015-02-17,2
+The Gambia,13.3711112970117,-16.7592412139169,Atimastillas flavicollis,Yellow-throated Leaflove,2015-02-17,2
+The Gambia,13.3711211950744,-16.7591801810755,Merops pusillus,Little Bee-eater,2015-02-17,2
+The Gambia,13.3710634341313,-16.7592143922713,Turdus pelios,African Thrush,2015-02-17,1
+The Gambia,13.371088532466,-16.7591749098366,Turtur abyssinicus,Black-billed Wood Dove,2015-02-17,1
+The Gambia,13.3711239839266,-16.7591830358997,Turtur afer,Blue-spotted Wood Dove,2015-02-17,1
+The Gambia,13.3711084356991,-16.7591697541472,Indicator indicator,Greater Honeyguide,2015-02-17,1
+The Gambia,13.3710310974548,-16.759200048725,Terpsiphone rufiventer,Red-bellied Paradise Flycatcher,2015-02-17,1
+The Gambia,13.3710885238703,-16.7591076305112,Estrilda melpoda,Orange-cheeked Waxbill,2015-02-17,11
+The Gambia,13.3710589517584,-16.7591603427826,Hypergerus atriceps,Oriole Warbler,2015-02-17,1
+The Gambia,13.3716129419128,-16.759441254645,Chrysococcyx klaas,Klaas's Cuckoo,2015-02-17,1
+The Gambia,13.3714792728739,-16.7600694106765,Merops hirundineus,Swallow-tailed Bee-eater,2015-02-17,4
+The Gambia,13.3717090428885,-16.7596951917867,Dendropicos fuscescens,Cardinal Woodpecker,2015-02-17,1
+The Gambia,13.3724276675224,-16.7602646841253,Caprimulgus climacurus,Long-tailed Nightjar,2015-02-17,2
+The Gambia,13.3724387940145,-16.7603623887069,Zosterops senegalensis,Northern Yellow White-eye,2015-02-17,3
+The Gambia,13.3725663630115,-16.7603252429504,Sylvietta brachyura,Northern Crombec,2015-02-17,1
+The Gambia,13.3731803990056,-16.7626498234828,Vanellus tectus,Black-headed Lapwing,2015-02-17,2
+The Gambia,13.373160865005,-16.7627160420644,Tchagra senegalus,Black-crowned Tchagra,2015-02-17,2
+The Gambia,13.3720612032332,-16.7588160746293,Camaroptera brevicaudata,Grey-backed Camaroptera,2015-02-17,1
+The Gambia,13.3755288421578,-16.7536757212909,Treron calvus,African Green Pigeon,2015-02-17,3
+The Gambia,13.3751743123575,-16.7534179226189,Dendropicos goertae,African Grey Woodpecker,2015-02-17,1
+The Gambia,13.3751017581578,-16.7533904569238,Musophaga violacea,Violet Turaco,2015-02-17,1
+The Gambia,13.3753865759571,-16.7536028091671,Accipiter badius,Shikra,2015-02-17,1
+The Gambia,13.4594527309574,-16.7083248362571,Rostratula benghalensis,Greater Painted-snipe,2015-02-17,15
+The Gambia,13.4595286526309,-16.7082765203446,Egretta gularis,Western Reef Heron,2015-02-17,1
+The Gambia,13.4594326486423,-16.7083326153207,Halcyon malimbica,Blue-breasted Kingfisher,2015-02-17,1
+The Gambia,13.4589089494156,-16.7096637552114,Glaucidium perlatum,Pearl-spotted Owlet,2015-02-17,1
+The Gambia,13.4393334029476,-15.8091238228631,Phalacrocorax lucidus,White-breasted Cormorant,2015-02-16,2
+The Gambia,13.439408426832,-15.8091108675388,Pelecanus rufescens,Pink-backed Pelican,2015-02-16,1
+The Gambia,13.4393273972449,-15.8091294210925,Ardea alba,Great Egret,2015-02-16,1
+The Gambia,13.4392140488117,-15.8086225794207,Tockus kempi,Western Red-billed Hornbill,2015-02-16,2
+The Gambia,13.4396692360119,-15.8083746938975,Ploceus cucullatus,Village Weaver,2015-02-16,101
+The Gambia,13.4403500049872,-15.8077255120541,Ceryle rudis,Pied Kingfisher,2015-02-16,1
+The Gambia,13.4407284944913,-15.8077551895831,Arenaria interpres,Ruddy Turnstone,2015-02-16,1
+The Gambia,13.4409809781186,-15.8077752338177,Apus affinis,Little Swift,2015-02-16,101
+The Gambia,13.4564860458212,-15.8054375798424,Anhinga rufa,African Darter,2015-02-16,1
+The Gambia,13.4577241314804,-15.8050288516795,Halcyon malimbica,Blue-breasted Kingfisher,2015-02-16,1
+The Gambia,13.4593348303972,-15.8047410942282,Butorides striata,Striated Heron,2015-02-16,1
+The Gambia,13.4635636911528,-15.806187958803,Psittacula krameri,Rose-ringed Parakeet,2015-02-16,3
+The Gambia,13.4636806209291,-15.8062580709814,Actitis hypoleucos,Common Sandpiper,2015-02-16,1
+The Gambia,13.4640030475978,-15.8072705693505,Anthreptes gabonicus,Mangrove Sunbird,2015-02-16,1
+The Gambia,13.4644012756048,-15.8076953960475,Ardea cinerea,Grey Heron,2015-02-16,1
+The Gambia,13.4695298391788,-15.8075518707653,Ardea goliath,Goliath Heron,2015-02-16,1
+The Gambia,13.4711496683394,-15.8101441033014,Burhinus senegalensis,Senegal Thick-knee,2015-02-16,7
+The Gambia,13.4723697615159,-15.8098837018475,Vanellus spinosus,Spur-winged Lapwing,2015-02-16,1
+The Gambia,13.4752890842722,-15.8096565104741,Microcarbo africanus,Reed Cormorant,2015-02-16,1
+The Gambia,13.475593521491,-15.8096365168256,Tringa nebularia,Common Greenshank,2015-02-16,1
+The Gambia,13.4759977220484,-15.8094279739935,Numenius phaeopus,Eurasian Whimbrel,2015-02-16,1
+The Gambia,13.4820038508988,-15.8042849651636,Ardea intermedia,Intermediate Egret,2015-02-16,1
+The Gambia,13.481728780545,-15.8041009505951,Falco ardosiaceus,Grey Kestrel,2015-02-16,1
+The Gambia,13.4822193583599,-15.8022469475799,Ciconia episcopus,Woolly-necked Stork,2015-02-16,3
+The Gambia,13.4854593061479,-15.8008315911425,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-16,3
+The Gambia,13.4859516415788,-15.8012498371489,Merops albicollis,White-throated Bee-eater,2015-02-16,1
+The Gambia,13.4857840754789,-15.8012629031273,Polemaetus bellicosus,Martial Eagle,2015-02-16,1
+The Gambia,13.4858005973435,-15.801272791594,Poicephalus senegalus,Senegal Parrot,2015-02-16,4
+The Gambia,13.4862143129005,-15.8006710214976,Corythornis cristatus,Malachite Kingfisher,2015-02-16,1
+The Gambia,13.4882714689812,-15.797855665538,Gorsachius leuconotus,White-backed Night Heron,2015-02-16,2
+The Gambia,13.4910858189856,-15.7949499011732,Egretta garzetta,Little Egret,2015-02-16,2
+The Gambia,13.4903689173874,-15.7945113116945,Phalacrocorax lucidus,White-breasted Cormorant,2015-02-16,101
+The Gambia,13.4884006603398,-15.7962683676273,Merops persicus,Blue-cheeked Bee-eater,2015-02-16,2
+The Gambia,13.4860162442607,-15.795510528858,Coracias abyssinicus,Abyssinian Roller,2015-02-16,1
+The Gambia,13.4799917466913,-15.7947545176767,Ardeola ralloides,Squacco Heron,2015-02-16,1
+The Gambia,13.4738984746009,-15.7940725971186,Ardea goliath,Goliath Heron,2015-02-16,1
+The Gambia,13.4566083845194,-15.787357794896,Haliaeetus vocifer,African Fish Eagle,2015-02-16,1
+The Gambia,13.4380786017204,-15.8094911341404,Quelea quelea,Red-billed Quelea,2015-02-16,21
+The Gambia,13.4378917131318,-15.8100447111911,Turdoides plebejus,Brown Babbler,2015-02-16,2
+The Gambia,13.4376034777599,-15.8106640764317,Laniarius barbarus,Yellow-crowned Gonolek,2015-02-16,1
+The Gambia,13.4365748925432,-15.8129742368439,Prinia subflava,Tawny-flanked Prinia,2015-02-16,2
+The Gambia,13.4366129839039,-15.8129541605571,Tchagra senegalus,Black-crowned Tchagra,2015-02-16,1
+The Gambia,13.2519686806548,-15.8321784013279,Ceryle rudis,Pied Kingfisher,2015-02-16,2
+The Gambia,13.2519522976539,-15.8321903034057,Necrosyrtes monachus,Hooded Vulture,2015-02-16,8
+The Gambia,13.2518834458435,-15.8322799686933,Polyboroides typus,African Harrier-Hawk,2015-02-16,1
+The Gambia,13.2519885712993,-15.8321625991229,Cinnyris pulchellus,Beautiful Sunbird,2015-02-16,2
+The Gambia,13.4707737321752,-16.6949642220909,Cossypha albicapillus,White-crowned Robin-Chat,2015-02-16,1
+The Gambia,13.4708764995172,-16.6950946793877,Streptopelia decipiens,Mourning Collared Dove,2015-02-17,1
+The Gambia,13.4709463136639,-16.6953724185092,Ploceus nigricollis,Black-necked Weaver,2015-02-17,2
+The Gambia,13.4709311245025,-16.6954306447009,Cypsiurus parvus,African Palm Swift,2015-02-17,2
+The Gambia,13.4719085688756,-16.697079594566,Streptopelia semitorquata,Red-eyed Dove,2015-02-17,1
+The Gambia,13.4720898060784,-16.6970522235969,Lophoceros nasutus,African Grey Hornbill,2015-02-17,1
+The Gambia,13.4620722914109,-16.7053875947682,Cossypha albicapillus,White-crowned Robin-Chat,2015-02-17,1
+The Gambia,13.4621046905596,-16.7050864468314,Ploceus cucullatus,Village Weaver,2015-02-17,9
+The Gambia,13.4617940886919,-16.7050882056083,Hirundo lucida,Red-chested Swallow,2015-02-17,5
+The Gambia,13.4617889610494,-16.7050586187826,Ceryle rudis,Pied Kingfisher,2015-02-17,1
+The Gambia,13.4617963950477,-16.7050613390877,Microcarbo africanus,Reed Cormorant,2015-02-17,1
+The Gambia,13.4617933050676,-16.7050582686959,Hirundo smithii,Wire-tailed Swallow,2015-02-17,4
+The Gambia,13.4618390447948,-16.7050859389393,Merops pusillus,Little Bee-eater,2015-02-17,1
+The Gambia,13.4616034796638,-16.7049392681501,Ardea alba,Great Egret,2015-02-17,1
+The Gambia,13.4615865689674,-16.7049763260862,Milvus aegyptius,Yellow-billed Kite,2015-02-17,2
+The Gambia,13.4616239533108,-16.7049576659678,Vanellus senegallus,African Wattled Lapwing,2015-02-17,2
+The Gambia,13.4616327135546,-16.7048936039204,Vanellus spinosus,Spur-winged Lapwing,2015-02-17,51
+The Gambia,13.4615806548935,-16.7048717009685,Egretta gularis,Western Reef Heron,2015-02-17,2
+The Gambia,13.4615911323124,-16.7049151007378,Pluvialis squatarola,Grey Plover,2015-02-17,1
+The Gambia,13.4708451063542,-16.6957675245416,Laniarius barbarus,Yellow-crowned Gonolek,2015-02-21,1
+The Gambia,13.4706184485744,-16.695816000173,Pycnonotus barbatus,Common Bulbul,2015-02-21,2
+The Gambia,13.4698556266696,-16.6961425277823,Corvus albus,Pied Crow,2015-02-21,2
+The Gambia,13.4697135026338,-16.6961835255285,Cinnyris pulchellus,Beautiful Sunbird,2015-02-21,1
+The Gambia,13.4690142341616,-16.696554805607,Spilopelia senegalensis,Laughing Dove,2015-02-21,2
+The Gambia,13.4683853500341,-16.6970440944551,Corvinella corvina,Yellow-billed Shrike,2015-02-21,2
+The Gambia,13.4683736021738,-16.6970461578261,Turdoides plebejus,Brown Babbler,2015-02-21,6
+The Gambia,13.4680916083214,-16.6972923563391,Coracias abyssinicus,Abyssinian Roller,2015-02-21,1
+The Gambia,13.467927767720001,-16.6974342589501,Columba guinea,Speckled Pigeon,2015-02-21,2
+The Gambia,13.4673876631338,-16.6978547073861,Merops pusillus,Little Bee-eater,2015-02-21,2
+The Gambia,13.4654436928,-16.6974678557,Dicrurus divaricatus,Glossy-backed Drongo,2015-02-21,1
+The Gambia,13.4654689513485,-16.6974919451024,Dryoscopus gambensis,Northern Puffback,2015-02-21,1
+The Gambia,13.4649990576318,-16.6966875335853,Sylvietta brachyura,Northern Crombec,2015-02-21,1
+The Gambia,13.4649352535473,-16.6966216980785,Prinia subflava,Tawny-flanked Prinia,2015-02-21,2
+The Gambia,13.4645332526725,-16.6964339187605,Cinnyris coccinigastrus,Splendid Sunbird,2015-02-21,1
+The Gambia,13.4642871383988,-16.6965642814755,Crinifer piscator,Western Plantain-eater,2015-02-21,2
+The Gambia,13.4641667240035,-16.6968135115979,Tockus kempi,Western Red-billed Hornbill,2015-02-21,2
+The Gambia,13.4625400261532,-16.7002614935327,Actitis hypoleucos,Common Sandpiper,2015-02-21,1
+The Gambia,13.4633432607161,-16.7000320254835,Musophaga violacea,Violet Turaco,2015-02-21,2
+The Gambia,13.4629713944864,-16.7028051771077,Ploceus cucullatus,Village Weaver,2015-02-21,1
+The Gambia,13.4628704240696,-16.7030458778562,Numenius phaeopus,Eurasian Whimbrel,2015-02-21,1
+The Gambia,13.4628875840796,-16.703037007572,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,21
+The Gambia,13.4628831553184,-16.7030314824352,Vanellus senegallus,African Wattled Lapwing,2015-02-21,31
+The Gambia,13.4628972072318,-16.703058488753,Charadrius hiaticula,Common Ringed Plover,2015-02-21,2
+The Gambia,13.4629063111564,-16.7030708639333,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-21,31
+The Gambia,13.4631216613316,-16.7034599187082,Tringa nebularia,Common Greenshank,2015-02-21,1
+The Gambia,13.4632200754221,-16.7043926903994,Streptopelia semitorquata,Red-eyed Dove,2015-02-21,1
+The Gambia,13.4634207759186,-16.7042843239528,Lagonosticta senegala,Red-billed Firefinch,2015-02-21,5
+The Gambia,13.4630407283789,-16.7048001527164,Lonchura cucullata,Bronze Mannikin,2015-02-21,11
+The Gambia,13.4622016961844,-16.70508442645,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-21,2
+The Gambia,13.4620902188903,-16.7051060907225,Cossypha albicapillus,White-crowned Robin-Chat,2015-02-21,1
+The Gambia,13.4620562519848,-16.7053325153822,Crinifer piscator,Western Plantain-eater,2015-02-21,2
+The Gambia,13.4620501905983,-16.705296177043,Streptopelia semitorquata,Red-eyed Dove,2015-02-21,2
+The Gambia,13.4616309983717,-16.7048529402159,Hirundo lucida,Red-chested Swallow,2015-02-21,5
+The Gambia,13.461632026785,-16.7048386980673,Hirundo smithii,Wire-tailed Swallow,2015-02-21,2
+The Gambia,13.4616590231676,-16.7048208988455,Burhinus senegalensis,Senegal Thick-knee,2015-02-21,4
+The Gambia,13.4616663152133,-16.704844248842,Ceryle rudis,Pied Kingfisher,2015-02-21,2
+The Gambia,13.4611874665922,-16.7048360549707,Merops persicus,Blue-cheeked Bee-eater,2015-02-21,2
+The Gambia,13.4607527292133,-16.7039034678774,Egretta garzetta,Little Egret,2015-02-21,1
+The Gambia,13.4607544121852,-16.7038969020178,Ardea alba,Great Egret,2015-02-21,1
+The Gambia,13.460753794605,-16.7039049452268,Egretta ardesiaca,Black Heron,2015-02-21,1
+The Gambia,13.4607249334364,-16.7039365174099,Ardeola ralloides,Squacco Heron,2015-02-21,1
+The Gambia,13.4607385173447,-16.7039391335422,Centropus senegalensis,Senegal Coucal,2015-02-21,1
+The Gambia,13.4606954627383,-16.7031125180621,Bubulcus ibis,Western Cattle Egret,2015-02-21,5
+The Gambia,13.4607140271517,-16.7031077357232,Ardea intermedia,Intermediate Egret,2015-02-21,2
+The Gambia,13.4597834215964,-16.7029636758066,Streptopelia decipiens,Mourning Collared Dove,2015-02-21,1
+The Gambia,13.4598574841689,-16.7030427734256,Cinnyris coccinigastrus,Splendid Sunbird,2015-02-21,3
+The Gambia,13.4591811040047,-16.7032869205213,Himantopus himantopus,Black-winged Stilt,2015-02-21,21
+The Gambia,13.4591795965281,-16.7032956238971,Tringa glareola,Wood Sandpiper,2015-02-21,2
+The Gambia,13.4586079495,-16.7034101488,Dendrocygna viduata,White-faced Whistling Duck,2015-02-21,74
+The Gambia,13.4591566690841,-16.7032538908926,Tachybaptus ruficollis,Little Grebe,2015-02-21,2
+The Gambia,13.4591610715175,-16.7037007811387,Tringa nebularia,Common Greenshank,2015-02-21,1
+The Gambia,13.4591610715175,-16.7037007811387,Motacilla flava,Western Yellow Wagtail,2015-02-21,2
+The Gambia,13.4590573809269,-16.7037035325938,Streptopelia vinacea,Vinaceous Dove,2015-02-21,2
+The Gambia,13.4590841492748,-16.7037260552328,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,21
+The Gambia,13.4588827617881,-16.7040566598044,Phoeniculus purpureus,Green Wood Hoopoe,2015-02-21,6
+The Gambia,13.4584171039654,-16.7038615537972,Actophilornis africanus,African Jacana,2015-02-21,8
+The Gambia,13.4583701804563,-16.7040148217242,Merops persicus,Blue-cheeked Bee-eater,2015-02-21,14
+The Gambia,13.4594717396386,-16.7058585747117,Ardea cinerea,Grey Heron,2015-02-21,1
+The Gambia,13.4594745572685,-16.7058506284628,Ardea melanocephala,Black-headed Heron,2015-02-21,1
+The Gambia,13.4594705646526,-16.7058538229289,Scopus umbretta,Hamerkop,2015-02-21,1
+The Gambia,13.4590393530655,-16.706243385634,Lophoceros nasutus,African Grey Hornbill,2015-02-21,2
+The Gambia,13.4593760223781,-16.7069251162238,Threskiornis aethiopicus,African Sacred Ibis,2015-02-21,3
+The Gambia,13.4601479519911,-16.707417842789,Microcarbo africanus,Reed Cormorant,2015-02-21,1
+The Gambia,13.4606858091375,-16.707734385662,Thalasseus sandvicensis,Sandwich Tern,2015-02-21,4
+The Gambia,13.4606641991017,-16.7077023163263,Egretta gularis,Western Reef Heron,2015-02-21,1
+The Gambia,13.4593832330916,-16.7092681402336,Eurystomus glaucurus,Broad-billed Roller,2015-02-21,1
+The Gambia,13.4594678338947,-16.7083578699498,Tringa glareola,Wood Sandpiper,2015-02-21,1
+The Gambia,13.4594564626596,-16.7083598935201,Actitis hypoleucos,Common Sandpiper,2015-02-21,1
+The Gambia,13.4594437481298,-16.7083304937213,Tringa totanus,Common Redshank,2015-02-21,1
+The Gambia,13.458209508502,-16.7113307202904,Eurystomus glaucurus,Broad-billed Roller,2015-02-21,1
+The Gambia,13.4559429004716,-16.70997054478,Platalea alba,African Spoonbill,2015-02-21,2
+The Gambia,13.4559429004716,-16.70997054478,Threskiornis aethiopicus,African Sacred Ibis,2015-02-21,18
+The Gambia,13.455949937289,-16.7099675482037,Ardea cinerea,Grey Heron,2015-02-21,2
+The Gambia,13.4560065012492,-16.7099495363876,Bubulcus ibis,Western Cattle Egret,2015-02-21,41
+The Gambia,13.4601511489666,-16.7054315174877,Coracias cyanogaster,Blue-bellied Roller,2015-02-21,1
+The Gambia,13.5215456086356,-15.5734880834351,Ceryle rudis,Pied Kingfisher,2015-02-15,1
+The Gambia,13.4721883148929,-16.6974738486893,Tringa nebularia,Common Greenshank,2015-02-18,1
+The Gambia,13.4722382412193,-16.6974486154447,Numenius phaeopus,Eurasian Whimbrel,2015-02-18,1
+The Gambia,13.4722316987098,-16.6973231093439,Ploceus nigricollis,Black-necked Weaver,2015-02-19,2
+The Gambia,13.4722316987098,-16.6973231093439,Lophoceros nasutus,African Grey Hornbill,2015-02-19,4
+The Gambia,13.4722500741144,-16.6973123952665,Tockus kempi,Western Red-billed Hornbill,2015-02-19,2
+The Gambia,13.4722292068454,-16.6973582444666,Pogoniulus chrysoconus,Yellow-fronted Tinkerbird,2015-02-19,1
+The Gambia,13.4722366008869,-16.6973323038594,Laniarius barbarus,Yellow-crowned Gonolek,2015-02-19,1
+The Gambia,13.4722534057538,-16.6973204624029,Crinifer piscator,Western Plantain-eater,2015-02-19,2
+The Gambia,13.4722383945057,-16.6971458544205,Turdoides plebejus,Brown Babbler,2015-02-19,11
+The Gambia,13.4621298189846,-16.7052411235673,Ploceus cucullatus,Village Weaver,2015-02-19,21
+The Gambia,13.4621483167874,-16.7051239712952,Lonchura cucullata,Bronze Mannikin,2015-02-19,6
+The Gambia,13.4622336949965,-16.7051981424203,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-19,2
+The Gambia,13.4616057334674,-16.7048832888288,Scopus umbretta,Hamerkop,2015-02-19,1
+The Gambia,13.4616194084544,-16.7048411564081,Tringa totanus,Common Redshank,2015-02-19,1
+The Gambia,13.4616194084544,-16.7048411564081,Pelecanus rufescens,Pink-backed Pelican,2015-02-19,1
+The Gambia,13.4616194084544,-16.7048411564081,Vanellus senegallus,African Wattled Lapwing,2015-02-19,8
+The Gambia,13.4616433568775,-16.7048485146251,Numenius phaeopus,Eurasian Whimbrel,2015-02-19,2
+The Gambia,13.4616520711571,-16.704842931247,Ardea alba,Great Egret,2015-02-19,1
+The Gambia,13.4616286378637,-16.7048769462274,Tringa nebularia,Common Greenshank,2015-02-19,1
+The Gambia,13.4616206000234,-16.7048636418108,Ceryle rudis,Pied Kingfisher,2015-02-19,2
+The Gambia,13.4616223401389,-16.7048700797876,Hirundo lucida,Red-chested Swallow,2015-02-19,12
+The Gambia,13.4612283617013,-16.7048655593354,Coracias abyssinicus,Abyssinian Roller,2015-02-19,1
+The Gambia,13.4612283617013,-16.7048655593354,Coracias cyanogaster,Blue-bellied Roller,2015-02-19,1
+The Gambia,13.4598908325815,-16.7058225562191,Dicrurus divaricatus,Glossy-backed Drongo,2015-02-19,1
+The Gambia,13.4608594586453,-16.7079646552041,Thalasseus sandvicensis,Sandwich Tern,2015-02-19,1
+The Gambia,13.4608804689684,-16.7083358426796,Chroicocephalus cirrocephalus,Grey-headed Gull,2015-02-19,81
+The Gambia,13.4594261085608,-16.7082824552193,Halcyon malimbica,Blue-breasted Kingfisher,2015-02-19,1
+The Gambia,13.4594261085608,-16.7082824552193,Corythornis cristatus,Malachite Kingfisher,2015-02-19,1
+The Gambia,13.4594551564066,-16.7083107906385,Numenius phaeopus,Eurasian Whimbrel,2015-02-19,1
+The Gambia,13.4594466850714,-16.7083340753501,Tringa nebularia,Common Greenshank,2015-02-19,2
+The Gambia,13.459462619498,-16.7083364558006,Rostratula benghalensis,Greater Painted-snipe,2015-02-19,6
+The Gambia,13.4594658806789,-16.7083456797722,Egretta gularis,Western Reef Heron,2015-02-19,1
+The Gambia,13.4594434868528,-16.7083438696037,Tringa glareola,Wood Sandpiper,2015-02-19,1
+The Gambia,13.4594749524688,-16.7083158739548,Egretta ardesiaca,Black Heron,2015-02-19,2
+The Gambia,13.4580219446737,-16.7117296618467,Eurystomus glaucurus,Broad-billed Roller,2015-02-19,1
+The Gambia,13.4574694203197,-16.7123029015171,Merops persicus,Blue-cheeked Bee-eater,2015-02-19,18
+The Gambia,13.4567402394076,-16.7115679094402,Ardea melanocephala,Black-headed Heron,2015-02-19,1
+The Gambia,13.4622665241621,-16.7050531704025,Pogoniulus chrysoconus,Yellow-fronted Tinkerbird,2015-02-18,1
+The Gambia,13.462438057094,-16.7053296992346,Lophoceros fasciatus,African Pied Hornbill,2015-02-18,1
+The Gambia,13.4623167053971,-16.7049857545169,Turdoides reinwardtii,Blackcap Babbler,2015-02-18,5
+The Gambia,13.4611794372,-16.705510556,Merops persicus,Blue-cheeked Bee-eater,2015-02-18,8
+The Gambia,13.4601622033,-16.7074182055,Varanus niloticus,Nile Monitor,2015-02-18,1
+The Gambia,13.4607393726241,-16.707605049789,Passer domesticus,House Sparrow,2015-02-18,21
+The Gambia,13.4594010258431,-16.7099852975161,Euplectes hordeaceus,Black-winged Red Bishop,2015-02-18,3
+The Gambia,13.4594582588766,-16.7083446932028,Corythornis cristatus,Malachite Kingfisher,2015-02-18,1
+The Gambia,13.4594686998255,-16.7083549746774,Rostratula benghalensis,Greater Painted-snipe,2015-02-18,8
+The Gambia,13.4594787579284,-16.7083354822622,Tringa nebularia,Common Greenshank,2015-02-18,2
+The Gambia,13.4594698091894,-16.7083269198502,Numenius phaeopus,Eurasian Whimbrel,2015-02-18,1
+The Gambia,13.4594602246633,-16.7083462105772,Egretta gularis,Western Reef Heron,2015-02-18,1
+The Gambia,13.4592520619364,-16.7060356405628,Prinia subflava,Tawny-flanked Prinia,2015-02-18,2
+The Gambia,13.4600463090669,-16.7054361104228,Campethera punctuligera,Fine-spotted Woodpecker,2015-02-18,1
+The Gambia,13.4615940865777,-16.7049605506824,Megaceryle maxima,Giant Kingfisher,2015-02-18,1
+The Gambia,13.4620775087033,-16.7051108480165,Iduna opaca,Western Olivaceous Warbler,2015-02-18,1
+The Gambia,13.464408340853,-16.7029760770869,Vidua chalybeata,Village Indigobird,2015-02-18,11
+The Gambia,13.4652548899184,-16.7028449010204,Cinnyris coccinigastrus,Splendid Sunbird,2015-02-18,1
+The Gambia,13.4385533816604,-15.8085978622718,Falco biarmicus,Lanner Falcon,2015-02-16,1
+The Gambia,13.4385853595726,-15.8086329898564,Lybius dubius,Bearded Barbet,2015-02-16,1
+The Gambia,13.4386292368998,-15.8085593084914,Lophoceros nasutus,African Grey Hornbill,2015-02-16,1
+The Gambia,13.4386518314355,-15.808530024959,Lamprotornis purpureus,Purple Starling,2015-02-16,5
+The Gambia,13.4386745909777,-15.8085115920696,Lamprotornis caudatus,Long-tailed Glossy Starling,2015-02-16,12
+The Gambia,13.4394555308174,-15.8091720368185,Scopus umbretta,Hamerkop,2015-02-16,1
+The Gambia,13.4394030255831,-15.8091190155408,Spilopelia senegalensis,Laughing Dove,2015-02-16,2
+The Gambia,13.4393334,-15.80912382,Phalacrocorax lucidus,White-breasted Cormorant,2015-02-16,2
+The Gambia,13.45956654,-15.80485201,Platysteira cyanea,Brown-throated Wattle-eye,2015-02-16,1
+The Gambia,13.4800677477,-15.8066232096,Phacochoerus africanus,Common Warthog,2015-02-16,1
+The Gambia,13.4903689174,-15.794511311699999,Phalacrocorax lucidus,White-breasted Cormorant,2015-02-16,101
+The Gambia,13.4335032274638,-15.8182451076532,Prionops plumatus,White-crested Helmetshrike,2015-02-16,3
+The Gambia,13.4704537925758,-16.6952649809141,Corvus albus,Pied Crow,2015-02-17,2
+The Gambia,13.4704143755687,-16.6951717182689,Lagonosticta senegala,Red-billed Firefinch,2015-02-17,1
+The Gambia,13.470421003319,-16.6951676304358,Pycnonotus barbatus,Common Bulbul,2015-02-17,11
+The Gambia,13.4709008774388,-16.6952905018058,Crinifer piscator,Western Plantain-eater,2015-02-17,2
+The Gambia,13.4708650550552,-16.6952427143325,Ploceus cucullatus,Village Weaver,2015-02-17,2
+The Gambia,13.4708159273545,-16.6950304274707,Estrilda caerulescens,Lavender Waxbill,2015-02-17,4
+The Gambia,13.37727211,-16.75572922,Euplectes franciscanus,Northern Red Bishop,2015-02-17,4
+The Gambia,13.3710310975,-16.7592000487,Terpsiphone rufiventer x Terpsiphone viridis,Hybrid Red-bellied Paradise Flycatcher x African Paradise Flycatcher,2015-02-17,1
+The Gambia,13.3717480316145,-16.7594581416479,Tauraco persa,Guinea Turaco,2015-02-17,1
+The Gambia,13.3720612032,-16.7588160746,Camaroptera brevicaudata,Grey-backed Camaroptera,2015-02-17,1
+The Gambia,13.4617070475516,-16.7049193568806,Tringa nebularia,Common Greenshank,2015-02-18,1
+The Gambia,13.4616895918935,-16.7048642996859,Burhinus senegalensis,Senegal Thick-knee,2015-02-18,21
+The Gambia,13.4616919961522,-16.7049081928716,Vanellus spinosus,Spur-winged Lapwing,2015-02-18,1
+The Gambia,13.4616761135264,-16.7048637469656,Numenius phaeopus,Eurasian Whimbrel,2015-02-18,1
+The Gambia,13.4606983387513,-16.7036161133871,Phoeniculus purpureus,Green Wood Hoopoe,2015-02-18,2
+The Gambia,13.4607305043811,-16.7027893197945,Poicephalus senegalus senegalus,Senegal Parrot ssp senegalus,2015-02-18,11
+The Gambia,13.4607245559389,-16.7022586561257,Ardea melanocephala,Black-headed Heron,2015-02-18,1
+The Gambia,13.4609716067088,-16.7016172241576,Lophoceros nasutus,African Grey Hornbill,2015-02-18,2
+The Gambia,13.4609609993347,-16.7016142238859,Tockus kempi,Western Red-billed Hornbill,2015-02-18,1
+The Gambia,13.4609548272267,-16.7015764601479,Merops pusillus,Little Bee-eater,2015-02-18,3
+The Gambia,13.4606787953866,-16.7013047678812,Spilopelia senegalensis,Laughing Dove,2015-02-18,2
+The Gambia,13.4603623652067,-16.7013261945978,Streptopelia decipiens,Mourning Collared Dove,2015-02-18,1
+The Gambia,13.460281560391,-16.7013570632506,Pycnonotus barbatus,Common Bulbul,2015-02-18,2
+The Gambia,13.4598041211256,-16.7018006988287,Corvinella corvina,Yellow-billed Shrike,2015-02-18,5
+The Gambia,13.4597369789736,-16.7018719541228,Psittacula krameri,Rose-ringed Parakeet,2015-02-18,1
+The Gambia,13.4596327044405,-16.7018923034177,Turdoides plebejus,Brown Babbler,2015-02-18,5
+The Gambia,13.4596912692798,-16.7018635525543,Crinifer piscator,Western Plantain-eater,2015-02-18,2
+The Gambia,13.4595952599915,-16.7018952944985,Lybius dubius,Bearded Barbet,2015-02-18,2
+The Gambia,13.4596811410698,-16.7019240145204,Dendropicos goertae,African Grey Woodpecker,2015-02-18,2
+The Gambia,13.4596946843592,-16.7019240790401,Campethera punctuligera,Fine-spotted Woodpecker,2015-02-18,1
+The Gambia,13.4595045161954,-16.7021655281077,Tringa glareola,Wood Sandpiper,2015-02-18,1
+The Gambia,13.4595067475131,-16.7021796012913,Himantopus himantopus,Black-winged Stilt,2015-02-18,2
+The Gambia,13.4595107460329,-16.7021561539523,Tachybaptus ruficollis,Little Grebe,2015-02-18,3
+The Gambia,13.4593394544182,-16.7023992967274,Actitis hypoleucos,Common Sandpiper,2015-02-18,1
+The Gambia,13.4586104262736,-16.7029563961981,Bubulcus ibis,Western Cattle Egret,2015-02-18,2
+The Gambia,13.4586619844938,-16.7030108135088,Necrosyrtes monachus,Hooded Vulture,2015-02-18,15
+The Gambia,13.4585707249496,-16.7032031966071,Actophilornis africanus,African Jacana,2015-02-18,1
+The Gambia,13.4585769829358,-16.7032216570745,Motacilla flava,Western Yellow Wagtail,2015-02-18,21
+The Gambia,13.458579686555,-16.703564395455,Ardeola ralloides,Squacco Heron,2015-02-18,1
+The Gambia,13.4584618701921,-16.7037863589534,Laniarius barbarus,Yellow-crowned Gonolek,2015-02-18,1
+The Gambia,13.4584652691689,-16.7040530091238,Bubalornis albirostris,White-billed Buffalo Weaver,2015-02-18,5
+The Gambia,13.4584838119796,-16.7040293149967,Lamprotornis caudatus,Long-tailed Glossy Starling,2015-02-18,4
+The Gambia,13.4588400012883,-16.7063875949684,Cinnyris pulchellus,Beautiful Sunbird,2015-02-18,1
+The Gambia,13.4579500591251,-16.7073915870792,Ardea cinerea,Grey Heron,2015-02-18,3
+The Gambia,13.457041808212,-16.7080570013503,Ardea alba,Great Egret,2015-02-18,1
+The Gambia,13.4568389333073,-16.7077802626682,Platalea alba,African Spoonbill,2015-02-18,7
+The Gambia,13.4568311810982,-16.7077679262756,Dendrocygna viduata,White-faced Whistling Duck,2015-02-18,1
+The Gambia,13.4568281427517,-16.7077706016941,Columba guinea,Speckled Pigeon,2015-02-18,2
+The Gambia,13.4568311176351,-16.7077482488884,Eurystomus glaucurus,Broad-billed Roller,2015-02-18,1
+The Gambia,13.4568283983078,-16.7077223590204,Microcarbo africanus,Reed Cormorant,2015-02-18,1
+The Gambia,13.4591259967074,-16.7066897042459,Threskiornis aethiopicus,African Sacred Ibis,2015-02-18,2
+The Gambia,13.4593715895205,-16.7068556859409,Coracias cyanogaster,Blue-bellied Roller,2015-02-18,2
+The Gambia,13.4601832043675,-16.7072127506044,Coracias abyssinicus,Abyssinian Roller,2015-02-18,1
+The Gambia,13.4602038058744,-16.7071839349531,Centropus senegalensis,Senegal Coucal,2015-02-18,1
+The Gambia,13.4611824649145,-16.7054401205798,Streptopelia semitorquata,Red-eyed Dove,2015-02-18,4
+The Gambia,13.4615275177255,-16.7049207855511,Hirundo lucida,Red-chested Swallow,2015-02-18,9
+The Gambia,13.4615220928813,-16.7049110949357,Hirundo smithii,Wire-tailed Swallow,2015-02-18,2
+The Gambia,13.4616541769308,-16.7049152599027,Ceryle rudis,Pied Kingfisher,2015-02-18,1
+The Gambia,13.4616905015681,-16.7048397169673,Ploceus cucullatus,Village Weaver,2015-02-18,21
+The Gambia,13.4616633494504,-16.7048848690429,Cypsiurus parvus,African Palm Swift,2015-02-18,11
+The Gambia,13.4704240913897,-16.6951739637478,Lagonosticta senegala,Red-billed Firefinch,2015-02-18,2
+The Gambia,13.4707434888942,-16.6952633919171,Ploceus nigricollis,Black-necked Weaver,2015-02-18,2
+The Gambia,13.4722969,-16.69729764,Phalacrocorax lucidus,White-breasted Cormorant,2015-02-18,2
+The Gambia,13.4722876168756,-16.6972914937149,Gelochelidon nilotica,Gull-billed Tern,2015-02-18,1
+The Gambia,13.3785976529,-16.7939758301,Lanius senator,Woodchat Shrike,2015-02-06,1
+The Gambia,13.4603071332,-16.7061351227,Platalea alba,African Spoonbill,2015-02-09,1
+The Gambia,13.455072815,-16.7047119141,Borbo borbonica,Zeller's Skipper,2015-02-05,1
+The Gambia,13.3377619877,-16.6544151306,Burhinus senegalensis,Senegal Thick-knee,2014-11-24,1
+The Gambia,13.3798501713,-16.6936397552,Coracias cyanogaster,Blue-bellied Roller,2014-11-24,1
+The Gambia,13.3798501713,-16.6936397552,Bubulcus ibis,Western Cattle Egret,2014-11-24,1
+The Gambia,13.3672411884,-16.6849708557,Corvus albus,Pied Crow,2014-11-24,1
+The Gambia,13.3537964471,-16.6661739349,Necrosyrtes monachus,Hooded Vulture,2014-11-24,2
+The Gambia,13.2815703579,-16.5529954433,Turdoides reinwardtii reinwardtii,Blackcap Babbler ssp reinwardtii,2014-11-24,1
+The Gambia,13.2818209627,-16.5530920029,Hippolais polyglotta,Melodious Warbler,2014-11-24,1
+The Gambia,13.2799309788,-16.5524804592,Bubo lacteus,Verreaux's Eagle-Owl,2014-11-24,1
+The Gambia,13.280828984,-16.5503776073,Ceuthmochares aereus flavirostris,Blue Malkoha ssp flavirostris,2014-11-24,1
+The Gambia,13.2814137298,-16.5524697304,Pogoniulus chrysoconus chrysoconus,Yellow-fronted Tinkerbird ssp chrysoconus,2014-11-24,1
+The Gambia,13.281643451,-16.5529632568,Euplectes franciscanus,Northern Red Bishop,2014-11-24,1
+The Gambia,13.2819044975,-16.5533494949,Lophoceros fasciatus semifasciatus,African Pied Hornbill ssp semifasciatus,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Passer griseus griseus,Northern Grey-headed Sparrow ssp griseus,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Turtur afer,Blue-spotted Wood Dove,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Turtur abyssinicus,Black-billed Wood Dove,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Estrilda caerulescens,Lavender Waxbill,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Uraeginthus bengalus bengalus,Red-cheeked Cordon-bleu ssp bengalus,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Eurillas virens erythroptera,Little Greenbul ssp erythroptera,2014-11-24,1
+The Gambia,13.2815807998,-16.5529847145,Ploceus cucullatus cucullatus,Village Weaver ssp cucullatus,2014-11-24,2
+The Gambia,13.2815807998,-16.5529847145,Pycnonotus barbatus inornatus,Common Bulbul ssp inornatus,2014-11-24,3
+The Gambia,13.2818940557,-16.5533173084,Crinifer piscator,Western Plantain-eater,2014-11-24,2
+The Gambia,13.2815285904,-16.5529417992,Ploceus nigricollis brachypterus,Black-necked Weaver ssp brachypterus,2014-11-24,2
+The Gambia,13.2815285904,-16.5529417992,Estrilda troglodytes,Black-rumped Waxbill,2014-11-24,5
+The Gambia,13.2736970603,-16.5507316589,Ptilostomus afer,Piapiac,2014-11-24,3
+The Gambia,13.2335956725,-16.5021514893,Coracias cyanogaster,Blue-bellied Roller,2014-11-24,1
+The Gambia,13.1898107879,-16.3771820068,Coracias abyssinicus,Abyssinian Roller,2014-11-24,2
+The Gambia,13.2085289517,-16.3102340698,Coracias cyanogaster,Blue-bellied Roller,2014-11-24,1
+The Gambia,13.2005070571,-16.1121368408,Bubulcus ibis,Western Cattle Egret,2014-11-24,2
+The Gambia,13.2188901753,-16.0996055603,Polemaetus bellicosus,Martial Eagle,2014-11-24,1
+The Gambia,13.2384416079,-15.9815883636,Bucorvus abyssinicus,Abyssinian Ground Hornbill,2014-11-24,3
+The Gambia,13.2349324919,-15.9801292419,Ciconia episcopus microscelis,Woolly-necked Stork ssp microscelis,2014-11-24,1
+The Gambia,13.2917405261,-15.8299255371,Coracias abyssinicus,Abyssinian Roller,2014-11-24,1
+The Gambia,13.393877933,-15.8353328705,Cuculus gularis,African Cuckoo,2014-11-24,1
+The Gambia,13.3993051214,-15.8367061615,Coracias naevius naevius,Purple Roller ssp naevius,2014-11-24,1
+The Gambia,13.4001400626,-15.8382511139,Aquila spilogaster,African Hawk-Eagle,2014-11-24,2
+The Gambia,13.4008080135,-15.8367061615,Halcyon chelicuti chelicuti,Striped Kingfisher ssp chelicuti,2014-11-24,1
+The Gambia,13.4012254818,-15.8353328705,Hedydipna platura,Pygmy Sunbird,2014-11-24,1
+The Gambia,13.4021439096,-15.8350753784,Halcyon chelicuti chelicuti,Striped Kingfisher ssp chelicuti,2014-11-24,1
+The Gambia,13.3991381328,-15.8379936218,Terathopius ecaudatus,Bateleur,2014-11-24,1
+The Gambia,13.396048823,-15.8297538757,Terathopius ecaudatus,Bateleur,2014-11-24,1
+The Gambia,13.3949633805,-15.8299255371,Passer griseus griseus,Northern Grey-headed Sparrow ssp griseus,2014-11-24,1
+The Gambia,13.3936274444,-15.82280159,Coracias abyssinicus,Abyssinian Roller,2014-11-24,1
+The Gambia,13.3936274444,-15.82280159,Lamprotornis caudatus,Long-tailed Glossy Starling,2014-11-24,1
+The Gambia,13.3936274444,-15.82280159,Streptopelia vinacea,Vinaceous Dove,2014-11-24,1
+The Gambia,13.1901189389,-16.6524517536,Turtur abyssinicus,Black-billed Wood Dove,2015-02-02,3
+The Gambia,13.1901189389,-16.6524517536,Diplacodes lefebvrii,Black Percher,2015-02-02,10
+The Gambia,13.1942397687,-16.6576123238,Uraeginthus bengalus,Red-cheeked Cordon-bleu,2015-02-02,11
+The Gambia,13.1942397687,-16.6576123238,Otus senegalensis,African Scops Owl,2015-02-02,1
+The Gambia,13.1920148426,-16.6552680731,Turdoides reinwardtii,Blackcap Babbler,2015-02-02,3
+The Gambia,13.1920148426,-16.6552680731,Atimastillas flavicollis,Yellow-throated Leaflove,2015-02-02,1
+The Gambia,13.1920148426,-16.6552680731,Turdus pelios,African Thrush,2015-02-02,2
+The Gambia,13.1920148426,-16.6552680731,Cossypha albicapillus,White-crowned Robin-Chat,2015-02-02,1
+The Gambia,13.19201484,-16.65526807,Camaroptera brevicaudata,Grey-backed Camaroptera,2015-02-02,1
+The Gambia,13.1921192997,-16.6544044018,Oriolus auratus,African Golden Oriole,2015-02-02,1
+The Gambia,13.1921192997,-16.6544044018,Ptilostomus afer,Piapiac,2015-02-02,1
+The Gambia,13.1921192997,-16.6544044018,Terpsiphone rufiventer,Red-bellied Paradise Flycatcher,2015-02-02,1
+The Gambia,13.3692453092,-16.7105484009,Strix woodfordii,African Wood Owl,2015-02-05,1
+The Gambia,13.3692453092,-16.7105484009,Bubo lacteus,Verreaux's Eagle-Owl,2015-02-05,1
+The Gambia,13.3692453092,-16.7105484009,Treron calvus,African Green Pigeon,2015-02-05,4
+The Gambia,13.3692453092,-16.7105484009,Tauraco persa,Guinea Turaco,2015-02-05,2
+The Gambia,13.3941284213,-16.648235321,Orthetrum julia,Julia's Skimmer,2015-02-05,1
+The Gambia,13.3941284213,-16.648235321,Acisoma inflatum,Stout Pintail,2015-02-05,3
+The Gambia,13.3941284213,-16.648235321,Psalidoprocne obscura,Fanti Saw-wing,2015-02-05,2
+The Gambia,13.3996390982,-16.6434288025,Palpopleura portia,Portia Widow,2015-02-05,1
+The Gambia,13.3996390982,-16.6434288025,Gorsachius leuconotus,White-backed Night Heron,2015-02-05,1
+The Gambia,13.4603071332,-16.7061351227,Diplacodes lefebvrii,Black Percher,2015-02-05,1
+The Gambia,13.4616945331,-16.7000962166,Palpopleura portia,Portia Widow,2015-02-06,1
+The Gambia,13.4614168207,-16.703338623,Orthetrum julia,Julia's Skimmer,2015-02-07,1
+The Gambia,13.4330344371,-16.7259979248,Orthetrum trinacria,Long Skimmer,2015-02-10,1
+The Gambia,13.3599802861,-16.7985016109,Chroicocephalus genei,Slender-billed Gull,2015-01-27,1
+The Gambia,13.69,-15.37,Pluvianus aegyptius,Egyptian Plover,2015-01-30,2
+The Gambia,13.3836076876,-16.7745780945,Zizina antanossa,Clover Blue,2015-02-04,1
+The Gambia,13.3836076876,-16.7745780945,Tuxentius cretosus nodieri,Savannah pied pierrot,2015-02-04,1
+The Gambia,13.3836076876,-16.7745780945,Danaus chrysippus,African Monarch,2015-02-04,1
+The Gambia,13.4001400626,-16.7503738403,Zizeeria knysna,African Grass Blue,2015-02-04,1
+The Gambia,13.1945949193,-16.6562712193,Acraea serena,Small Orange Acraea,2015-02-05,3
+The Gambia,13.1913254248,-16.6543400288,Tagiades flesus,Clouded Forester,2015-02-05,1
+The Gambia,13.1913254248,-16.6543400288,Junonia sophia,Little Comodore,2015-02-05,2
+The Gambia,13.1913254248,-16.6543400288,Euchrysops malathana,Smoky bean cupid,2015-02-05,1
+The Gambia,13.4306969145,-16.7277145386,Eurystomus glaucurus afer,Broad-billed Roller ssp afer,2015-02-06,1
+The Gambia,13.2559864292,-16.6442871094,Hypergerus atriceps,Oriole Warbler,2015-02-06,1
+The Gambia,13.4323665758,-16.7280578613,Merops pusillus,Little Bee-eater,2015-02-09,12
+The Gambia,13.4416329847,-16.7242383957,Hypolimnas misippus,Danaid Eggfly,2015-02-06,1
+The Gambia,13.4403807882,-16.6909790039,Deudorix antalus,Brown Playboy,2015-02-06,1
+The Gambia,13.4519007491,-16.6391372681,Pandion haliaetus,Western Osprey,2015-02-09,1
+The Gambia,13.4519007491,-16.6391372681,Thalasseus sandvicensis,Sandwich Tern,2015-02-09,1
+The Gambia,13.4519007491,-16.6391372681,Chroicocephalus genei,Slender-billed Gull,2015-02-09,1
+The Gambia,13.3799336723,-16.7860794067,Milvus aegyptius,Yellow-billed Kite,2015-02-09,5
+The Gambia,13.37993367,-16.78607941,Milvus aegyptius,Yellow-billed Kite,2015-02-09,1
+The Gambia,13.3799336723,-16.7860794067,Hydroprogne caspia,Caspian Tern,2015-02-09,1001
+The Gambia,13.427691495,-16.7297744751,Junonia oenone,Dark Blue Pansy,2015-02-07,5
+The Gambia,13.4387111827,-16.7265129089,Eurema hecabe,Common Grass Yellow,2015-02-07,1
+The Gambia,13.4387111827,-16.7265129089,Belenois aurota,African Caper White,2015-02-07,5
+The Gambia,13.4387111827,-16.7265129089,Necrosyrtes monachus,Hooded Vulture,2015-02-07,11
+The Gambia,13.4285472085,-15.800485611,Erythrocebus patas,Patas Monkey,2014-11-24,11
+The Gambia,13.4387111827,-16.7265129089,Melaenornis edolioides,Northern Black Flycatcher,2015-02-09,1
+The Gambia,13.4392120656,-16.7234230042,Vidua chalybeata,Village Indigobird,2015-02-09,1
+The Gambia,13.4353928073,-15.8026957512,Tockus kempi,Western Red-billed Hornbill,2014-11-24,2
+The Gambia,13.4398694727,-15.8097875118,Plectropterus gambensis gambensis,Spur-winged Goose ssp gambensis,2014-11-24,1
+The Gambia,13.4389511892,-15.8097982407,Egretta gularis gularis,Western Reef Heron ssp gularis,2014-11-24,1
+The Gambia,13.4393581562,-15.8103239536,Platalea alba,African Spoonbill,2014-11-24,7
+The Gambia,13.4393581562,-15.8103239536,Pelecanus rufescens,Pink-backed Pelican,2014-11-24,1
+The Gambia,13.439425984,-15.8092135191,Spilopelia senegalensis senegalensis,Laughing Dove ssp senegalensis,2014-11-24,3
+The Gambia,13.4394103314,-15.809352994,Lamprotornis caudatus,Long-tailed Glossy Starling,2014-11-24,2
+The Gambia,13.3586,-16.7901,Vanessa cardui,Painted Lady,2003-12-09,1
+The Gambia,13.2736970603,-16.5392303467,Vanellus senegallus,African Wattled Lapwing,2003-12-11,1
+The Gambia,13.2736970603,-16.5392303467,Balearica pavonina,Black Crowned Crane,2003-12-11,2
+The Gambia,13.4009750009,-16.6445875168,Ploceus cucullatus,Village Weaver,2003-12-10,1
+The Gambia,13.4009750009,-16.6445875168,Bubalornis albirostris,White-billed Buffalo Weaver,2003-12-10,10
+The Gambia,13.4009750009,-16.6445875168,Dicrurus divaricatus,Glossy-backed Drongo,2003-12-10,1
+The Gambia,13.4009750009,-16.6445875168,Musophaga violacea,Violet Turaco,2003-12-10,1
+The Gambia,13.4009750009,-16.6445875168,Streptopelia vinacea,Vinaceous Dove,2003-12-10,1
+The Gambia,13.4009750009,-16.6445875168,Vanellus senegallus,African Wattled Lapwing,2003-12-10,1
+The Gambia,13.4009750009,-16.6445875168,Polyboroides typus,African Harrier-Hawk,2003-12-10,1
+The Gambia,13.3928342289,-16.6242241859,Merops persicus,Blue-cheeked Bee-eater,2003-12-10,1
+The Gambia,13.3890351077,-16.6534280777,Varanus niloticus,Nile Monitor,2003-12-10,1
+The Gambia,13.3890351077,-16.6534280777,Bubo lacteus,Verreaux's Eagle-Owl,2003-12-10,1
+The Gambia,13.3890351077,-16.6534280777,Actophilornis africanus,African Jacana,2003-12-10,1
+The Gambia,13.3890351077,-16.6534280777,Scopus umbretta,Hamerkop,2003-12-10,1
+The Gambia,13.3890351077,-16.6534280777,Megaceryle maxima,Giant Kingfisher,2003-12-10,1
+The Gambia,13.3914565325,-16.6496086121,Turdus pelios,African Thrush,2003-12-10,1
+The Gambia,13.3586399806,-16.7901027203,Lamprotornis caudatus,Long-tailed Glossy Starling,2003-12-09,1
+The Gambia,13.3586399806,-16.7901027203,Pycnonotus barbatus,Common Bulbul,2003-12-09,1
+The Gambia,13.3586399806,-16.7901027203,Spilopelia senegalensis,Laughing Dove,2003-12-08,1
+The Gambia,13.3586399806,-16.7901027203,Burhinus senegalensis,Senegal Thick-knee,2003-12-08,2
+The Gambia,13.3586399806,-16.7901027203,Streptopelia semitorquata,Red-eyed Dove,2003-12-08,1
+The Gambia,13.3586399806,-16.7901027203,Cinnyris coccinigastrus,Splendid Sunbird,2003-12-08,1
+The Gambia,13.3586399806,-16.7901027203,Corvus albus,Pied Crow,2003-12-08,1
+The Gambia,13.3586399806,-16.7901027203,Turdoides plebejus,Brown Babbler,2003-12-08,3
+The Gambia,13.3586399806,-16.7901027203,Tockus kempi,Western Red-billed Hornbill,2003-12-08,1
+The Gambia,13.3583894554,-16.7900168896,Crinifer piscator,Western Plantain-eater,2003-12-08,1
+The Gambia,13.4270236188,-16.7211914062,Catopsilia florella,African Migrant,2015-02-08,1
+The Gambia,13.45,-16.71,Papilio demodocus demodocus,Christmas Butterfly ssp demodocus,2015-02-08,5
+The Gambia,13.4367076408,-16.7271137238,Kaupifalco monogrammicus,Lizard Buzzard,2015-02-08,1
+The Gambia,13.459830835,-16.7059993744,Lampides boeticus,Long-tailed Blue,2015-02-08,1
+The Gambia,13.383774687,-16.7769813538,Pandion haliaetus,Western Osprey,2015-02-07,1
+The Gambia,13.383774687,-16.7769813538,Larus dominicanus,Kelp Gull,2015-02-07,8
+The Gambia,13.3913717309,-16.6501799226,Tragelaphus scriptus,Bushbuck,2005-01-24,1
+The Gambia,13.4616945331,-16.7000962166,Halcyon malimbica,Blue-breasted Kingfisher,2015-02-05,1
+The Gambia,13.4616945331,-16.7000962166,Laniarius barbarus,Yellow-crowned Gonolek,2015-02-05,1
+The Gambia,13.4616945331,-16.7000962166,Rostratula benghalensis,Greater Painted-snipe,2015-02-05,12

@@ -1,0 +1,559 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Egypt,24.0893062721,32.894784808,Mustela subpalmata,Egyptian Weasel,2015-03-05,1
+Egypt,24.09077089,32.89670109,Falco tinnunculus,Common Kestrel,2015-03-05,2
+Egypt,24.0891867788,32.8946471206,Mustela subpalmata,Egyptian Weasel,2015-03-03,1
+Egypt,24.02793857,32.89846554,Limosa limosa,Black-tailed Godwit,2015-03-03,30
+Egypt,24.02794106,32.89845315,Plegadis falcinellus,Glossy Ibis,2015-03-03,13
+Egypt,24.02794106,32.89845315,Fulica atra,Eurasian Coot,2015-03-03,1
+Egypt,24.02794106,32.89845315,Tringa nebularia,Common Greenshank,2015-03-03,1
+Egypt,24.02794569,32.89845462,Calidris pugnax,Ruff,2015-03-03,3
+Egypt,24.02793631,32.89847202,Tringa totanus,Common Redshank,2015-03-03,1
+Egypt,24.02793631,32.89847202,Tringa erythropus,Spotted Redshank,2015-03-03,1
+Egypt,24.02795245,32.89846583,Vanellus spinosus,Spur-winged Lapwing,2015-03-03,1
+Egypt,24.02798177,32.89842194,Egretta garzetta,Little Egret,2015-03-03,8
+Egypt,24.02797239,32.89842648,Nycticorax nycticorax,Black-crowned Night Heron,2015-03-03,1
+Egypt,24.02797145,32.89844582,Ceryle rudis,Pied Kingfisher,2015-03-03,3
+Egypt,24.02796834,32.89842763,Spatula clypeata,Northern Shoveler,2015-03-03,3
+Egypt,24.02796865,32.89843787,Spilopelia senegalensis,Laughing Dove,2015-03-03,2
+Egypt,24.02789522,32.89848109,Hedydipna metallica,Nile Valley Sunbird,2015-03-03,1
+Egypt,24.0278968,32.89794337,Chlidonias hybrida,Whiskered Tern,2015-03-03,2
+Egypt,24.02752933,32.89731553,Platalea leucorodia,Eurasian Spoonbill,2015-03-03,2
+Egypt,24.02753272,32.89730668,Charadrius hiaticula,Common Ringed Plover,2015-03-03,1
+Egypt,24.02755391,32.89730516,Gelochelidon nilotica,Gull-billed Tern,2015-03-03,4
+Egypt,24.02754824,32.89729756,Aythya fuligula,Tufted Duck,2015-03-03,11
+Egypt,24.0275563,32.89712987,Charadrius hiaticula,Common Ringed Plover,2015-03-03,4
+Egypt,24.02754851,32.89708855,Ciconia ciconia,White Stork,2015-03-03,16
+Egypt,24.02760537,32.89703732,Circus aeruginosus,Western Marsh Harrier,2015-03-03,1
+Egypt,24.0276208,32.89699834,Limosa limosa,Black-tailed Godwit,2015-03-03,5
+Egypt,24.02765656,32.89698251,Lanius nubicus,Masked Shrike,2015-03-03,1
+Egypt,24.02767075,32.89698404,Ptyonoprogne obsoleta,Pale Crag Martin,2015-03-03,1
+Egypt,24.02730647,32.89689052,Upupa epops,Eurasian Hoopoe,2015-03-03,1
+Egypt,24.02724504,32.89680369,Iduna pallida,Eastern Olivaceous Warbler,2015-03-03,2
+Egypt,24.02724584,32.89679342,Sylvia curruca,Lesser Whitethroat,2015-03-03,1
+Egypt,24.02711941,32.89661573,Anas crecca,Eurasian Teal,2015-03-03,1
+Egypt,24.02710115,32.89661181,Calidris minuta,Little Stint,2015-03-03,1
+Egypt,24.02659338,32.89632992,Ardea purpurea,Purple Heron,2015-03-03,1
+Egypt,24.0261168,32.89582864,Iduna pallida,Eastern Olivaceous Warbler,2015-03-03,1
+Egypt,24.02610315,32.89581392,Ptyonoprogne obsoleta,Pale Crag Martin,2015-03-03,1
+Egypt,24.02587159,32.89558966,Hedydipna metallica,Nile Valley Sunbird,2015-03-03,2
+Egypt,24.02584834,32.89558115,Prinia gracilis,Graceful Prinia,2015-03-03,1
+Egypt,24.02580331,32.89535323,Aythya fuligula,Tufted Duck,2015-03-03,14
+Egypt,24.02579757,32.89534248,Spilopelia senegalensis,Laughing Dove,2015-03-03,1
+Egypt,24.02582709,32.89532683,Gallinago gallinago,Common Snipe,2015-03-03,4
+Egypt,24.02583757,32.8953264,Charadrius hiaticula,Common Ringed Plover,2015-03-03,1
+Egypt,24.02583991,32.89531291,Gelochelidon nilotica,Gull-billed Tern,2015-03-03,3
+Egypt,24.02585014,32.89531763,Ardea cinerea,Grey Heron,2015-03-03,1
+Egypt,24.02588994,32.89531142,Pandion haliaetus,Western Osprey,2015-03-03,1
+Egypt,24.02587605,32.89531192,Podiceps nigricollis,Black-necked Grebe,2015-03-03,4
+Egypt,24.02588089,32.89531341,Anas crecca,Eurasian Teal,2015-03-03,6
+Egypt,24.02588451,32.8953109,Prinia gracilis,Graceful Prinia,2015-03-03,1
+Egypt,24.02527773,32.89496513,Burhinus senegalensis,Senegal Thick-knee,2015-03-03,7
+Egypt,24.02514779,32.89478051,Phalacrocorax carbo,Great Cormorant,2015-03-03,1
+Egypt,24.02600502,32.89569179,Ceryle rudis,Pied Kingfisher,2015-03-03,1
+Egypt,24.02732005,32.89687354,Himantopus himantopus,Black-winged Stilt,2015-03-03,4
+Egypt,24.02779154,32.89879687,Plegadis falcinellus,Glossy Ibis,2015-03-03,19
+Egypt,24.0277839,32.89868722,Charadrius hiaticula,Common Ringed Plover,2015-03-03,7
+Egypt,24.02774259,32.89874996,Gallinago gallinago,Common Snipe,2015-03-03,2
+Egypt,24.03737503,32.93903802,Oenanthe leucopyga,White-crowned Wheatear,2015-03-03,1
+Egypt,24.05042529,32.91205378,Pandion haliaetus,Western Osprey,2015-03-03,1
+Egypt,24.05043188,32.9120606,Phalacrocorax carbo,Great Cormorant,2015-03-03,6
+Egypt,24.05044769,32.91209735,Tachybaptus ruficollis,Little Grebe,2015-03-03,1
+Egypt,24.05044769,32.91209735,Ardea cinerea,Grey Heron,2015-03-03,1
+Egypt,24.05044769,32.91209735,Butorides striata,Striated Heron,2015-03-03,1
+Egypt,25.72476234,32.60591442,Hedydipna metallica,Nile Valley Sunbird,2015-03-02,1
+Egypt,25.68641126,32.59980836,Elanus caeruleus,Black-winged Kite,2015-03-02,1
+Egypt,24.19449227,32.86996714,Circus aeruginosus,Western Marsh Harrier,2015-03-02,1
+Egypt,24.19449227,32.86996714,Gelochelidon nilotica,Gull-billed Tern,2015-03-02,1
+Egypt,24.1945002,32.86996107,Chlidonias hybrida,Whiskered Tern,2015-03-02,3
+Egypt,24.19450878,32.86996453,Ardeola ralloides,Squacco Heron,2015-03-02,5
+Egypt,24.19450878,32.86996453,Egretta garzetta,Little Egret,2015-03-02,1
+Egypt,24.19450878,32.86996453,Porphyrio madagascariensis,African Swamphen,2015-03-02,1
+Egypt,30.03496617,31.2332233,Spilopelia senegalensis,Laughing Dove,2015-02-22,5
+Egypt,30.03496617,31.2332233,Passer domesticus,House Sparrow,2015-02-22,1
+Egypt,30.0391462,31.23162792,Falco tinnunculus,Common Kestrel,2015-02-22,1
+Egypt,30.04770024,31.22655637,Corvus cornix,Hooded Crow,2015-02-22,3
+Egypt,30.05724711,31.21824072,Corvus cornix,Hooded Crow,2015-02-22,1
+Egypt,30.05716023,31.2182681,Upupa epops,Eurasian Hoopoe,2015-02-22,1
+Egypt,30.05707775,31.21858792,Spilopelia senegalensis,Laughing Dove,2015-02-22,1
+Egypt,30.05708526,31.21859372,Passer domesticus,House Sparrow,2015-02-22,5
+Egypt,30.05673903,31.21905811,Spilopelia senegalensis,Laughing Dove,2015-02-22,1
+Egypt,30.05643796,31.21981627,Upupa epops,Eurasian Hoopoe,2015-02-22,2
+Egypt,30.05646453,31.21848929,Spilopelia senegalensis,Laughing Dove,2015-02-22,1
+Egypt,30.05623429,31.21809756,Upupa epops,Eurasian Hoopoe,2015-02-22,1
+Egypt,30.05623429,31.21809756,Motacilla alba,White Wagtail,2015-02-22,1
+Egypt,30.05623429,31.21809756,Corvus cornix,Hooded Crow,2015-02-22,1
+Egypt,30.05623429,31.21809756,Passer domesticus,House Sparrow,2015-02-22,30
+Egypt,30.05568256,31.21866206,Corvus cornix,Hooded Crow,2015-02-22,3
+Egypt,30.05602754,31.21958975,Falco tinnunculus,Common Kestrel,2015-02-22,1
+Egypt,30.03797673,31.22067667,Falco tinnunculus,Common Kestrel,2015-02-22,1
+Egypt,30.03610205,31.22039,Motacilla alba,White Wagtail,2015-02-22,1
+Egypt,30.02727541,31.21473758,Psittacula eupatria,Alexandrine Parakeet,2015-02-22,1
+Egypt,30.02687773,31.21546708,Milvus aegyptius,Yellow-billed Kite,2015-02-22,2
+Egypt,30.02688887,31.21543315,Corvus cornix,Hooded Crow,2015-02-22,2
+Egypt,30.02686585,31.21544977,Spilopelia senegalensis,Laughing Dove,2015-02-22,2
+Egypt,30.02686058,31.21545832,Passer domesticus,House Sparrow,2015-02-22,1
+Egypt,30.02444402,31.21518997,Psittacula eupatria,Alexandrine Parakeet,2015-02-22,4
+Egypt,30.02404184,31.21421125,Psittacula eupatria,Alexandrine Parakeet,2015-02-22,1
+Egypt,30.02391444,31.2132735,Upupa epops,Eurasian Hoopoe,2015-02-22,2
+Egypt,30.02443546,31.21417714,Ceryle rudis,Pied Kingfisher,2015-02-22,2
+Egypt,30.02518137,31.21518096,Upupa epops,Eurasian Hoopoe,2015-02-22,4
+Egypt,29.95874646,31.25974028,Falco tinnunculus,Common Kestrel,2015-02-23,1
+Egypt,29.43981503,32.4919477,Monticola solitarius,Blue Rock Thrush,2015-02-24,1
+Egypt,29.43883319,32.49282569,Sylvia curruca,Lesser Whitethroat,2015-02-24,1
+Egypt,27.9405254,34.30029593,Columba livia,Rock Dove,2015-02-25,70
+Egypt,28.56070596,33.95235774,Onychognathus tristramii,Tristram's Starling,2015-02-26,1
+Egypt,28.56202878,33.95497885,Ammomanes deserti,Desert Lark,2015-02-26,2
+Egypt,28.56320063,33.9551987,Oenanthe leucopyga,White-crowned Wheatear,2015-02-26,2
+Egypt,28.56162096,33.94112127,Oenanthe leucopyga,White-crowned Wheatear,2015-02-26,1
+Egypt,28.56557283,33.93561508,Oenanthe leucopyga,White-crowned Wheatear,2015-02-26,2
+Egypt,28.56465187,33.93160825,Scotocerca inquieta,Streaked Scrub Warbler,2015-02-26,2
+Egypt,28.56101372,33.93991717,Ammomanes deserti,Desert Lark,2015-02-26,2
+Egypt,28.56002687,33.94068693,Oenanthe leucopyga,White-crowned Wheatear,2015-02-26,1
+Egypt,28.56307771,33.9537045,Oenanthe leucopyga,White-crowned Wheatear,2015-02-27,2
+Egypt,28.56322307,33.9541595,Ammomanes deserti,Desert Lark,2015-02-27,2
+Egypt,28.70616808,33.65735469,Oenanthe melanura,Blackstart,2015-02-27,1
+Egypt,28.70374711,33.64565624,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-27,2
+Egypt,28.70375051,33.64565716,Oenanthe melanura,Blackstart,2015-02-27,1
+Egypt,29.4409529,32.49461188,Chroicocephalus genei,Slender-billed Gull,2015-02-28,2
+Egypt,29.44106082,32.49459253,Thalasseus sandvicensis,Sandwich Tern,2015-02-28,1
+Egypt,29.44105675,32.49459357,Ichthyaetus leucophthalmus,White-eyed Gull,2015-02-28,1
+Egypt,29.44051748,32.49539998,Thalasseus sandvicensis,Sandwich Tern,2015-02-28,2
+Egypt,29.0778171561,32.6239058304,Aquila nipalensis,Steppe Eagle,2015-03-01,1
+Egypt,28.2221129616,33.1745273044,Grus grus,Common Crane,2015-03-01,250
+Egypt,28.1487234402,33.2266094994,Phoenicopterus roseus,Greater Flamingo,2015-03-01,2
+Egypt,28.14996724,33.23426385,Phoenicopterus roseus,Greater Flamingo,2015-03-01,6
+Egypt,29.4414998752,32.495613099,Tursiops truncatus,Common Bottlenose Dolphin,2015-02-23,6
+Egypt,29.4394817076,32.4938106536,Passer hispaniolensis,Spanish Sparrow,2015-02-28,40
+Egypt,29.4403911355,32.4910855289,Sylvia curruca,Lesser Whitethroat,2015-02-28,1
+Egypt,29.4404658827,32.4913215633,Oenanthe deserti,Desert Wheatear,2015-02-28,1
+Egypt,29.4404658827,32.4913215633,Oenanthe isabellina,Isabelline Wheatear,2015-02-28,2
+Egypt,29.4400722136,32.4946010117,Monticola solitarius,Blue Rock Thrush,2015-02-28,2
+Egypt,29.0508975786,33.1207466405,Grus grus,Common Crane,2015-02-27,90
+Egypt,29.0508975786,33.1207466405,Grus grus,Common Crane,2015-02-27,130
+Egypt,29.0452700088,33.1220341008,Grus grus,Common Crane,2015-02-27,90
+Egypt,28.5616221309,33.9394783969,Onychognathus tristramii,Tristram's Starling,2015-02-26,1
+Egypt,28.5662971775,33.9317160847,Scotocerca inquieta,Streaked Scrub Warbler,2015-02-26,1
+Egypt,28.5606487126,33.9523923395,Serinus syriacus,Syrian Serin,2015-02-26,4
+Egypt,29.4413485211,32.4941754062,Chroicocephalus genei,Slender-billed Gull,2015-02-23,4
+Egypt,29.4413485211,32.4941754062,Thalasseus sandvicensis,Sandwich Tern,2015-02-23,5
+Egypt,29.4413485211,32.4941754062,Ichthyaetus leucophthalmus,White-eyed Gull,2015-02-23,150
+Egypt,29.4413485211,32.4941754062,Thalasseus bengalensis,Lesser Crested Tern,2015-02-23,2
+Egypt,29.4413485211,32.4941754062,Thalasseus bergii,Greater Crested Tern,2015-02-23,2
+Egypt,30.0566476098,31.2187743183,Rousettus aegyptiacus,Egyptian Fruit Bat,2015-02-22,30
+Egypt,30.0266513241,31.2138462058,Psittacula eupatria,Alexandrine Parakeet,2015-02-22,3
+Egypt,30.0235425744,31.2131595603,Milvus aegyptius,Yellow-billed Kite,2015-02-22,3
+Egypt,29.40494547,30.4896623,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,2
+Egypt,29.40496284,30.48950947,Corvus cornix,Hooded Crow,2015-02-21,2
+Egypt,29.40497794,30.48942035,Egretta garzetta,Little Egret,2015-02-21,2
+Egypt,29.40538476,30.48813802,Galerida cristata,Crested Lark,2015-02-21,1
+Egypt,29.40540803,30.48821688,Spilopelia senegalensis,Laughing Dove,2015-02-21,1
+Egypt,29.4058637,30.48831061,Ceryle rudis,Pied Kingfisher,2015-02-21,1
+Egypt,29.40624627,30.48841275,Ceryle rudis,Pied Kingfisher,2015-02-21,3
+Egypt,29.40631554,30.48842689,Calidris pugnax,Ruff,2015-02-21,2
+Egypt,29.40633629,30.48843854,Calidris minuta,Little Stint,2015-02-21,2
+Egypt,29.40659894,30.48844551,Chroicocephalus genei,Slender-billed Gull,2015-02-21,2
+Egypt,29.40664083,30.48847198,Chlidonias hybrida,Whiskered Tern,2015-02-21,1
+Egypt,29.40678454,30.48854529,Galerida cristata,Crested Lark,2015-02-21,2
+Egypt,29.40688765,30.48860089,Spilopelia senegalensis,Laughing Dove,2015-02-21,1
+Egypt,29.40765154,30.48802414,Pycnonotus barbatus,Common Bulbul,2015-02-21,2
+Egypt,29.40790621,30.48703446,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,2
+Egypt,29.40648864,30.48659658,Prinia gracilis,Graceful Prinia,2015-02-21,1
+Egypt,29.40551876,30.48667103,Spilopelia senegalensis,Laughing Dove,2015-02-21,2
+Egypt,29.40554492,30.48594654,Prinia gracilis,Graceful Prinia,2015-02-21,1
+Egypt,29.40613705,30.48612347,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,2
+Egypt,29.40656355,30.48533269,Galerida cristata,Crested Lark,2015-02-21,1
+Egypt,29.40650644,30.48484171,Galerida cristata,Crested Lark,2015-02-21,1
+Egypt,29.40652696,30.48478567,Luscinia svecica,Bluethroat,2015-02-21,1
+Egypt,29.4073003,30.48482005,Calidris pugnax,Ruff,2015-02-21,1
+Egypt,29.4073003,30.48482005,Charadrius hiaticula,Common Ringed Plover,2015-02-21,3
+Egypt,29.4073003,30.48482005,Calidris minuta,Little Stint,2015-02-21,2
+Egypt,29.4073605,30.48489844,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,2
+Egypt,29.40738046,30.48490093,Chlidonias hybrida,Whiskered Tern,2015-02-21,1
+Egypt,29.40738046,30.48490093,Pycnonotus barbatus,Common Bulbul,2015-02-21,3
+Egypt,29.40739893,30.4849036,Ceryle rudis,Pied Kingfisher,2015-02-21,1
+Egypt,29.40790055,30.48404584,Prinia gracilis,Graceful Prinia,2015-02-21,1
+Egypt,29.40840722,30.48444104,Fulica atra,Eurasian Coot,2015-02-21,1
+Egypt,29.40838962,30.48453762,Vanellus spinosus,Spur-winged Lapwing,2015-02-21,2
+Egypt,29.40846548,30.48461423,Podiceps cristatus,Great Crested Grebe,2015-02-21,1
+Egypt,29.40874525,30.48388958,Fulica atra,Eurasian Coot,2015-02-21,5
+Egypt,29.40145352,30.48658662,Upupa epops,Eurasian Hoopoe,2015-02-21,1
+Egypt,29.40000752,30.49048974,Merops orientalis,Green Bee-eater,2015-02-20,2
+Egypt,29.40307206,30.49622878,Burhinus senegalensis,Senegal Thick-knee,2015-02-20,2
+Egypt,29.40261873,30.49070604,Athene noctua,Little Owl,2015-02-20,1
+Egypt,29.40455543,30.49053948,Galerida cristata,Crested Lark,2015-02-20,2
+Egypt,29.40504243,30.49069096,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-20,1
+Egypt,29.40517855,30.49064241,Podiceps cristatus,Great Crested Grebe,2015-02-20,1
+Egypt,29.40569159,30.49057334,Fulica atra,Eurasian Coot,2015-02-20,25
+Egypt,29.40569175,30.49056188,Calidris minuta,Little Stint,2015-02-20,2
+Egypt,29.4057225,30.49058138,Himantopus himantopus,Black-winged Stilt,2015-02-20,1
+Egypt,29.4057225,30.49058138,Himantopus himantopus,Black-winged Stilt,2015-02-20,3
+Egypt,29.40573005,30.49057548,Egretta garzetta,Little Egret,2015-02-20,4
+Egypt,29.40476588,30.49182512,Lanius excubitor elegans,Desert Grey Shrike,2015-02-20,1
+Egypt,29.40476422,30.49230362,Fulica atra,Eurasian Coot,2015-02-20,175
+Egypt,29.4047705,30.49230249,Prinia gracilis,Graceful Prinia,2015-02-20,2
+Egypt,29.4047665,30.49231245,Corvus cornix,Hooded Crow,2015-02-20,2
+Egypt,29.4573777,30.40044535,Charadrius leschenaultii,Greater Sand Plover,2015-02-19,2
+Egypt,29.46030194,30.42188806,Podiceps cristatus,Great Crested Grebe,2015-02-19,75
+Egypt,29.46426382,30.72095141,Larus cachinnans,Caspian Gull,2015-02-19,2
+Egypt,29.3988815,30.49398165,Pycnonotus barbatus,Common Bulbul,2015-02-19,2
+Egypt,29.40121532,30.49506629,Spilopelia senegalensis,Laughing Dove,2015-02-19,2
+Egypt,29.40157171,30.49517395,Luscinia svecica,Bluethroat,2015-02-19,1
+Egypt,29.40183556,30.49526525,Pycnonotus barbatus,Common Bulbul,2015-02-19,2
+Egypt,29.40203338,30.49583684,Spilopelia senegalensis,Laughing Dove,2015-02-19,2
+Egypt,29.40288108,30.49607095,Upupa epops,Eurasian Hoopoe,2015-02-19,1
+Egypt,29.4034695,30.49635069,Chroicocephalus genei,Slender-billed Gull,2015-02-19,12
+Egypt,29.40355171,30.49632836,Vanellus spinosus,Spur-winged Lapwing,2015-02-19,10
+Egypt,29.40357101,30.49633705,Himantopus himantopus,Black-winged Stilt,2015-02-19,2
+Egypt,29.40380012,30.49639399,Ceryle rudis,Pied Kingfisher,2015-02-19,6
+Egypt,29.40379239,30.49638834,Charadrius hiaticula,Common Ringed Plover,2015-02-19,2
+Egypt,29.40379267,30.49638838,Egretta garzetta,Little Egret,2015-02-19,3
+Egypt,29.4038036,30.49638902,Calidris minuta,Little Stint,2015-02-19,11
+Egypt,29.40397746,30.49635302,Prinia gracilis,Graceful Prinia,2015-02-19,1
+Egypt,29.40402149,30.49635174,Fulica atra,Eurasian Coot,2015-02-19,100
+Egypt,29.40429236,30.49637981,Chlidonias hybrida,Whiskered Tern,2015-02-19,3
+Egypt,29.40461055,30.4964453,Pycnonotus barbatus,Common Bulbul,2015-02-19,2
+Egypt,29.40428052,30.49637792,Halcyon smyrnensis,White-throated Kingfisher,2015-02-19,1
+Egypt,29.40376851,30.49634644,Calidris pugnax,Ruff,2015-02-19,1
+Egypt,29.40333043,30.49627862,Ardeola ralloides,Squacco Heron,2015-02-19,1
+Egypt,29.40507697,30.49636409,Tringa erythropus,Spotted Redshank,2015-02-19,1
+Egypt,29.40538716,30.49709804,Luscinia svecica,Bluethroat,2015-02-19,2
+Egypt,29.23951362,30.41275339,Alaemon alaudipes,Greater Hoopoe-Lark,2015-02-18,2
+Egypt,29.39898125,30.49075697,Halcyon smyrnensis,White-throated Kingfisher,2015-02-18,2
+Egypt,29.40119793,30.49126831,Pycnonotus barbatus,Common Bulbul,2015-02-18,2
+Egypt,29.40107271,30.49147063,Vanellus spinosus,Spur-winged Lapwing,2015-02-18,1
+Egypt,29.40526777,30.49006276,Vanellus spinosus,Spur-winged Lapwing,2015-02-18,2
+Egypt,29.40527404,30.49007046,Ceryle rudis,Pied Kingfisher,2015-02-18,4
+Egypt,29.40533722,30.49002694,Egretta garzetta,Little Egret,2015-02-18,1
+Egypt,29.40563036,30.48966678,Ardeola ralloides,Squacco Heron,2015-02-18,3
+Egypt,29.40568804,30.48959295,Ceryle rudis,Pied Kingfisher,2015-02-18,3
+Egypt,29.40578135,30.48938484,Himantopus himantopus,Black-winged Stilt,2015-02-18,1
+Egypt,29.40580201,30.48938967,Chlidonias hybrida,Whiskered Tern,2015-02-18,1
+Egypt,29.40554532,30.48823685,Galerida cristata,Crested Lark,2015-02-18,2
+Egypt,29.40579013,30.48827758,Prinia gracilis,Graceful Prinia,2015-02-18,1
+Egypt,29.40633397,30.48841351,Ardeola ralloides,Squacco Heron,2015-02-18,1
+Egypt,29.40725157,30.48872413,Acrocephalus stentoreus,Clamorous Reed Warbler,2015-02-18,1
+Egypt,29.40724282,30.48872797,Fulica atra,Eurasian Coot,2015-02-18,9
+Egypt,29.40725218,30.48872423,Chlidonias hybrida,Whiskered Tern,2015-02-18,9
+Egypt,29.40738352,30.48876604,Aythya ferina,Common Pochard,2015-02-18,37
+Egypt,29.40728408,30.48972245,Ardeola ralloides,Squacco Heron,2015-02-18,6
+Egypt,29.40785206,30.48699373,Halcyon smyrnensis,White-throated Kingfisher,2015-02-18,1
+Egypt,29.40716014,30.48678595,Ceryle rudis,Pied Kingfisher,2015-02-18,2
+Egypt,29.40698178,30.48673655,Vanellus spinosus,Spur-winged Lapwing,2015-02-18,2
+Egypt,29.40547019,30.48709216,Merops orientalis,Green Bee-eater,2015-02-18,1
+Egypt,29.40541326,30.48732406,Galerida cristata,Crested Lark,2015-02-18,2
+Egypt,29.40535629,30.4875498,Spilopelia senegalensis,Laughing Dove,2015-02-18,3
+Egypt,29.39996905,30.49046577,Merops orientalis,Green Bee-eater,2015-02-18,2
+Egypt,29.4013983,30.49112256,Athene noctua,Little Owl,2015-02-17,2
+Egypt,29.39985091,30.49055164,Pycnonotus barbatus,Common Bulbul,2015-02-17,1
+Egypt,29.40171927,30.49071338,Corvus cornix,Hooded Crow,2015-02-17,3
+Egypt,29.4042317,30.49010613,Lanius excubitor elegans,Desert Grey Shrike,2015-02-17,2
+Egypt,29.40539387,30.48838375,Ceryle rudis,Pied Kingfisher,2015-02-17,4
+Egypt,29.40636953,30.48855017,Chroicocephalus genei,Slender-billed Gull,2015-02-17,2
+Egypt,29.40636953,30.48855017,Ardeola ralloides,Squacco Heron,2015-02-17,1
+Egypt,29.47189278,30.74377904,Chroicocephalus genei,Slender-billed Gull,2015-02-17,56
+Egypt,29.43824916,30.6506173,Chroicocephalus genei,Slender-billed Gull,2015-02-17,65
+Egypt,29.39910757,30.49176926,Corvus cornix,Hooded Crow,2015-02-17,1
+Egypt,29.3991083,30.49171904,Spilopelia senegalensis,Laughing Dove,2015-02-17,2
+Egypt,23.95,32.8,Vulpes vulpes,Red Fox,2015-02-14,1
+Egypt,24.0935792003,32.8974044321,Streptopelia turtur,European Turtle Dove,2015-02-14,1
+Egypt,24.09406564,32.8978228567,Streptopelia turtur,European Turtle Dove,2015-02-14,1
+Egypt,24.0926216558,32.8968715667,Mustela subpalmata,Egyptian Weasel,2015-02-14,1
+Egypt,23.98124974,32.84685876,Hedydipna metallica,Nile Valley Sunbird,2015-02-14,1
+Egypt,23.98253201,32.84649231,Spilopelia senegalensis,Laughing Dove,2015-02-14,2
+Egypt,23.99073754,32.83872292,Aythya nyroca,Ferruginous Duck,2015-02-14,1
+Egypt,23.99073754,32.83872292,Anas platyrhynchos,Mallard,2015-02-14,2
+Egypt,23.99126119,32.83850571,Aythya nyroca,Ferruginous Duck,2015-02-14,7
+Egypt,23.99169152,32.83846506,Spatula clypeata,Northern Shoveler,2015-02-14,1
+Egypt,23.99169152,32.83846506,Buteo rufinus,Long-legged Buzzard,2015-02-14,1
+Egypt,23.99169152,32.83846506,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-14,2
+Egypt,23.99169152,32.83846506,Spilopelia senegalensis,Laughing Dove,2015-02-14,1
+Egypt,23.99262003,32.83838729,Spilopelia senegalensis,Laughing Dove,2015-02-14,2
+Egypt,23.99513765,32.83986192,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-14,1
+Egypt,23.99319437,32.84227083,Spilopelia senegalensis,Laughing Dove,2015-02-14,2
+Egypt,23.99318503,32.84227225,Ardea purpurea,Purple Heron,2015-02-14,1
+Egypt,23.99422113,32.84254807,Luscinia svecica,Bluethroat,2015-02-14,1
+Egypt,23.99461646,32.8426156,Spilopelia senegalensis,Laughing Dove,2015-02-14,1
+Egypt,23.99676054,32.84438504,Lanius nubicus,Masked Shrike,2015-02-14,1
+Egypt,23.99676054,32.84438504,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-14,1
+Egypt,23.99403752,32.84301979,Circus aeruginosus,Western Marsh Harrier,2015-02-14,1
+Egypt,23.99266115,32.84238248,Spilopelia senegalensis,Laughing Dove,2015-02-14,1
+Egypt,23.99135115,32.84204964,Luscinia svecica,Bluethroat,2015-02-14,1
+Egypt,23.99034284,32.8410512,Ardea purpurea,Purple Heron,2015-02-14,1
+Egypt,23.99092982,32.8410621,Ardea purpurea,Purple Heron,2015-02-14,1
+Egypt,23.99097971,32.8410533,Ardea cinerea,Grey Heron,2015-02-14,1
+Egypt,23.99097845,32.84105734,Spilopelia senegalensis,Laughing Dove,2015-02-14,2
+Egypt,23.99100138,32.84033952,Luscinia svecica,Bluethroat,2015-02-14,1
+Egypt,23.99095023,32.83983153,Milvus migrans,Black Kite,2015-02-14,5
+Egypt,23.9909559,32.83982383,Saxicola rubicola,European Stonechat,2015-02-14,1
+Egypt,23.99086524,32.83988219,Lanius nubicus,Masked Shrike,2015-02-14,1
+Egypt,23.99034631,32.83992721,Galerida cristata,Crested Lark,2015-02-14,2
+Egypt,23.98332371,32.84755631,Oenanthe leucopyga,White-crowned Wheatear,2015-02-14,1
+Egypt,23.97911452,32.84944631,Merops orientalis,Green Bee-eater,2015-02-14,1
+Egypt,23.97629628,32.85206494,Spilopelia senegalensis,Laughing Dove,2015-02-13,3
+Egypt,23.96914123,32.85160757,Milvus aegyptius,Yellow-billed Kite,2015-02-13,1
+Egypt,23.96883206,32.85176255,Spilopelia senegalensis,Laughing Dove,2015-02-13,3
+Egypt,23.96632646,32.85247068,Spatula clypeata,Northern Shoveler,2015-02-13,1
+Egypt,23.96632646,32.85247068,Aythya nyroca,Ferruginous Duck,2015-02-13,10
+Egypt,23.96551498,32.85176431,Circus aeruginosus,Western Marsh Harrier,2015-02-13,1
+Egypt,23.96514399,32.85187053,Anas platyrhynchos,Mallard,2015-02-13,2
+Egypt,23.96495359,32.85179387,Galerida cristata,Crested Lark,2015-02-13,1
+Egypt,23.96599009,32.85166256,Luscinia svecica,Bluethroat,2015-02-13,1
+Egypt,23.96608108,32.85162292,Calidris minuta,Little Stint,2015-02-13,1
+Egypt,23.96781637,32.85344796,Aythya nyroca,Ferruginous Duck,2015-02-13,2
+Egypt,23.96826611,32.8537735,Ardea purpurea,Purple Heron,2015-02-13,1
+Egypt,23.96826458,32.85378135,Milvus aegyptius,Yellow-billed Kite,2015-02-13,2
+Egypt,23.96887315,32.85427268,Ardea purpurea,Purple Heron,2015-02-13,1
+Egypt,23.96902084,32.85430607,Egretta garzetta,Little Egret,2015-02-13,10
+Egypt,23.96950537,32.85414374,Ardea purpurea,Purple Heron,2015-02-13,1
+Egypt,23.9704958,32.85463352,Ardea cinerea,Grey Heron,2015-02-13,1
+Egypt,23.9704958,32.85463352,Galerida cristata,Crested Lark,2015-02-13,1
+Egypt,23.97050364,32.85462272,Spilopelia senegalensis,Laughing Dove,2015-02-13,4
+Egypt,23.97028205,32.85565298,Anas platyrhynchos,Mallard,2015-02-13,2
+Egypt,23.9700232,32.85582433,Egretta garzetta,Little Egret,2015-02-13,2
+Egypt,23.97002351,32.85610262,Galerida cristata,Crested Lark,2015-02-13,1
+Egypt,23.9700431,32.85625881,Ardea cinerea,Grey Heron,2015-02-13,1
+Egypt,23.97005305,32.8562605,Egretta garzetta,Little Egret,2015-02-13,1
+Egypt,23.96909426,32.85567487,Spilopelia senegalensis,Laughing Dove,2015-02-13,2
+Egypt,23.96861083,32.85575665,Ardea purpurea,Purple Heron,2015-02-13,1
+Egypt,23.96849916,32.8568511,Alopochen aegyptiaca,Egyptian Goose,2015-02-13,2
+Egypt,23.96904573,32.85756105,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-13,1
+Egypt,23.9682317,32.8544863,Lanius nubicus,Masked Shrike,2015-02-13,1
+Egypt,23.96856644,32.8533208,Gelochelidon nilotica,Gull-billed Tern,2015-02-13,1
+Egypt,23.97837791,32.8565086,Ardea cinerea,Grey Heron,2015-02-13,1
+Egypt,23.97935849,32.85685446,Anas platyrhynchos,Mallard,2015-02-13,10
+Egypt,23.97868497,32.85549692,Hedydipna metallica,Nile Valley Sunbird,2015-02-13,1
+Egypt,23.97806714,32.85502627,Hedydipna metallica,Nile Valley Sunbird,2015-02-13,2
+Egypt,23.97772779,32.85500872,Lanius nubicus,Masked Shrike,2015-02-13,1
+Egypt,23.97771388,32.85500126,Spilopelia senegalensis,Laughing Dove,2015-02-13,6
+Egypt,23.97642444,32.85188966,Hedydipna metallica,Nile Valley Sunbird,2015-02-13,1
+Egypt,24.1761752374,32.8715515119,Butorides striata,Striated Heron,2015-02-12,1
+Egypt,24.142678900700002,32.879980803,Varanus niloticus,Nile Monitor,2015-02-12,1
+Egypt,24.1153177319,32.8933471441,Chroicocephalus genei,Slender-billed Gull,2015-02-12,1
+Egypt,24.05599858,32.87422687,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-11,1
+Egypt,24.05588652,32.87416973,Lanius nubicus,Masked Shrike,2015-02-11,1
+Egypt,24.06752783,32.87577059,Circus aeruginosus,Western Marsh Harrier,2015-02-11,1
+Egypt,24.06581095,32.86876651,Ardeola ralloides,Squacco Heron,2015-02-11,1
+Egypt,24.06559882,32.86827781,Ardea purpurea,Purple Heron,2015-02-11,1
+Egypt,24.0616189,32.86676506,Aythya nyroca,Ferruginous Duck,2015-02-11,20
+Egypt,24.06021733,32.86651141,Mareca penelope,Eurasian Wigeon,2015-02-11,3
+Egypt,24.0590714,32.86634927,Ciconia nigra,Black Stork,2015-02-11,1
+Egypt,24.04683509,32.86322465,Pandion haliaetus,Western Osprey,2015-02-11,1
+Egypt,24.04458545,32.8638354,Mareca penelope,Eurasian Wigeon,2015-02-11,40
+Egypt,24.04588763,32.86345697,Anas acuta,Northern Pintail,2015-02-11,2
+Egypt,24.05197094,32.86358142,Mareca penelope,Eurasian Wigeon,2015-02-11,1
+Egypt,24.05214471,32.8635947,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,1
+Egypt,24.05232466,32.86372106,Chlidonias hybrida,Whiskered Tern,2015-02-11,1
+Egypt,24.07707211,32.87301931,Ardea purpurea,Purple Heron,2015-02-11,1
+Egypt,24.07766849,32.87444058,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,1
+Egypt,24.08005161,32.87624399,Porphyrio madagascariensis,African Swamphen,2015-02-11,2
+Egypt,24.08114984,32.87911271,Porphyrio madagascariensis,African Swamphen,2015-02-11,3
+Egypt,24.07532642,32.87740819,Butorides striata,Striated Heron,2015-02-11,1
+Egypt,24.0766602,32.87868758,Porphyrio madagascariensis,African Swamphen,2015-02-11,2
+Egypt,24.07648956,32.88032746,Ardea cinerea,Grey Heron,2015-02-11,1
+Egypt,24.07767483,32.88083045,Ardeola ralloides,Squacco Heron,2015-02-11,1
+Egypt,24.07941997,32.88110245,Ceryle rudis,Pied Kingfisher,2015-02-11,1
+Egypt,24.0801733,32.8813143,Egretta garzetta,Little Egret,2015-02-11,1
+Egypt,24.08062225,32.88138992,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,1
+Egypt,24.0808532,32.88142655,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,1
+Egypt,24.08217306,32.88027642,Vanellus spinosus,Spur-winged Lapwing,2015-02-11,2
+Egypt,24.08277017,32.87925972,Alopochen aegyptiaca,Egyptian Goose,2015-02-11,1
+Egypt,24.08378149,32.87931576,Ardea cinerea,Grey Heron,2015-02-11,1
+Egypt,24.08630008,32.88008106,Ardea cinerea,Grey Heron,2015-02-11,1
+Egypt,24.08828528,32.88118755,Egretta garzetta,Little Egret,2015-02-11,2
+Egypt,24.0897685,32.88211547,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,2
+Egypt,24.09224465,32.8834077,Ceryle rudis,Pied Kingfisher,2015-02-11,1
+Egypt,24.09205259,32.887365,Burhinus senegalensis,Senegal Thick-knee,2015-02-11,9
+Egypt,24.0894078,32.88428964,Gelochelidon nilotica,Gull-billed Tern,2015-02-11,1
+Egypt,24.0306063626,32.8997254371,Luscinia svecica,Bluethroat,2015-02-09,2
+Egypt,24.0306063626,32.8997254367,Saxicola rubicola,European Stonechat,2015-02-09,1
+Egypt,24.0282937904,32.8985238071,Tringa erythropus,Spotted Redshank,2015-02-09,1
+Egypt,24.0895658251,32.895053029,Mustela subpalmata,Egyptian Weasel,2015-02-08,1
+Egypt,24.04377866,32.88193721,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.04376327,32.88196892,Spilopelia senegalensis,Laughing Dove,2015-02-09,3
+Egypt,24.04397196,32.88379079,Acrocephalus stentoreus,Clamorous Reed Warbler,2015-02-09,1
+Egypt,24.04209746,32.89145582,Prinia gracilis,Graceful Prinia,2015-02-09,1
+Egypt,24.04209809,32.89144503,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.04204954,32.89152762,Spilopelia senegalensis,Laughing Dove,2015-02-09,2
+Egypt,24.04206376,32.89154805,Sylvia curruca,Lesser Whitethroat,2015-02-09,1
+Egypt,24.0400095,32.89459471,Streptopelia turtur,European Turtle Dove,2015-02-09,1
+Egypt,24.03815553,32.89596449,Ciconia ciconia,White Stork,2015-02-09,9
+Egypt,24.03789648,32.8968414,Streptopelia turtur,European Turtle Dove,2015-02-09,1
+Egypt,24.03787227,32.8969181,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.0380351,32.89826258,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.03801941,32.89824957,Motacilla alba,White Wagtail,2015-02-09,1
+Egypt,24.03801941,32.89824957,Spilopelia senegalensis,Laughing Dove,2015-02-09,3
+Egypt,24.03849402,32.90550258,Hedydipna metallica,Nile Valley Sunbird,2015-02-09,1
+Egypt,24.03702369,32.90595656,Bubulcus ibis,Western Cattle Egret,2015-02-09,4
+Egypt,24.03552216,32.90517742,Oenanthe leucopyga,White-crowned Wheatear,2015-02-09,1
+Egypt,24.03533356,32.9049557,Burhinus senegalensis,Senegal Thick-knee,2015-02-09,1
+Egypt,24.03435087,32.90442426,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.03307715,32.90236516,Burhinus senegalensis,Senegal Thick-knee,2015-02-09,2
+Egypt,24.03298587,32.90236427,Pycnonotus barbatus,Common Bulbul,2015-02-09,1
+Egypt,24.0318516,32.90229859,Streptopelia turtur,European Turtle Dove,2015-02-09,1
+Egypt,24.03178651,32.9021705,Prinia gracilis,Graceful Prinia,2015-02-09,1
+Egypt,24.03172859,32.90201315,Merops orientalis,Green Bee-eater,2015-02-09,1
+Egypt,24.03128627,32.9011293,Streptopelia turtur,European Turtle Dove,2015-02-09,1
+Egypt,24.03108521,32.90037166,Bubulcus ibis,Western Cattle Egret,2015-02-09,26
+Egypt,24.03069457,32.89993218,Merops orientalis,Green Bee-eater,2015-02-09,4
+Egypt,24.02844168,32.89901581,Himantopus himantopus,Black-winged Stilt,2015-02-09,2
+Egypt,24.02845153,32.89900082,Tringa nebularia,Common Greenshank,2015-02-09,1
+Egypt,24.02790469,32.89851321,Tringa totanus,Common Redshank,2015-02-09,6
+Egypt,24.02791398,32.89852215,Fulica atra,Eurasian Coot,2015-02-09,11
+Egypt,24.02791747,32.89853294,Ardea cinerea,Grey Heron,2015-02-09,1
+Egypt,24.02791493,32.89855459,Plegadis falcinellus,Glossy Ibis,2015-02-09,2
+Egypt,24.02790943,32.8985625,Egretta garzetta,Little Egret,2015-02-09,4
+Egypt,24.02790943,32.8985625,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-09,1
+Egypt,24.02792632,32.89854677,Egretta garzetta,Little Egret,2015-02-09,15
+Egypt,24.02793301,32.89853781,Limosa limosa,Black-tailed Godwit,2015-02-09,5
+Egypt,24.02819525,32.8972367,Limosa limosa,Black-tailed Godwit,2015-02-09,26
+Egypt,24.02821869,32.89718803,Charadrius hiaticula,Common Ringed Plover,2015-02-09,9
+Egypt,24.02820699,32.89720367,Pandion haliaetus,Western Osprey,2015-02-09,1
+Egypt,24.02820248,32.89720864,Ciconia ciconia,White Stork,2015-02-09,1
+Egypt,24.02821216,32.89719364,Ardea cinerea,Grey Heron,2015-02-09,3
+Egypt,24.02821216,32.89719364,Plegadis falcinellus,Glossy Ibis,2015-02-09,5
+Egypt,24.02821216,32.89719364,Motacilla alba,White Wagtail,2015-02-09,2
+Egypt,24.02822202,32.89718616,Gelochelidon nilotica,Gull-billed Tern,2015-02-09,5
+Egypt,24.0282225,32.89720588,Chlidonias hybrida,Whiskered Tern,2015-02-09,5
+Egypt,24.02835573,32.8970107,Mareca penelope,Eurasian Wigeon,2015-02-09,4
+Egypt,24.02834482,32.89702627,Platalea leucorodia,Eurasian Spoonbill,2015-02-09,1
+Egypt,24.02834482,32.89702627,Milvus migrans,Black Kite,2015-02-09,5
+Egypt,24.02834714,32.89701592,Ceryle rudis,Pied Kingfisher,2015-02-09,1
+Egypt,24.0274980993,32.8963780438,Calidris pugnax,Ruff,2015-02-09,2
+Egypt,24.02834714,32.89701592,Calidris minuta,Little Stint,2015-02-09,1
+Egypt,24.02835761,32.89702783,Plegadis falcinellus,Glossy Ibis,2015-02-09,18
+Egypt,24.02826555,32.89699995,Anas crecca,Eurasian Teal,2015-02-09,1
+Egypt,24.02826555,32.89699995,Anas crecca,Eurasian Teal,2015-02-09,2
+Egypt,24.02657109,32.89625908,Sylvia curruca,Lesser Whitethroat,2015-02-09,2
+Egypt,24.02639921,32.89610589,Euodice malabarica,Indian Silverbill,2015-02-09,5
+Egypt,24.02525456,32.89496075,Ardea cinerea,Grey Heron,2015-02-09,4
+Egypt,24.02520628,32.89486553,Mareca penelope,Eurasian Wigeon,2015-02-09,4
+Egypt,24.02518313,32.89483276,Limosa limosa,Black-tailed Godwit,2015-02-09,23
+Egypt,24.02518313,32.89483276,Ciconia ciconia,White Stork,2015-02-09,2
+Egypt,24.02515112,32.89477433,Aythya fuligula,Tufted Duck,2015-02-09,8
+Egypt,24.02516489,32.89476847,Alopochen aegyptiaca,Egyptian Goose,2015-02-09,1
+Egypt,24.02539185,32.89510613,Neophron percnopterus,Egyptian Vulture,2015-02-09,1
+Egypt,24.02738082,32.89666028,Neophron percnopterus,Egyptian Vulture,2015-02-09,1
+Egypt,24.02797186,32.89701423,Aythya fuligula,Tufted Duck,2015-02-09,56
+Egypt,24.02806844,32.89820381,Circus aeruginosus,Western Marsh Harrier,2015-02-09,1
+Egypt,24.02807094,32.89821971,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-09,1
+Egypt,24.03806078,32.8983584,Euodice malabarica,Indian Silverbill,2015-02-09,4
+Egypt,24.03778536,32.89747592,Hedydipna metallica,Nile Valley Sunbird,2015-02-09,1
+Egypt,24.04297466,32.88909366,Lanius nubicus,Masked Shrike,2015-02-09,1
+Egypt,24.04385514,32.88520983,Hedydipna metallica,Nile Valley Sunbird,2015-02-09,2
+Egypt,24.1679140577,32.864041328,Oenanthe isabellina,Isabelline Wheatear,2015-02-07,1
+Egypt,24.0926108824,32.8967714308,Mustela subpalmata,Egyptian Weasel,2015-02-07,1
+Egypt,24.0985642,32.89848463,Motacilla alba,White Wagtail,2015-02-07,4
+Egypt,24.15589827,32.87081513,Streptopelia turtur,European Turtle Dove,2015-02-07,1
+Egypt,24.15593644,32.87080897,Motacilla alba,White Wagtail,2015-02-07,2
+Egypt,24.15739252,32.87031197,Pycnonotus barbatus,Common Bulbul,2015-02-07,1
+Egypt,24.15811408,32.87000838,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.15975808,32.86990832,Cisticola juncidis,Zitting Cisticola,2015-02-07,2
+Egypt,24.15975808,32.86990832,Elanus caeruleus,Black-winged Kite,2015-02-07,1
+Egypt,24.16173074,32.86958414,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-07,1
+Egypt,24.16173074,32.86958414,Falco tinnunculus,Common Kestrel,2015-02-07,1
+Egypt,24.16537941,32.8689851,Cisticola juncidis,Zitting Cisticola,2015-02-07,1
+Egypt,24.16617662,32.86839504,Ceryle rudis,Pied Kingfisher,2015-02-07,2
+Egypt,24.16620035,32.86839168,Galerida cristata,Crested Lark,2015-02-07,1
+Egypt,24.16708476,32.86721504,Hedydipna metallica,Nile Valley Sunbird,2015-02-07,1
+Egypt,24.16733157,32.86622692,Vanellus spinosus,Spur-winged Lapwing,2015-02-07,1
+Egypt,24.16741812,32.86608965,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.16745131,32.86604086,Oenanthe oenanthe,Northern Wheatear,2015-02-07,1
+Egypt,24.16749251,32.86606936,Sylvia curruca,Lesser Whitethroat,2015-02-07,2
+Egypt,24.16749483,32.86602079,Anthus cervinus,Red-throated Pipit,2015-02-07,1
+Egypt,24.16749354,32.86600976,Corvus cornix,Hooded Crow,2015-02-07,2
+Egypt,24.16728343,32.86535271,Bubulcus ibis,Western Cattle Egret,2015-02-07,7
+Egypt,24.16726711,32.86538227,Galerida cristata,Crested Lark,2015-02-07,2
+Egypt,24.16707561,32.86540592,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-07,1
+Egypt,24.16705622,32.86454545,Cisticola juncidis,Zitting Cisticola,2015-02-07,1
+Egypt,24.16706426,32.86453778,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.16695142,32.86418231,Merops orientalis,Green Bee-eater,2015-02-07,2
+Egypt,24.16688418,32.86380954,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-07,2
+Egypt,24.16701652,32.86359826,Bucanetes githagineus,Trumpeter Finch,2015-02-07,1
+Egypt,24.16771083,32.86375059,Amandava amandava,Red Avadavat,2015-02-07,5
+Egypt,24.16778895,32.86429327,Oenanthe isabellina,Isabelline Wheatear,2015-02-07,2
+Egypt,24.16802199,32.86428107,Motacilla flava,Western Yellow Wagtail,2015-02-07,1
+Egypt,24.16817757,32.86441389,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.16817757,32.86441389,Cisticola juncidis,Zitting Cisticola,2015-02-07,2
+Egypt,24.16821802,32.86457891,Motacilla alba,White Wagtail,2015-02-07,1
+Egypt,24.16823385,32.86461513,Vanellus spinosus,Spur-winged Lapwing,2015-02-07,2
+Egypt,24.1683523,32.86508404,Vanellus spinosus,Spur-winged Lapwing,2015-02-07,2
+Egypt,24.16838451,32.86513134,Upupa epops,Eurasian Hoopoe,2015-02-07,1
+Egypt,24.16838451,32.86513134,Amandava amandava,Red Avadavat,2015-02-07,8
+Egypt,24.1685829,32.86424658,Cisticola juncidis,Zitting Cisticola,2015-02-07,2
+Egypt,24.1685829,32.86424658,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.16853501,32.8636477,Oenanthe deserti,Desert Wheatear,2015-02-07,1
+Egypt,24.16957486,32.86520776,Merops orientalis,Green Bee-eater,2015-02-07,2
+Egypt,24.16955605,32.86559824,Vanellus spinosus,Spur-winged Lapwing,2015-02-07,1
+Egypt,24.16955605,32.86559824,Prinia gracilis,Graceful Prinia,2015-02-07,1
+Egypt,24.16999842,32.86606057,Hedydipna metallica,Nile Valley Sunbird,2015-02-07,1
+Egypt,24.16999665,32.86605063,Streptopelia turtur,European Turtle Dove,2015-02-07,1
+Egypt,24.17000343,32.8660372,Pycnonotus barbatus,Common Bulbul,2015-02-07,1
+Egypt,24.17052728,32.86591604,Vanellus spinosus,Spur-winged Lapwing,2015-02-07,3
+Egypt,24.17099227,32.86575237,Anthus cervinus,Red-throated Pipit,2015-02-07,4
+Egypt,24.17099227,32.86575237,Cisticola juncidis,Zitting Cisticola,2015-02-07,1
+Egypt,24.0934884404,32.897247076,Mustela subpalmata,Egyptian Weasel,2015-02-05,2
+Egypt,24.0893601416,32.8948169946,Mustela subpalmata,Egyptian Weasel,2015-02-06,1
+Egypt,24.0951641,32.89662229,Motacilla alba,White Wagtail,2015-02-04,1
+Egypt,24.09573823,32.89721547,Sylvia curruca,Lesser Whitethroat,2015-02-04,1
+Egypt,24.10744969,32.90017392,Limosa limosa,Black-tailed Godwit,2015-02-04,15
+Egypt,24.10747398,32.90014931,Vanellus spinosus,Spur-winged Lapwing,2015-02-04,24
+Egypt,24.10747053,32.90013973,Ardea cinerea,Grey Heron,2015-02-04,3
+Egypt,24.1074755,32.9001384,Phalacrocorax carbo,Great Cormorant,2015-02-04,16
+Egypt,24.10747465,32.9001175,Alopochen aegyptiaca,Egyptian Goose,2015-02-04,38
+Egypt,24.10746989,32.90013573,Egretta garzetta,Little Egret,2015-02-04,1
+Egypt,24.10746989,32.90013573,Calidris pugnax,Ruff,2015-02-04,3
+Egypt,24.10815297,32.90023928,Gelochelidon nilotica,Gull-billed Tern,2015-02-04,4
+Egypt,24.10813937,32.90023723,Chlidonias hybrida,Whiskered Tern,2015-02-04,3
+Egypt,24.10813937,32.90023723,Ardea alba,Great Egret,2015-02-04,1
+Egypt,24.10817135,32.90024213,Spatula clypeata,Northern Shoveler,2015-02-04,1
+Egypt,24.1029889,32.89993994,Falco tinnunculus,Common Kestrel,2015-02-04,1
+Egypt,24.10048364,32.89901449,Porphyrio madagascariensis,African Swamphen,2015-02-05,12
+Egypt,24.10048364,32.89901449,Limosa limosa,Black-tailed Godwit,2015-02-05,1
+Egypt,24.1004914,32.89895567,Egretta garzetta,Little Egret,2015-02-05,1
+Egypt,24.1004914,32.89895567,Ardea cinerea,Grey Heron,2015-02-05,1
+Egypt,24.10286079,32.88335846,Motacilla alba,White Wagtail,2015-02-05,2
+Egypt,24.10225869,32.88135592,Egretta garzetta,Little Egret,2015-02-05,1
+Egypt,24.10229667,32.88127792,Anas crecca,Eurasian Teal,2015-02-05,1
+Egypt,24.10229667,32.88127792,Motacilla alba,White Wagtail,2015-02-05,1
+Egypt,24.1025049,32.88180991,Oenanthe leucopyga,White-crowned Wheatear,2015-02-05,1
+Egypt,24.09225069,32.8755934,Motacilla alba,White Wagtail,2015-02-05,1
+Egypt,24.09225069,32.8755934,Spilopelia senegalensis,Laughing Dove,2015-02-05,2
+Egypt,24.09353748,32.89732094,Streptopelia turtur,European Turtle Dove,2015-02-06,1
+Egypt,24.09509762,32.89815486,Streptopelia turtur,European Turtle Dove,2015-02-06,1
+Egypt,24.09597843,32.89875447,Pycnonotus barbatus,Common Bulbul,2015-02-06,1
+Egypt,24.09673596,32.89910442,Spilopelia senegalensis,Laughing Dove,2015-02-06,1
+Egypt,24.09886402,32.90058955,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-06,2
+Egypt,24.10221197,32.89944838,Hedydipna metallica,Nile Valley Sunbird,2015-02-06,1
+Egypt,24.11627301,32.89906289,Himantopus himantopus,Black-winged Stilt,2015-02-06,19
+Egypt,24.11629591,32.89907772,Vanellus spinosus,Spur-winged Lapwing,2015-02-06,2
+Egypt,24.11627677,32.89905198,Calidris pugnax,Ruff,2015-02-06,3
+Egypt,24.11631379,32.89907409,Ardea alba,Great Egret,2015-02-06,1
+Egypt,24.11631379,32.89907409,Calidris minuta,Little Stint,2015-02-06,14
+Egypt,24.11631379,32.89907409,Calidris alpina,Dunlin,2015-02-06,5
+Egypt,24.11631907,32.89908252,Ceryle rudis,Pied Kingfisher,2015-02-06,2
+Egypt,24.11632835,32.89908258,Aythya nyroca,Ferruginous Duck,2015-02-06,106
+Egypt,24.1185359,32.89883422,Aythya nyroca,Ferruginous Duck,2015-02-06,11
+Egypt,24.1185359,32.89883422,Anas crecca,Eurasian Teal,2015-02-06,1
+Egypt,24.1185491,32.89881869,Ardea cinerea,Grey Heron,2015-02-06,2
+Egypt,24.1185491,32.89881869,Spatula clypeata,Northern Shoveler,2015-02-06,3
+Egypt,24.11903937,32.89870549,Egretta garzetta,Little Egret,2015-02-06,2
+Egypt,24.11903937,32.89870549,Prinia gracilis,Graceful Prinia,2015-02-06,1
+Egypt,24.11949717,32.89854444,Mareca penelope,Eurasian Wigeon,2015-02-06,3
+Egypt,24.120937,32.89809814,Spatula clypeata,Northern Shoveler,2015-02-06,35
+Egypt,24.120937,32.89809814,Anas crecca,Eurasian Teal,2015-02-06,60
+Egypt,24.120937,32.89809814,Aythya nyroca,Ferruginous Duck,2015-02-06,20
+Egypt,24.12094077,32.89810375,Egretta garzetta,Little Egret,2015-02-06,2
+Egypt,24.12094577,32.8980947,Platalea leucorodia,Eurasian Spoonbill,2015-02-06,6
+Egypt,24.12118481,32.89800119,Himantopus himantopus,Black-winged Stilt,2015-02-06,2
+Egypt,24.1211705,32.89801218,Calidris pugnax,Ruff,2015-02-06,1
+Egypt,24.12117732,32.89800466,Limosa limosa,Black-tailed Godwit,2015-02-06,1
+Egypt,24.12117732,32.89800466,Mareca penelope,Eurasian Wigeon,2015-02-06,1
+Egypt,24.1213991,32.89792506,Mareca penelope,Eurasian Wigeon,2015-02-06,1
+Egypt,24.1213991,32.89792506,Porphyrio madagascariensis,African Swamphen,2015-02-06,3
+Egypt,24.1213943,32.89791205,Amandava amandava,Red Avadavat,2015-02-06,1
+Egypt,24.12068739,32.8982135,Gelochelidon nilotica,Gull-billed Tern,2015-02-06,1
+Egypt,24.11724261,32.89924339,Upupa epops,Eurasian Hoopoe,2015-02-06,1
+Egypt,24.09281697,32.89700917,Sylvia curruca,Lesser Whitethroat,2015-02-06,1
+Egypt,24.0906291708,32.8805601595,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-05,2
+Egypt,24.0952301542,32.8753280639,Ptyonoprogne obsoleta,Pale Crag Martin,2015-02-05,2
+Egypt,24.1031960311,32.8830099105,Oenanthe lugens,Mourning Wheatear,2015-02-05,3

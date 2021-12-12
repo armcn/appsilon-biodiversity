@@ -1,0 +1,118 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Turkey,36.7926934803113,31.3711981593587,Streptopelia decaocto,Eurasian Collared Dove,2015-02-27,1
+Turkey,36.7916749725989,31.370262844415,Phoenicurus ochruros,Black Redstart,2015-02-27,1
+Turkey,36.7916830191565,31.3702288599294,Corvus cornix,Hooded Crow,2015-02-27,20
+Turkey,36.7897062583257,31.3719143739198,Motacilla alba,White Wagtail,2015-02-27,1
+Turkey,36.7805440118724,31.3909563591598,Sylvia atricapilla,Eurasian Blackcap,2015-02-27,2
+Turkey,36.7685788944312,31.3906514896795,Phoenicurus ochruros,Black Redstart,2015-02-28,1
+Turkey,36.7706268779846,31.3938859740568,Galerida cristata,Crested Lark,2015-02-28,1
+Turkey,36.7707010362233,31.45944496874,Motacilla flava,Western Yellow Wagtail,2015-02-28,1
+Turkey,36.7707010362233,31.45944496874,Ardea cinerea,Grey Heron,2015-02-28,12
+Turkey,36.7593574106684,31.4736324922284,Tachybaptus ruficollis,Little Grebe,2015-02-28,1
+Turkey,36.7528854790268,31.4791829487661,Corvus corax,Northern Raven,2015-02-28,4
+Turkey,36.753686834651,31.479792365611,Galerida cristata,Crested Lark,2015-02-28,20
+Turkey,36.7413394455584,31.4897992594555,Circus aeruginosus,Western Marsh Harrier,2015-02-28,1
+Turkey,36.7393916606607,31.4975784421994,Phylloscopus collybita,Common Chiffchaff,2015-02-28,1
+Turkey,36.9657895949453,30.8514440341075,Monticola solitarius,Blue Rock Thrush,2015-03-02,1
+Turkey,36.5315433603908,31.9901927533538,Fringilla coelebs,Common Chaffinch,2015-03-03,10
+Turkey,36.7674848279741,31.4869211480435,Emberiza calandra,Corn Bunting,2015-03-03,1
+Turkey,36.8253037378321,31.4485200410019,Alcedo atthis,Common Kingfisher,2015-03-04,1
+Turkey,36.8253037378321,31.4485200410019,Cettia cetti,Cetti's Warbler,2015-03-04,1
+Turkey,36.8385741442081,31.4536994231106,Galerida cristata,Crested Lark,2015-03-04,2
+Turkey,36.7460086648886,31.4820709677379,Oenanthe oenanthe,Northern Wheatear,2015-03-05,1
+Turkey,36.7459660686702,31.4820686327488,Corvus cornix,Hooded Crow,2015-03-05,10
+Turkey,36.741658590203,31.4914331730126,Circus aeruginosus,Western Marsh Harrier,2015-03-05,1
+Turkey,36.7416560175594,31.4914477900059,Galerida cristata,Crested Lark,2015-03-05,10
+Turkey,36.8050848014934,31.3661933954633,Emberiza calandra,Corn Bunting,2015-03-07,1
+Turkey,36.8026603257438,31.3696472178686,Galerida cristata,Crested Lark,2015-03-07,9
+Turkey,36.800529447389,31.3696588125956,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-03-07,1
+Turkey,36.798712585035,31.3769571304955,Prinia gracilis,Graceful Prinia,2015-03-07,2
+Turkey,36.7946039914383,31.3816398685739,Cettia cetti,Cetti's Warbler,2015-03-07,1
+Turkey,36.7946131409552,31.3816606098811,Phoenicurus ochruros,Black Redstart,2015-03-07,4
+Turkey,36.7674331372519,31.3940255210529,Sylvia atricapilla,Eurasian Blackcap,2015-03-07,1
+Turkey,36.7659424100601,31.4047579950833,Tachybaptus ruficollis,Little Grebe,2015-03-07,1
+Turkey,36.8875292912,30.7691900432,Spilopelia senegalensis,Laughing Dove,2015-03-01,8
+Turkey,36.882311862,30.7045074413,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-03-01,1
+Turkey,37.882,35.096,Coenagrion pulchellum,Variable Bluet,2008-06-16,4
+Turkey,37.8586391958,27.2360301018,Calonectris diomedea,Scopoli's Shearwater,1998-05-31,2
+Turkey,37.72,28.06,Anacamptis sancta,Holy Orchid,1998-05-29,1
+Turkey,41.087028990352,28.884952081366812,Spilopelia senegalensis,Laughing Dove,2013-06-03,10
+Turkey,36.575955962316,34.225029945374,Strix aluco sylvatica,Tawny Owl ssp sylvatica,2013-05-28,1
+Turkey,36.6832186796,30.5302910507,Spinus spinus,Eurasian Siskin,2015-02-08,1
+Turkey,36.8842887893,30.681431517,Phoenicurus ochruros,Black Redstart,2015-02-07,1
+Turkey,36.8844258242,30.6774906814,Pycnonotus xanthopygos,White-spectacled Bulbul,2015-02-07,3
+Turkey,36.8844258242,30.6774906814,Spilopelia senegalensis,Laughing Dove,2015-02-07,1
+Turkey,38.6174069633,34.9324035645,Poecile lugubris,Sombre Tit,2006-03-30,1
+Turkey,37.805376134762,34.956436157227,Irania gutturalis,White-throated Robin,2013-06-01,1
+Turkey,36.81,30.54,Lyciasalamandra antalyana,Anatolia Lycian salamander,2015-02-06,3
+Turkey,36.82,30.54,Blanus strauchi,Turkish Worm Lizard,2015-02-06,1
+Turkey,36.8,30.53,Lyciasalamandra billae,Bay Lycian Salamander,2015-02-06,1
+Turkey,36.82,30.53,Lyciasalamandra antalyana,Anatolia Lycian salamander,2015-02-06,1
+Turkey,36.82,30.53,Lyciasalamandra antalyana,Anatolia Lycian salamander,2015-02-06,2
+Turkey,36.68,30.53,Hemidactylus turcicus,Mediterranean House Gecko,2015-02-06,1
+Turkey,36.54,30.52,Blanus strauchi,Turkish Worm Lizard,2015-02-07,1
+Turkey,36.28,29.94,Lyciasalamandra luschani,Luschan's Salamander,2015-02-08,6
+Turkey,36.76,28.68,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-08,14
+Turkey,36.78,28.66,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-08,1
+Turkey,36.78,28.66,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-08,13
+Turkey,36.77,28.65,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-08,14
+Turkey,36.77,28.64,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-08,48
+Turkey,36.76,28.69,Lyciasalamandra fazilae,Fazil Lycian salamander,2015-02-09,4
+Turkey,36.69,28.79,Trionyx triunguis,African Soft-shelled Turtle,2015-02-09,6
+Turkey,36.69,28.79,Trionyx triunguis,African Soft-shelled Turtle,2015-02-09,7
+Turkey,36.36,29.31,Anatololacerta oertzeni,Oertzen's Rock Lizard,2015-02-09,1
+Turkey,36.36,29.31,Ophisops elegans,Snake-eyed lizard,2015-02-09,1
+Turkey,36.22,29.95,Ophiomorus punctatissimus,Greek Snake Skink,2015-02-10,1
+Turkey,36.39,30.13,Lyciasalamandra luschani,Luschan's Salamander,2015-02-10,1
+Turkey,36.39,30.14,Lyciasalamandra luschani,Luschan's Salamander,2015-02-10,2
+Turkey,36.81,30.54,Lyciasalamandra antalyana,Anatolia Lycian salamander,2015-02-11,1
+Turkey,36.82,30.54,Lyciasalamandra antalyana,Anatolia Lycian salamander,2015-02-11,1
+Turkey,36.82,30.54,Blanus strauchi,Turkish Worm Lizard,2015-02-11,1
+Turkey,41.2078452546,43.1775301695,Circus pygargus,Montagu's Harrier,2014-06-15,1
+Turkey,41.2124943129,43.197786212,Pelecanus crispus,Dalmatian Pelican,2014-06-15,1
+Turkey,39.5191878146,44.1287829727,Spermophilus xanthoprymnus,Asia Minor Ground Squirrel,2014-06-14,10
+Turkey,38.5014296923,42.3590829223,Garrulus glandarius anatoliae,Eurasian Jay ssp anatoliae,2014-06-12,1
+Turkey,37.9504202052,38.7478673458,Carduelis carduelis,European Goldfinch,2014-06-11,1
+Turkey,37.9504202052,38.7478673458,Sylvia crassirostris,Eastern Orphean Warbler,2014-06-11,1
+Turkey,37.9504202052,38.7478673458,Emberiza melanocephala,Black-headed Bunting,2014-06-11,1
+Turkey,37.9504202052,38.7478673458,Irania gutturalis,White-throated Robin,2014-06-11,1
+Turkey,37.9690936142,38.6679911613,Petronia petronia,Rock Sparrow,2014-06-10,1
+Turkey,37.9690936142,38.6679911613,Eremophila alpestris,Horned Lark,2014-06-10,1
+Turkey,37.9690936142,38.6679911613,Oenanthe xanthoprymna,Kurdish Wheatear,2014-06-10,2
+Turkey,37.9690936142,38.6679911613,Oenanthe melanoleuca,Eastern Black-eared Wheatear,2014-06-10,1
+Turkey,37.0296873499,37.9766321741,Otus brucei,Pallid Scops Owl,2014-06-08,1
+Turkey,37.0467851442,37.9872612655,Falco tinnunculus,Common Kestrel,2014-06-08,1
+Turkey,37.0442504082,37.9805235565,Microcarbo pygmaeus,Pygmy Cormorant,2014-06-08,1
+Turkey,37.0475904779,37.9863918945,Coracias garrulus,European Roller,2014-06-08,1
+Turkey,37.0475904779,37.9863918945,Ammoperdix griseogularis,See-see Partridge,2014-06-08,2
+Turkey,37.0466826539,37.9837562889,Dendrocopos syriacus,Syrian Woodpecker,2014-06-08,1
+Turkey,37.0500390731,37.9694513977,Argya altirostris,Iraq Babbler,2014-06-07,6
+Turkey,37.0500390731,37.9694513977,Passer moabiticus,Dead Sea Sparrow,2014-06-07,1
+Turkey,37.0500390731,37.9694513977,Prinia gracilis,Graceful Prinia,2014-06-07,1
+Turkey,36.9981570884,35.3260874748,Spilopelia senegalensis,Laughing Dove,2014-06-06,1
+Turkey,38.6396671001,34.8147591949,Tachymarptis melba,Alpine Swift,2014-05-31,10
+Turkey,37.8244274635,35.0945109129,Calandrella brachydactyla,Greater Short-toed Lark,2014-05-30,5
+Turkey,37.8244274635,35.0945109129,Rhodopechys sanguineus,Asian Crimson-winged Finch,2014-05-30,10
+Turkey,37.8244274635,35.0945109129,Oenanthe finschii,Finsch's Wheatear,2014-05-30,1
+Turkey,37.8244274635,35.0945109129,Linaria cannabina,Common Linnet,2014-05-30,1
+Turkey,37.8244274635,35.0945109129,Eremophila alpestris,Horned Lark,2014-05-30,1
+Turkey,37.8244274635,35.0945109129,Emberiza hortulana,Ortolan Bunting,2014-05-30,1
+Turkey,37.8310712816,35.0709933043,Lanius minor,Lesser Grey Shrike,2014-05-30,1
+Turkey,37.8553041757,35.1245073974,Phoenicurus ochruros,Black Redstart,2014-05-29,1
+Turkey,37.8553041757,35.1245073974,Sylvia curruca,Lesser Whitethroat,2014-05-29,1
+Turkey,37.8568969886,35.1293065399,Emberiza hortulana,Ortolan Bunting,2014-05-29,2
+Turkey,37.8568969886,35.1293065399,Tetraogallus caspius,Caspian Snowcock,2014-05-29,3
+Turkey,37.8568969886,35.1293065399,Montifringilla nivalis,White-winged Snowfinch,2014-05-29,10
+Turkey,37.854185983,35.1224045455,Montifringilla nivalis,White-winged Snowfinch,2014-05-29,2
+Turkey,37.854185983,35.1224045455,Pyrrhocorax graculus,Alpine Chough,2014-05-29,2
+Turkey,37.8548636776,35.1202587783,Alectoris chukar,Chukar Partridge,2014-05-29,1
+Turkey,37.8630627586,35.0998029113,Oenanthe finschii,Finsch's Wheatear,2014-05-28,1
+Turkey,36.8843566363,30.7054433227,Spilopelia senegalensis,Laughing Dove,2014-05-23,1
+Turkey,36.3946174417,30.4731854796,Pycnonotus xanthopygos,White-spectacled Bulbul,2014-05-22,1
+Turkey,37.7066357339,28.7214696407,Sitta neumayer,Western Rock Nuthatch,2014-05-17,1
+Turkey,39.5056290579,26.9391927123,Garrulus glandarius anatoliae,Eurasian Jay ssp anatoliae,2014-05-14,2
+Turkey,40.9736691644,29.0110087395,Tursiops truncatus,Common Bottlenose Dolphin,2014-05-13,1
+Turkey,40.9736691644,29.0110087395,Puffinus yelkouan,Yelkouan Shearwater,2014-05-13,20
+Turkey,41.0363687526,28.9780497551,Puffinus yelkouan,Yelkouan Shearwater,2014-05-12,100
+Turkey,41.0363687526,28.9780497551,Tachymarptis melba,Alpine Swift,2014-05-11,1
+Turkey,41.0363687526,28.9780497551,Spilopelia senegalensis,Laughing Dove,2014-05-11,1

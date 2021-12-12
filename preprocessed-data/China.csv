@@ -1,0 +1,544 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+China,22.30057427,114.169785082,Nycticorax nycticorax,Black-crowned Night Heron,2014-11-02,1
+China,22.2554,113.9028,Pycnonotus sinensis,Light-vented Bulbul,2015-03-09,3
+China,22.2555,113.9069,Spilopelia chinensis,Spotted Dove,2015-03-09,5
+China,22.2772,114.1618,Pterorhinus chinensis,Black-throated Laughingthrush,2015-03-09,2
+China,22.2773,114.1618,Pterorhinus perspicillatus,Masked Laughingthrush,2015-03-09,4
+China,22.2773,114.1618,Myophonus caeruleus,Blue Whistling Thrush,2015-03-09,1
+China,22.2763,114.163,Orthotomus sutorius,Common Tailorbird,2015-03-09,1
+China,22.271,114.1503,Milvus migrans,Black Kite,2015-03-09,5
+China,22.2551,113.9027,Acridotheres cristatellus,Crested Myna,2015-03-09,2
+China,22.2554,113.9028,Pycnonotus jocosus,Red-whiskered Bulbul,2015-03-09,10
+China,22.2562,113.903,Parus minor,Japanese Tit,2015-03-09,1
+China,39.8125661463,119.521379471,Chroicocephalus ridibundus,Black-headed Gull,2014-05-04,1500
+China,39.8148654254,119.523696899,Dendrocopos hyperythrus,Rufous-bellied Woodpecker,2014-05-04,1
+China,39.8101184421,119.52747345,Pardaliparus venustulus,Yellow-bellied Tit,2014-05-04,1
+China,39.8391226644,119.514856339,Motacilla alba ocularis,White Wagtail ssp ocularis,2014-05-04,5
+China,39.9587014156,119.778785706,Charadrius mongolus,Lesser Sand Plover,2014-05-06,1
+China,40.5751004416,119.114663644,Ibidorhyncha struthersii,Ibisbill,2014-05-07,4
+China,39.8410997792,119.519233704,Calidris ruficollis,Red-necked Stint,2014-05-07,40
+China,39.8410997792,119.519233704,Larus crassirostris,Black-tailed Gull,2014-05-07,25
+China,39.8396499006,119.520950317,Ichthyaetus relictus,Relict Gull,2014-05-07,1
+China,39.1443069611,118.830356598,Charadrius mongolus,Lesser Sand Plover,2014-05-11,1
+China,39.1443069611,118.830356598,Tringa stagnatilis,Marsh Sandpiper,2014-05-11,1
+China,39.1443069611,118.830356598,Larvivora sibilans,Rufous-tailed Robin,2014-05-11,1
+China,39.1397802787,118.825206757,Xenus cinereus,Terek Sandpiper,2014-05-12,2
+China,39.1397802787,118.825206757,Calidris tenuirostris,Great Knot,2014-05-12,20
+China,39.1397802787,118.825206757,Sternula albifrons sinensis,Little Tern ssp sinensis,2014-05-12,50
+China,39.1397802787,118.825206757,Pericrocotus divaricatus,Ashy Minivet,2014-05-12,1
+China,39.1397802787,118.825206757,Remiz consobrinus,Chinese Penduline Tit,2014-05-12,20
+China,39.1365847983,118.83310318,Ficedula zanthopygia,Yellow-rumped Flycatcher,2014-05-12,2
+China,39.1365847983,118.83310318,Motacilla alba leucopsis,White Wagtail ssp leucopsis,2014-05-12,2
+China,39.1365847983,118.83310318,Emberiza tristrami,Tristram's Bunting,2014-05-12,5
+China,39.1408121217,118.829112053,Passer montanus,Eurasian Tree Sparrow,2014-05-12,50
+China,39.1335556153,118.827910423,Circus spilonotus,Eastern Marsh Harrier,2014-05-12,1
+China,39.1277964794,118.822202682,Bubulcus coromandus,Eastern Cattle Egret,2014-05-12,10
+China,39.1303598523,118.825807571,Accipiter gularis,Japanese Sparrowhawk,2014-05-12,1
+China,39.1277964794,118.822202682,Ardeola bacchus,Chinese Pond Heron,2014-05-12,15
+China,39.1395472799,118.83808136,Calidris tenuirostris,Great Knot,2014-05-12,8
+China,39.1459711094,118.831214905,Egretta eulophotes,Chinese Egret,2014-05-13,1
+China,39.14310875,118.831644058,Ardeola bacchus,Chinese Pond Heron,2014-05-13,5
+China,39.1442403943,118.827266693,Calidris tenuirostris,Great Knot,2014-05-13,4
+China,39.1442403943,118.827266693,Chroicocephalus saundersi,Saunders's Gull,2014-05-13,10
+China,39.141644242,118.834562302,Phylloscopus proregulus,Pallas's Leaf Warbler,2014-05-13,10
+China,39.141644242,118.834562302,Phylloscopus coronatus,Eastern Crowned Warbler,2014-05-13,2
+China,39.141644242,118.834562302,Muscicapa griseisticta,Grey-streaked Flycatcher,2014-05-13,5
+China,39.141644242,118.834562302,Muscicapa dauurica,Asian Brown Flycatcher,2014-05-13,30
+China,39.1481011617,118.83430481,Emberiza pallasi,Pallas's Reed Bunting,2014-05-13,1
+China,39.1472358357,118.837566376,Ficedula elisae,Green-backed Flycatcher,2014-05-13,1
+China,39.1377831205,118.832416534,Horornis diphone,Japanese Bush Warbler,2014-05-14,1
+China,39.135919055,118.831558228,Mareca falcata,Falcated Duck,2014-05-14,1
+China,39.135919055,118.831558228,Rallus indicus,Brown-cheeked Rail,2014-05-14,1
+China,39.1353198806,118.820829391,Charadrius mongolus,Lesser Sand Plover,2014-05-14,30
+China,39.1353198806,118.820829391,Numenius madagascariensis,Far Eastern Curlew,2014-05-14,15
+China,39.1404459856,118.827266693,Gelochelidon nilotica,Gull-billed Tern,2014-05-14,2
+China,39.1355861809,118.819971085,Chroicocephalus saundersi,Saunders's Gull,2014-05-14,5
+China,39.1355861809,118.819971085,Sterna hirundo longipennis,Common Tern ssp longipennis,2014-05-14,10
+China,39.1275967321,118.819284439,Sternula albifrons sinensis,Little Tern ssp sinensis,2014-05-14,50
+China,39.1326568216,118.825206757,Lanius cristatus,Brown Shrike,2014-05-14,300
+China,39.1326568216,118.825206757,Oriolus chinensis,Black-naped Oriole,2014-05-14,10
+China,39.1326568216,118.825206757,Turdus eunomus,Dusky Thrush,2014-05-14,1
+China,39.1326568216,118.825206757,Larvivora cyane,Siberian Blue Robin,2014-05-14,50
+China,39.1326568216,118.825206757,Tarsiger cyanurus,Red-flanked Bluetail,2014-05-14,1
+China,39.1326568216,118.825206757,Larvivora sibilans,Rufous-tailed Robin,2014-05-14,2
+China,39.1326568216,118.825206757,Phoenicurus auroreus,Daurian Redstart,2014-05-14,2
+China,39.1326568216,118.825206757,Saxicola stejnegeri,Stejneger's Stonechat,2014-05-14,40
+China,39.1326568216,118.825206757,Monticola gularis,White-throated Rock Thrush,2014-05-14,20
+China,39.1326568216,118.825206757,Monticola solitarius philippensis,Blue Rock Thrush ssp philippensis,2014-05-14,3
+China,39.1326568216,118.825206757,Muscicapa dauurica,Asian Brown Flycatcher,2014-05-14,100
+China,39.1326568216,118.825206757,Ficedula albicilla,Taiga Flycatcher,2014-05-14,100
+China,39.1475686547,118.83430481,Anthus godlewskii,Blyth's Pipit,2014-05-14,1
+China,39.1475686547,118.83430481,Emberiza tristrami,Tristram's Bunting,2014-05-14,6
+China,39.1475686547,118.83430481,Eophona personata,Japanese Grosbeak,2014-05-14,1
+China,39.1475686547,118.83430481,Emberiza fucata,Chestnut-eared Bunting,2014-05-14,15
+China,39.1499981853,118.834605217,Motacilla tschutschensis tschutschensis,Eastern Yellow Wagtail ssp tschutschensis,2014-05-14,10
+China,40.1455025279,119.421665668,Pardaliparus venustulus,Yellow-bellied Tit,2014-05-15,1
+China,39.8232872173,119.509749413,Dendrocopos hyperythrus,Rufous-bellied Woodpecker,2014-05-06,2
+China,31.6294,114.4499,Dendronanthus indicus,Forest Wagtail,2013-06-30,1
+China,39.9612661445,119.773751199,Emberiza aureola,Yellow-breasted Bunting,2014-05-06,1
+China,31.6294,114.4499,Passer cinnamomeus,Russet Sparrow,2013-05-11,1
+China,39.9612661445,119.773751199,Porzana pusilla,Baillon's Crake,2014-05-06,1
+China,31.6294,114.4499,Lonchura striata,White-rumped Munia,2013-06-20,1
+China,31.6294,114.4499,Sinosuthora webbiana,Vinous-throated Parrotbill,2013-05-02,1
+China,31.6294,114.4499,Garrulax canorus,Chinese Hwamei,2013-05-29,1
+China,31.6294,114.4499,Pycnonotus sinensis,Light-vented Bulbul,2013-05-27,1
+China,31.6294,114.4499,Spizixos semitorques,Collared Finchbill,2013-05-01,1
+China,31.6294,114.4499,Aegithalos concinnus,Black-throated Bushtit,2013-05-02,1
+China,31.6294,114.4499,Parus minor,Japanese Tit,2013-05-01,1
+China,31.6294,114.4499,Enicurus leschenaulti,White-crowned Forktail,2013-05-15,1
+China,31.6294065537,114.449892989,Geokichla citrina,Orange-headed Thrush,2013-06-13,1
+China,31.6294065537,114.449892989,Dicrurus hottentottus,Hair-crested Drongo,2013-05-08,1
+China,31.6294065537,114.449892989,Pericrocotus cantonensis,Swinhoe's Minivet,2013-05-15,1
+China,31.6294065537,114.449892989,Pica serica serica,Oriental Magpie ssp serica,2013-05-01,1
+China,31.6294065537,114.449892989,Lanius tigrinus,Tiger Shrike,2013-06-20,1
+China,31.6294065537,114.449892989,Pitta nympha,Fairy Pitta,2013-05-23,3
+China,31.6294065537,114.449892989,Bubulcus coromandus,Eastern Cattle Egret,2013-06-02,1
+China,31.6294065537,114.449892989,Butastur indicus,Grey-faced Buzzard,2013-07-29,1
+China,31.6294065537,114.449892989,Accipiter soloensis,Chinese Sparrowhawk,2013-05-06,1
+China,31.6294065537,114.449892989,Milvus migrans,Black Kite,2013-05-11,1
+China,31.6294065537,114.449892989,Aviceda leuphotes,Black Baza,2013-05-11,1
+China,31.6294065537,114.449892989,Spilopelia chinensis,Spotted Dove,2013-05-09,1
+China,31.6294065537,114.449892989,Streptopelia orientalis,Oriental Turtle Dove,2013-05-12,1
+China,31.6294065537,114.449892989,Ninox scutulata,Brown Hawk-Owl,2013-05-26,1
+China,31.6294065537,114.449892989,Glaucidium cuculoides,Asian Barred Owlet,2013-06-28,1
+China,31.6294065537,114.449892989,Cuculus micropterus,Indian Cuckoo,2013-05-26,1
+China,31.6294065537,114.449892989,Clamator coromandus,Chestnut-winged Cuckoo,2013-05-20,1
+China,31.6294065537,114.449892989,Halcyon pileata,Black-capped Kingfisher,2013-05-12,1
+China,31.6294065537,114.449892989,Alcedo atthis,Common Kingfisher,2013-06-20,1
+China,31.6294065537,114.449892989,Yungipicus canicapillus,Grey-capped Pygmy Woodpecker,2013-05-19,1
+China,31.62,114.44,Aix galericulata,Mandarin Duck,2013-06-04,1
+China,31.6294065537,114.449892989,Syrmaticus reevesii,Reeves's Pheasant,2013-05-01,1
+China,39.9627134521,119.779759347,Melanocorypha mongolica,Mongolian Lark,2014-05-06,1
+China,39.9627134521,119.779759347,Vanellus cinereus,Grey-headed Lapwing,2014-05-06,4
+China,39.9627134521,119.779759347,Emberiza aureola,Yellow-breasted Bunting,2014-05-06,1
+China,39.9627134521,119.779759347,Tringa brevipes,Grey-tailed Tattler,2014-05-06,4
+China,39.9626476661,119.775296152,Calliope calliope,Siberian Rubythroat,2014-05-06,1
+China,40.038638411,119.729612097,Parus minor,Japanese Tit,2014-05-06,1
+China,40.038638411,119.729612097,Phoenicurus auroreus,Daurian Redstart,2014-05-06,1
+China,40.038638411,119.729612097,Rhopophilus pekinensis,Beijing Babbler,2014-05-06,1
+China,39.846634368,119.507933557,Ardeola bacchus,Chinese Pond Heron,2014-05-06,1
+China,39.8,119.5,Picus canus,Grey-headed Woodpecker,2014-05-06,1
+China,39.846634368,119.507933557,Charadrius dubius,Little Ringed Plover,2014-05-06,1
+China,39.8512398355,119.519126415,Egretta garzetta,Little Egret,2014-05-06,1
+China,39.8122200116,119.527366161,Emberiza chrysophrys,Yellow-browed Bunting,2014-06-03,1
+China,39.8207976634,119.523554742,Anthus hodgsoni,Olive-backed Pipit,2015-03-06,1
+China,39.8208808389,119.520592913,Calliope calliope,Siberian Rubythroat,2014-06-03,1
+China,39.8208808389,119.520592913,Zoothera aurea,White's Thrush,2015-03-06,1
+China,39.8097882632,119.524441212,Ficedula zanthopygia,Yellow-rumped Flycatcher,2014-06-03,1
+China,39.8097882632,119.524441212,Phoenicurus auroreus,Daurian Redstart,2015-03-06,1
+China,39.8097882632,119.524441212,Emberiza pusilla,Little Bunting,2015-03-06,1
+China,39.8097882632,119.524441212,Urocissa erythroryncha,Red-billed Blue Magpie,2015-03-06,1
+China,39.8097882632,119.524441212,Coturnix japonica,Japanese Quail,2015-03-06,1
+China,39.8097882632,119.524441212,Falco amurensis,Amur Falcon,2014-06-03,1
+China,39.8099203864,119.525270686,Turdus obscurus,Eyebrowed Thrush,2014-05-03,1
+China,39.8159859355,119.520549998,Pycnonotus sinensis,Light-vented Bulbul,2014-05-03,1
+China,27.8286775764,99.6372772381,Pyrrhocorax pyrrhocorax,Red-billed Chough,2011-11-13,1
+China,27.8286775764,99.6372772381,Coloeus dauuricus,Daurian Jackdaw,2011-11-13,1
+China,22.47131395,114.00742144,Boleophthalmus pectinirostris,Great blue spotted mudskipper,2015-02-27,1
+China,22.2796387001021,114.142083763625,Milvus migrans,Black Kite,2015-03-01,1
+China,22.2883731403301,114.142506931556,Milvus migrans,Black Kite,2015-03-01,2
+China,22.2881536,114.1424932,Milvus migrans,Black Kite,2015-03-01,1
+China,22.2884262,114.1428393,Passer montanus,Eurasian Tree Sparrow,2015-02-28,4
+China,22.33794754,114.17530377,Spilopelia chinensis,Spotted Dove,2015-02-28,2
+China,22.37899003,114.18960369,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-28,1
+China,22.37895684,114.18946805,Alcedo atthis,Common Kingfisher,2015-02-28,1
+China,22.37895675,114.18946819,Copsychus saularis,Oriental Magpie-Robin,2015-02-28,1
+China,22.37893359,114.18948017,Phylloscopus fuscatus,Dusky Warbler,2015-02-28,1
+China,22.37893382,114.18947889,Spilopelia chinensis,Spotted Dove,2015-02-28,1
+China,22.37890855,114.18914045,Pycnonotus sinensis,Light-vented Bulbul,2015-02-28,2
+China,22.3789204,114.18917046,Zosterops japonicus,Warbling White-eye,2015-02-28,2
+China,22.3790397,114.18892271,Eudynamys scolopaceus,Asian Koel,2015-02-28,1
+China,22.28457831,114.15816557,Passer montanus,Eurasian Tree Sparrow,2015-02-28,2
+China,22.2881545,114.1425038,Milvus migrans,Black Kite,2015-02-28,1
+China,22.4693317711,114.009557887,Tringa stagnatilis,Marsh Sandpiper,2015-02-27,2
+China,22.28831268,114.14704024,Spilopelia chinensis,Spotted Dove,2015-02-27,1
+China,22.4487415,114.04607344,Milvus migrans,Black Kite,2015-02-27,1
+China,22.46879906,114.00497807,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-27,4
+China,22.46837665,114.00555689,Gracupica nigricollis,Black-collared Starling,2015-02-27,2
+China,22.469557865974,114.006044810236,Ardea cinerea,Grey Heron,2015-02-27,3
+China,22.469557865974,114.006044810236,Phalacrocorax carbo,Great Cormorant,2015-02-27,4
+China,22.469557865974,114.006044810236,Spilopelia chinensis,Spotted Dove,2015-02-27,4
+China,22.469557865974,114.006044810236,Spilopelia chinensis,Spotted Dove,2015-02-27,1
+China,22.47131395,114.00742144,Zosterops japonicus,Warbling White-eye,2015-02-27,25
+China,22.471091,114.00778426,Acridotheres cristatellus,Crested Myna,2015-02-27,1
+China,22.4694799533,114.009445369,Recurvirostra avosetta,Pied Avocet,2015-02-27,31
+China,22.4694799532894,114.009445368531,Platalea minor,Black-faced Spoonbill,2015-02-27,43
+China,22.4694799533,114.009445369,Saxicola stejnegeri,Stejneger's Stonechat,2015-02-27,2
+China,22.4694799532894,114.009445368531,Motacilla alba leucopsis,White Wagtail ssp leucopsis,2015-02-27,1
+China,22.4694799532894,114.009445368531,Egretta garzetta,Little Egret,2015-02-27,1
+China,22.4694799532894,114.009445368531,Ardea cinerea,Grey Heron,2015-02-27,14
+China,22.4694799532894,114.009445368531,Tringa glareola,Wood Sandpiper,2015-02-27,30
+China,22.4694799532894,114.009445368531,Tringa erythropus,Spotted Redshank,2015-02-27,1
+China,22.4694799532894,114.009445368531,Tringa nebularia,Common Greenshank,2015-02-27,1
+China,22.4694799532894,114.009445368531,Xenus cinereus,Terek Sandpiper,2015-02-27,1
+China,22.4694799532894,114.009445368531,Spatula clypeata,Northern Shoveler,2015-02-27,1
+China,22.4694799532894,114.009445368531,Anas crecca,Eurasian Teal,2015-02-27,3
+China,22.4717642849609,114.011208675463,Ardea alba,Great Egret,2015-02-27,1
+China,22.4717642849609,114.011208675463,Ardea cinerea,Grey Heron,2015-02-27,1
+China,22.4717642849609,114.011208675463,Egretta garzetta,Little Egret,2015-02-27,1
+China,22.4717642849609,114.011208675463,Phalacrocorax carbo,Great Cormorant,2015-02-27,23
+China,22.4717642849609,114.011208675463,Acridotheres cristatellus,Crested Myna,2015-02-27,6
+China,22.47193291,114.00878809,Apus nipalensis,House Swift,2015-02-27,8
+China,22.47199357,114.00882204,Parus minor,Japanese Tit,2015-02-27,2
+China,22.47205291,114.00881773,Zosterops japonicus,Warbling White-eye,2015-02-27,5
+China,22.47205307,114.00881761,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-27,1
+China,22.47124165,114.00702236,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-27,1
+China,22.47194977,114.00599639,Gracupica nigricollis,Black-collared Starling,2015-02-27,1
+China,22.4718623,114.00632436,Apus nipalensis,House Swift,2015-02-27,5
+China,22.4738356883,114.00917303600001,Ardeola bacchus,Chinese Pond Heron,2015-02-27,1
+China,22.4738356882912,114.00917303593,Anas crecca,Eurasian Teal,2015-02-27,8
+China,22.4741151428711,114.009624164134,Anas crecca,Eurasian Teal,2015-02-27,16
+China,22.4741151428711,114.009624164134,Spatula clypeata,Northern Shoveler,2015-02-27,27
+China,22.4789299835122,114.01288559984,Spatula clypeata,Northern Shoveler,2015-02-27,1
+China,22.4747962689841,114.01036078938,Acridotheres cristatellus,Crested Myna,2015-02-27,5
+China,22.47226319,114.00689483,Pycnonotus sinensis,Light-vented Bulbul,2015-02-27,1
+China,22.47198162,114.00878372,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-27,2
+China,22.47086329,114.00994258,Pycnonotus sinensis,Light-vented Bulbul,2015-02-27,1
+China,22.4709265687739,114.012880520891,Acridotheres cristatellus,Crested Myna,2015-02-27,12
+China,22.4709265687739,114.012880520891,Ardea alba,Great Egret,2015-02-27,1
+China,22.4693137215,114.009583135,Tringa totanus,Common Redshank,2015-02-27,5
+China,22.4693317711046,114.009557886572,Himantopus himantopus,Black-winged Stilt,2015-02-27,2
+China,22.47073795,114.00772605,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-27,1
+China,22.4710736,114.00665925,Alcedo atthis,Common Kingfisher,2015-02-27,2
+China,22.4692004077293,114.006290325495,Platalea minor,Black-faced Spoonbill,2015-02-27,2
+China,22.46967208,114.00512658,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-27,1
+China,22.46851059,114.00342315,Milvus migrans,Black Kite,2015-02-27,1
+China,22.4688538,114.00320887,Spilopelia chinensis,Spotted Dove,2015-02-27,1
+China,22.46427076,114.00421023,Spilopelia chinensis,Spotted Dove,2015-02-27,1
+China,22.452400569999998,114.0089982,Gracupica nigricollis,Black-collared Starling,2015-02-27,2
+China,22.42061044,114.06437264,Apus nipalensis,House Swift,2015-02-27,40
+China,22.2881655,114.1424968,Milvus migrans,Black Kite,2015-02-27,1
+China,22.28205989,114.18710588,Copsychus saularis,Oriental Magpie-Robin,2015-02-26,1
+China,22.28206445,114.18709136,Passer montanus,Eurasian Tree Sparrow,2015-02-26,1
+China,22.28207155,114.18711599,Spilopelia chinensis,Spotted Dove,2015-02-26,1
+China,22.28210462,114.18717029,Pycnonotus sinensis,Light-vented Bulbul,2015-02-26,1
+China,22.28218249,114.18714139,Milvus migrans,Black Kite,2015-02-26,1
+China,22.28250179,114.18716651,Zosterops japonicus,Warbling White-eye,2015-02-26,12
+China,22.28244006,114.1872075,Passer montanus,Eurasian Tree Sparrow,2015-02-26,6
+China,22.28245217,114.18719897,Copsychus saularis,Oriental Magpie-Robin,2015-02-26,1
+China,22.28251248,114.18717129,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-26,1
+China,22.28251291,114.18717111,Spilopelia chinensis,Spotted Dove,2015-02-26,1
+China,22.28270207,114.18707674,Pica serica serica,Oriental Magpie ssp serica,2015-02-26,1
+China,22.28295094,114.18718869,Gracupica nigricollis,Black-collared Starling,2015-02-26,1
+China,22.28321763,114.18754719,Copsychus saularis,Oriental Magpie-Robin,2015-02-26,3
+China,22.2832299,114.18757968,Spilopelia chinensis,Spotted Dove,2015-02-26,7
+China,22.28245668,114.18712279,Gracupica nigricollis,Black-collared Starling,2015-02-26,2
+China,22.28252965,114.18700218,Zosterops japonicus,Warbling White-eye,2015-02-26,2
+China,22.27799052,114.16122786,Spilopelia chinensis,Spotted Dove,2015-02-26,1
+China,22.27756363,114.16135091,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-26,2
+China,22.27757137,114.16136048,Psittacula alexandri,Red-breasted Parakeet,2015-02-26,2
+China,22.27705692,114.16009046,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-26,2
+China,22.27790933,114.16250987,Pycnonotus sinensis,Light-vented Bulbul,2015-02-26,1
+China,22.27785384,114.16244246,Passer montanus,Eurasian Tree Sparrow,2015-02-26,1
+China,26.17507499,119.27433886,Callosciurus erythraeus,Pallas's Squirrel,2014-12-01,1
+China,40.01330461,116.19739684,Sciurus vulgaris,Eurasian Red Squirrel,2014-11-21,1
+China,22.28854924,114.14327394,Passer montanus,Eurasian Tree Sparrow,2015-02-25,4
+China,22.28860382,114.14948169,Milvus migrans,Black Kite,2015-02-25,1
+China,22.33259808,114.14025947,Acridotheres cristatellus,Crested Myna,2015-02-25,1
+China,22.43762805,114.05774172,Apus nipalensis,House Swift,2015-02-25,5
+China,22.46832407,114.00338427,Spilopelia chinensis,Spotted Dove,2015-02-25,1
+China,22.46954748,114.00515583,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,2
+China,22.46954485,114.00515369,Pycnonotus sinensis,Light-vented Bulbul,2015-02-25,3
+China,22.47018461,114.00515628,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,2
+China,22.4697662061476,114.005817193767,Phalacrocorax carbo,Great Cormorant,2015-02-25,34
+China,22.4697662061476,114.005817193767,Ardea cinerea,Grey Heron,2015-02-25,2
+China,22.47042103,114.00576285,Zosterops japonicus,Warbling White-eye,2015-02-25,15
+China,22.47048686,114.00592179,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,6
+China,22.47051348,114.00630489,Gallinula chloropus,Common Moorhen,2015-02-25,2
+China,22.47051331,114.00630484,Spilopelia chinensis,Spotted Dove,2015-02-25,6
+China,22.47050946,114.00628849,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-25,5
+China,22.47082049,114.00646016,Orthotomus sutorius,Common Tailorbird,2015-02-25,1
+China,22.470071115,114.009357463,Recurvirostra avosetta,Pied Avocet,2015-02-25,3
+China,22.46979472,114.0092108,Prinia flaviventris,Yellow-bellied Prinia,2015-02-25,1
+China,22.46974078,114.00924201,Tringa erythropus,Spotted Redshank,2015-02-25,1
+China,22.46978967,114.0093857,Spatula clypeata,Northern Shoveler,2015-02-25,45
+China,22.46973297,114.00934189,Platalea minor,Black-faced Spoonbill,2015-02-25,32
+China,22.46972001,114.00931794,Platalea minor,Black-faced Spoonbill,2015-02-25,3
+China,22.46972742,114.00934263,Ardea alba,Great Egret,2015-02-25,1
+China,22.46972868,114.00934035,Egretta garzetta,Little Egret,2015-02-25,1
+China,22.4697487,114.00936538,Tringa glareola,Wood Sandpiper,2015-02-25,25
+China,22.46974984,114.00936438,Himantopus himantopus,Black-winged Stilt,2015-02-25,1
+China,22.46975037,114.00936242,Tringa nebularia,Common Greenshank,2015-02-25,1
+China,22.46975262,114.00935989,Tringa nebularia,Common Greenshank,2015-02-25,1
+China,22.4697555,114.00935516,Anas crecca,Eurasian Teal,2015-02-25,2
+China,22.46975506,114.00935278,Saxicola stejnegeri,Stejneger's Stonechat,2015-02-25,1
+China,22.46975444,114.00934009,Motacilla alba leucopsis,White Wagtail ssp leucopsis,2015-02-25,2
+China,22.46975423,114.00933979,Apus nipalensis,House Swift,2015-02-25,5
+China,22.47082489,114.00993631,Ardea alba,Great Egret,2015-02-25,1
+China,22.4707682,114.00999978,Spatula clypeata,Northern Shoveler,2015-02-25,2
+China,22.47098157,114.00987031,Ardea cinerea,Grey Heron,2015-02-25,2
+China,22.47099407,114.00998541,Acridotheres cristatellus,Crested Myna,2015-02-25,22
+China,22.47099474,114.00998561,Phalacrocorax carbo,Great Cormorant,2015-02-25,30
+China,22.47100967,114.01002318,Buteo japonicus,Eastern Buzzard,2015-02-25,1
+China,22.47100779,114.01002392,Pycnonotus sinensis,Light-vented Bulbul,2015-02-25,2
+China,22.47100925,114.01002264,Gallinula chloropus,Common Moorhen,2015-02-25,1
+China,22.47099141,114.00901931,Egretta garzetta,Little Egret,2015-02-25,1
+China,22.47129627,114.00918798,Ardea cinerea,Grey Heron,2015-02-25,1
+China,22.4710974,114.00675129,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,1
+China,22.47105053,114.00666446,Egretta garzetta,Little Egret,2015-02-25,1
+China,22.4724359,114.00701174,Ardeola bacchus,Chinese Pond Heron,2015-02-25,1
+China,22.47243613,114.00701197,Ardea alba,Great Egret,2015-02-25,1
+China,22.47243682,114.00701225,Egretta garzetta,Little Egret,2015-02-25,1
+China,22.47243837,114.00701336,Anas crecca,Eurasian Teal,2015-02-25,4
+China,22.47243908,114.00701361,Phalacrocorax carbo,Great Cormorant,2015-02-25,2
+China,22.47070018,114.00779245,Pycnonotus sinensis,Light-vented Bulbul,2015-02-25,1
+China,22.470564069999998,114.00628092,Spilopelia chinensis,Spotted Dove,2015-02-25,1
+China,22.46991887,114.00273589,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-25,2
+China,22.35095182,114.11645637,Milvus migrans,Black Kite,2015-02-25,1
+China,22.30169534,114.15722061,Milvus migrans,Black Kite,2015-02-25,1
+China,22.28751678,114.1510356,Spilopelia chinensis,Spotted Dove,2015-02-25,1
+China,22.24631929,114.18310896,Milvus migrans,Black Kite,2015-02-24,2
+China,22.23859912,114.19442768,Milvus migrans,Black Kite,2015-02-24,2
+China,22.23009511,114.20003285,Milvus migrans,Black Kite,2015-02-24,1
+China,22.2194886,114.20988995,Acridotheres cristatellus,Crested Myna,2015-02-24,18
+China,22.21948813,114.20988985,Milvus migrans,Black Kite,2015-02-24,4
+China,22.21948758,114.20989007,Passer montanus,Eurasian Tree Sparrow,2015-02-24,1
+China,22.21863811,114.21103459,Passer montanus,Eurasian Tree Sparrow,2015-02-24,5
+China,22.21708877,114.21274037,Milvus migrans,Black Kite,2015-02-24,1
+China,22.21708877,114.21274015,Passer montanus,Eurasian Tree Sparrow,2015-02-24,6
+China,22.21708392,114.21272064,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-24,1
+China,22.21713533,114.21275238,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21712679,114.21269738,Copsychus saularis,Oriental Magpie-Robin,2015-02-24,2
+China,22.21712693,114.21269744,Pycnonotus sinensis,Light-vented Bulbul,2015-02-24,4
+China,22.21580646,114.21380601,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21559452,114.21381722,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-24,1
+China,22.21518553,114.21418685,Pycnonotus sinensis,Light-vented Bulbul,2015-02-24,1
+China,22.2152746986644,114.21470339247,Charadrius hiaticula,Common Ringed Plover,2015-02-24,1
+China,22.21485274,114.21463264,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-24,23
+China,22.21391951,114.21473694,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21370938,114.21451417,Pycnonotus sinensis,Light-vented Bulbul,2015-02-24,2
+China,22.21273082,114.21511094,Passer montanus,Eurasian Tree Sparrow,2015-02-24,22
+China,22.212700860000002,114.21511223,Motacilla alba leucopsis,White Wagtail ssp leucopsis,2015-02-24,2
+China,22.21192712,114.21507936,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21355522,114.21516742,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21907507,114.20977046,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-24,1
+China,22.21922764,114.20952082,Copsychus saularis,Oriental Magpie-Robin,2015-02-24,2
+China,22.21977983,114.20979524,Milvus migrans,Black Kite,2015-02-24,1
+China,22.22053449,114.20678234,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.21858713,114.20476826,Copsychus saularis,Oriental Magpie-Robin,2015-02-24,2
+China,22.23841955,114.19543027,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.24008899,114.18726894,Milvus migrans,Black Kite,2015-02-24,1
+China,22.2434790854389,114.18672396515,Egretta garzetta,Little Egret,2015-02-24,2
+China,22.24597014,114.18639434,Spilopelia chinensis,Spotted Dove,2015-02-24,1
+China,22.244138543277295,114.182623935263,Milvus migrans,Black Kite,2015-02-24,1
+China,22.28768567,114.14197074,Passer montanus,Eurasian Tree Sparrow,2015-02-24,1
+China,22.28771414,114.1420753,Spilopelia chinensis,Spotted Dove,2015-02-24,2
+China,22.28817166,114.14243382,Milvus migrans,Black Kite,2015-02-24,1
+China,22.28457034,114.15070221,Passer montanus,Eurasian Tree Sparrow,2015-02-24,1
+China,22.30164031,114.17323003,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-22,1
+China,22.28765709,114.15618282,Spilopelia chinensis,Spotted Dove,2015-02-23,2
+China,22.28702167,114.15958453,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+China,22.2875838,114.1581164,Passer montanus,Eurasian Tree Sparrow,2015-02-23,3
+China,22.28718364,114.15825256,Copsychus saularis,Oriental Magpie-Robin,2015-02-23,1
+China,22.26673048,114.10801451,Milvus migrans,Black Kite,2015-02-23,1
+China,22.24791539,114.11786651,Milvus migrans,Black Kite,2015-02-23,1
+China,22.22976243,114.13414529,Milvus migrans,Black Kite,2015-02-23,1
+China,22.20904208,114.13131965,Milvus migrans,Black Kite,2015-02-23,1
+China,22.20818219,114.13066753,Egretta garzetta,Little Egret,2015-02-23,1
+China,22.20638069,114.13096081,Egretta garzetta,Little Egret,2015-02-23,4
+China,22.20638283,114.1309587,Acridotheres cristatellus,Crested Myna,2015-02-23,4
+China,22.2037897,114.13081248,Egretta garzetta,Little Egret,2015-02-23,1
+China,22.2019104,114.13010738,Egretta garzetta,Little Egret,2015-02-23,2
+China,22.20436332,114.12771648,Milvus migrans,Black Kite,2015-02-23,1
+China,22.20517374,114.12519469,Milvus migrans,Black Kite,2015-02-23,1
+China,22.2069994,114.12536775,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-23,5
+China,22.20726229,114.12551727,Milvus migrans,Black Kite,2015-02-23,2
+China,22.21810307,114.12016565,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+China,22.21909808,114.11968269,Milvus migrans,Black Kite,2015-02-23,1
+China,22.21945154,114.11869346,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-23,2
+China,22.2205933,114.11696055,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-23,2
+China,22.22079676,114.11672682,Pycnonotus sinensis,Light-vented Bulbul,2015-02-23,1
+China,22.22123987,114.11655462,Milvus migrans,Black Kite,2015-02-23,2
+China,22.22123891,114.1165417,Gracupica nigricollis,Black-collared Starling,2015-02-23,3
+China,22.221239,114.11654169,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-23,1
+China,22.22123931,114.11654021,Acridotheres cristatellus,Crested Myna,2015-02-23,1
+China,22.221987,114.11595754,Copsychus saularis,Oriental Magpie-Robin,2015-02-23,1
+China,22.22259055,114.11557778,Milvus migrans,Black Kite,2015-02-23,1
+China,22.2225903,114.11557789,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+China,22.22418569,114.11402565,Passer montanus,Eurasian Tree Sparrow,2015-02-23,1
+China,22.22437758,114.11313784,Delias pasithoe,Red-base Jezebel,2015-02-23,1
+China,22.22512435,114.11219536,Passer montanus,Eurasian Tree Sparrow,2015-02-23,6
+China,22.22591399,114.11154196,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+China,22.22591034,114.1115162,Acridotheres cristatellus,Crested Myna,2015-02-23,9
+China,22.22590139,114.1115188,Actitis hypoleucos,Common Sandpiper,2015-02-23,1
+China,22.22595887,114.11151782,Egretta sacra sacra,Pacific Reef Heron ssp sacra,2015-02-23,1
+China,22.22671801,114.10954039,Egretta garzetta,Little Egret,2015-02-23,1
+China,22.2873656,114.15853173000001,Milvus migrans,Black Kite,2015-02-23,1
+China,22.28181737,114.15426614,Passer montanus,Eurasian Tree Sparrow,2015-02-23,7
+China,22.28250655,114.15328879,Passer montanus,Eurasian Tree Sparrow,2015-02-23,2
+China,22.28341989,114.15183192,Spilopelia chinensis,Spotted Dove,2015-02-23,1
+China,22.29682264,114.16920438,Milvus migrans,Black Kite,2015-02-22,1
+China,22.29944112,114.17108613,Milvus migrans,Black Kite,2015-02-22,1
+China,22.29944214,114.17109235,Spilopelia chinensis,Spotted Dove,2015-02-22,2
+China,22.29944203,114.171102,Pycnonotus sinensis,Light-vented Bulbul,2015-02-22,1
+China,22.29976939,114.17135234,Spilopelia chinensis,Spotted Dove,2015-02-22,1
+China,22.2998488,114.1713634,Copsychus saularis,Oriental Magpie-Robin,2015-02-22,1
+China,22.2998488,114.1713634,Gracupica nigricollis,Black-collared Starling,2015-02-22,1
+China,22.2998488,114.1713634,Eudynamys scolopaceus,Asian Koel,2015-02-22,1
+China,22.29983978,114.17137734,Spilopelia chinensis,Spotted Dove,2015-02-22,3
+China,22.29983948,114.1713786,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-22,14
+China,22.30058229,114.17070249,Buteo japonicus,Eastern Buzzard,2015-02-22,1
+China,22.30066357,114.17026021,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-22,15
+China,22.30077118,114.16996898,Pycnonotus sinensis,Light-vented Bulbul,2015-02-22,1
+China,22.30082778,114.16975545,Copsychus saularis,Oriental Magpie-Robin,2015-02-22,2
+China,22.30073567,114.16974945,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-22,1
+China,22.30229848,114.16993333,Copsychus saularis,Oriental Magpie-Robin,2015-02-22,1
+China,22.3022985,114.1699337,Spilopelia chinensis,Spotted Dove,2015-02-22,1
+China,22.30114866,114.16906165,Acridotheres cristatellus,Crested Myna,2015-02-22,2
+China,22.30085166,114.16926882,Copsychus saularis,Oriental Magpie-Robin,2015-02-22,2
+China,22.29994663,114.1699908,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-22,3
+China,22.29995967,114.16999205,Spilopelia chinensis,Spotted Dove,2015-02-22,3
+China,22.29995965,114.16999207,Passer montanus,Eurasian Tree Sparrow,2015-02-22,1
+China,22.30004456,114.16961841,Passer montanus,Eurasian Tree Sparrow,2015-02-22,120
+China,22.30004434,114.16961792,Nycticorax nycticorax,Black-crowned Night Heron,2015-02-22,2
+China,22.30163545,114.17323976,Pycnonotus sinensis,Light-vented Bulbul,2015-02-22,2
+China,22.30164076,114.17324189,Copsychus saularis,Oriental Magpie-Robin,2015-02-22,1
+China,22.30164031,114.17323003,Zosterops japonicus,Warbling White-eye,2015-02-22,1
+China,22.30160324,114.1731635,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-22,1
+China,22.30216786,114.1724468,Lonchura striata,White-rumped Munia,2015-02-22,15
+China,22.26573568,114.13715537,Pycnonotus sinensis,Light-vented Bulbul,2015-02-21,2
+China,22.26565021,114.13708793,Spilopelia chinensis,Spotted Dove,2015-02-21,2
+China,22.26564992,114.13708761,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-21,3
+China,22.26564982,114.13708746,Passer montanus,Eurasian Tree Sparrow,2015-02-21,3
+China,22.26615809,114.14212225,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-21,1
+China,22.27065183,114.14940984,Passer montanus,Eurasian Tree Sparrow,2015-02-21,6
+China,22.27115374,114.15025298,Milvus migrans,Black Kite,2015-02-21,2
+China,22.2711877,114.15039287,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-21,3
+China,22.27113192,114.15037214,Spilopelia chinensis,Spotted Dove,2015-02-21,1
+China,22.27112886,114.15037445,Pycnonotus sinensis,Light-vented Bulbul,2015-02-21,3
+China,22.27057696,114.14992576,Passer montanus,Eurasian Tree Sparrow,2015-02-21,12
+China,22.27088638,114.14988971,Passer montanus,Eurasian Tree Sparrow,2015-02-21,4
+China,22.27078521,114.15266827,Pycnonotus sinensis,Light-vented Bulbul,2015-02-21,6
+China,22.27058763,114.15270171,Pteris vittata,Ladder Brake,2015-02-21,1
+China,22.27022075,114.15423267,Copsychus saularis,Oriental Magpie-Robin,2015-02-21,1
+China,22.27080072,114.15801419,Pycnonotus sinensis,Light-vented Bulbul,2015-02-21,2
+China,22.27483443,114.17210849,Passer montanus,Eurasian Tree Sparrow,2015-02-21,4
+China,22.27563924,114.17263967,Passer montanus,Eurasian Tree Sparrow,2015-02-21,2
+China,22.27585222,114.17235167,Passer montanus,Eurasian Tree Sparrow,2015-02-21,1
+China,22.27636619,114.1716746,Spilopelia chinensis,Spotted Dove,2015-02-21,1
+China,22.28650245,114.14997659,Passer montanus,Eurasian Tree Sparrow,2015-02-21,1
+China,22.2854472,114.1508831,Passer montanus,Eurasian Tree Sparrow,2015-02-20,2
+China,22.2855102,114.1508729,Milvus migrans,Black Kite,2015-02-20,1
+China,22.28706164,114.14414689,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.28792171,114.14745187,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.28443768,114.15972293,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.28446581,114.15970793,Passer montanus,Eurasian Tree Sparrow,2015-02-20,1
+China,22.28472781,114.15982886,Milvus migrans,Black Kite,2015-02-20,2
+China,22.28738505,114.16114631,Milvus migrans,Black Kite,2015-02-20,1
+China,22.2920761153479,114.167866465523,Milvus migrans,Black Kite,2015-02-20,1
+China,22.29308151,114.17028221,Passer montanus,Eurasian Tree Sparrow,2015-02-20,1
+China,22.29333482,114.17251981,Milvus migrans,Black Kite,2015-02-20,1
+China,22.29408197,114.17329746,Spilopelia chinensis,Spotted Dove,2015-02-20,2
+China,22.29408287,114.1732983,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-20,5
+China,22.29550279,114.17485797,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.27990851,114.16537862,Milvus migrans,Black Kite,2015-02-20,2
+China,22.28039042,114.16549109,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.2827033,114.16412799,Milvus migrans,Black Kite,2015-02-20,3
+China,22.28673027,114.15053849,Passer montanus,Eurasian Tree Sparrow,2015-02-20,7
+China,22.28831602,114.14652815,Spilopelia chinensis,Spotted Dove,2015-02-20,1
+China,22.28832704,114.14647446,Passer montanus,Eurasian Tree Sparrow,2015-02-20,1
+China,22.28833691,114.14460978,Passer montanus,Eurasian Tree Sparrow,2015-02-20,3
+China,22.28842728,114.14369296,Milvus migrans,Black Kite,2015-02-20,1
+China,22.2855107,114.1508736,Milvus migrans,Black Kite,2015-02-19,1
+China,22.41421486,114.20892615,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-19,1
+China,22.42704151,114.18237452,Macaca mulatta,Rhesus Macaque,2015-02-19,2
+China,22.42595869,114.18204891,Copsychus saularis,Oriental Magpie-Robin,2015-02-19,1
+China,22.42462455,114.18160553,Copsychus saularis,Oriental Magpie-Robin,2015-02-19,1
+China,22.42457521,114.18166036,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-19,1
+China,22.42395517,114.18134137,Hemixos castanonotus,Chestnut Bulbul,2015-02-19,1
+China,22.42395394,114.1813402,Ixos mcclellandii,Mountain Bulbul,2015-02-19,1
+China,22.42792212,114.17781561,Sitta frontalis,Velvet-fronted Nuthatch,2015-02-19,1
+China,22.42861003,114.17748884,Pterorhinus pectoralis,Greater Necklaced Laughingthrush,2015-02-19,9
+China,22.42965703,114.18090246,Aethopyga christinae,Fork-tailed Sunbird,2015-02-19,1
+China,22.42966524,114.18091646,Spilopelia chinensis,Spotted Dove,2015-02-19,2
+China,22.42966272,114.18077613,Chloropsis hardwickii,Orange-bellied Leafbird,2015-02-19,1
+China,22.4296675,114.18077443,Aethopyga christinae,Fork-tailed Sunbird,2015-02-19,1
+China,22.42954024,114.18104559,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-19,1
+China,22.42947615,114.1810166,Zosterops japonicus,Warbling White-eye,2015-02-19,15
+China,22.42945761,114.1809825,Copsychus saularis,Oriental Magpie-Robin,2015-02-19,1
+China,22.42914586,114.18149446,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-19,1
+China,22.42949872,114.18299497,Anthus hodgsoni,Olive-backed Pipit,2015-02-19,4
+China,22.42971029,114.18336396,Copsychus saularis,Oriental Magpie-Robin,2015-02-19,1
+China,22.39566261,114.19888427,Passer montanus,Eurasian Tree Sparrow,2015-02-19,2
+China,22.28563616,114.1505836,Passer montanus,Eurasian Tree Sparrow,2015-02-19,5
+China,22.28541144,114.15055166,Spilopelia chinensis,Spotted Dove,2015-02-19,3
+China,22.29090166,113.93833098,Acridotheres cristatellus,Crested Myna,2015-02-18,1
+China,22.2882507,113.93973637,Spilopelia chinensis,Spotted Dove,2015-02-18,1
+China,22.28798094,113.93779199,Spilopelia chinensis,Spotted Dove,2015-02-18,2
+China,22.28775214,113.9375998,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-18,1
+China,22.28714121,113.93699881,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-18,1
+China,22.28725884,113.93712075,Phoenicurus auroreus,Daurian Redstart,2015-02-18,1
+China,22.28692694,113.93699717,Spilopelia chinensis,Spotted Dove,2015-02-18,1
+China,22.2867821,113.93699181,Acridotheres cristatellus,Crested Myna,2015-02-18,4
+China,22.28934739,113.94090565,Acridotheres cristatellus,Crested Myna,2015-02-18,3
+China,22.28932251,113.94089284,Spilopelia chinensis,Spotted Dove,2015-02-18,1
+China,22.2855201,114.1508806,Milvus migrans,Black Kite,2015-02-18,1
+China,22.2853702820328,114.150888174306,Passer montanus,Eurasian Tree Sparrow,2015-02-18,1
+China,22.28294292,114.15553035,Passer montanus,Eurasian Tree Sparrow,2015-02-17,1
+China,22.28309795,114.15550208,Milvus migrans,Black Kite,2015-02-17,1
+China,22.27997923,114.16011631,Milvus migrans,Black Kite,2015-02-17,1
+China,22.2781856,114.1618302,Spilopelia chinensis,Spotted Dove,2015-02-17,2
+China,22.27791987,114.1623116,Pycnonotus sinensis,Light-vented Bulbul,2015-02-17,1
+China,22.27733646,114.16147901,Spilopelia chinensis,Spotted Dove,2015-02-17,1
+China,22.27734568,114.16151812,Acridotheres cristatellus,Crested Myna,2015-02-17,2
+China,22.2776081931,114.162179231,Cacatua sulphurea,Yellow-crested Cockatoo,2015-02-17,3
+China,22.27685719,114.16097643,Copsychus saularis,Oriental Magpie-Robin,2015-02-17,1
+China,22.27695412,114.16055857,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-17,1
+China,22.27695899,114.16051921,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-17,1
+China,22.27695893,114.16052299,Psittacula krameri,Rose-ringed Parakeet,2015-02-17,1
+China,22.277077769999998,114.16041758,Passer montanus,Eurasian Tree Sparrow,2015-02-17,5
+China,22.27766354,114.16051198,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-17,7
+China,22.27790478,114.16053448,Phylloscopus inornatus,Yellow-browed Warbler,2015-02-17,1
+China,22.27949103,114.15985819,Milvus migrans,Black Kite,2015-02-17,1
+China,22.28474396,114.15543087,Passer montanus,Eurasian Tree Sparrow,2015-02-17,1
+China,22.2856544,114.1510675,Passer montanus,Eurasian Tree Sparrow,2015-02-17,1
+China,22.2854612337,114.151282585,Spilopelia chinensis,Spotted Dove,2015-02-17,1
+China,22.28493809,114.15595074,Passer montanus,Eurasian Tree Sparrow,2015-02-16,4
+China,22.28329878,114.16302634,Passer montanus,Eurasian Tree Sparrow,2015-02-16,1
+China,22.28458048,114.15977676,Spilopelia chinensis,Spotted Dove,2015-02-16,2
+China,22.28411687,114.16038932,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-16,2
+China,22.28411587,114.16038977,Pycnonotus sinensis,Light-vented Bulbul,2015-02-16,1
+China,22.28462145,114.15976187,Milvus migrans,Black Kite,2015-02-16,1
+China,22.2859602,114.16072139,Spilopelia chinensis,Spotted Dove,2015-02-16,5
+China,22.2867897,114.16113955,Acridotheres cristatellus,Crested Myna,2015-02-16,2
+China,22.28700611,114.16037896,Pycnonotus sinensis,Light-vented Bulbul,2015-02-16,1
+China,22.28741908,114.15907446,Passer montanus,Eurasian Tree Sparrow,2015-02-16,4
+China,22.28746737,114.1591548,Acridotheres cristatellus,Crested Myna,2015-02-16,2
+China,22.28746531,114.15915639,Acridotheres cristatellus,Crested Myna,2015-02-16,2
+China,22.28747445,114.15885498,Milvus migrans,Black Kite,2015-02-16,1
+China,22.28776228,114.15725967,Acridotheres cristatellus,Crested Myna,2015-02-16,2
+China,22.28797943,114.1568315,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-16,1
+China,22.28798538,114.15680323,Spilopelia chinensis,Spotted Dove,2015-02-16,1
+China,22.287985,114.15680324,Passer montanus,Eurasian Tree Sparrow,2015-02-16,1
+China,22.28802468,114.15566881,Gracupica nigricollis,Black-collared Starling,2015-02-16,6
+China,22.28798172,114.1556375,Passer montanus,Eurasian Tree Sparrow,2015-02-16,1
+China,22.28796098,114.15565055,Gracupica nigricollis,Black-collared Starling,2015-02-16,3
+China,22.28776563,114.15538936,Pterorhinus perspicillatus,Masked Laughingthrush,2015-02-16,1
+China,22.2879381342803,114.156031078895,Egretta garzetta,Little Egret,2015-02-16,1
+China,22.28791891,114.1580318,Copsychus saularis,Oriental Magpie-Robin,2015-02-16,1
+China,22.2902441873978,114.160154282856,Milvus migrans,Black Kite,2015-02-16,2
+China,22.2861106748338,114.160912958173,Egretta garzetta,Little Egret,2015-02-16,1
+China,22.28214339,114.15854335,Passer montanus,Eurasian Tree Sparrow,2015-02-16,1
+China,22.28573638,114.15071015,Milvus migrans,Black Kite,2015-02-16,2
+China,22.3137,113.9254,Acridotheres cristatellus,Crested Myna,2015-01-15,1
+China,22.2856349265114,114.151092881746,Passer montanus,Eurasian Tree Sparrow,2015-02-16,2
+China,22.28456631,114.14935074,Spilopelia chinensis,Spotted Dove,2015-02-15,1
+China,22.28357635,114.1502831,Passer montanus,Eurasian Tree Sparrow,2015-02-15,1
+China,22.28319993,114.1521687,Spilopelia chinensis,Spotted Dove,2015-02-15,1
+China,22.28435809,114.1524682,Gracupica nigricollis,Black-collared Starling,2015-02-15,1
+China,22.28449719,114.15247025,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-15,1
+China,22.28367436,114.15233952,Pycnonotus jocosus,Red-whiskered Bulbul,2015-02-15,1
+China,22.2833064,114.15331507,Passer montanus,Eurasian Tree Sparrow,2015-02-15,1
+China,22.283177770000002,114.15347206,Passer montanus,Eurasian Tree Sparrow,2015-02-15,2
+China,22.28364423,114.15438291,Passer montanus,Eurasian Tree Sparrow,2015-02-15,1
+China,22.284092,114.1528577,Passer montanus,Eurasian Tree Sparrow,2015-02-15,4
+China,22.4961132093,114.050778151,Ardeola bacchus,Chinese Pond Heron,1997-04-15,3
+China,22.4993842727,114.027045965,Gelochelidon nilotica,Gull-billed Tern,1997-04-14,178
+China,22.4892040727,114.035639763,Xenus cinereus,Terek Sandpiper,1997-04-14,42
+China,22.4991959409,114.027088881,Pluvialis fulva,Pacific Golden Plover,1997-04-13,48
+China,22.45,114,Glareola maldivarum,Oriental Pratincole,1997-04-13,1
+China,22.4934269145,114.04276371,Xenus cinereus,Terek Sandpiper,1997-04-13,15
+China,22.4950624877,114.048954248,Muscicapa ferruginea,Ferruginous Flycatcher,1997-04-13,1
+China,22.2600265619,114.21043396,Accipiter trivirgatus,Crested Goshawk,1997-04-12,1
+China,22.3359449351,114.183654785,Pycnonotus jocosus,Red-whiskered Bulbul,1997-04-12,3
+China,22.3343968032,114.184470177,Acridotheres cristatellus,Crested Myna,1997-04-12,5

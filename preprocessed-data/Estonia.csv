@@ -1,0 +1,58 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+Estonia,59.4163,24.802,Larus argentatus,European Herring Gull,2015-03-13,1
+Estonia,59.1,23.85,Lyrurus tetrix,Black Grouse,2015-03-13,29
+Estonia,59.15,23.75,Lyrurus tetrix,Black Grouse,2015-03-13,2
+Estonia,59.2106,23.5797,Dryocopus martius,Black Woodpecker,2015-03-13,1
+Estonia,59.2107,23.5798,Pyrrhula pyrrhula pyrrhula,Northern Bullfinch,2015-03-13,1
+Estonia,59.2124,23.5493,Pyrrhula pyrrhula pyrrhula,Northern Bullfinch,2015-03-13,1
+Estonia,59.2124,23.5493,Dryocopus martius,Black Woodpecker,2015-03-13,1
+Estonia,59.2124,23.5508,Ursus arctos,Brown Bear,2015-03-13,1
+Estonia,59.2125,23.5508,Dryocopus martius,Black Woodpecker,2015-03-13,1
+Estonia,59.2072,23.5325,Dryocopus martius,Black Woodpecker,2015-03-13,1
+Estonia,59.11,23.64,Strix uralensis,Ural Owl,2015-03-12,1
+Estonia,58.9724,23.656,Haliaeetus albicilla,White-tailed Eagle,2015-03-12,1
+Estonia,58.8167,23.6644,Lanius excubitor,Great Grey Shrike,2015-03-12,1
+Estonia,58.7,23.75,Picus canus,Grey-headed Woodpecker,2015-03-12,2
+Estonia,58.3,22,Glaucidium passerinum,Eurasian Pygmy Owl,2015-03-11,1
+Estonia,58.4435,22.5455,Buteo lagopus,Rough-legged Buzzard,2015-03-11,10
+Estonia,58.5361,22.2343,Clangula hyemalis,Long-tailed Duck,2015-03-11,100
+Estonia,58.5362,22.2359,Polysticta stelleri,Steller's Eider,2015-03-11,12
+Estonia,58.4802,21.9041,Charadrius hiaticula,Common Ringed Plover,2015-03-11,1
+Estonia,58.4841,21.9149,Clangula hyemalis,Long-tailed Duck,2015-03-11,100
+Estonia,58.4839,21.9152,Haliaeetus albicilla,White-tailed Eagle,2015-03-11,1
+Estonia,58.5739,23.5113,Clangula hyemalis,Long-tailed Duck,2015-03-10,30
+Estonia,58.7,23.85,Lyrurus tetrix,Black Grouse,2015-03-10,2
+Estonia,59.2185,23.6123,Dryocopus martius,Black Woodpecker,2015-03-09,1
+Estonia,59.1262,23.6014,Dryocopus martius,Black Woodpecker,2015-03-08,1
+Estonia,58.9821,23.7378,Emberiza citrinella,Yellowhammer,2015-03-08,1
+Estonia,58.9377,23.5571,Bombycilla garrulus,Bohemian Waxwing,2015-03-08,44
+Estonia,58.9491,23.5389,Passer montanus,Eurasian Tree Sparrow,2015-03-08,2
+Estonia,58.9491,23.5389,Chloris chloris,European Greenfinch,2015-03-08,1
+Estonia,58.948,23.5374,Grus grus,Common Crane,2015-03-08,1
+Estonia,58.6,23.8,Lyrurus tetrix,Black Grouse,2015-03-08,16
+Estonia,58.5732,23.3924,Clangula hyemalis,Long-tailed Duck,2015-03-08,5
+Estonia,58.4445,22.5471,Buteo lagopus,Rough-legged Buzzard,2015-03-07,8
+Estonia,58.3328,22.0225,Haliaeetus albicilla,White-tailed Eagle,2015-03-07,2
+Estonia,58.4612,22.0486,Clangula hyemalis,Long-tailed Duck,2015-03-07,90
+Estonia,58.4799,21.9031,Haliaeetus albicilla,White-tailed Eagle,2015-03-07,2
+Estonia,58.5742,23.5096,Clangula hyemalis,Long-tailed Duck,2015-03-06,2
+Estonia,59.4196,24.7935,Larus argentatus,European Herring Gull,2015-03-06,1
+Estonia,59.4391106264,24.7727060292,Larus canus,Mew Gull,2015-03-04,1
+Estonia,59.4391106264,24.7727060292,Larus argentatus,European Herring Gull,2015-03-04,10
+Estonia,59.4391106264,24.7727060292,Corvus cornix,Hooded Crow,2015-03-04,2
+Estonia,59.4391106264,24.7727060292,Coloeus monedula,Western Jackdaw,2015-03-04,100
+Estonia,59.4212,24.7932,Larus argentatus,European Herring Gull,2015-03-05,1
+Estonia,59.4214,24.7921,Corvus cornix,Hooded Crow,2015-03-05,3
+Estonia,59.4196,24.7935,Corvus cornix,Hooded Crow,2015-03-04,4
+Estonia,58.7793100912,23.4622336883,Haliaeetus albicilla,White-tailed Eagle,2010-05-25,2
+Estonia,58.9503601779,23.5435157851,Carpodacus erythrinus,Common Rosefinch,2010-05-24,1
+Estonia,58.7797691049,23.6674690247,Haliaeetus albicilla,White-tailed Eagle,2010-05-24,1
+Estonia,58.7792352384,23.6623191833,Grus grus,Common Crane,2010-05-24,2
+Estonia,58.7660905244,23.4537864456,Sylvia communis,Common Whitethroat,2010-05-24,1
+Estonia,58.9537612621,23.5263925628,Podiceps auritus,Horned Grebe,2010-05-24,1
+Estonia,59.0042287164,23.6111357674,Carpodacus erythrinus,Common Rosefinch,2010-05-23,1
+Estonia,58.93888883918377,23.61722188002158,Hippolais icterina,Icterine Warbler,2010-05-23,1
+Estonia,58.9564760635,23.5137321014,Phalacrocorax carbo,Great Cormorant,2010-05-23,1
+Estonia,58.9527025262,23.5283018582,Podiceps auritus,Horned Grebe,2010-05-23,5
+Estonia,58.9539862391,23.5324861055,Larus marinus,Great Black-backed Gull,2010-05-22,1
+Estonia,58.9539862391,23.5324861055,Sterna hirundo,Common Tern,2010-05-22,1

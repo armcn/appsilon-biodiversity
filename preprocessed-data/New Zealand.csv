@@ -1,0 +1,197 @@
+country,latitude,longitude,scientific_name,vernacular_name,date,count
+New Zealand,-42.4698926076,173.867826462,Daption capense,Cape Petrel,2015-02-18,1
+New Zealand,-42.4698926076,173.867826462,Physeter macrocephalus,Sperm Whale,2015-02-18,3
+New Zealand,-42.4698926076,173.867826462,Thalassarche cauta steadi,White-capped Albatross,2015-02-18,1
+New Zealand,-42.4698926076,173.867826462,Thalassarche melanophris,Black-browed Albatross,2015-02-18,1
+New Zealand,-42.4698926076,173.867826462,Macronectes giganteus,Southern Giant Petrel,2015-02-18,1
+New Zealand,-42.4698926076,173.867826462,Macronectes halli,Northern Giant Petrel,2015-02-18,1
+New Zealand,-42.4698926076,173.867826462,Procellaria westlandica,Westland Petrel,2015-02-18,1
+New Zealand,-45.1115567965,170.976248235,Eudyptula minor,Little Penguin,2015-02-17,15
+New Zealand,-45.7354491883,170.610238016,Phocarctos hookeri,New Zealand Sea Lion,2015-02-16,1
+New Zealand,-45.7354491883,170.610238016,Megadyptes antipodes,Yellow-eyed Penguin,2015-02-16,5
+New Zealand,-45.7750039526,170.728154629,Leucocarbo chalconotus,Otago Shag,2015-02-15,1
+New Zealand,-45.7750039526,170.728154629,Diomedea sanfordi,Northern Royal Albatross,2015-02-15,15
+New Zealand,-46.4464276818,169.809094371,Ardenna grisea,Sooty Shearwater,2015-02-15,50
+New Zealand,-46.4464276818,169.809094371,Arctocephalus forsteri,New Zealand Fur Seal,2015-02-15,10
+New Zealand,-46.4464276818,169.809094371,Platalea regia,Royal Spoonbill,2015-02-15,50
+New Zealand,-44.652981139,167.89948225,Ardea alba modesta,Great Egret ssp modesta,2015-02-14,1
+New Zealand,-44.652981139,167.89948225,Arctocephalus forsteri,New Zealand Fur Seal,2015-02-12,10
+New Zealand,-45.1683129919,167.899503708,Petroica macrocephala macrocephala,South Island Tomtit,2015-02-12,1
+New Zealand,-43.9462740877,169.279189194,Petroica australis australis,South Island Robin ssp australis,2015-02-12,1
+New Zealand,-43.9462740877,169.279189194,Acanthisitta chloris chloris,Rifleman ssp chloris,2015-02-12,1
+New Zealand,-43.8759437021,168.973417282,Phalacrocorax punctatus,Spotted Shag,2015-02-12,1
+New Zealand,-43.8759437021,168.973417282,Cephalorhynchus hectori,Hector's Dolphin,2015-02-12,2
+New Zealand,-43.4420653697,169.970056415,Hirundo neoxena,Welcome Swallow,2015-02-11,10
+New Zealand,-42.1142201183,171.330378284,Sterna striata,White-fronted Tern,2015-02-10,10
+New Zealand,-42.1142201183,171.330378284,Gallirallus australis,Weka,2015-02-10,1
+New Zealand,-40.9806404728,173.037186563,Circus approximans,Swamp Harrier,2015-02-09,1
+New Zealand,-40.9806404728,173.037186563,Anthornis melanura,New Zealand Bellbird,2015-02-09,1
+New Zealand,-41.0358237876,173.023796976,Phalacrocorax punctatus punctatus,Spotted Shag ssp punctatus,2015-02-09,10
+New Zealand,-40.5013291584,172.679902932,Arctocephalus forsteri,New Zealand Fur Seal,2015-02-08,5
+New Zealand,-41.3079643935,174.743160009,Anas chlorotis,Brown Teal,2015-02-05,1
+New Zealand,-40.8444403299,172.792056799,Gallirallus australis australis,Weka ssp australis,2015-02-07,1
+New Zealand,-41.3063697493,174.738294482,Apteryx owenii,Little Spotted Kiwi,2015-02-05,1
+New Zealand,-41.3421155284,174.813409075,Chroicocephalus novaehollandiae scopulinus,Silver Gull ssp scopulinus,2015-02-05,1
+New Zealand,-41.2991479401,174.747019708,Callipepla californica,California Quail,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Sphenodon punctatus,Tuatara,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Anthornis melanura melanura,New Zealand Bellbird ssp melanura,2015-02-04,10
+New Zealand,-41.2991479401,174.747019708,Nestor meridionalis,New Zealand Kaka,2015-02-04,15
+New Zealand,-41.2991479401,174.747019708,Cyanoramphus novaezelandiae novaezelandiae,Red-crowned Parakeet ssp novaezelandiae,2015-02-04,3
+New Zealand,-41.2991479401,174.747019708,Philesturnus rufusater,North Island Saddleback,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Gerygone igata,Grey Gerygone,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Petroica longipes,North Island Robin,2015-02-04,10
+New Zealand,-41.2991479401,174.747019708,Rhipidura fuliginosa placabilis,New Zealand Fantail ssp placabilis,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Porphyrio hochstetteri,South Island Takahe,2015-02-04,1
+New Zealand,-41.2991479401,174.747019708,Aythya novaeseelandiae,New Zealand Scaup,2015-02-04,10
+New Zealand,-41.2991479401,174.747019708,Phalacrocorax varius,Australian Pied Cormorant,2015-02-04,10
+New Zealand,-38.3056873421,176.396602392,Chloris chloris,European Greenfinch,2015-02-02,1
+New Zealand,-38.0536951533,176.390363574,Himantopus leucocephalus,Pied Stilt,2015-02-02,1
+New Zealand,-38.3001282197,176.396033764,Spatula rhynchotis variegata,New Zealand Shoveler,2015-02-02,1
+New Zealand,-38.3001282197,176.396033764,Poliocephalus rufopectus,New Zealand Grebe,2015-02-02,1
+New Zealand,-38.3001282197,176.396033764,Fulica atra australis,Australian Coot,2015-02-02,1
+New Zealand,-38.3001282197,176.396033764,Microcarbo melanoleucos brevirostris,Little Pied Cormorant ssp brevirostris,2015-02-02,1
+New Zealand,-38.3001282197,176.396033764,Aythya novaeseelandiae,New Zealand Scaup,2015-02-02,10
+New Zealand,-38.1864484881,176.232263451,Todiramphus sanctus vagans,Sacred Kingfisher ssp vagans,2015-02-02,1
+New Zealand,-37.8151130486,175.776228915,Poliocephalus rufopectus,New Zealand Grebe,2015-02-02,1
+New Zealand,-37.8151130486,175.776228915,Rhipidura fuliginosa placabilis,New Zealand Fantail ssp placabilis,2015-02-02,1
+New Zealand,-38.1796141171,175.213766322,Sphenodon punctatus,Tuatara,2015-02-01,1
+New Zealand,-38.17961412,175.21376632,Anas gracilis,Grey Teal,2015-02-01,10
+New Zealand,-38.1796141171,175.213766322,Anas nesiotis,Campbell Teal,2015-02-01,1
+New Zealand,-38.17961412,175.21376632,Hymenolaimus malacorhynchos,Blue Duck,2015-02-01,1
+New Zealand,-38.17961412,175.21376632,Tadorna variegata,Paradise Shelduck,2015-02-01,1
+New Zealand,-37.1364216934,175.538063496,Hirundo neoxena,Welcome Swallow,2015-01-31,2
+New Zealand,-37.1364216934,175.538063496,Haematopus finschi,South Island Oystercatcher,2015-01-31,1
+New Zealand,-37.1364216934,175.538063496,Himantopus leucocephalus,Pied Stilt,2015-01-31,1
+New Zealand,-37.1364216934,175.538063496,Vanellus miles novaehollandiae,Masked Lapwing ssp novaehollandiae,2015-01-31,2
+New Zealand,-37.0528364764,175.522846004,Phalacrocorax varius varius,Australian Pied Cormorant ssp varius,2015-01-31,4
+New Zealand,-37.0528364764,175.522846004,Egretta novaehollandiae,White-faced Heron,2015-01-31,1
+New Zealand,-37.0528364764,175.522846004,Haematopus unicolor,Variable Oystercatcher,2015-01-31,1
+New Zealand,-37.0528364764,175.522846004,Cygnus atratus,Black Swan,2015-01-31,20
+New Zealand,-36.8834184279,174.773726463,Passer domesticus,House Sparrow,2015-01-30,1
+New Zealand,-36.842209732,174.428015204,Morus serrator,Australasian Gannet,2015-01-30,1000
+New Zealand,-43.6922,170.103,Falco novaeseelandiae,New Zealand Falcon,2015-02-12,1
+New Zealand,-43.7335,170.0951,Falco novaeseelandiae,New Zealand Falcon,2015-02-11,1
+New Zealand,-43.9088,170.1327,Tadorna variegata,Paradise Shelduck,2015-02-11,20
+New Zealand,-43.9088,170.1327,Charadrius bicinctus bicinctus,Double-banded Plover ssp bicinctus,2015-02-11,4
+New Zealand,-43.9086,170.1327,Himantopus novaezelandiae,Black Stilt,2015-02-11,4
+New Zealand,-45.784,170.7368,Thalassarche bulleri,Buller's Albatross,2015-02-10,2
+New Zealand,-45.784,170.7368,Diomedea sanfordi,Northern Royal Albatross,2015-02-10,1
+New Zealand,-46.448,169.8169,Thalassarche bulleri,Buller's Albatross,2015-02-09,20
+New Zealand,-46.448,169.8169,Leucocarbo stewarti,Foveaux Shag,2015-02-09,20
+New Zealand,-46.4452,169.8047,Megadyptes antipodes,Yellow-eyed Penguin,2015-02-08,4
+New Zealand,-46.6616,169.098,Megadyptes antipodes,Yellow-eyed Penguin,2015-02-08,1
+New Zealand,-46.6628,169.106,Thalassarche bulleri,Buller's Albatross,2015-02-08,1
+New Zealand,-46.5719,168.7963,Charadrius obscurus,New Zealand Plover,2015-02-08,1
+New Zealand,-45.3027,166.8997,Phalacrocorax varius,Australian Pied Cormorant,2015-02-07,10
+New Zealand,-44.6707,167.926,Gallirallus australis,Weka,2015-02-05,1
+New Zealand,-44.6696,167.9235,Ardea alba modesta,Great Egret ssp modesta,2015-02-05,1
+New Zealand,-44.6697,167.9235,Nestor notabilis,Kea,2015-02-05,2
+New Zealand,-44.9126,168.4195,Emberiza citrinella,Yellowhammer,2015-02-03,4
+New Zealand,-44.9126,168.4195,Tadorna variegata,Paradise Shelduck,2015-02-03,10
+New Zealand,-44.9126,168.4195,Aythya novaeseelandiae,New Zealand Scaup,2015-02-03,10
+New Zealand,-44.9126,168.4195,Cygnus atratus,Black Swan,2015-02-03,20
+New Zealand,-44.6958,169.1325,Tachybaptus novaehollandiae,Australasian Grebe,2015-02-02,2
+New Zealand,-43.2224,170.163,Hemiphaga novaeseelandiae,New Zealand Pigeon,2015-01-30,3
+New Zealand,-43.2224,170.163,Tadorna variegata,Paradise Shelduck,2015-01-30,4
+New Zealand,-43.23,170.16,Apteryx rowi,Okarito Kiwi,2015-01-30,2
+New Zealand,-43.2216,170.1656,Hirundo neoxena,Welcome Swallow,2015-01-30,1
+New Zealand,-42.7611,171.3858,Gallirallus australis,Weka,2015-01-30,1
+New Zealand,-42.9336,171.5631,Acanthisitta chloris,Rifleman,2015-01-30,4
+New Zealand,-43.0017,171.5896,Nestor notabilis,Kea,2015-01-29,2
+New Zealand,-42.4085,173.6859,Diomedea antipodensis gibsoni,Gibson's Albatross,2015-01-29,2
+New Zealand,-41.0053,173.0088,Prosthemadera novaeseelandiae,Tui,2015-01-26,3
+New Zealand,-41.0053,173.0088,Rhipidura fuliginosa,New Zealand Fantail,2015-01-26,1
+New Zealand,-41.0053,173.0079,Limosa lapponica,Bar-tailed Godwit,2015-01-26,60
+New Zealand,-41.0053,173.0079,Haematopus unicolor,Variable Oystercatcher,2015-01-26,30
+New Zealand,-41.0052,173.008,Egretta sacra,Pacific Reef Heron,2015-01-26,1
+New Zealand,-41.0052,173.008,Egretta novaehollandiae,White-faced Heron,2015-01-26,3
+New Zealand,-41.2328,174.0936,Phalacrocorax punctatus,Spotted Shag,2015-01-26,1
+New Zealand,-39.2034,175.54,Anthus novaeseelandiae,New Zealand Pipit,2015-01-24,5
+New Zealand,-38.133,176.2646,Phalacrocorax sulcirostris,Little Black Cormorant,2015-01-22,20
+New Zealand,-38.1331,176.2646,Aythya novaeseelandiae,New Zealand Scaup,2015-01-22,10
+New Zealand,-38.1331,176.2646,Poliocephalus rufopectus,New Zealand Grebe,2015-01-22,2
+New Zealand,-38.1349,176.2631,Chroicocephalus bulleri,Black-billed Gull,2015-01-22,100
+New Zealand,-38.1349,176.2631,Zosterops lateralis,Silvereye,2015-01-22,1
+New Zealand,-38.1349,176.2631,Cygnus atratus,Black Swan,2015-01-22,80
+New Zealand,-38.1349,176.2631,Aythya novaeseelandiae,New Zealand Scaup,2015-01-22,50
+New Zealand,-38.1349,176.2631,Microcarbo melanoleucos,Little Pied Cormorant,2015-01-22,3
+New Zealand,-38.1619,176.2745,Petroica macrocephala,Tomtit,2015-01-22,2
+New Zealand,-37.1823,175.3236,Himantopus leucocephalus,Pied Stilt,2015-01-20,30
+New Zealand,-37.1823,175.3236,Calidris canutus,Red Knot,2015-01-20,30
+New Zealand,-37.1823,175.3236,Sterna striata,White-fronted Tern,2015-01-20,50
+New Zealand,-37.1823,175.3236,Hydroprogne caspia,Caspian Tern,2015-01-20,1
+New Zealand,-37.1823,175.3236,Egretta novaehollandiae,White-faced Heron,2015-01-20,60
+New Zealand,-37.1823,175.3236,Haematopus finschi,South Island Oystercatcher,2015-01-20,200
+New Zealand,-36.3895,174.7289,Charadrius obscurus,New Zealand Plover,2015-01-21,4
+New Zealand,-36.1908,175.0496,Nestor meridionalis,New Zealand Kaka,2015-01-21,5
+New Zealand,-35.9219,175.1589,Anous albivitta,Grey Noddy,2015-01-21,15
+New Zealand,-36.1432,174.9473,Procellaria parkinsoni,Black Petrel,2015-01-21,30
+New Zealand,-36.1432,174.9474,Ardenna bulleri,Buller's Shearwater,2015-01-21,4
+New Zealand,-36.1432,174.9473,Fregetta maoriana,New Zealand Storm Petrel,2015-01-21,6
+New Zealand,-36.1433,174.9476,Ardenna carneipes,Flesh-footed Shearwater,2015-01-21,60
+New Zealand,-37.1823,175.3236,Calidris acuminata,Sharp-tailed Sandpiper,2015-01-20,3
+New Zealand,-37.1774,175.3223,Pluvialis fulva,Pacific Golden Plover,2015-01-20,1
+New Zealand,-37.1762,175.3216,Egretta novaehollandiae,White-faced Heron,2015-01-20,3
+New Zealand,-37.1759,175.3217,Anarhynchus frontalis,Wrybill,2015-01-20,150
+New Zealand,-36.8912,175.8168,Rhipidura fuliginosa,New Zealand Fantail,2015-01-19,2
+New Zealand,-36.8857,175.8219,Charadrius obscurus,New Zealand Plover,2015-01-19,5
+New Zealand,-36.6057,174.8878,Egretta sacra sacra,Pacific Reef Heron ssp sacra,2015-01-18,1
+New Zealand,-36.6025,174.8874,Coturnix ypsilophora,Brown Quail,2015-01-18,1
+New Zealand,-36.6024,174.8874,Anthornis melanura,New Zealand Bellbird,2015-01-18,6
+New Zealand,-36.6024,174.8874,Cyanoramphus novaezelandiae,Red-crowned Parakeet,2015-01-18,3
+New Zealand,-36.6021,174.8961,Anas chlorotis,Brown Teal,2015-01-18,2
+New Zealand,-36.6023,174.8967,Prosthemadera novaeseelandiae,Tui,2015-01-18,20
+New Zealand,-36.6023,174.8968,Philesturnus rufusater,North Island Saddleback,2015-01-18,3
+New Zealand,-36.6057,174.897,Porphyrio melanotus melanotus,Australasian Swamphen ssp melanotus,2015-01-18,1
+New Zealand,-36.6058,174.897,Porphyrio hochstetteri,South Island Takahe,2015-01-18,4
+New Zealand,-36.6074,174.8943,Coturnix ypsilophora,Brown Quail,2015-01-18,1
+New Zealand,-36.6067,174.892,Notiomystis cincta,Stitchbird,2015-01-18,1
+New Zealand,-36.6068,174.8916,Philesturnus rufusater,North Island Saddleback,2015-01-18,1
+New Zealand,-36.6059,174.8899,Cyanoramphus novaezelandiae,Red-crowned Parakeet,2015-01-18,1
+New Zealand,-36.6058,174.8901,Anthornis melanura,New Zealand Bellbird,2015-01-18,1
+New Zealand,-36.606,174.8891,Prosthemadera novaeseelandiae,Tui,2015-01-18,2
+New Zealand,-36.6058,174.8878,Hemiphaga novaeseelandiae,New Zealand Pigeon,2015-01-18,2
+New Zealand,-36.6248,174.7883,Haematopus unicolor,Variable Oystercatcher,2015-01-18,4
+New Zealand,-36.838,174.8012,Sterna striata,White-fronted Tern,2015-01-18,5
+New Zealand,-36.7832,174.7767,Chroicocephalus novaehollandiae scopulinus,Silver Gull ssp scopulinus,2015-01-17,20
+New Zealand,-36.7327636243642,175.466481707033,Egretta sacra,Pacific Reef Heron,2015-02-12,1
+New Zealand,-36.73609372,175.48731762,Porphyrio melanotus,Australasian Swamphen,2015-02-12,2
+New Zealand,-36.8928909259328,175.426990162985,Haematopus unicolor,Variable Oystercatcher,2015-02-12,2
+New Zealand,-36.9028042887524,175.431940954375,Haematopus unicolor,Variable Oystercatcher,2015-02-12,2
+New Zealand,-36.9357235075823,175.465684792951,Haematopus unicolor,Variable Oystercatcher,2015-02-12,2
+New Zealand,-36.9510002795281,175.479111104715,Haematopus unicolor,Variable Oystercatcher,2015-02-12,2
+New Zealand,-36.9799034411361,175.500489780733,Haematopus unicolor,Variable Oystercatcher,2015-02-12,4
+New Zealand,-37.17647061,175.56623135,Porphyrio melanotus,Australasian Swamphen,2015-02-13,3
+New Zealand,-37.1757483922,175.321368117,Himantopus leucocephalus,Pied Stilt,2015-02-13,300
+New Zealand,-37.1761335677542,175.321637565831,Anas gracilis,Grey Teal,2015-02-13,54
+New Zealand,-37.176389645435,175.321802084872,Charadrius bicinctus,Double-banded Plover,2015-02-13,60
+New Zealand,-37.1768876604982,175.322024571523,Calidris melanotos,Pectoral Sandpiper,2015-02-13,1
+New Zealand,-37.1771733350543,175.322183328035,Calidris acuminata,Sharp-tailed Sandpiper,2015-02-13,1
+New Zealand,-37.1795181885843,175.323032420033,Anarhynchus frontalis,Wrybill,2015-02-13,18
+New Zealand,-37.1824175209474,175.323612845995,Anarhynchus frontalis,Wrybill,2015-02-13,4
+New Zealand,-37.1824251807757,175.323644124451,Circus approximans,Swamp Harrier,2015-02-13,2
+New Zealand,-37.19,175.32,Limosa lapponica,Bar-tailed Godwit,2015-02-13,750
+New Zealand,-37.1824367070203,175.323634390538,Calidris canutus,Red Knot,2015-02-13,50
+New Zealand,-37.1824401152033,175.32362335089,Hydroprogne caspia,Caspian Tern,2015-02-13,2
+New Zealand,-37.1829970605139,175.321921047812,Anarhynchus frontalis,Wrybill,2015-02-13,1000
+New Zealand,-37.1800684722246,175.323252015916,Sterna striata,White-fronted Tern,2015-02-13,16
+New Zealand,-37.1800736516,175.323242703,Zosterops lateralis lateralis,Silvereye ssp lateralis,2015-02-13,2
+New Zealand,-37.1823413623402,175.323672341782,Platalea regia,Royal Spoonbill,2015-02-13,2
+New Zealand,-37.1823039886823,175.323653741714,Haematopus unicolor,Variable Oystercatcher,2015-02-13,2
+New Zealand,-37.1823059747681,175.323620331488,Egretta novaehollandiae,White-faced Heron,2015-02-13,5
+New Zealand,-39.1346784099682,175.53682893071,Anthus novaeseelandiae,New Zealand Pipit,2015-02-07,1
+New Zealand,-39.1370428157834,175.54828901147,Anthus novaeseelandiae,New Zealand Pipit,2015-02-07,2
+New Zealand,-37.2802955,175.88616663,Porphyrio melanotus,Australasian Swamphen,2015-02-08,4
+New Zealand,-37.15484137,175.83910294,Porphyrio melanotus,Australasian Swamphen,2015-02-09,1
+New Zealand,-36.89035275,175.81652801,Porphyrio melanotus,Australasian Swamphen,2015-02-09,4
+New Zealand,-36.8903527481192,175.816528007745,Egretta sacra,Pacific Reef Heron,2015-02-09,1
+New Zealand,-36.87321688,175.66859636,Porphyrio melanotus,Australasian Swamphen,2015-02-10,4
+New Zealand,-36.6750291247469,175.55040134957,Egretta sacra,Pacific Reef Heron,2015-02-10,3
+New Zealand,-36.5125476235096,175.423427787191,Egretta sacra,Pacific Reef Heron,2015-02-10,1
+New Zealand,-36.5120302513161,175.422923923869,Charadrius obscurus,New Zealand Plover,2015-02-10,2
+New Zealand,-36.51060423,175.42108423,Porphyrio melanotus,Australasian Swamphen,2015-02-10,1
+New Zealand,-36.4957775194584,175.413327850445,Nestor meridionalis,New Zealand Kaka,2015-02-10,2
+New Zealand,-36.5120225187605,175.423060443824,Anas chlorotis,Brown Teal,2015-02-11,2
+New Zealand,-36.4975044405417,175.414536528591,Nestor meridionalis,New Zealand Kaka,2015-02-11,1
+New Zealand,-36.47617272,175.40277967,Porphyrio melanotus,Australasian Swamphen,2015-02-11,2
+New Zealand,-36.5000675711911,175.399799505586,Nestor meridionalis,New Zealand Kaka,2015-02-11,1
