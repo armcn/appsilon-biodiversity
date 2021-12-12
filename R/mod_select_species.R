@@ -91,21 +91,21 @@ gen_select_species_ui <- function(scientific_id,
                                   vernacular_names) {
   tagList(
     div(
-      class = "select-scientific-name",
-      hr(),
+      class = "select-vernacular-name",
       selectInput(
-        inputId = scientific_id,
-        label = "Select a scientific name",
-        choices = c(none_selected(), scientific_names),
+        inputId = vernacular_id,
+        label = "Select a species",
+        choices = c(none_selected(), vernacular_names),
         width = "100%"
       )
     ),
     div(
-      class = "select-vernacular-name",
+      class = "select-scientific-name",
+      hr(),
       selectInput(
-        inputId = vernacular_id,
-        label = "or a vernacular name",
-        choices = c(none_selected(), vernacular_names),
+        inputId = scientific_id,
+        label = "or select by scientific name",
+        choices = c(none_selected(), scientific_names),
         width = "100%"
       )
     )
