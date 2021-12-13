@@ -2,7 +2,7 @@ ui <- fillPage(
   theme = app_theme(),
   includeCSS("www/styles.css"),
   spinner_start(),
-  container(sidebar(), main())
+  app_ui()
 )
 
 server <- function(input, output, session) {

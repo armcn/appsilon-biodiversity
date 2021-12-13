@@ -1,28 +1,5 @@
-app_theme <- function() {
-  bslib::bs_add_variables(
-    theme = bslib::bs_theme(
-      version = 5,
-      bg = dark_grey(),
-      fg = white(),
-      primary = yellow(),
-      base_font = bslib::font_google("Roboto", wght = 300),
-      heading_font = bslib::font_google("Lato"),
-      font_scale = 1.2
-    ),
-    "input-color" = yellow(),
-    "input-border-color" = dark_grey(),
-    "input-border-radius" = "0px"
-  )
-}
-
-spinner_start <- function() {
-  tagList(
-    waiter::use_waiter(),
-    waiter::waiter_show_on_load(
-      html = waiter::spin_3(),
-      color = grey()
-    )
-  )
+app_ui <- function() {
+  container(sidebar(), main())
 }
 
 container <- function(...) {
@@ -54,6 +31,33 @@ main <- function() {
     class = "main",
     mod_map_ui("map"),
     mod_timeseries_ui("timeseries")
+  )
+}
+
+app_theme <- function() {
+  bslib::bs_add_variables(
+    theme = bslib::bs_theme(
+      version = 5,
+      bg = dark_grey(),
+      fg = white(),
+      primary = yellow(),
+      base_font = bslib::font_google("Roboto", wght = 300),
+      heading_font = bslib::font_google("Lato"),
+      font_scale = 1.2
+    ),
+    "input-color" = yellow(),
+    "input-border-color" = dark_grey(),
+    "input-border-radius" = "0px"
+  )
+}
+
+spinner_start <- function() {
+  tagList(
+    waiter::use_waiter(),
+    waiter::waiter_show_on_load(
+      html = waiter::spin_3(),
+      color = grey()
+    )
   )
 }
 

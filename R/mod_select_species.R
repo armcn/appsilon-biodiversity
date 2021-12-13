@@ -10,6 +10,7 @@ mod_select_species_server <- function(id,
                                       country_occurences) {
   moduleServer(id, \(input, output, session) {
     ns <- session$ns
+
     output$select_species_ui <- renderUI({
       req(is_non_empty_tbl(country_occurences()))
       gen_select_species_ui(
@@ -23,20 +24,44 @@ mod_select_species_server <- function(id,
         )
       )
     })
-    vernacular_name <- reactive({
-      req(input$select_scientific_name)
-      scientific_to_vernacular(
-        country_occurences = country_occurences(),
-        scientific_name_val = input$select_scientific_name
+
+    scientific_name <- reactiveVal()
+    vernacular_name <- reactiveVal()
+
+    observeEvent(
+      req(input$select_scientific_name),
+      scientific_name(input$select_scientific_name)
+    )
+    observeEvent(
+      req(input$select_vernacular_name),
+      vernacular_name(input$select_vernacular_name)
+    )
+
+    observeEvent(
+      req(
+        input$select_vernacular_name,
+        country_occurences()
+      ),
+      scientific_name(
+        vernacular_to_scientific(
+          country_occurences = country_occurences(),
+          vernacular_name_val = vernacular_name()
+        )
       )
-    })
-    scientific_name <- reactive({
-      req(input$select_vernacular_name)
-      vernacular_to_scientific(
-        country_occurences = country_occurences(),
-        vernacular_name_val = input$select_vernacular_name
+    )
+    observeEvent(
+      req(
+        input$select_scientific_name,
+        country_occurences()
+      ),
+      vernacular_name(
+        scientific_to_vernacular(
+          country_occurences = country_occurences(),
+          scientific_name_val = input$select_scientific_name
+        )
       )
-    })
+    )
+
     observeEvent(
       req(vernacular_name()),
       updateSelectInput(
@@ -53,6 +78,7 @@ mod_select_species_server <- function(id,
         selected = scientific_name()
       )
     )
+
     return(scientific_name)
   })
 }
