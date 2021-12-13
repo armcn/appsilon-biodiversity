@@ -28,56 +28,50 @@ mod_select_species_server <- function(id,
     scientific_name <- reactiveVal()
     vernacular_name <- reactiveVal()
 
-    observeEvent(
-      req(input$select_scientific_name),
+    observe({
+      req(input$select_scientific_name)
       scientific_name(input$select_scientific_name)
-    )
-    observeEvent(
-      req(input$select_vernacular_name),
+    })
+    observe({
+      req(input$select_vernacular_name)
       vernacular_name(input$select_vernacular_name)
-    )
+    })
 
-    observeEvent(
-      req(
-        input$select_vernacular_name,
-        country_occurences()
-      ),
+    observe({
+      req(vernacular_name(), country_occurences())
       scientific_name(
         vernacular_to_scientific(
           country_occurences = country_occurences(),
           vernacular_name_val = vernacular_name()
         )
       )
-    )
-    observeEvent(
-      req(
-        input$select_scientific_name,
-        country_occurences()
-      ),
+    })
+    observe({
+      req(scientific_name(), country_occurences())
       vernacular_name(
         scientific_to_vernacular(
           country_occurences = country_occurences(),
-          scientific_name_val = input$select_scientific_name
+          scientific_name_val = scientific_name()
         )
       )
-    )
+    })
 
-    observeEvent(
-      req(vernacular_name()),
+    observe({
+      req(vernacular_name())
       updateSelectInput(
         session = session,
         inputId = "select_vernacular_name",
         selected = vernacular_name()
       )
-    )
-    observeEvent(
-      req(scientific_name()),
+    })
+    observe({
+      req(scientific_name())
       updateSelectInput(
         session = session,
         inputId = "select_scientific_name",
         selected = scientific_name()
       )
-    )
+    })
 
     return(scientific_name)
   })
